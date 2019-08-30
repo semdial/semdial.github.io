@@ -9,4 +9,4 @@ staticDir = ["static", "data-export"]
   [[menu.footer]]
     identifier = "issues"
     name = "Report Issues"
-    url = "https://github.com/acl-org/acl-anthology/issues/"
+    url = "https://semdial.github.io/issues/"

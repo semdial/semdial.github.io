@@ -29,7 +29,7 @@
     <genre authority="marcgt">conference publication</genre>
     <identifier type="citekey">semdial-2014-semantics</identifier>
     <location>
-        <url>https://semdial.org/anthology/semdial2014_dialwatt_front_matter.pdf</url>
+        <url>https://semdial.github.io/anthology/semdial2014_dialwatt_front_matter.pdf</url>
     </location>
 </mods>
 </modsCollection>
