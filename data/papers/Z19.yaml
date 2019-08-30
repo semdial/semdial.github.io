@@ -23,7 +23,7 @@ Z19-1000:
     - Front Matter
   title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
     Dialogue - Front Matter
-  url: https://semdial.github.io/anthology/semdial2019_londonlogue_front_matter.pdf
+  url: http://semdial.org/anthology/semdial2019_londonlogue_front_matter.pdf
   year: '2019'
 Z19-2001:
   address: London, United Kingdom
@@ -44,7 +44,7 @@ Z19-2001:
     Perspective'
   title_html: 'Questions and Answers in Suicide Risk Assessment: A Conversation Analytic
     Perspective'
-  url: https://semdial.github.io/anthology/Z19-McCabe_semdial_0001.pdf
+  url: http://semdial.org/anthology/Z19-McCabe_semdial_0001.pdf
   year: '2019'
 Z19-2002:
   address: London, United Kingdom
@@ -63,7 +63,7 @@ Z19-2002:
   publisher: SEMDIAL
   title: Meaning as Coordinated Compositional Classification
   title_html: Meaning as Coordinated Compositional Classification
-  url: https://semdial.github.io/anthology/Z19-Larsson_semdial_0002.pdf
+  url: http://semdial.org/anthology/Z19-Larsson_semdial_0002.pdf
   year: '2019'
 Z19-2003:
   address: London, United Kingdom
@@ -82,7 +82,7 @@ Z19-2003:
   publisher: SEMDIAL
   title: The Science of Laughter
   title_html: The Science of Laughter
-  url: https://semdial.github.io/anthology/Z19-Scott_semdial_0003.pdf
+  url: http://semdial.org/anthology/Z19-Scott_semdial_0003.pdf
   year: '2019'
 Z19-3004:
   address: London, United Kingdom
@@ -105,7 +105,7 @@ Z19-3004:
   publisher: SEMDIAL
   title: Coherence, Symbol Grounding and Interactive Task Learning
   title_html: Coherence, Symbol Grounding and Interactive Task Learning
-  url: https://semdial.github.io/anthology/Z19-Appelgren_semdial_0004.pdf
+  url: http://semdial.org/anthology/Z19-Appelgren_semdial_0004.pdf
   year: '2019'
 Z19-3005:
   address: London, United Kingdom
@@ -138,7 +138,7 @@ Z19-3005:
     Dialogue Game'
   title_html: 'The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual
     Dialogue Game'
-  url: https://semdial.github.io/anthology/Z19-Testoni_semdial_0005.pdf
+  url: http://semdial.org/anthology/Z19-Testoni_semdial_0005.pdf
   year: '2019'
 Z19-3006:
   address: London, United Kingdom
@@ -165,7 +165,7 @@ Z19-3006:
   publisher: SEMDIAL
   title: Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment
   title_html: Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment
-  url: https://semdial.github.io/anthology/Z19-Ilinykh_semdial_0006.pdf
+  url: http://semdial.org/anthology/Z19-Ilinykh_semdial_0006.pdf
   year: '2019'
 Z19-3007:
   address: London, United Kingdom
@@ -188,7 +188,7 @@ Z19-3007:
   publisher: SEMDIAL
   title: 'A Sigh of Positivity: An Annotation Scheme for Sighs in Dialogue'
   title_html: 'A Sigh of Positivity: An Annotation Scheme for Sighs in Dialogue'
-  url: https://semdial.github.io/anthology/Z19-Cash_semdial_0007.pdf
+  url: http://semdial.org/anthology/Z19-Cash_semdial_0007.pdf
   year: '2019'
 Z19-3008:
   address: London, United Kingdom
@@ -211,7 +211,7 @@ Z19-3008:
   publisher: SEMDIAL
   title: 'Posture Shifts in Conversation: An Exploratory Study with Textile Sensors'
   title_html: 'Posture Shifts in Conversation: An Exploratory Study with Textile Sensors'
-  url: https://semdial.github.io/anthology/Z19-Skach_semdial_0008.pdf
+  url: http://semdial.org/anthology/Z19-Skach_semdial_0008.pdf
   year: '2019'
 Z19-3009:
   address: London, United Kingdom
@@ -238,7 +238,7 @@ Z19-3009:
   publisher: SEMDIAL
   title: When Objecting to Presupposed Content Comes Easily
   title_html: When Objecting to Presupposed Content Comes Easily
-  url: https://semdial.github.io/anthology/Z19-Lorson_semdial_0009.pdf
+  url: http://semdial.org/anthology/Z19-Lorson_semdial_0009.pdf
   year: '2019'
 Z19-3010:
   address: London, United Kingdom
@@ -257,7 +257,7 @@ Z19-3010:
   publisher: SEMDIAL
   title: Implicatures in Continuation-based Dynamic Semantics
   title_html: Implicatures in Continuation-based Dynamic Semantics
-  url: https://semdial.github.io/anthology/Z19-Verity_semdial_0010.pdf
+  url: http://semdial.org/anthology/Z19-Verity_semdial_0010.pdf
   year: '2019'
 Z19-3011:
   address: London, United Kingdom
@@ -280,7 +280,7 @@ Z19-3011:
   publisher: SEMDIAL
   title: A Framework for Annotating Co-working Dialogues in Complex Task Settings
   title_html: A Framework for Annotating Co-working Dialogues in Complex Task Settings
-  url: https://semdial.github.io/anthology/Z19-Barker_semdial_0011.pdf
+  url: http://semdial.org/anthology/Z19-Barker_semdial_0011.pdf
   year: '2019'
 Z19-3012:
   address: London, United Kingdom
@@ -307,7 +307,7 @@ Z19-3012:
   publisher: SEMDIAL
   title: Good call! Grounding in a Directory Enquiries Corpus
   title_html: Good call! Grounding in a Directory Enquiries Corpus
-  url: https://semdial.github.io/anthology/Z19-Howes_semdial_0012.pdf
+  url: http://semdial.org/anthology/Z19-Howes_semdial_0012.pdf
   year: '2019'
 Z19-3013:
   address: London, United Kingdom
@@ -336,7 +336,7 @@ Z19-3013:
     \ with Alzheimer\u2019s Patients"
   title_html: "A Corpus Study on Questions, Responses and Misunderstanding Signals\
     \ in Conversations with Alzheimer\u2019s Patients"
-  url: https://semdial.github.io/anthology/Z19-Nasreen_semdial_0013.pdf
+  url: http://semdial.org/anthology/Z19-Nasreen_semdial_0013.pdf
   year: '2019'
 Z19-3014:
   address: London, United Kingdom
@@ -359,7 +359,7 @@ Z19-3014:
   publisher: SEMDIAL
   title: How to Reject What in Dialogue
   title_html: How to Reject What in Dialogue
-  url: "https://semdial.github.io/anthology/Z19-Schl\xF6der_semdial_0014.pdf"
+  url: "http://semdial.org/anthology/Z19-Schl\xF6der_semdial_0014.pdf"
   year: '2019'
 Z19-3015:
   address: London, United Kingdom
@@ -378,7 +378,7 @@ Z19-3015:
   publisher: SEMDIAL
   title: The Status of Main Point Complement Clauses
   title_html: The Status of Main Point Complement Clauses
-  url: https://semdial.github.io/anthology/Z19-Simons_semdial_0015.pdf
+  url: http://semdial.org/anthology/Z19-Simons_semdial_0015.pdf
   year: '2019'
 Z19-3016:
   address: London, United Kingdom
@@ -403,7 +403,7 @@ Z19-3016:
     Topoi'
   title_html: 'How to Put an Elephant in the Title: Modeling Humorous Incongruity
     with Topoi'
-  url: https://semdial.github.io/anthology/Z19-Breitholtz_semdial_0016.pdf
+  url: http://semdial.org/anthology/Z19-Breitholtz_semdial_0016.pdf
   year: '2019'
 Z19-3017:
   address: London, United Kingdom
@@ -426,7 +426,7 @@ Z19-3017:
   publisher: SEMDIAL
   title: 'Co-ordination of Head Nods: Asymmetries between Speakers and Listeners'
   title_html: 'Co-ordination of Head Nods: Asymmetries between Speakers and Listeners'
-  url: https://semdial.github.io/anthology/Z19-Zhang_semdial_0017.pdf
+  url: http://semdial.org/anthology/Z19-Zhang_semdial_0017.pdf
   year: '2019'
 Z19-3018:
   address: London, United Kingdom
@@ -457,7 +457,7 @@ Z19-3018:
   publisher: SEMDIAL
   title: Character Initiative in Dialogue Increases User Engagement and Rapport
   title_html: Character Initiative in Dialogue Increases User Engagement and Rapport
-  url: https://semdial.github.io/anthology/Z19-Sohail_semdial_0018.pdf
+  url: http://semdial.org/anthology/Z19-Sohail_semdial_0018.pdf
   year: '2019'
 Z19-3019:
   address: London, United Kingdom
@@ -494,7 +494,7 @@ Z19-3019:
     Interactions
   title_html: Modeling Intent, Dialog Policies and Response Adaptation for Goal-Oriented
     Interactions
-  url: https://semdial.github.io/anthology/Z19-Sahay_semdial_0019.pdf
+  url: http://semdial.org/anthology/Z19-Sahay_semdial_0019.pdf
   year: '2019'
 Z19-4020:
   address: London, United Kingdom
@@ -530,7 +530,7 @@ Z19-4020:
   title: Analysis of Satisfaction and Topics in Repeated Conversation through Days
   title_html: Analysis of Satisfaction and Topics in Repeated Conversation through
     Days
-  url: https://semdial.github.io/anthology/Z19-Arimoto_semdial_0020.pdf
+  url: http://semdial.org/anthology/Z19-Arimoto_semdial_0020.pdf
   year: '2019'
 Z19-4021:
   address: London, United Kingdom
@@ -553,7 +553,7 @@ Z19-4021:
   publisher: SEMDIAL
   title: On Visual Coreference Chains Resolution
   title_html: On Visual Coreference Chains Resolution
-  url: https://semdial.github.io/anthology/Z19-Dobnik_semdial_0021.pdf
+  url: http://semdial.org/anthology/Z19-Dobnik_semdial_0021.pdf
   year: '2019'
 Z19-4022:
   address: London, United Kingdom
@@ -572,7 +572,7 @@ Z19-4022:
   publisher: SEMDIAL
   title: 'Rezonator: Visualizing Resonance for Coherence in Dialogue'
   title_html: 'Rezonator: Visualizing Resonance for Coherence in Dialogue'
-  url: https://semdial.github.io/anthology/Z19-Dubois_semdial_0022.pdf
+  url: http://semdial.org/anthology/Z19-Dubois_semdial_0022.pdf
   year: '2019'
 Z19-4023:
   address: London, United Kingdom
@@ -595,7 +595,7 @@ Z19-4023:
   publisher: SEMDIAL
   title: Within and Between Speaker Transitions in Multiparty Casual Conversation
   title_html: Within and Between Speaker Transitions in Multiparty Casual Conversation
-  url: https://semdial.github.io/anthology/Z19-Gilmartin_semdial_0023.pdf
+  url: http://semdial.org/anthology/Z19-Gilmartin_semdial_0023.pdf
   year: '2019'
 Z19-4024:
   address: London, United Kingdom
@@ -626,7 +626,7 @@ Z19-4024:
   publisher: SEMDIAL
   title: A Wizard of Oz Data Collection Framework for Internet of Things Dialogues
   title_html: A Wizard of Oz Data Collection Framework for Internet of Things Dialogues
-  url: https://semdial.github.io/anthology/Z19-Gordon_semdial_0024.pdf
+  url: http://semdial.org/anthology/Z19-Gordon_semdial_0024.pdf
   year: '2019'
 Z19-4025:
   address: London, United Kingdom
@@ -674,7 +674,7 @@ Z19-4025:
   title: Normativity, Meaning Plasticity, and the Significance of Vector Space Semantics
   title_html: Normativity, Meaning Plasticity, and the Significance of Vector Space
     Semantics
-  url: https://semdial.github.io/anthology/Z19-Gregoromichelaki_semdial_0025.pdf
+  url: http://semdial.org/anthology/Z19-Gregoromichelaki_semdial_0025.pdf
   year: '2019'
 Z19-4026:
   address: London, United Kingdom
@@ -703,7 +703,7 @@ Z19-4026:
     End-to-end Dialogue Systems
   title_html: Comparing Cross Language Relevance vs Deep Neural Network Approaches
     to Corpus-based End-to-end Dialogue Systems
-  url: https://semdial.github.io/anthology/Z19-Alavi_semdial_0026.pdf
+  url: http://semdial.org/anthology/Z19-Alavi_semdial_0026.pdf
   year: '2019'
 Z19-4027:
   address: London, United Kingdom
@@ -732,7 +732,7 @@ Z19-4027:
     Dialogue System
   title_html: Collection and Analysis of Meaningful Dialogue by Constructing a Movie
     Recommendation Dialogue System
-  url: https://semdial.github.io/anthology/Z19-Kodama_semdial_0027.pdf
+  url: http://semdial.org/anthology/Z19-Kodama_semdial_0027.pdf
   year: '2019'
 Z19-4028:
   address: London, United Kingdom
@@ -757,7 +757,7 @@ Z19-4028:
     Prioritisation Model'
   title_html: 'Towards Finding Appropriate Responses to Multi-Intents - SPM: Sequential
     Prioritisation Model'
-  url: https://semdial.github.io/anthology/Z19-Landesberger_semdial_0028.pdf
+  url: http://semdial.org/anthology/Z19-Landesberger_semdial_0028.pdf
   year: '2019'
 Z19-4029:
   address: London, United Kingdom
@@ -788,7 +788,7 @@ Z19-4029:
   publisher: SEMDIAL
   title: Tense Use in Dialogue
   title_html: Tense Use in Dialogue
-  url: https://semdial.github.io/anthology/Z19-Tellings_semdial_0029.pdf
+  url: http://semdial.org/anthology/Z19-Tellings_semdial_0029.pdf
   year: '2019'
 Z19-4030:
   address: London, United Kingdom
@@ -821,7 +821,7 @@ Z19-4030:
     Conversation
   title_html: Shared Gaze toward the Speaker and Grounding Acts in Native and Second
     Language Conversation
-  url: https://semdial.github.io/anthology/Z19-Umata_semdial_0030.pdf
+  url: http://semdial.org/anthology/Z19-Umata_semdial_0030.pdf
   year: '2019'
 Z19-4031:
   address: London, United Kingdom
@@ -856,7 +856,7 @@ Z19-4031:
   publisher: SEMDIAL
   title: A Taxonomy of Real-Life Questions and Answers in Dialogue
   title_html: A Taxonomy of Real-Life Questions and Answers in Dialogue
-  url: https://semdial.github.io/anthology/Z19-Amblard_semdial_0031.pdf
+  url: http://semdial.org/anthology/Z19-Amblard_semdial_0031.pdf
   year: '2019'
 Z19-4032:
   address: London, United Kingdom
@@ -881,7 +881,7 @@ Z19-4032:
     with Modular Neural Networks'
   title_html: 'Pattern Recognition is Not Enough: Representing Language, Action and
     Perception with Modular Neural Networks'
-  url: https://semdial.github.io/anthology/Z19-Dobnik_semdial_0032.pdf
+  url: http://semdial.org/anthology/Z19-Dobnik_semdial_0032.pdf
   year: '2019'
 Z19-4033:
   address: London, United Kingdom
@@ -908,7 +908,7 @@ Z19-4033:
   publisher: SEMDIAL
   title: Investigating Variable Dependencies in Dialogue States
   title_html: Investigating Variable Dependencies in Dialogue States
-  url: https://semdial.github.io/anthology/Z19-Trinh_semdial_0033.pdf
+  url: http://semdial.org/anthology/Z19-Trinh_semdial_0033.pdf
   year: '2019'
 Z19-4034:
   address: London, United Kingdom
@@ -943,7 +943,7 @@ Z19-4034:
   publisher: SEMDIAL
   title: '"What are you laughing at?" Incremental Processing of Laughter in Interaction'
   title_html: '"What are you laughing at?" Incremental Processing of Laughter in Interaction'
-  url: https://semdial.github.io/anthology/Z19-Eshghi_semdial_0034.pdf
+  url: http://semdial.org/anthology/Z19-Eshghi_semdial_0034.pdf
   year: '2019'
 Z19-4035:
   address: London, United Kingdom
@@ -968,7 +968,7 @@ Z19-4035:
     Implicatures
   title_html: Exploring Lattice-based Models of Relevance in Dialogue for Questions
     and Implicatures
-  url: https://semdial.github.io/anthology/Z19-Hough_semdial_0035.pdf
+  url: http://semdial.org/anthology/Z19-Hough_semdial_0035.pdf
   year: '2019'
 Z19-4036:
   address: London, United Kingdom
@@ -995,7 +995,7 @@ Z19-4036:
   publisher: SEMDIAL
   title: Interactive Visual Grounding with Neural Networks
   title_html: Interactive Visual Grounding with Neural Networks
-  url: "https://semdial.github.io/anthology/Z19-Sant\xEDn_semdial_0036.pdf"
+  url: "http://semdial.org/anthology/Z19-Sant\xEDn_semdial_0036.pdf"
   year: '2019'
 Z19-4037:
   address: London, United Kingdom
@@ -1014,7 +1014,7 @@ Z19-4037:
   publisher: SEMDIAL
   title: Bouletic and Deontic Modality and Social Choice
   title_html: Bouletic and Deontic Modality and Social Choice
-  url: https://semdial.github.io/anthology/Z19-Nishiguchi_semdial_0037.pdf
+  url: http://semdial.org/anthology/Z19-Nishiguchi_semdial_0037.pdf
   year: '2019'
 Z19-4038:
   address: London, United Kingdom
@@ -1041,7 +1041,7 @@ Z19-4038:
   publisher: SEMDIAL
   title: Towards a Formal Model of Word Meaning Negotiation
   title_html: Towards a Formal Model of Word Meaning Negotiation
-  url: https://semdial.github.io/anthology/Z19-Noble_semdial_0038.pdf
+  url: http://semdial.org/anthology/Z19-Noble_semdial_0038.pdf
   year: '2019'
 Z19-4039:
   address: London, United Kingdom
@@ -1074,7 +1074,7 @@ Z19-4039:
     Vehicles: Intent/Slot Recognition Utilizing Audio-Visual Data'
   title_html: 'Towards Multimodal Understanding of Passenger-Vehicle Interactions
     in Autonomous Vehicles: Intent/Slot Recognition Utilizing Audio-Visual Data'
-  url: https://semdial.github.io/anthology/Z19-Okur_semdial_0039.pdf
+  url: http://semdial.org/anthology/Z19-Okur_semdial_0039.pdf
   year: '2019'
 Z19-4040:
   address: London, United Kingdom
@@ -1095,7 +1095,7 @@ Z19-4040:
     Developmental Language Acquisition Approach'
   title_html: 'Pronominal Ambiguity Resolution in Spanish Child Dialogue: A Corpus
     Based Developmental Language Acquisition Approach'
-  url: https://semdial.github.io/anthology/Z19-Robinson_semdial_0040.pdf
+  url: http://semdial.org/anthology/Z19-Robinson_semdial_0040.pdf
   year: '2019'
 Z19-4041:
   address: London, United Kingdom
@@ -1122,5 +1122,5 @@ Z19-4041:
   publisher: SEMDIAL
   title: 'Eye Gaze in Interaction: Towards an Annotation Scheme for Dialogue'
   title_html: 'Eye Gaze in Interaction: Towards an Annotation Scheme for Dialogue'
-  url: https://semdial.github.io/anthology/Z19-Somashekarappa_semdial_0041.pdf
+  url: http://semdial.org/anthology/Z19-Somashekarappa_semdial_0041.pdf
   year: '2019'

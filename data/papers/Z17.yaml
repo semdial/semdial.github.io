@@ -19,7 +19,7 @@ Z17-1000:
     - Front Matter
   title_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics of
     Dialogue - Front Matter
-  url: https://semdial.github.io/anthology/semdial2017_saardial_front_matter.pdf
+  url: http://semdial.org/anthology/semdial2017_saardial_front_matter.pdf
   year: '2017'
 Z17-2001:
   address: "Saarbr\xFCcken, Germany"
@@ -40,7 +40,7 @@ Z17-2001:
     conversational data'
   title_html: 'Challenges for Data-driven Dialogue Systems: finding the goldilocks
     zone conversational data'
-  url: https://semdial.github.io/anthology/Z17-Lemon_semdial_0001.pdf
+  url: http://semdial.org/anthology/Z17-Lemon_semdial_0001.pdf
   year: '2017'
 Z17-2002:
   address: "Saarbr\xFCcken, Germany"
@@ -59,7 +59,7 @@ Z17-2002:
   publisher: SEMDIAL
   title: Empowering Human-Robot Dialogue by Affective Computing Research
   title_html: Empowering Human-Robot Dialogue by Affective Computing Research
-  url: "https://semdial.github.io/anthology/Z17-Andr\xE9_semdial_0002.pdf"
+  url: "http://semdial.org/anthology/Z17-Andr\xE9_semdial_0002.pdf"
   year: '2017'
 Z17-2003:
   address: "Saarbr\xFCcken, Germany"
@@ -78,7 +78,7 @@ Z17-2003:
   publisher: SEMDIAL
   title: Conversational Eliciture in a Bayesian Model of Language Interpretation
   title_html: Conversational Eliciture in a Bayesian Model of Language Interpretation
-  url: https://semdial.github.io/anthology/Z17-Kehler_semdial_0003.pdf
+  url: http://semdial.org/anthology/Z17-Kehler_semdial_0003.pdf
   year: '2017'
 Z17-3004:
   address: "Saarbr\xFCcken, Germany"
@@ -109,7 +109,7 @@ Z17-3004:
   publisher: SEMDIAL
   title: Referring Expressions and Communicative Success in Task-oriented Dialogues
   title_html: Referring Expressions and Communicative Success in Task-oriented Dialogues
-  url: https://semdial.github.io/anthology/Z17-Aina_semdial_0004.pdf
+  url: http://semdial.org/anthology/Z17-Aina_semdial_0004.pdf
   year: '2017'
 Z17-3005:
   address: "Saarbr\xFCcken, Germany"
@@ -132,7 +132,7 @@ Z17-3005:
   publisher: SEMDIAL
   title: (Perceptual) grounding as interaction
   title_html: (Perceptual) grounding as interaction
-  url: https://semdial.github.io/anthology/Z17-Dobnik_semdial_0005.pdf
+  url: http://semdial.org/anthology/Z17-Dobnik_semdial_0005.pdf
   year: '2017'
 Z17-3006:
   address: "Saarbr\xFCcken, Germany"
@@ -155,7 +155,7 @@ Z17-3006:
   publisher: SEMDIAL
   title: Unimodal and Bimodal Backchannels in Conversational English
   title_html: Unimodal and Bimodal Backchannels in Conversational English
-  url: https://semdial.github.io/anthology/Z17-Ferre_semdial_0006.pdf
+  url: http://semdial.org/anthology/Z17-Ferre_semdial_0006.pdf
   year: '2017'
 Z17-3007:
   address: "Saarbr\xFCcken, Germany"
@@ -174,7 +174,7 @@ Z17-3007:
   publisher: SEMDIAL
   title: Meta-conversational since when-questions and the common ground
   title_html: Meta-conversational since when-questions and the common ground
-  url: https://semdial.github.io/anthology/Z17-Kiss_semdial_0007.pdf
+  url: http://semdial.org/anthology/Z17-Kiss_semdial_0007.pdf
   year: '2017'
 Z17-3008:
   address: "Saarbr\xFCcken, Germany"
@@ -223,7 +223,7 @@ Z17-3008:
     Context-Based Annotation and Gesture Identification'
   title_html: 'Multimodal Coreference Resolution for Exploratory Data Visualization
     Dialogue: Context-Based Annotation and Gesture Identification'
-  url: https://semdial.github.io/anthology/Z17-Kumar_semdial_0008.pdf
+  url: http://semdial.org/anthology/Z17-Kumar_semdial_0008.pdf
   year: '2017'
 Z17-3009:
   address: "Saarbr\xFCcken, Germany"
@@ -246,7 +246,7 @@ Z17-3009:
   publisher: SEMDIAL
   title: Dialogue Acts and Updates for Semantic Coordination
   title_html: Dialogue Acts and Updates for Semantic Coordination
-  url: https://semdial.github.io/anthology/Z17-Larsson_semdial_0009.pdf
+  url: http://semdial.org/anthology/Z17-Larsson_semdial_0009.pdf
   year: '2017'
 Z17-3010:
   address: "Saarbr\xFCcken, Germany"
@@ -281,7 +281,7 @@ Z17-3010:
   publisher: SEMDIAL
   title: Resuscitation procedures as multi-party dialogue
   title_html: Resuscitation procedures as multi-party dialogue
-  url: https://semdial.github.io/anthology/Z17-Marzuki_semdial_0010.pdf
+  url: http://semdial.org/anthology/Z17-Marzuki_semdial_0010.pdf
   year: '2017'
 Z17-3011:
   address: "Saarbr\xFCcken, Germany"
@@ -320,7 +320,7 @@ Z17-3011:
   publisher: SEMDIAL
   title: Special Session - Summarizing Dialogic Arguments from Social Media
   title_html: Special Session - Summarizing Dialogic Arguments from Social Media
-  url: https://semdial.github.io/anthology/Z17-Misra_semdial_0011.pdf
+  url: http://semdial.org/anthology/Z17-Misra_semdial_0011.pdf
   year: '2017'
 Z17-3012:
   address: "Saarbr\xFCcken, Germany"
@@ -349,7 +349,7 @@ Z17-3012:
     systems
   title_html: Special Session - Online learning and transfer for user adaptation in
     dialogue systems
-  url: https://semdial.github.io/anthology/Z17-Nicolas_semdial_0012.pdf
+  url: http://semdial.org/anthology/Z17-Nicolas_semdial_0012.pdf
   year: '2017'
 Z17-3013:
   address: "Saarbr\xFCcken, Germany"
@@ -368,7 +368,7 @@ Z17-3013:
   publisher: SEMDIAL
   title: 'Negotiation of discourse moves: right periphery tags'
   title_html: 'Negotiation of discourse moves: right periphery tags'
-  url: https://semdial.github.io/anthology/Z17-Osa_semdial_0013.pdf
+  url: http://semdial.org/anthology/Z17-Osa_semdial_0013.pdf
   year: '2017'
 Z17-3014:
   address: "Saarbr\xFCcken, Germany"
@@ -397,7 +397,7 @@ Z17-3014:
     Networks
   title_html: Dialogue Act Semantic Representation and Classification Using Recurrent
     Neural Networks
-  url: https://semdial.github.io/anthology/Z17-Papalampidi_semdial_0014.pdf
+  url: http://semdial.org/anthology/Z17-Papalampidi_semdial_0014.pdf
   year: '2017'
 Z17-3015:
   address: "Saarbr\xFCcken, Germany"
@@ -424,7 +424,7 @@ Z17-3015:
   publisher: SEMDIAL
   title: Computing Negotiation Update Semantics in Multi-issue Bargaining Dialogues
   title_html: Computing Negotiation Update Semantics in Multi-issue Bargaining Dialogues
-  url: https://semdial.github.io/anthology/Z17-Petukhova_semdial_0015.pdf
+  url: http://semdial.org/anthology/Z17-Petukhova_semdial_0015.pdf
   year: '2017'
 Z17-3016:
   address: "Saarbr\xFCcken, Germany"
@@ -453,7 +453,7 @@ Z17-3016:
     on Incremental Phenomena'
   title_html: 'Challenging Neural Dialogue Models with Natural Data: Memory Networks
     Fail on Incremental Phenomena'
-  url: https://semdial.github.io/anthology/Z17-Shalyminov_semdial_0016.pdf
+  url: http://semdial.org/anthology/Z17-Shalyminov_semdial_0016.pdf
   year: '2017'
 Z17-3017:
   address: "Saarbr\xFCcken, Germany"
@@ -482,7 +482,7 @@ Z17-3017:
     Dialogue Interactions'
   title_html: 'Finding the Zone of Proximal Development: Student-Tutor Second Language
     Dialogue Interactions'
-  url: https://semdial.github.io/anthology/Z17-Sinclair_semdial_0017.pdf
+  url: http://semdial.org/anthology/Z17-Sinclair_semdial_0017.pdf
   year: '2017'
 Z17-3018:
   address: "Saarbr\xFCcken, Germany"
@@ -521,7 +521,7 @@ Z17-3018:
   publisher: SEMDIAL
   title: Designing interactive, automated dialogues for L2 pragmatics learning
   title_html: Designing interactive, automated dialogues for L2 pragmatics learning
-  url: https://semdial.github.io/anthology/Z17-Timpe-Laughlin_semdial_0018.pdf
+  url: http://semdial.org/anthology/Z17-Timpe-Laughlin_semdial_0018.pdf
   year: '2017'
 Z17-4019:
   address: "Saarbr\xFCcken, Germany"
@@ -584,7 +584,7 @@ Z17-4019:
   publisher: SEMDIAL
   title: Argumentative dialogue system based on argumentation structures
   title_html: Argumentative dialogue system based on argumentation structures
-  url: https://semdial.github.io/anthology/Z17-Higashinaka_semdial_0019.pdf
+  url: http://semdial.org/anthology/Z17-Higashinaka_semdial_0019.pdf
   year: '2017'
 Z17-4020:
   address: "Saarbr\xFCcken, Germany"
@@ -619,7 +619,7 @@ Z17-4020:
   publisher: SEMDIAL
   title: Concern-Alignment for Negotiation and Joint Inquiry in Dialogues
   title_html: Concern-Alignment for Negotiation and Joint Inquiry in Dialogues
-  url: https://semdial.github.io/anthology/Z17-Katagiri_semdial_0020.pdf
+  url: http://semdial.org/anthology/Z17-Katagiri_semdial_0020.pdf
   year: '2017'
 Z17-4021:
   address: "Saarbr\xFCcken, Germany"
@@ -644,7 +644,7 @@ Z17-4021:
     Dialogue Modelling
   title_html: Towards Learning Transferable Conversational Skills using Multi-dimensional
     Dialogue Modelling
-  url: https://semdial.github.io/anthology/Z17-Keizer_semdial_0021.pdf
+  url: http://semdial.org/anthology/Z17-Keizer_semdial_0021.pdf
   year: '2017'
 Z17-4022:
   address: "Saarbr\xFCcken, Germany"
@@ -667,7 +667,7 @@ Z17-4022:
   publisher: SEMDIAL
   title: Towards a Dialogue System with Long-term, Episodic Memory
   title_html: Towards a Dialogue System with Long-term, Episodic Memory
-  url: https://semdial.github.io/anthology/Z17-Kondratyuk_semdial_0022.pdf
+  url: http://semdial.org/anthology/Z17-Kondratyuk_semdial_0022.pdf
   year: '2017'
 Z17-4023:
   address: "Saarbr\xFCcken, Germany"
@@ -690,7 +690,7 @@ Z17-4023:
   publisher: SEMDIAL
   title: Incremental Processing for Neural Conversation Models
   title_html: Incremental Processing for Neural Conversation Models
-  url: https://semdial.github.io/anthology/Z17-Lison_semdial_0023.pdf
+  url: http://semdial.org/anthology/Z17-Lison_semdial_0023.pdf
   year: '2017'
 Z17-4024:
   address: "Saarbr\xFCcken, Germany"
@@ -729,7 +729,7 @@ Z17-4024:
   publisher: SEMDIAL
   title: An Intelligent Digital Assistant for Clinical Operating Rooms
   title_html: An Intelligent Digital Assistant for Clinical Operating Rooms
-  url: https://semdial.github.io/anthology/Z17-Miehle_semdial_0024.pdf
+  url: http://semdial.org/anthology/Z17-Miehle_semdial_0024.pdf
   year: '2017'
 Z17-4025:
   address: "Saarbr\xFCcken, Germany"
@@ -754,7 +754,7 @@ Z17-4025:
     Different Task Types
   title_html: Syntactic Priming by Japanese EFL Learners in Dialogue Contexts based
     on Different Task Types
-  url: https://semdial.github.io/anthology/Z17-Morishita_semdial_0025.pdf
+  url: http://semdial.org/anthology/Z17-Morishita_semdial_0025.pdf
   year: '2017'
 Z17-4026:
   address: "Saarbr\xFCcken, Germany"
@@ -799,7 +799,7 @@ Z17-4026:
     Spoken Dialog System
   title_html: Towards End-to-End Modeling of Spoken Language Understanding in a Cloud-based
     Spoken Dialog System
-  url: https://semdial.github.io/anthology/Z17-Qian_semdial_0026.pdf
+  url: http://semdial.org/anthology/Z17-Qian_semdial_0026.pdf
   year: '2017'
 Z17-4027:
   address: "Saarbr\xFCcken, Germany"
@@ -822,7 +822,7 @@ Z17-4027:
   publisher: SEMDIAL
   title: A Phonetic Adaptation Module for Spoken Dialogue Systems
   title_html: A Phonetic Adaptation Module for Spoken Dialogue Systems
-  url: https://semdial.github.io/anthology/Z17-Raveh_semdial_0027.pdf
+  url: http://semdial.org/anthology/Z17-Raveh_semdial_0027.pdf
   year: '2017'
 Z17-4028:
   address: "Saarbr\xFCcken, Germany"
@@ -859,7 +859,7 @@ Z17-4028:
     Language Understanding Implementations
   title_html: An Open Source Standards-Compliant Voice Browser with Support for Multiple
     Language Understanding Implementations
-  url: https://semdial.github.io/anthology/Z17-Schnelle-Walka_semdial_0028.pdf
+  url: http://semdial.org/anthology/Z17-Schnelle-Walka_semdial_0028.pdf
   year: '2017'
 Z17-4029:
   address: "Saarbr\xFCcken, Germany"
@@ -882,7 +882,7 @@ Z17-4029:
   publisher: SEMDIAL
   title: Training Argumentation Skills with Argumentative Writing Support
   title_html: Training Argumentation Skills with Argumentative Writing Support
-  url: https://semdial.github.io/anthology/Z17-Stab_semdial_0029.pdf
+  url: http://semdial.org/anthology/Z17-Stab_semdial_0029.pdf
   year: '2017'
 Z17-4030:
   address: "Saarbr\xFCcken, Germany"
@@ -909,7 +909,7 @@ Z17-4030:
   publisher: SEMDIAL
   title: Incremental Joint Modelling for Dialogue State Tracking
   title_html: Incremental Joint Modelling for Dialogue State Tracking
-  url: https://semdial.github.io/anthology/Z17-Trinh_semdial_0030.pdf
+  url: http://semdial.org/anthology/Z17-Trinh_semdial_0030.pdf
   year: '2017'
 Z17-4031:
   address: "Saarbr\xFCcken, Germany"
@@ -936,7 +936,7 @@ Z17-4031:
   publisher: SEMDIAL
   title: Factor Analysis of Gazing Activities in Native and Second Language Conversations
   title_html: Factor Analysis of Gazing Activities in Native and Second Language Conversations
-  url: https://semdial.github.io/anthology/Z17-Umata_semdial_0031.pdf
+  url: http://semdial.org/anthology/Z17-Umata_semdial_0031.pdf
   year: '2017'
 Z17-4032:
   address: "Saarbr\xFCcken, Germany"
@@ -963,7 +963,7 @@ Z17-4032:
   publisher: SEMDIAL
   title: Towards a Natural User Interface for Small Groups in Real Museum Environments
   title_html: Towards a Natural User Interface for Small Groups in Real Museum Environments
-  url: https://semdial.github.io/anthology/Z17-Valentino_semdial_0032.pdf
+  url: http://semdial.org/anthology/Z17-Valentino_semdial_0032.pdf
   year: '2017'
 Z17-4033:
   address: "Saarbr\xFCcken, Germany"
@@ -984,5 +984,5 @@ Z17-4033:
     and pragmatics'
   title_html: 'A Transferentive Connective Marker -etaka in Korean: perspectives of
     grammaticalilzation and pragmatics'
-  url: https://semdial.github.io/anthology/Z17-Yae_semdial_0033.pdf
+  url: http://semdial.org/anthology/Z17-Yae_semdial_0033.pdf
   year: '2017'
