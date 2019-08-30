@@ -19,7 +19,7 @@ Z15-1000:
     - Front Matter
   title_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics of
     Dialogue - Front Matter
-  url: https://bakuzen.github.io/anthology/semdial2015_godial_front_matter.pdf
+  url: https://semdial.org/anthology/semdial2015_godial_front_matter.pdf
   year: '2015'
 Z15-2001:
   address: Gothenburg, Sweden
@@ -38,7 +38,7 @@ Z15-2001:
   publisher: SEMDIAL
   title: How weird is that? Predictability and cognitive difficulty in dialogue
   title_html: How weird is that? Predictability and cognitive difficulty in dialogue
-  url: https://bakuzen.github.io/anthology/Z15-Bard_semdial_0001.pdf
+  url: https://semdial.org/anthology/Z15-Bard_semdial_0001.pdf
   year: '2015'
 Z15-2002:
   address: Gothenburg, Sweden
@@ -57,7 +57,7 @@ Z15-2002:
   publisher: SEMDIAL
   title: 'How to connect an utterance: Strategies for cohesive dialogues in Scandinavian'
   title_html: 'How to connect an utterance: Strategies for cohesive dialogues in Scandinavian'
-  url: https://bakuzen.github.io/anthology/Z15-Engdahl_semdial_0002.pdf
+  url: https://semdial.org/anthology/Z15-Engdahl_semdial_0002.pdf
   year: '2015'
 Z15-2003:
   address: Gothenburg, Sweden
@@ -76,7 +76,7 @@ Z15-2003:
   publisher: SEMDIAL
   title: Semantics and sarcasm in online dialogue
   title_html: Semantics and sarcasm in online dialogue
-  url: https://bakuzen.github.io/anthology/Z15-Walker_semdial_0003.pdf
+  url: https://semdial.org/anthology/Z15-Walker_semdial_0003.pdf
   year: '2015'
 Z15-3004:
   address: Gothenburg, Sweden
@@ -103,7 +103,7 @@ Z15-3004:
   publisher: SEMDIAL
   title: 'Taking a stance: A corpus study of reported speech'
   title_html: 'Taking a stance: A corpus study of reported speech'
-  url: https://bakuzen.github.io/anthology/Z15-Concannon_semdial_0004.pdf
+  url: https://semdial.org/anthology/Z15-Concannon_semdial_0004.pdf
   year: '2015'
 Z15-3005:
   address: Gothenburg, Sweden
@@ -130,7 +130,7 @@ Z15-3005:
   publisher: SEMDIAL
   title: 'Shifting opinions: Experiments on agreement and disagreement in dialogue'
   title_html: 'Shifting opinions: Experiments on agreement and disagreement in dialogue'
-  url: https://bakuzen.github.io/anthology/Z15-Concannon_semdial_0005.pdf
+  url: https://semdial.org/anthology/Z15-Concannon_semdial_0005.pdf
   year: '2015'
 Z15-3006:
   address: Gothenburg, Sweden
@@ -157,7 +157,7 @@ Z15-3006:
   publisher: SEMDIAL
   title: 'Changing perspective: Local alignment of reference frames in dialogue'
   title_html: 'Changing perspective: Local alignment of reference frames in dialogue'
-  url: https://bakuzen.github.io/anthology/Z15-Dobnik_semdial_0006.pdf
+  url: https://semdial.org/anthology/Z15-Dobnik_semdial_0006.pdf
   year: '2015'
 Z15-3007:
   address: Gothenburg, Sweden
@@ -182,7 +182,7 @@ Z15-3007:
     good, the bad and the ugly"'
   title_html: 'Learning non-cooperative dialogue policies to beat opponent models:
     "The good, the bad and the ugly"'
-  url: https://bakuzen.github.io/anthology/Z15-Efstathiou_semdial_0007.pdf
+  url: https://semdial.org/anthology/Z15-Efstathiou_semdial_0007.pdf
   year: '2015'
 Z15-3008:
   address: Gothenburg, Sweden
@@ -201,7 +201,7 @@ Z15-3008:
   publisher: SEMDIAL
   title: Exploring age-related conversational interaction
   title_html: Exploring age-related conversational interaction
-  url: https://bakuzen.github.io/anthology/Z15-Geertzen_semdial_0008.pdf
+  url: https://semdial.org/anthology/Z15-Geertzen_semdial_0008.pdf
   year: '2015'
 Z15-3009:
   address: Gothenburg, Sweden
@@ -228,7 +228,7 @@ Z15-3009:
   publisher: SEMDIAL
   title: Engagement driven topic selection for an information-giving agent
   title_html: Engagement driven topic selection for an information-giving agent
-  url: https://bakuzen.github.io/anthology/Z15-Glas_semdial_0009.pdf
+  url: https://semdial.org/anthology/Z15-Glas_semdial_0009.pdf
   year: '2015'
 Z15-3010:
   address: Gothenburg, Sweden
@@ -257,7 +257,7 @@ Z15-3010:
     scene descriptions
   title_html: Building and applying perceptually-grounded representations of multimodal
     scene descriptions
-  url: https://bakuzen.github.io/anthology/Z15-Han_semdial_0010.pdf
+  url: https://semdial.org/anthology/Z15-Han_semdial_0010.pdf
   year: '2015'
 Z15-3011:
   address: Gothenburg, Sweden
@@ -292,7 +292,7 @@ Z15-3011:
   publisher: SEMDIAL
   title: User information extraction for personalized dialogue systems
   title_html: User information extraction for personalized dialogue systems
-  url: https://bakuzen.github.io/anthology/Z15-Hirano_semdial_0011.pdf
+  url: https://semdial.org/anthology/Z15-Hirano_semdial_0011.pdf
   year: '2015'
 Z15-3012:
   address: Gothenburg, Sweden
@@ -311,7 +311,7 @@ Z15-3012:
   publisher: SEMDIAL
   title: How far can we deviate from the performative formula?
   title_html: How far can we deviate from the performative formula?
-  url: https://bakuzen.github.io/anthology/Z15-Hofmann_semdial_0012.pdf
+  url: https://semdial.org/anthology/Z15-Hofmann_semdial_0012.pdf
   year: '2015'
 Z15-3013:
   address: Gothenburg, Sweden
@@ -344,7 +344,7 @@ Z15-3013:
     the information state'
   title_html: 'Timing and grounding in motor skill coaching interaction: Consequences
     for the information state'
-  url: https://bakuzen.github.io/anthology/Z15-Hough_semdial_0013.pdf
+  url: https://semdial.org/anthology/Z15-Hough_semdial_0013.pdf
   year: '2015'
 Z15-3014:
   address: Gothenburg, Sweden
@@ -379,7 +379,7 @@ Z15-3014:
   publisher: SEMDIAL
   title: Defining the right frontier in multi-party dialogue
   title_html: Defining the right frontier in multi-party dialogue
-  url: https://bakuzen.github.io/anthology/Z15-Hunter_semdial_0014.pdf
+  url: https://semdial.org/anthology/Z15-Hunter_semdial_0014.pdf
   year: '2015'
 Z15-3015:
   address: Gothenburg, Sweden
@@ -406,7 +406,7 @@ Z15-3015:
   publisher: SEMDIAL
   title: Learning trade negotiation policies in strategic conversation
   title_html: Learning trade negotiation policies in strategic conversation
-  url: https://bakuzen.github.io/anthology/Z15-Keizer_semdial_0015.pdf
+  url: https://semdial.org/anthology/Z15-Keizer_semdial_0015.pdf
   year: '2015'
 Z15-3016:
   address: Gothenburg, Sweden
@@ -435,7 +435,7 @@ Z15-3016:
     crowd-sourced dialogue data collection
   title_html: Reducing the cost of dialogue system training and evaluation with online,
     crowd-sourced dialogue data collection
-  url: https://bakuzen.github.io/anthology/Z15-Manuvinakurike_semdial_0016.pdf
+  url: https://semdial.org/anthology/Z15-Manuvinakurike_semdial_0016.pdf
   year: '2015'
 Z15-3017:
   address: Gothenburg, Sweden
@@ -456,7 +456,7 @@ Z15-3017:
     processes'
   title_html: 'When hands talk to mouth: Gesture and speech as autonomous communicating
     processes'
-  url: https://bakuzen.github.io/anthology/Z15-Rieser_semdial_0017.pdf
+  url: https://semdial.org/anthology/Z15-Rieser_semdial_0017.pdf
   year: '2015'
 Z15-3018:
   address: Gothenburg, Sweden
@@ -479,7 +479,7 @@ Z15-3018:
   publisher: SEMDIAL
   title: Interpreting English pitch contours in context
   title_html: Interpreting English pitch contours in context
-  url: "https://bakuzen.github.io/anthology/Z15-Schl\xF6der_semdial_0018.pdf"
+  url: "https://semdial.org/anthology/Z15-Schl\xF6der_semdial_0018.pdf"
   year: '2015'
 Z15-3019:
   address: Gothenburg, Sweden
@@ -508,7 +508,7 @@ Z15-3019:
     depends on object category'
   title_html: '"Hand me the yellow stapler" or "hand me the yellow dress": Colour
     overspecification depends on object category'
-  url: https://bakuzen.github.io/anthology/Z15-Tarenskeen_semdial_0019.pdf
+  url: https://semdial.org/anthology/Z15-Tarenskeen_semdial_0019.pdf
   year: '2015'
 Z15-3020:
   address: Gothenburg, Sweden
@@ -539,7 +539,7 @@ Z15-3020:
   publisher: SEMDIAL
   title: Editing Phrases
   title_html: Editing Phrases
-  url: https://bakuzen.github.io/anthology/Z15-Tian_semdial_0020.pdf
+  url: https://semdial.org/anthology/Z15-Tian_semdial_0020.pdf
   year: '2015'
 Z15-4021:
   address: Gothenburg, Sweden
@@ -568,7 +568,7 @@ Z15-4021:
     responses in conversation'
   title_html: 'The significance of silence: Long gaps attenuate the preference for
     `yes'' responses in conversation'
-  url: "https://bakuzen.github.io/anthology/Z15-B\xF6gels_semdial_0021.pdf"
+  url: "https://semdial.org/anthology/Z15-B\xF6gels_semdial_0021.pdf"
   year: '2015'
 Z15-4022:
   address: Gothenburg, Sweden
@@ -591,7 +591,7 @@ Z15-4022:
   publisher: SEMDIAL
   title: 'Within reason: Categorising enthymematic reasoning in the balloon task'
   title_html: 'Within reason: Categorising enthymematic reasoning in the balloon task'
-  url: https://bakuzen.github.io/anthology/Z15-Breitholtz_semdial_0022.pdf
+  url: https://semdial.org/anthology/Z15-Breitholtz_semdial_0022.pdf
   year: '2015'
 Z15-4023:
   address: Gothenburg, Sweden
@@ -620,7 +620,7 @@ Z15-4023:
     do it better'
   title_html: 'Context influence vs efficiency in establishing conventions: Communities
     do it better'
-  url: https://bakuzen.github.io/anthology/Z15-Castillo_semdial_0023.pdf
+  url: https://semdial.org/anthology/Z15-Castillo_semdial_0023.pdf
   year: '2015'
 Z15-4024:
   address: Gothenburg, Sweden
@@ -653,7 +653,7 @@ Z15-4024:
     \ experimental study on German ja and nein"
   title_html: "Are response particles not well understood? Yes/No, they aren\u2019\
     t! An experimental study on German ja and nein"
-  url: https://bakuzen.github.io/anthology/Z15-Claus_semdial_0024.pdf
+  url: https://semdial.org/anthology/Z15-Claus_semdial_0024.pdf
   year: '2015'
 Z15-4025:
   address: Gothenburg, Sweden
@@ -676,7 +676,7 @@ Z15-4025:
   publisher: SEMDIAL
   title: 'KILLE: Learning objects and spatial relations with kinect'
   title_html: 'KILLE: Learning objects and spatial relations with kinect'
-  url: https://bakuzen.github.io/anthology/Z15-Graaf_semdial_0025.pdf
+  url: https://semdial.org/anthology/Z15-Graaf_semdial_0025.pdf
   year: '2015'
 Z15-4026:
   address: Gothenburg, Sweden
@@ -719,7 +719,7 @@ Z15-4026:
   publisher: SEMDIAL
   title: Demonstrating the dialogue system of the intelligent coaching space
   title_html: Demonstrating the dialogue system of the intelligent coaching space
-  url: https://bakuzen.github.io/anthology/Z15-Kok_semdial_0026.pdf
+  url: https://semdial.org/anthology/Z15-Kok_semdial_0026.pdf
   year: '2015'
 Z15-4027:
   address: Gothenburg, Sweden
@@ -744,7 +744,7 @@ Z15-4027:
     interpretation'
   title_html: 'Non-sentential utterances in dialogue: Experiments in classification
     and interpretation'
-  url: https://bakuzen.github.io/anthology/Z15-Dragone_semdial_0027.pdf
+  url: https://semdial.org/anthology/Z15-Dragone_semdial_0027.pdf
   year: '2015'
 Z15-4028:
   address: Gothenburg, Sweden
@@ -763,7 +763,7 @@ Z15-4028:
   publisher: SEMDIAL
   title: 'DS-TTR: An incremental, semantic, contextual parser for dialogue'
   title_html: 'DS-TTR: An incremental, semantic, contextual parser for dialogue'
-  url: https://bakuzen.github.io/anthology/Z15-Eshghi_semdial_0028.pdf
+  url: https://semdial.org/anthology/Z15-Eshghi_semdial_0028.pdf
   year: '2015'
 Z15-4029:
   address: Gothenburg, Sweden
@@ -787,7 +787,7 @@ Z15-4029:
   title: What could interaction mean in natural language and how could it be useful?
   title_html: What could interaction mean in natural language and how could it be
     useful?
-  url: "https://bakuzen.github.io/anthology/Z15-Fouquer\xE9_semdial_0029.pdf"
+  url: "https://semdial.org/anthology/Z15-Fouquer\xE9_semdial_0029.pdf"
   year: '2015'
 Z15-4030:
   address: Gothenburg, Sweden
@@ -811,7 +811,7 @@ Z15-4030:
   title: Towards the automatic extraction of corrective feedback in child-adult dialogue
   title_html: Towards the automatic extraction of corrective feedback in child-adult
     dialogue
-  url: https://bakuzen.github.io/anthology/Z15-Hiller_semdial_0030.pdf
+  url: https://semdial.org/anthology/Z15-Hiller_semdial_0030.pdf
   year: '2015'
 Z15-4031:
   address: Gothenburg, Sweden
@@ -836,7 +836,7 @@ Z15-4031:
     setting
   title_html: Spot the difference - A dialog system to explore turn-taking in an interactive
     setting
-  url: https://bakuzen.github.io/anthology/Z15-Hjalmarsson_semdial_0031.pdf
+  url: https://semdial.org/anthology/Z15-Hjalmarsson_semdial_0031.pdf
   year: '2015'
 Z15-4032:
   address: Gothenburg, Sweden
@@ -863,7 +863,7 @@ Z15-4032:
   publisher: SEMDIAL
   title: Eye blinking as addressee feedback in face-to-face conversation
   title_html: Eye blinking as addressee feedback in face-to-face conversation
-  url: "https://bakuzen.github.io/anthology/Z15-H\xF6mke_semdial_0032.pdf"
+  url: "https://semdial.org/anthology/Z15-H\xF6mke_semdial_0032.pdf"
   year: '2015'
 Z15-4033:
   address: Gothenburg, Sweden
@@ -900,7 +900,7 @@ Z15-4033:
     tutoring'
   title_html: 'A reusable interaction management module: Use case for empathic robotic
     tutoring'
-  url: https://bakuzen.github.io/anthology/Z15-Janarthanam_semdial_0033.pdf
+  url: https://semdial.org/anthology/Z15-Janarthanam_semdial_0033.pdf
   year: '2015'
 Z15-4034:
   address: Gothenburg, Sweden
@@ -923,7 +923,7 @@ Z15-4034:
   publisher: SEMDIAL
   title: Concern-alignment analysis of consultation dialogues
   title_html: Concern-alignment analysis of consultation dialogues
-  url: https://bakuzen.github.io/anthology/Z15-Katagiri_semdial_0034.pdf
+  url: https://semdial.org/anthology/Z15-Katagiri_semdial_0034.pdf
   year: '2015'
 Z15-4035:
   address: Gothenburg, Sweden
@@ -950,7 +950,7 @@ Z15-4035:
   publisher: SEMDIAL
   title: The interactive building of names
   title_html: The interactive building of names
-  url: https://bakuzen.github.io/anthology/Z15-Kempson_semdial_0035.pdf
+  url: https://semdial.org/anthology/Z15-Kempson_semdial_0035.pdf
   year: '2015'
 Z15-4036:
   address: Gothenburg, Sweden
@@ -979,7 +979,7 @@ Z15-4036:
     of reference resolution
   title_html: Playing a real-world reference game using the words-as-classifiers model
     of reference resolution
-  url: https://bakuzen.github.io/anthology/Z15-Kennington_semdial_0036.pdf
+  url: https://semdial.org/anthology/Z15-Kennington_semdial_0036.pdf
   year: '2015'
 Z15-4037:
   address: Gothenburg, Sweden
@@ -998,7 +998,7 @@ Z15-4037:
   publisher: SEMDIAL
   title: The state of the art in dealing with user answers
   title_html: The state of the art in dealing with user answers
-  url: https://bakuzen.github.io/anthology/Z15-Larsson_semdial_0037.pdf
+  url: https://semdial.org/anthology/Z15-Larsson_semdial_0037.pdf
   year: '2015'
 Z15-4038:
   address: Gothenburg, Sweden
@@ -1019,7 +1019,7 @@ Z15-4038:
     \ data \u2013 Implications for contrastive analysis"
   title_html: "Polish event-linking devices of przed `before' cluster in conversational\
     \ data \u2013 Implications for contrastive analysis"
-  url: https://bakuzen.github.io/anthology/Z15-Lewandowska-Tomaszczyk_semdial_0038.pdf
+  url: https://semdial.org/anthology/Z15-Lewandowska-Tomaszczyk_semdial_0038.pdf
   year: '2015'
 Z15-4039:
   address: Gothenburg, Sweden
@@ -1042,7 +1042,7 @@ Z15-4039:
   publisher: SEMDIAL
   title: Developing spoken dialogue systems with the OpenDial toolkit
   title_html: Developing spoken dialogue systems with the OpenDial toolkit
-  url: https://bakuzen.github.io/anthology/Z15-Lison_semdial_0039.pdf
+  url: https://semdial.org/anthology/Z15-Lison_semdial_0039.pdf
   year: '2015'
 Z15-4040:
   address: Gothenburg, Sweden
@@ -1061,7 +1061,7 @@ Z15-4040:
   publisher: SEMDIAL
   title: CCG for discourse
   title_html: CCG for discourse
-  url: https://bakuzen.github.io/anthology/Z15-Nishiguchi_semdial_0040.pdf
+  url: https://semdial.org/anthology/Z15-Nishiguchi_semdial_0040.pdf
   year: '2015'
 Z15-4041:
   address: Gothenburg, Sweden
@@ -1092,7 +1092,7 @@ Z15-4041:
   publisher: SEMDIAL
   title: Experimenting with grounding strategies in dialogue
   title_html: Experimenting with grounding strategies in dialogue
-  url: https://bakuzen.github.io/anthology/Z15-Petukhova_semdial_0041.pdf
+  url: https://semdial.org/anthology/Z15-Petukhova_semdial_0041.pdf
   year: '2015'
 Z15-4042:
   address: Gothenburg, Sweden
@@ -1115,7 +1115,7 @@ Z15-4042:
   publisher: SEMDIAL
   title: Self awareness for better common ground
   title_html: Self awareness for better common ground
-  url: "https://bakuzen.github.io/anthology/Z15-Pl\xE1tek_semdial_0042.pdf"
+  url: "https://semdial.org/anthology/Z15-Pl\xE1tek_semdial_0042.pdf"
   year: '2015'
 Z15-4043:
   address: Gothenburg, Sweden
@@ -1148,7 +1148,7 @@ Z15-4043:
     care applications
   title_html: Adaptive dialogue management in the KRISTINA project for multicultural
     health care applications
-  url: https://bakuzen.github.io/anthology/Z15-Pragst_semdial_0043.pdf
+  url: https://semdial.org/anthology/Z15-Pragst_semdial_0043.pdf
   year: '2015'
 Z15-4044:
   address: Gothenburg, Sweden
@@ -1183,7 +1183,7 @@ Z15-4044:
   publisher: SEMDIAL
   title: 'Toward a scary comparative corpus: The Werewolf spoken corpus'
   title_html: 'Toward a scary comparative corpus: The Werewolf spoken corpus'
-  url: "https://bakuzen.github.io/anthology/Z15-Pr\xE9vot_semdial_0044.pdf"
+  url: "https://semdial.org/anthology/Z15-Pr\xE9vot_semdial_0044.pdf"
   year: '2015'
 Z15-4045:
   address: Gothenburg, Sweden
@@ -1212,7 +1212,7 @@ Z15-4045:
     human-robot interaction
   title_html: Towards a layered framework for embodied language processing in situated
     human-robot interaction
-  url: https://bakuzen.github.io/anthology/Z15-Priesters_semdial_0045.pdf
+  url: https://semdial.org/anthology/Z15-Priesters_semdial_0045.pdf
   year: '2015'
 Z15-4046:
   address: Gothenburg, Sweden
@@ -1231,7 +1231,7 @@ Z15-4046:
   publisher: SEMDIAL
   title: How questions and answers cohere
   title_html: How questions and answers cohere
-  url: https://bakuzen.github.io/anthology/Z15-Simons_semdial_0046.pdf
+  url: https://semdial.org/anthology/Z15-Simons_semdial_0046.pdf
   year: '2015'
 Z15-4047:
   address: Gothenburg, Sweden
@@ -1254,7 +1254,7 @@ Z15-4047:
   publisher: SEMDIAL
   title: Modeling referential coordination as a particle swarm optimization task
   title_html: Modeling referential coordination as a particle swarm optimization task
-  url: https://bakuzen.github.io/anthology/Z15-Stevens_semdial_0047.pdf
+  url: https://semdial.org/anthology/Z15-Stevens_semdial_0047.pdf
   year: '2015'
 Z15-4048:
   address: Gothenburg, Sweden
@@ -1279,7 +1279,7 @@ Z15-4048:
     report'
   title_html: 'Distribution of non-sentential utterances across BNC genres: A preliminary
     report'
-  url: https://bakuzen.github.io/anthology/Z15-Wong_semdial_0048.pdf
+  url: https://semdial.org/anthology/Z15-Wong_semdial_0048.pdf
   year: '2015'
 Z15-4049:
   address: Gothenburg, Sweden
@@ -1306,5 +1306,5 @@ Z15-4049:
   publisher: SEMDIAL
   title: Interactive learning through dialogue for multimodal language grounding
   title_html: Interactive learning through dialogue for multimodal language grounding
-  url: https://bakuzen.github.io/anthology/Z15-Yu_semdial_0049.pdf
+  url: https://semdial.org/anthology/Z15-Yu_semdial_0049.pdf
   year: '2015'
