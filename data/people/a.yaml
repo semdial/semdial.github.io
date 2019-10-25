@@ -30,6 +30,41 @@ a-kumaran:
   papers: []
   slug: a-kumaran
   venues: []
+a-lascarides:
+  coauthors:
+  - - n-asher
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: A.
+  full: A. Lascarides
+  last: Lascarides
+  papers:
+  - Z12-4019
+  slug: a-lascarides
+  venues:
+  - - SEMDIAL
+    - 1
 aarno-lehtola:
   coauthors: []
   first: Aarno
@@ -785,18 +820,38 @@ alex-klassmann:
 alex-lascarides:
   coauthors:
   - - markus-guhe
+    - 3
+  - - nicholas-asher
+    - 3
+  - - stergos-afantenos
+    - 2
+  - - verena-rieser
     - 2
   - - jeremy-perret
     - 1
-  - - stergos-afantenos
+  - - farah-benamara
     - 1
-  - - nicholas-asher
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - simon-keizer
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
     - 1
   - - mattias-appelgren
     - 1
   - - kevin-o-connor
-    - 1
-  - - verena-rieser
     - 1
   - - julian-j-schloder
     - 1
@@ -809,10 +864,12 @@ alex-lascarides:
   - Z14-3011
   - Z14-3019
   - Z13-3012
+  - Z12-3007
+  - Z12-4029
   slug: alex-lascarides
   venues:
   - - SEMDIAL
-    - 5
+    - 7
 alex-liu:
   coauthors: []
   first: Alex
@@ -992,6 +1049,21 @@ alexandra-lorson:
   papers:
   - Z19-3009
   slug: alexandra-lorson
+  venues:
+  - - SEMDIAL
+    - 1
+alexandra-vorobyova:
+  coauthors:
+  - - luciana-benotti
+    - 1
+  - - frederic-landragin
+    - 1
+  first: Alexandra
+  full: Alexandra Vorobyova
+  last: Vorobyova
+  papers:
+  - Z12-4038
+  slug: alexandra-vorobyova
   venues:
   - - SEMDIAL
     - 1
@@ -1477,6 +1549,8 @@ amparo-elizabeth-cano-basave:
   venues: []
 amy-isard:
   coauthors:
+  - - colin-matheson
+    - 1
   - - raquel-fernandez
     - 1
   first: Amy
@@ -1484,10 +1558,11 @@ amy-isard:
   last: Isard
   papers:
   - Z13-1000
+  - Z12-4027
   slug: amy-isard
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 amy-weinberg:
   coauthors: []
   first: Amy
@@ -1545,13 +1620,44 @@ ana-gonzalez-ledesma:
   slug: ana-gonzalez-ledesma
   venues: []
 anais-cadilhac:
-  coauthors: []
+  coauthors:
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
+    - 1
   first: Anais
   full: Anais Cadilhac
   last: Cadilhac
-  papers: []
+  papers:
+  - Z12-4029
   slug: anais-cadilhac
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 anais-lefeuvre:
   coauthors: []
   first: "Ana\xEFs"
@@ -2392,13 +2498,24 @@ annalu-waller:
   slug: annalu-waller
   venues: []
 anne-abeille:
-  coauthors: []
+  coauthors:
+  - - benoit-crabbe1
+    - 1
+  - - daniele-godard-jean-marie-marandin
+    - 1
   first: Anne
   full: "Anne Abeill\xE9"
   last: "Abeill\xE9"
-  papers: []
+  papers:
+  - Z12-3011
   slug: anne-abeille
-  venues: []
+  variant_entries:
+  - first: Anne
+    full: Anne Abeille
+    last: Abeille
+  venues:
+  - - SEMDIAL
+    - 1
 anne-de-roeck:
   coauthors: []
   first: Anne

@@ -6,6 +6,41 @@ v-k-mittal:
   papers: []
   slug: v-k-mittal
   venues: []
+v-rieser:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: V.
+  full: V. Rieser
+  last: Rieser
+  papers:
+  - Z12-4019
+  slug: v-rieser
+  venues:
+  - - SEMDIAL
+    - 1
 vaijayanthi-m-sarma:
   coauthors: []
   first: Vaijayanthi M.
@@ -138,7 +173,11 @@ vera-lucia-strube-de-lima:
 verena-rieser:
   coauthors:
   - - oliver-lemon
-    - 4
+    - 6
+  - - simon-keizer
+    - 3
+  - - philippe-muller
+    - 2
   - - nina-dethlefs
     - 2
   - - heriberto-cuayahuitl
@@ -149,8 +188,10 @@ verena-rieser:
     - 2
   - - zhuoran-wang
     - 2
-  - - philippe-muller
-    - 1
+  - - markus-guhe
+    - 2
+  - - alex-lascarides
+    - 2
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -193,11 +234,23 @@ verena-rieser:
     - 1
   - - ioannis-efstathiou
     - 1
-  - - simon-keizer
+  - - stergos-afantenos
     - 1
-  - - markus-guhe
+  - - nicholas-asher
     - 1
-  - - alex-lascarides
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
     - 1
   - - kevin-o-connor
     - 1
@@ -215,10 +268,12 @@ verena-rieser:
   - Z14-4050
   - Z14-4052
   - Z13-3012
+  - Z12-4029
+  - Z12-4033
   slug: verena-rieser
   venues:
   - - SEMDIAL
-    - 10
+    - 12
 verginica-barbu-mititelu:
   coauthors: []
   first: Verginica
@@ -636,6 +691,45 @@ vladimir-petkevic:
   papers: []
   slug: vladimir-petkevic
   venues: []
+vladimir-popescu:
+  coauthors:
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
+    - 1
+  first: Vladimir
+  full: Vladimir Popescu
+  last: Popescu
+  papers:
+  - Z12-4029
+  slug: vladimir-popescu
+  venues:
+  - - SEMDIAL
+    - 1
 vladislav-kubon:
   coauthors: []
   first: Vladislav

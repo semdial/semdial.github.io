@@ -1,3 +1,38 @@
+c-degremont:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  first: C.
+  full: C. Degremont
+  last: Degremont
+  papers:
+  - Z12-4019
+  slug: c-degremont
+  venues:
+  - - SEMDIAL
+    - 1
 c-h-lee:
   coauthors: []
   first: C. H.
@@ -548,6 +583,45 @@ cedric-degremont:
   papers:
   - Z14-3021
   slug: cedric-degremont
+  venues:
+  - - SEMDIAL
+    - 1
+cedric-degremont1:
+  coauthors:
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
+    - 1
+  first: Cedric
+  full: Cedric Degremont
+  last: Degremont
+  papers:
+  - Z12-4029
+  slug: cedric-degremont1
   venues:
   - - SEMDIAL
     - 1
@@ -1187,6 +1261,8 @@ chris-cummins:
   coauthors:
   - - hannah-rohde
     - 2
+  - - j-p-de-ruiter
+    - 1
   - - alexandra-lorson
     - 1
   - - ernisa-marzuki
@@ -1202,10 +1278,11 @@ chris-cummins:
   - Z19-3009
   - Z17-3010
   - Z14-3008
+  - Z12-4021
   slug: chris-cummins
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 chris-dyer:
   coauthors: []
   first: Chris
@@ -1457,11 +1534,17 @@ christine-howes:
     - 4
   - - matthew-purver
     - 2
+  - - rose-mccabe
+    - 2
   - - staffan-larsson
     - 2
   - - arash-eshghi
     - 2
-  - - rose-mccabe
+  - - matt-purver
+    - 1
+  - - patrick-healey
+    - 1
+  - - mary-lavelle
     - 1
   - - casey-kennington
     - 1
@@ -1502,10 +1585,11 @@ christine-howes:
   - Z15-3006
   - Z15-4022
   - Z14-3013
+  - Z12-4024
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 9
+    - 10
 christine-piatko:
   coauthors: []
   first: Christine
@@ -1956,6 +2040,19 @@ claire-francois:
   papers: []
   slug: claire-francois
   venues: []
+claire-gardent:
+  coauthors:
+  - - lina-m-rojas-barahona
+    - 1
+  first: Claire
+  full: Claire Gardent
+  last: Gardent
+  papers:
+  - Z12-4034
+  slug: claire-gardent
+  venues:
+  - - SEMDIAL
+    - 1
 claire-grover:
   coauthors: []
   first: Claire
@@ -2111,6 +2208,24 @@ colin-de-la-higuera:
   papers: []
   slug: colin-de-la-higuera
   venues: []
+colin-matheson:
+  coauthors:
+  - - matthew-henderson
+    - 1
+  - - jon-oberlander
+    - 1
+  - - amy-isard
+    - 1
+  first: Colin
+  full: Colin Matheson
+  last: Matheson
+  papers:
+  - Z12-3017
+  - Z12-4027
+  slug: colin-matheson
+  venues:
+  - - SEMDIAL
+    - 2
 colin-w-wightman:
   coauthors: []
   first: Colin W.

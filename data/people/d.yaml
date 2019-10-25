@@ -556,6 +556,21 @@ daniele-godard:
   papers: []
   slug: daniele-godard
   venues: []
+daniele-godard-jean-marie-marandin:
+  coauthors:
+  - - anne-abeille
+    - 1
+  - - benoit-crabbe1
+    - 1
+  first: Daniele Godard Jean-Marie
+  full: Daniele Godard Jean-Marie Marandin
+  last: Marandin
+  papers:
+  - Z12-3011
+  slug: daniele-godard-jean-marie-marandin
+  venues:
+  - - SEMDIAL
+    - 1
 daniele-moro:
   coauthors:
   - - casey-kennington

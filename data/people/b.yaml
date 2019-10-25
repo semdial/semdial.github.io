@@ -295,6 +295,25 @@ beatrice-oshika:
   papers: []
   slug: beatrice-oshika
   venues: []
+beatrice-priego-valverde:
+  coauthors:
+  - - helen-k-y-chen
+    - 1
+  - - laurent-prevot
+    - 1
+  - - roxane-bertrand
+    - 1
+  - - philippe-blache
+    - 1
+  first: Beatrice
+  full: Beatrice Priego-Valverde
+  last: Priego-Valverde
+  papers:
+  - Z12-4020
+  slug: beatrice-priego-valverde
+  venues:
+  - - SEMDIAL
+    - 1
 beatrice-santorini:
   coauthors: []
   first: Beatrice
@@ -415,6 +434,21 @@ benoit-crabbe:
   papers: []
   slug: benoit-crabbe
   venues: []
+benoit-crabbe1:
+  coauthors:
+  - - anne-abeille
+    - 1
+  - - daniele-godard-jean-marie-marandin
+    - 1
+  first: Benoit
+  full: Benoit Crabbe
+  last: Crabbe
+  papers:
+  - Z12-3011
+  slug: benoit-crabbe1
+  venues:
+  - - SEMDIAL
+    - 1
 benoit-favre:
   coauthors:
   - - laurent-prevot
@@ -995,6 +1029,25 @@ boyan-onyshkevych:
   papers: []
   slug: boyan-onyshkevych
   venues: []
+brady-clark:
+  coauthors:
+  - - hannah-rohde
+    - 1
+  - - scott-seyfarth
+    - 1
+  - - gerhard-jaeger
+    - 1
+  - - stefan-kaufmann
+    - 1
+  first: Brady
+  full: Brady Clark
+  last: Clark
+  papers:
+  - Z12-3015
+  slug: brady-clark
+  venues:
+  - - SEMDIAL
+    - 1
 brage-ekroll-jahren:
   coauthors: []
   first: Brage Ekroll
@@ -1147,6 +1200,12 @@ brigitte-roudaud:
   venues: []
 britta-wrede:
   coauthors:
+  - - julia-peltason
+    - 1
+  - - hannes-rieser
+    - 1
+  - - sven-wachsmuth
+    - 1
   - - anna-lisa-vollmer
     - 1
   - - manuel-muhlig
@@ -1160,10 +1219,11 @@ britta-wrede:
   last: Wrede
   papers:
   - Z13-4046
+  - Z12-4035
   slug: britta-wrede
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 britta-zeller:
   coauthors: []
   first: Britta

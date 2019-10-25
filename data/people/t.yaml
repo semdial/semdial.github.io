@@ -175,13 +175,22 @@ takehito-utsuro:
   slug: takehito-utsuro
   venues: []
 takenobu-tokunaga:
-  coauthors: []
+  coauthors:
+  - - kotaro-funakoshi
+    - 1
+  - - mikio-nakano
+    - 1
+  - - ryu-iida
+    - 1
   first: Takenobu
   full: Takenobu Tokunaga
   last: Tokunaga
-  papers: []
+  papers:
+  - Z12-4023
   slug: takenobu-tokunaga
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 takeo-honda:
   coauthors: []
   first: Takeo
@@ -908,6 +917,19 @@ tina-kluwer:
   papers: []
   slug: tina-kluwer
   venues: []
+tina-kluwer1:
+  coauthors:
+  - - hanz-uszkoreit
+    - 1
+  first: Tina
+  full: Tina Kluwer
+  last: Kluwer
+  papers:
+  - Z12-4030
+  slug: tina-kluwer1
+  venues:
+  - - SEMDIAL
+    - 1
 ting-han:
   coauthors:
   - - david-schlangen
@@ -955,6 +977,29 @@ ting-hui-kao:
   papers: []
   slug: ting-hui-kao
   venues: []
+tiphaine-dalmas:
+  coauthors:
+  - - srinivasan-janarthanam
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - phil-bartie
+    - 1
+  - - william-mackaness
+    - 1
+  - - jana-gotze
+    - 1
+  first: Tiphaine
+  full: Tiphaine Dalmas
+  last: Dalmas
+  papers:
+  - Z12-4025
+  slug: tiphaine-dalmas
+  venues:
+  - - SEMDIAL
+    - 1
 toan-q-nguyen:
   coauthors: []
   first: Toan Q.

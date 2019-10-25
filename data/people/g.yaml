@@ -240,9 +240,16 @@ geert-jan-m-kruijff:
   first: Geert-Jan M.
   full: Geert-Jan M. Kruijff
   last: Kruijff
-  papers: []
+  papers:
+  - Z12-2003
   slug: geert-jan-m-kruijff
-  venues: []
+  variant_entries:
+  - first: Geert-Jan
+    full: Geert-Jan Kruijff
+    last: Kruijff
+  venues:
+  - - SEMDIAL
+    - 1
 gema-ramirez-sanchez:
   coauthors: []
   first: Gema
@@ -523,6 +530,25 @@ gerhard-b-van-huyssteen:
   papers: []
   slug: gerhard-b-van-huyssteen
   venues: []
+gerhard-jaeger:
+  coauthors:
+  - - hannah-rohde
+    - 1
+  - - scott-seyfarth
+    - 1
+  - - brady-clark
+    - 1
+  - - stefan-kaufmann
+    - 1
+  first: Gerhard
+  full: Gerhard Jaeger
+  last: Jaeger
+  papers:
+  - Z12-3015
+  slug: gerhard-jaeger
+  venues:
+  - - SEMDIAL
+    - 1
 gerhard-paass:
   coauthors: []
   first: Gerhard
@@ -1169,10 +1195,11 @@ gregory-mills:
   last: Mills
   papers:
   - Z13-4040
+  - Z12-4032
   slug: gregory-mills
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 gregory-roulet-guiot:
   coauthors: []
   first: "Gr\xE9gory"

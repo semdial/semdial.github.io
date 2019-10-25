@@ -1,3 +1,108 @@
+s-afantenos:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: S.
+  full: S. Afantenos
+  last: Afantenos
+  papers:
+  - Z12-4019
+  slug: s-afantenos
+  venues:
+  - - SEMDIAL
+    - 1
+s-keizer:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - c-degremont
+    - 1
+  first: S.
+  full: S. Keizer
+  last: Keizer
+  papers:
+  - Z12-4019
+  slug: s-keizer
+  venues:
+  - - SEMDIAL
+    - 1
+s-paul:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: S.
+  full: S. Paul
+  last: Paul
+  papers:
+  - Z12-4019
+  slug: s-paul
+  venues:
+  - - SEMDIAL
+    - 1
 s-r-k-branavan:
   coauthors: []
   first: S.R.K.
@@ -222,6 +327,23 @@ samir-abdelrahman:
   papers: []
   slug: samir-abdelrahman
   venues: []
+samira-ben-dbabis:
+  coauthors:
+  - - fatma-mallek
+    - 1
+  - - hatem-ghorbel
+    - 1
+  - - lamia-hadrich-belguith
+    - 1
+  first: Samira Ben
+  full: Samira Ben Dbabis
+  last: Dbabis
+  papers:
+  - Z12-3013
+  slug: samira-ben-dbabis
+  venues:
+  - - SEMDIAL
+    - 1
 samira-ellouze:
   coauthors: []
   first: Samira
@@ -418,6 +540,21 @@ sara-moradlou:
   venues:
   - - SEMDIAL
     - 2
+sarah-brown-schmidt:
+  coauthors:
+  - - jonathan-ginzburg
+    - 1
+  - - staffan-larsson
+    - 1
+  first: Sarah
+  full: Sarah Brown-Schmidt
+  last: Brown-Schmidt
+  papers:
+  - Z12-1000
+  slug: sarah-brown-schmidt
+  venues:
+  - - SEMDIAL
+    - 1
 sarah-e-schwarm:
   coauthors: []
   first: Sarah E.
@@ -583,6 +720,19 @@ satoshi-shirai:
   papers: []
   slug: satoshi-shirai
   venues: []
+saul-albert:
+  coauthors:
+  - - patrick-healey
+    - 1
+  first: Saul
+  full: Saul Albert
+  last: Albert
+  papers:
+  - Z12-3006
+  slug: saul-albert
+  venues:
+  - - SEMDIAL
+    - 1
 saul-leon:
   coauthors: []
   first: Saul
@@ -643,6 +793,25 @@ scott-s-l-piao:
   papers: []
   slug: scott-s-l-piao
   venues: []
+scott-seyfarth:
+  coauthors:
+  - - hannah-rohde
+    - 1
+  - - brady-clark
+    - 1
+  - - gerhard-jaeger
+    - 1
+  - - stefan-kaufmann
+    - 1
+  first: Scott
+  full: Scott Seyfarth
+  last: Seyfarth
+  papers:
+  - Z12-3015
+  slug: scott-seyfarth
+  venues:
+  - - SEMDIAL
+    - 1
 se-young-park:
   coauthors: []
   first: Se-Young
@@ -1739,10 +1908,11 @@ simon-dobnik:
   - Z14-3009
   - Z14-4037
   - Z13-4025
+  - Z12-4022
   slug: simon-dobnik
   venues:
   - - SEMDIAL
-    - 11
+    - 12
 simon-dobrisek:
   coauthors: []
   first: Simon
@@ -1753,11 +1923,35 @@ simon-dobrisek:
   venues: []
 simon-keizer:
   coauthors:
+  - - oliver-lemon
+    - 3
   - - verena-rieser
+    - 3
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - alex-lascarides
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
     - 1
   - - heriberto-cuayahuitl1
-    - 1
-  - - oliver-lemon
     - 1
   first: Simon
   full: Simon Keizer
@@ -1765,10 +1959,12 @@ simon-keizer:
   papers:
   - Z17-4021
   - Z15-3015
+  - Z12-4029
+  - Z12-4033
   slug: simon-keizer
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 simon-suster:
   coauthors: []
   first: Simon
@@ -2083,17 +2279,44 @@ soumil-mandal:
 soumya-paul:
   coauthors:
   - - nicholas-asher
-    - 2
+    - 3
+  - - stergos-afantenos
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
+    - 1
   first: Soumya
   full: Soumya Paul
   last: Paul
   papers:
   - Z16-3010
   - Z13-4022
+  - Z12-4029
   slug: soumya-paul
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 soumya-sankar-ghosh:
   coauthors: []
   first: Soumya Sankar
@@ -2201,6 +2424,8 @@ srinivasan-janarthanam:
     - 2
   - - ruth-aylett
     - 2
+  - - oliver-lemon
+    - 2
   - - mei-yii-lim
     - 1
   - - verena-rieser
@@ -2209,7 +2434,15 @@ srinivasan-janarthanam:
     - 1
   - - yanchao-yu
     - 1
-  - - oliver-lemon
+  - - xingkun-liu
+    - 1
+  - - phil-bartie
+    - 1
+  - - william-mackaness
+    - 1
+  - - tiphaine-dalmas
+    - 1
+  - - jana-gotze
     - 1
   first: Srinivasan
   full: Srinivasan Janarthanam
@@ -2218,10 +2451,11 @@ srinivasan-janarthanam:
   - Z15-4033
   - Z14-4040
   - Z14-4046
+  - Z12-4025
   slug: srinivasan-janarthanam
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 ssu-cheng-chen:
   coauthors: []
   first: Ssu-Cheng
@@ -2234,11 +2468,15 @@ staffan-larsson:
   coauthors:
   - - sebastian-berlin
     - 2
+  - - jonathan-ginzburg
+    - 2
   - - christine-howes
     - 2
   - - fredrik-kronlid
     - 2
   - - simon-dobnik
+    - 1
+  - - sarah-brown-schmidt
     - 1
   - - anastasia-bondarenko
     - 1
@@ -2247,8 +2485,6 @@ staffan-larsson:
   - - asad-sayeed
     - 1
   - - vladislav-maraev
-    - 1
-  - - jonathan-ginzburg
     - 1
   - - ye-tian
     - 1
@@ -2274,10 +2510,11 @@ staffan-larsson:
   - Z14-4037
   - Z13-4035
   - Z13-4037
+  - Z12-1000
   slug: staffan-larsson
   venues:
   - - SEMDIAL
-    - 10
+    - 11
 stan-c-kwasny:
   coauthors: []
   first: Stan C.
@@ -2358,6 +2595,25 @@ stefan-darmoni:
   papers: []
   slug: stefan-darmoni
   venues: []
+stefan-kaufmann:
+  coauthors:
+  - - hannah-rohde
+    - 1
+  - - scott-seyfarth
+    - 1
+  - - brady-clark
+    - 1
+  - - gerhard-jaeger
+    - 1
+  first: Stefan
+  full: Stefan Kaufmann
+  last: Kaufmann
+  papers:
+  - Z12-3015
+  slug: stefan-kaufmann
+  venues:
+  - - SEMDIAL
+    - 1
 stefan-kopp:
   coauthors:
   - - iwan-de-kok
@@ -2367,7 +2623,7 @@ stefan-kopp:
   - - david-schlangen
     - 3
   - - hendrik-buschmeier
-    - 1
+    - 2
   - - cornelia-frank
     - 1
   - - felix-hulsmann
@@ -2389,10 +2645,11 @@ stefan-kopp:
   - Z15-4045
   - Z14-3006
   - Z14-4023
+  - Z12-3005
   slug: stefan-kopp
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 stefan-l-frank:
   coauthors: []
   first: Stefan L.
@@ -2637,6 +2894,25 @@ stephane-meystre:
   papers: []
   slug: stephane-meystre
   venues: []
+stephane-rauzy:
+  coauthors:
+  - - klim-peshkov
+    - 1
+  - - laurent-prevot
+    - 1
+  - - roxane-bertrand
+    - 1
+  - - philippe-blache
+    - 1
+  first: Stephane
+  full: Stephane Rauzy
+  last: Rauzy
+  papers:
+  - Z12-4036
+  slug: stephane-rauzy
+  venues:
+  - - SEMDIAL
+    - 1
 stephanie-lukin:
   coauthors: []
   first: Stephanie
@@ -2711,7 +2987,7 @@ stephen-c-levinson1:
     - 1
   - - susan-c-bobb
     - 1
-  - - eve-v-clark
+  - - eve-v-clark1
     - 1
   - - merideth-gattis
     - 1
@@ -2807,11 +3083,35 @@ stergios-chatzikyriakidis:
     - 1
 stergos-afantenos:
   coauthors:
+  - - nicholas-asher
+    - 3
   - - jeremy-perret
     - 2
-  - - nicholas-asher
-    - 2
   - - alex-lascarides
+    - 2
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
     - 1
   - - julie-hunter
     - 1
@@ -2823,10 +3123,11 @@ stergos-afantenos:
   papers:
   - Z15-3014
   - Z14-3019
+  - Z12-4029
   slug: stergos-afantenos
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 steve-austin:
   coauthors: []
   first: Steve
@@ -3185,7 +3486,7 @@ susan-c-bobb:
     - 1
   - - elma-hilbrink
     - 1
-  - - eve-v-clark
+  - - eve-v-clark1
     - 1
   - - merideth-gattis
     - 1
@@ -3370,6 +3671,23 @@ sven-buechel:
   papers: []
   slug: sven-buechel
   venues: []
+sven-wachsmuth:
+  coauthors:
+  - - julia-peltason
+    - 1
+  - - hannes-rieser
+    - 1
+  - - britta-wrede
+    - 1
+  first: Sven
+  full: Sven Wachsmuth
+  last: Wachsmuth
+  papers:
+  - Z12-4035
+  slug: sven-wachsmuth
+  venues:
+  - - SEMDIAL
+    - 1
 sylvain-delisle:
   coauthors: []
   first: Sylvain

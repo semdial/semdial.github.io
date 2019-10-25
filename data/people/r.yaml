@@ -1780,10 +1780,16 @@ rose-catherine-kanjirathinkal:
 rose-mccabe:
   coauthors:
   - - christine-howes
-    - 1
+    - 2
   - - julian-hough
     - 1
   - - matthew-purver
+    - 1
+  - - matt-purver
+    - 1
+  - - patrick-healey
+    - 1
+  - - mary-lavelle
     - 1
   first: Rose
   full: Rose McCabe
@@ -1791,10 +1797,11 @@ rose-mccabe:
   papers:
   - Z19-2001
   - Z14-3013
+  - Z12-4024
   slug: rose-mccabe
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 rosemary-stevenson:
   coauthors: []
   first: Rosemary
@@ -1819,6 +1826,30 @@ roxana-girju:
   papers: []
   slug: roxana-girju
   venues: []
+roxane-bertrand:
+  coauthors:
+  - - laurent-prevot
+    - 2
+  - - philippe-blache
+    - 2
+  - - helen-k-y-chen
+    - 1
+  - - beatrice-priego-valverde
+    - 1
+  - - klim-peshkov
+    - 1
+  - - stephane-rauzy
+    - 1
+  first: Roxane
+  full: Roxane Bertrand
+  last: Bertrand
+  papers:
+  - Z12-4020
+  - Z12-4036
+  slug: roxane-bertrand
+  venues:
+  - - SEMDIAL
+    - 2
 roxane-segers:
   coauthors: []
   first: Roxane
@@ -2047,6 +2078,23 @@ ryochi-sugimura:
   papers: []
   slug: ryochi-sugimura
   venues: []
+ryu-iida:
+  coauthors:
+  - - kotaro-funakoshi
+    - 1
+  - - mikio-nakano
+    - 1
+  - - takenobu-tokunaga
+    - 1
+  first: Ryu
+  full: Ryu Iida
+  last: Iida
+  papers:
+  - Z12-4023
+  slug: ryu-iida
+  venues:
+  - - SEMDIAL
+    - 1
 ryuichiro-higashinaka:
   coauthors:
   - - tsunehiro-arimoto

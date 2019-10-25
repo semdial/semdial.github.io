@@ -22,6 +22,19 @@ j-noel:
   papers: []
   slug: j-noel
   venues: []
+j-p-de-ruiter:
+  coauthors:
+  - - chris-cummins
+    - 1
+  first: J. P.
+  full: J. P. de Ruiter
+  last: de Ruiter
+  papers:
+  - Z12-4021
+  slug: j-p-de-ruiter
+  venues:
+  - - SEMDIAL
+    - 1
 j-peterson:
   coauthors: []
   first: J.
@@ -526,6 +539,18 @@ jan-vystrcil:
   venues: []
 jana-gotze:
   coauthors:
+  - - srinivasan-janarthanam
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - phil-bartie
+    - 1
+  - - william-mackaness
+    - 1
+  - - tiphaine-dalmas
+    - 1
   - - johan-boye
     - 1
   - - morgan-fredriksson
@@ -537,10 +562,15 @@ jana-gotze:
   last: "G\xF6tze"
   papers:
   - Z13-4029
+  - Z12-4025
   slug: jana-gotze
+  variant_entries:
+  - first: Jana
+    full: Jana Goetze
+    last: Goetze
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 jana-kravalova:
   coauthors: []
   first: Jana
@@ -2368,6 +2398,10 @@ jon-m-slack:
   venues: []
 jon-oberlander:
   coauthors:
+  - - matthew-henderson
+    - 1
+  - - colin-matheson
+    - 1
   - - arabella-sinclair
     - 1
   - - dragan-gasevic
@@ -2378,10 +2412,11 @@ jon-oberlander:
   papers:
   - Z17-3017
   - Z14-2002
+  - Z12-3017
   slug: jon-oberlander
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 jon-patrick:
   coauthors: []
   first: Jon
@@ -2445,6 +2480,19 @@ jon-stevens1:
   venues:
   - - SEMDIAL
     - 1
+jonas-kuhn:
+  coauthors:
+  - - kyle-richardson
+    - 1
+  first: Jonas
+  full: Jonas Kuhn
+  last: Kuhn
+  papers:
+  - Z12-4037
+  slug: jonas-kuhn
+  venues:
+  - - SEMDIAL
+    - 1
 jonathan-allen:
   coauthors: []
   first: Jonathan
@@ -2475,6 +2523,8 @@ jonathan-ginzburg:
     - 3
   - - sara-moradlou
     - 2
+  - - staffan-larsson
+    - 2
   - - chiara-mazzocconi
     - 2
   - - vladislav-maraev
@@ -2485,9 +2535,9 @@ jonathan-ginzburg:
     - 1
   - - julian-hough
     - 1
-  - - christopher-cash
+  - - sarah-brown-schmidt
     - 1
-  - - staffan-larsson
+  - - christopher-cash
     - 1
   - - jean-philippe-bernardy
     - 1
@@ -2511,10 +2561,11 @@ jonathan-ginzburg:
   - Z14-3017
   - Z14-4026
   - Z13-3010
+  - Z12-1000
   slug: jonathan-ginzburg
   venues:
   - - SEMDIAL
-    - 10
+    - 11
 jonathan-h-clark:
   coauthors: []
   first: Jonathan H.
@@ -3188,6 +3239,19 @@ judith-d-schlesinger:
   papers: []
   slug: judith-d-schlesinger
   venues: []
+judith-degen:
+  coauthors:
+  - - michael-franke
+    - 1
+  first: Judith
+  full: Judith Degen
+  last: Degen
+  papers:
+  - Z12-3004
+  slug: judith-degen
+  venues:
+  - - SEMDIAL
+    - 1
 judith-fischer:
   coauthors:
   - - christoph-hesse
@@ -3289,10 +3353,27 @@ julia-otmakhova:
   papers: []
   slug: julia-otmakhova
   venues: []
+julia-peltason:
+  coauthors:
+  - - hannes-rieser
+    - 1
+  - - sven-wachsmuth
+    - 1
+  - - britta-wrede
+    - 1
+  first: Julia
+  full: Julia Peltason
+  last: Peltason
+  papers:
+  - Z12-4035
+  slug: julia-peltason
+  venues:
+  - - SEMDIAL
+    - 1
 julian-hough:
   coauthors:
   - - matthew-purver
-    - 5
+    - 6
   - - david-schlangen
     - 5
   - - christine-howes
@@ -3357,10 +3438,11 @@ julian-hough:
   - Z14-4023
   - Z14-4026
   - Z13-3013
+  - Z12-3018
   slug: julian-hough
   venues:
   - - SEMDIAL
-    - 14
+    - 15
 julian-j-odell:
   coauthors: []
   first: Julian J.
