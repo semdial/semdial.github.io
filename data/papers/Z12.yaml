@@ -13,16 +13,16 @@ Z12-1000:
     full: Staffan Larsson
     id: staffan-larsson
     last: Larsson
-  bibkey: semdial-2012-semdial
+  bibkey: semdial-2012-semantics
   bibtype: proceedings
   month: September
   paper_id: '1000'
   parent_volume_id: Z12-1
   publisher: SEMDIAL
-  title: 'Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - FrontMatter'
-  title_html: 'Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - FrontMatter'
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - FrontMatter
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - FrontMatter
   url: http://semdial.org/anthology/semdial2012_seinedial_front_matter.pdf
   year: '2012'
 Z12-2001:
@@ -34,8 +34,8 @@ Z12-2001:
     last: Recanati
   bibkey: recanati-2012-referential
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Invited Talks'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
   month: September
   paper_id: '2001'
   parent_volume_id: Z12-2
@@ -53,8 +53,8 @@ Z12-2002:
     last: Clark
   bibkey: clark-2012-children
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Invited Talks'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
   month: September
   paper_id: '2002'
   parent_volume_id: Z12-2
@@ -72,8 +72,8 @@ Z12-2003:
     last: Kruijff
   bibkey: kruijff-2012-common
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Invited Talks'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
   month: September
   paper_id: '2003'
   parent_volume_id: Z12-2
@@ -95,8 +95,8 @@ Z12-3004:
     last: Franke
   bibkey: degen-franke-2012-optimal
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3004'
   parent_volume_id: Z12-3
@@ -118,8 +118,8 @@ Z12-3005:
     last: Kopp
   bibkey: buschmeier-kopp-2012-using
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3005'
   parent_volume_id: Z12-3
@@ -143,8 +143,8 @@ Z12-3006:
     last: Healey
   bibkey: albert-healey-2012-pragmatics
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3006'
   parent_volume_id: Z12-3
@@ -166,8 +166,8 @@ Z12-3007:
     last: Lascarides
   bibkey: asher-lascarides-2012-cognitive
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3007'
   parent_volume_id: Z12-3
@@ -185,8 +185,8 @@ Z12-3008:
     last: Westera
   bibkey: westera-2012-meanings
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3008'
   parent_volume_id: Z12-3
@@ -204,8 +204,8 @@ Z12-3009:
     last: Moon
   bibkey: moon-2012-experimental
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3009'
   parent_volume_id: Z12-3
@@ -229,8 +229,8 @@ Z12-3010:
     last: Frank
   bibkey: casillas-frank-2012-cues
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3010'
   parent_volume_id: Z12-3
@@ -256,8 +256,8 @@ Z12-3011:
     last: Marandin
   bibkey: abeille-etal-2012-french
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3011'
   parent_volume_id: Z12-3
@@ -279,8 +279,8 @@ Z12-3012:
     last: Healey
   bibkey: plant-healey-2012-use
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3012'
   parent_volume_id: Z12-3
@@ -310,8 +310,8 @@ Z12-3013:
     last: Belguith
   bibkey: dbabis-etal-2012-dialogue
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3013'
   parent_volume_id: Z12-3
@@ -329,8 +329,8 @@ Z12-3014:
     last: Lison
   bibkey: lison-2012-declarative
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3014'
   parent_volume_id: Z12-3
@@ -364,8 +364,8 @@ Z12-3015:
     last: Kaufmann
   bibkey: rohde-etal-2012-communicating
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3015'
   parent_volume_id: Z12-3
@@ -385,8 +385,8 @@ Z12-3016:
     last: Bunt
   bibkey: bunt-2012-semantics
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3016'
   parent_volume_id: Z12-3
@@ -412,8 +412,8 @@ Z12-3017:
     last: Oberlander
   bibkey: henderson-etal-2012-recovering
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3017'
   parent_volume_id: Z12-3
@@ -436,8 +436,8 @@ Z12-3018:
     last: Purver
   bibkey: hough-purver-2012-processing
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Full Papers'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
   month: September
   paper_id: '3018'
   parent_volume_id: Z12-3
@@ -503,8 +503,8 @@ Z12-4019:
     last: Degremont
   bibkey: asher-etal-2012-modelling
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4019'
   parent_volume_id: Z12-4
@@ -538,8 +538,8 @@ Z12-4020:
     last: Blache
   bibkey: chen-etal-2012-toward
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4020'
   parent_volume_id: Z12-4
@@ -561,8 +561,8 @@ Z12-4021:
     last: Cummins
   bibkey: de-ruiter-cummins-2012-model
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4021'
   parent_volume_id: Z12-4
@@ -582,8 +582,8 @@ Z12-4022:
     last: Dobnik
   bibkey: dobnik-2012-spatial
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4022'
   parent_volume_id: Z12-4
@@ -613,8 +613,8 @@ Z12-4023:
     last: Iida
   bibkey: funakoshi-etal-2012-modeling
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4023'
   parent_volume_id: Z12-4
@@ -648,8 +648,8 @@ Z12-4024:
     last: Lavelle
   bibkey: howes-etal-2012-helping
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4024'
   parent_volume_id: Z12-4
@@ -693,8 +693,8 @@ Z12-4025:
     last: Goetze
   bibkey: janarthanam-etal-2012-spoken
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4025'
   parent_volume_id: Z12-4
@@ -718,8 +718,8 @@ Z12-4026:
     last: Koit
   bibkey: oim-koit-2012-influencing
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4026'
   parent_volume_id: Z12-4
@@ -741,8 +741,8 @@ Z12-4027:
     last: Matheson
   bibkey: isard-matheson-2012-rhetorical
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4027'
   parent_volume_id: Z12-4
@@ -760,8 +760,8 @@ Z12-4028:
     last: Spychalska
   bibkey: spychalska-2012-two
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4028'
   parent_volume_id: Z12-4
@@ -835,8 +835,8 @@ Z12-4029:
     last: Vieu
   bibkey: afantenos-etal-2012-modelling
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4029'
   parent_volume_id: Z12-4
@@ -858,8 +858,8 @@ Z12-4030:
     last: Uszkoreit
   bibkey: kluwer-uszkoreit-2012-multi
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4030'
   parent_volume_id: Z12-4
@@ -897,8 +897,8 @@ Z12-4031:
     last: Matsusaka
   bibkey: katagiri-etal-2012-negotiation
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4031'
   parent_volume_id: Z12-4
@@ -916,8 +916,8 @@ Z12-4032:
     last: Mills
   bibkey: mills-2012-exhuming
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4032'
   parent_volume_id: Z12-4
@@ -943,8 +943,8 @@ Z12-4033:
     last: Keizer
   bibkey: rieser-etal-2012-opponent
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4033'
   parent_volume_id: Z12-4
@@ -966,8 +966,8 @@ Z12-4034:
     last: Gardent
   bibkey: rojas-barahona-gardent-2012-now
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4034'
   parent_volume_id: Z12-4
@@ -997,8 +997,8 @@ Z12-4035:
     last: Wrede
   bibkey: peltason-etal-2012-hand
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4035'
   parent_volume_id: Z12-4
@@ -1032,8 +1032,8 @@ Z12-4036:
     last: Blache
   bibkey: peshkov-etal-2012-quantitative
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4036'
   parent_volume_id: Z12-4
@@ -1057,8 +1057,8 @@ Z12-4037:
     last: Kuhn
   bibkey: richardson-kuhn-2012-towards
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4037'
   parent_volume_id: Z12-4
@@ -1084,8 +1084,8 @@ Z12-4038:
     last: Landragin
   bibkey: vorobyova-etal-2012-overspecify
   bibtype: inproceedings
-  booktitle_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the
-    Semantics and Pragmatics of Dialogue - Poster Abstracts'
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
   month: September
   paper_id: '4038'
   parent_volume_id: Z12-4

@@ -20,10 +20,10 @@ Z12-1:
   - Z12-1000
   publisher: SEMDIAL
   sigs: []
-  title: 'Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - FrontMatter'
-  title_html: 'Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - FrontMatter'
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - FrontMatter
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - FrontMatter
   venues:
   - SEMDIAL
   year: '2012'
@@ -51,10 +51,10 @@ Z12-2:
   - Z12-2003
   publisher: SEMDIAL
   sigs: []
-  title: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - Invited Talks'
-  title_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - Invited Talks'
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
   venues:
   - SEMDIAL
   year: '2012'
@@ -94,10 +94,10 @@ Z12-3:
   - Z12-3018
   publisher: SEMDIAL
   sigs: []
-  title: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - Full Papers'
-  title_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - Full Papers'
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
   venues:
   - SEMDIAL
   year: '2012'
@@ -142,10 +142,10 @@ Z12-4:
   - Z12-4038
   publisher: SEMDIAL
   sigs: []
-  title: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - Poster Abstracts'
-  title_html: 'Proceedings of SemDial 2012 (SieneDial): The 16th Workshop on the Semantics
-    and Pragmatics of Dialogue - Poster Abstracts'
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
   venues:
   - SEMDIAL
   year: '2012'

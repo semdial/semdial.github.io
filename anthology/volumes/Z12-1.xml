@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="semdial-2012-semdial">
+<mods ID="semdial-2012-semantics">
     <titleInfo>
-        <title>Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</title>
+        <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</title>
     </titleInfo>
     <name type="personal">
         <namePart type="given">Sarah</namePart>
@@ -34,7 +34,7 @@
     </originInfo>
     <typeOfResource>text</typeOfResource>
     <genre authority="marcgt">conference publication</genre>
-    <identifier type="citekey">semdial-2012-semdial</identifier>
+    <identifier type="citekey">semdial-2012-semantics</identifier>
     <location>
         <url>http://semdial.org/anthology/semdial2012_seinedial_front_matter.pdf</url>
     </location>
