@@ -234,6 +234,8 @@ verena-rieser:
     - 1
   - - ioannis-efstathiou
     - 1
+  - - kevin-o-connor
+    - 1
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -251,8 +253,6 @@ verena-rieser:
   - - vladimir-popescu
     - 1
   - - laure-vieu
-    - 1
-  - - kevin-o-connor
     - 1
   first: Verena
   full: Verena Rieser
@@ -335,6 +335,19 @@ veronique-moriceau:
   papers: []
   slug: veronique-moriceau
   venues: []
+vevake-balaraman:
+  coauthors:
+  - - bernardo-magnini
+    - 1
+  first: Vevake
+  full: Vevake Balaraman
+  last: Balaraman
+  papers:
+  - Z20-3007
+  slug: vevake-balaraman
+  venues:
+  - - SEMDIAL
+    - 1
 vibhu-o-mittal:
   coauthors: []
   first: Vibhu O.
@@ -740,9 +753,11 @@ vladislav-kubon:
   venues: []
 vladislav-maraev:
   coauthors:
+  - - jonathan-ginzburg
+    - 3
   - - chiara-mazzocconi
     - 2
-  - - jonathan-ginzburg
+  - - jean-philippe-bernardy
     - 2
   - - ellen-breitholtz
     - 1
@@ -756,12 +771,11 @@ vladislav-maraev:
     - 1
   - - ye-tian
     - 1
-  - - jean-philippe-bernardy
-    - 1
   first: Vladislav
   full: Vladislav Maraev
   last: Maraev
   papers:
+  - Z20-4030
   - Z19-3016
   - Z19-4034
   - Z18-3005
@@ -769,7 +783,7 @@ vladislav-maraev:
   slug: vladislav-maraev
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 vlado-keselj:
   coauthors: []
   first: Vlado

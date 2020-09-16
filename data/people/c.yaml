@@ -392,9 +392,11 @@ casey-kennington:
   coauthors:
   - - david-schlangen
     - 4
-  - - soledad-lopez-gambino
-    - 2
   - - pierre-lison
+    - 2
+  - - daniele-moro
+    - 2
+  - - soledad-lopez-gambino
     - 2
   - - spyros-kousidis
     - 1
@@ -402,18 +404,21 @@ casey-kennington:
     - 1
   - - julian-hough
     - 1
-  - - daniele-moro
+  - - daniel-kondratyuk
     - 1
   - - sina-zarriess
     - 1
-  - - daniel-kondratyuk
-    - 1
   - - ting-han
+    - 1
+  - - gerardo-caracas
+    - 1
+  - - david-mcneill
     - 1
   first: Casey
   full: Casey Kennington
   last: Kennington
   papers:
+  - Z20-3011
   - Z19-1000
   - Z18-3012
   - Z18-3018
@@ -426,7 +431,7 @@ casey-kennington:
   slug: casey-kennington
   venues:
   - - SEMDIAL
-    - 9
+    - 10
 caspar-addyman:
   coauthors:
   - - chiara-mazzocconi
@@ -1261,8 +1266,6 @@ chris-cummins:
   coauthors:
   - - hannah-rohde
     - 2
-  - - j-p-de-ruiter
-    - 1
   - - alexandra-lorson
     - 1
   - - ernisa-marzuki
@@ -1270,6 +1273,8 @@ chris-cummins:
   - - gareth-clegg
     - 1
   - - holly-branigan
+    - 1
+  - - j-p-de-ruiter
     - 1
   first: Chris
   full: Chris Cummins
@@ -1531,30 +1536,26 @@ christine-h-nakatani:
 christine-howes:
   coauthors:
   - - julian-hough
-    - 4
+    - 5
   - - matthew-purver
-    - 2
+    - 3
+  - - arash-eshghi
+    - 3
   - - rose-mccabe
     - 2
   - - staffan-larsson
     - 2
-  - - arash-eshghi
+  - - eleni-gregoromichelaki
     - 2
-  - - matt-purver
-    - 1
-  - - patrick-healey
-    - 1
-  - - mary-lavelle
-    - 1
+  - - ruth-kempson
+    - 2
+  - - mehrnoosh-sadrzadeh
+    - 2
+  - - ellen-breitholtz
+    - 2
   - - casey-kennington
     - 1
   - - anastasia-bondarenko
-    - 1
-  - - eleni-gregoromichelaki
-    - 1
-  - - ruth-kempson
-    - 1
-  - - mehrnoosh-sadrzadeh
     - 1
   - - gijs-wijnholds
     - 1
@@ -1570,12 +1571,24 @@ christine-howes:
     - 1
   - - john-kelleher
     - 1
-  - - ellen-breitholtz
+  - - stergios-chatzikyriakidis
+    - 1
+  - - jieun-kiaer
+    - 1
+  - - graham-white
+    - 1
+  - - matt-purver
+    - 1
+  - - patrick-healey
+    - 1
+  - - mary-lavelle
     - 1
   first: Christine
   full: Christine Howes
   last: Howes
   papers:
+  - Z20-3018
+  - Z20-3022
   - Z19-1000
   - Z19-3012
   - Z19-4025
@@ -1589,7 +1602,7 @@ christine-howes:
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 10
+    - 12
 christine-piatko:
   coauthors: []
   first: Christine
@@ -2017,13 +2030,20 @@ claire-beyssade:
   - - SEMDIAL
     - 1
 claire-bonial:
-  coauthors: []
+  coauthors:
+  - - stephanie-lukin
+    - 1
+  - - clare-voss
+    - 1
   first: Claire
   full: Claire Bonial
   last: Bonial
-  papers: []
+  papers:
+  - Z20-2002
   slug: claire-bonial
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 claire-cardie:
   coauthors: []
   first: Claire
@@ -2089,13 +2109,24 @@ clara-pozzi:
   - - SEMDIAL
     - 1
 clare-voss:
-  coauthors: []
+  coauthors:
+  - - claire-bonial
+    - 1
+  - - stephanie-lukin
+    - 1
   first: Clare
   full: Clare Voss
   last: Voss
-  papers: []
+  papers:
+  - Z20-2002
   slug: clare-voss
-  venues: []
+  variant_entries:
+  - first: Clare R.
+    full: Clare R. Voss
+    last: Voss
+  venues:
+  - - SEMDIAL
+    - 1
 claude-barras:
   coauthors: []
   first: Claude
@@ -2357,6 +2388,17 @@ courtney-d-corley:
   papers: []
   slug: courtney-d-corley
   venues: []
+craige-roberts:
+  coauthors: []
+  first: Craige
+  full: Craige Roberts
+  last: Roberts
+  papers:
+  - Z20-2003
+  slug: craige-roberts
+  venues:
+  - - SEMDIAL
+    - 1
 cristel-portes:
   coauthors:
   - - uwe-reyle

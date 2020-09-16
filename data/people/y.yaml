@@ -403,13 +403,13 @@ ye-tian:
     - 1
   - - caspar-addyman
     - 1
+  - - volha-petukhova
+    - 1
   - - vladislav-maraev
     - 1
   - - staffan-larsson
     - 1
   - - jean-philippe-bernardy
-    - 1
-  - - volha-petukhova
     - 1
   - - claire-beyssade
     - 1
@@ -957,6 +957,19 @@ yukiko-i-nakano:
   papers: []
   slug: yukiko-i-nakano
   venues: []
+yulia-clausen:
+  coauthors:
+  - - tatjana-scheffler
+    - 1
+  first: Yulia
+  full: Yulia Clausen
+  last: Clausen
+  papers:
+  - Z20-3014
+  slug: yulia-clausen
+  venues:
+  - - SEMDIAL
+    - 1
 yumiko-yoshimura:
   coauthors: []
   first: Yumiko

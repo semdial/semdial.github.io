@@ -1157,3 +1157,147 @@ Z19-4:
   venues:
   - SEMDIAL
   year: '2019'
+Z20-1:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  editor:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  has_abstracts: false
+  meta_date: 2020/7
+  month: July
+  papers:
+  - Z20-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2020'
+Z20-2:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  editor:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  has_abstracts: false
+  meta_date: 2020/7
+  month: July
+  papers:
+  - Z20-2001
+  - Z20-2002
+  - Z20-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2020'
+Z20-3:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  editor:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  has_abstracts: false
+  meta_date: 2020/7
+  month: July
+  papers:
+  - Z20-3004
+  - Z20-3005
+  - Z20-3006
+  - Z20-3007
+  - Z20-3008
+  - Z20-3009
+  - Z20-3010
+  - Z20-3011
+  - Z20-3012
+  - Z20-3013
+  - Z20-3014
+  - Z20-3015
+  - Z20-3016
+  - Z20-3017
+  - Z20-3018
+  - Z20-3019
+  - Z20-3020
+  - Z20-3021
+  - Z20-3022
+  - Z20-3023
+  - Z20-3024
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2020'
+Z20-4:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  editor:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  has_abstracts: false
+  meta_date: 2020/7
+  month: July
+  papers:
+  - Z20-4025
+  - Z20-4026
+  - Z20-4027
+  - Z20-4028
+  - Z20-4029
+  - Z20-4030
+  - Z20-4031
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Short Papers
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Short Papers
+  venues:
+  - SEMDIAL
+  year: '2020'

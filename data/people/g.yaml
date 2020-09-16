@@ -450,6 +450,23 @@ georgiana-dinu:
   papers: []
   slug: georgiana-dinu
   venues: []
+georgio-klironomos:
+  coauthors:
+  - - john-w-du-bois
+    - 1
+  - - terry-dubois
+    - 1
+  - - brady-moore
+    - 1
+  first: Georgio
+  full: Georgio Klironomos
+  last: Klironomos
+  papers:
+  - Z20-4031
+  slug: georgio-klironomos
+  venues:
+  - - SEMDIAL
+    - 1
 geraldine-damnati:
   coauthors: []
   first: "G\xE9raldine"
@@ -506,6 +523,23 @@ gerard-veillon:
   papers: []
   slug: gerard-veillon
   venues: []
+gerardo-caracas:
+  coauthors:
+  - - daniele-moro
+    - 1
+  - - david-mcneill
+    - 1
+  - - casey-kennington
+    - 1
+  first: Gerardo
+  full: Gerardo Caracas
+  last: Caracas
+  papers:
+  - Z20-3011
+  slug: gerardo-caracas
+  venues:
+  - - SEMDIAL
+    - 1
 gerardo-sierra:
   coauthors: []
   first: Gerardo
@@ -982,6 +1016,25 @@ gordana-ilic-holen:
   papers: []
   slug: gordana-ilic-holen
   venues: []
+gordon-briggs:
+  coauthors:
+  - - matthew-marge
+    - 1
+  - - felix-gervits
+    - 1
+  - - matthias-scheutz
+    - 1
+  - - antonio-roque
+    - 1
+  first: Gordon
+  full: Gordon Briggs
+  last: Briggs
+  papers:
+  - Z20-3006
+  slug: gordon-briggs
+  venues:
+  - - SEMDIAL
+    - 1
 gordon-h-tucker:
   coauthors: []
   first: Gordon H.
@@ -1092,15 +1145,34 @@ graham-white:
     - 1
   - - raul-mondragon
     - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - arash-eshghi
+    - 1
+  - - julian-hough
+    - 1
+  - - christine-howes
+    - 1
+  - - ruth-kempson
+    - 1
+  - - jieun-kiaer
+    - 1
+  - - matthew-purver
+    - 1
+  - - mehrnoosh-sadrzadeh
+    - 1
   first: Graham
   full: Graham White
   last: White
   papers:
+  - Z20-3022
   - Z14-4032
   slug: graham-white
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 graham-wilcock:
   coauthors: []
   first: Graham

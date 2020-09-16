@@ -398,8 +398,16 @@ patrick-healey:
   coauthors:
   - - matthew-purver
     - 3
+  - - tom-gurion
+    - 2
+  - - julian-hough
+    - 2
   - - shauna-concannon
     - 2
+  - - sophie-skach
+    - 1
+  - - leshao-zhang
+    - 1
   - - saul-albert
     - 1
   - - nicola-plant
@@ -412,18 +420,11 @@ patrick-healey:
     - 1
   - - mary-lavelle
     - 1
-  - - sophie-skach
-    - 1
-  - - leshao-zhang
-    - 1
-  - - tom-gurion
-    - 1
-  - - julian-hough
-    - 1
   first: Patrick
   full: Patrick Healey
   last: Healey
   papers:
+  - Z20-3013
   - Z19-3008
   - Z19-3017
   - Z18-4027
@@ -435,18 +436,18 @@ patrick-healey:
   - Z12-4024
   slug: patrick-healey
   variant_entries:
-  - first: Patrick G. T.
-    full: Patrick G. T. Healey
-    last: Healey
   - first: Pat
     full: Pat Healey
     last: Healey
   - first: Patrick G.T.
     full: Patrick G.T. Healey
     last: Healey
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    last: Healey
   venues:
   - - SEMDIAL
-    - 9
+    - 10
 patrick-l-lange:
   coauthors:
   - - david-suendermann-oeft
@@ -1274,6 +1275,10 @@ philippe-blache:
     - 2
   - - roxane-bertrand
     - 2
+  - - magalie-ochs
+    - 1
+  - - gregoire-montcheuil
+    - 1
   - - helen-k-y-chen
     - 1
   - - beatrice-priego-valverde
@@ -1281,10 +1286,6 @@ philippe-blache:
   - - klim-peshkov
     - 1
   - - stephane-rauzy
-    - 1
-  - - magalie-ochs
-    - 1
-  - - gregoire-montcheuil
     - 1
   first: Philippe
   full: Philippe Blache

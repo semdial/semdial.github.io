@@ -184,14 +184,6 @@ hannah-rohde:
   coauthors:
   - - chris-cummins
     - 2
-  - - scott-seyfarth
-    - 1
-  - - brady-clark
-    - 1
-  - - gerhard-jaeger
-    - 1
-  - - stefan-kaufmann
-    - 1
   - - alexandra-lorson
     - 1
   - - ernisa-marzuki
@@ -201,6 +193,14 @@ hannah-rohde:
   - - holly-branigan
     - 1
   - - hodgdon-stevens
+    - 1
+  - - scott-seyfarth
+    - 1
+  - - brady-clark
+    - 1
+  - - gerhard-jaeger
+    - 1
+  - - stefan-kaufmann
     - 1
   first: Hannah
   full: Hannah Rohde
@@ -236,13 +236,13 @@ hannes-rieser:
     - 2
   - - insa-lawler
     - 2
+  - - udo-klein
+    - 1
   - - julia-peltason
     - 1
   - - sven-wachsmuth
     - 1
   - - britta-wrede
-    - 1
-  - - udo-klein
     - 1
   first: Hannes
   full: Hannes Rieser

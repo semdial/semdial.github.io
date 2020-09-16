@@ -1,4 +1,4 @@
-%0 Conference Proceedings
+﻿%0 Conference Proceedings
 %T Modelling Strategic Conversation: the STAC project
 %A Asher, N.
 %A Lascarides, A.
@@ -13,7 +13,7 @@
 %A Paul, S.
 %A Keizer, S.
 %A Degremont, C.
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -28,7 +28,7 @@
 %A Bertrand, Roxane
 %A Priego-Valverde, Beatrice
 %A Blache, Philippe
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -40,7 +40,7 @@
 %T A model of intentional communication: AIRBUS (Asymmetric Intention Recognition with Bayesian Updating of Signals)
 %A de Ruiter, J. P.
 %A Cummins, Chris
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -51,7 +51,7 @@
 %0 Conference Proceedings
 %T Spatial descriptions in discourse: choosing a perspective
 %A Dobnik, Simon
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -65,7 +65,7 @@
 %A Nakano, Mikio
 %A Tokunaga, Takenobu
 %A Iida, Ryu
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -80,7 +80,7 @@
 %A McCabe, Rose
 %A Healey, Patrick G. T.
 %A Lavelle, Mary
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -97,7 +97,7 @@
 %A Mackaness, William
 %A Dalmas, Tiphaine
 %A Goetze, Jana
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -109,7 +109,7 @@
 %T Influencing Reasoning in Interaction: a Model
 %A Oim, Haldur
 %A Koit, Mare
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -121,7 +121,7 @@
 %T Rhetorical Structure for Natural Language Generation in Dialogue
 %A Isard, Amy
 %A Matheson, Colin
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -132,7 +132,7 @@
 %0 Conference Proceedings
 %T Two semantical conditions for superlative quantifiers
 %A Spychalska, Maria
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -157,7 +157,7 @@
 %A Popescu, Vladimir
 %A Rieser, Verena
 %A Vieu, Laure
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -169,7 +169,7 @@
 %T A Multi-threading Extension to State-based Dialogue Management
 %A Kluwer, Tina
 %A Uszkoreit, Hanz
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -185,7 +185,7 @@
 %A Takanashi, Katsuya
 %A Enomoto, Mika
 %A Matsusaka, Yosuke
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -196,7 +196,7 @@
 %0 Conference Proceedings
 %T Exhuming the procedural common ground: partner-specific effects
 %A Mills, Gregory
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -209,7 +209,7 @@
 %A Rieser, Verena
 %A Lemon, Oliver
 %A Keizer, Simon
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -221,7 +221,7 @@
 %T What Should I Do Now? Supporting Progress in a Serious Game.
 %A Rojas-Barahona, Lina M.
 %A Gardent, Claire
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -230,12 +230,12 @@
 %U http://semdial.org/anthology/Z12-Rojas-Barahona_semdial_0034.pdf
 
 %0 Conference Proceedings
-%T ?The hand is not a banana? On Developing a Robot?s Grounding Facilities
+%T “The hand is not a banana” On Developing a Robot’s Grounding Facilities
 %A Peltason, Julia
 %A Rieser, Hannes
 %A Wachsmuth, Sven
 %A Wrede, Britta
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -250,7 +250,7 @@
 %A Bertrand, Roxane
 %A Rauzy, Stephane
 %A Blache, Philippe
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -262,7 +262,7 @@
 %T Towards Semantic Parsing in Dynamic Domains
 %A Richardson, Kyle
 %A Kuhn, Jonas
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL
@@ -275,7 +275,7 @@
 %A Vorobyova, Alexandra
 %A Benotti, Luciana
 %A Landragin, Frederic
-%B Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2012
 %8 sep
 %I SEMDIAL

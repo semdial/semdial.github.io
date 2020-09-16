@@ -413,14 +413,6 @@ laurent-prevot:
     - 2
   - - philippe-blache
     - 2
-  - - helen-k-y-chen
-    - 1
-  - - beatrice-priego-valverde
-    - 1
-  - - klim-peshkov
-    - 1
-  - - stephane-rauzy
-    - 1
   - - magalie-ochs
     - 1
   - - benoit-favre
@@ -432,6 +424,14 @@ laurent-prevot:
   - - bernard-bel
     - 1
   - - kam-yiu-joe-chan
+    - 1
+  - - helen-k-y-chen
+    - 1
+  - - beatrice-priego-valverde
+    - 1
+  - - klim-peshkov
+    - 1
+  - - stephane-rauzy
     - 1
   first: Laurent
   full: "Laurent Pr\xE9vot"
@@ -450,6 +450,21 @@ laurent-prevot:
   venues:
   - - SEMDIAL
     - 5
+laurent-prvot:
+  coauthors:
+  - - simone-fuscone
+    - 1
+  - - benoit-favre
+    - 1
+  first: Laurent
+  full: Laurent Prvot
+  last: Prvot
+  papers:
+  - Z20-3015
+  slug: laurent-prvot
+  venues:
+  - - SEMDIAL
+    - 1
 laurent-romary:
   coauthors: []
   first: Laurent
@@ -843,6 +858,23 @@ lingshuang-jack-mao:
   papers: []
   slug: lingshuang-jack-mao
   venues: []
+linnea-strand:
+  coauthors:
+  - - robert-rhys-thomas
+    - 1
+  - - simon-dobnik
+    - 1
+  - - mehdi-ghanimifard
+    - 1
+  first: Linnea
+  full: Linnea Strand
+  last: Strand
+  papers:
+  - Z20-4028
+  slug: linnea-strand
+  venues:
+  - - SEMDIAL
+    - 1
 lisa-braden-harder:
   coauthors: []
   first: Lisa
