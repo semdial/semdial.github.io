@@ -1,3 +1,749 @@
+Z07-1:
+  address: Roverto, Italy
+  editor:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Laure
+    full: Laure Vieu
+    id: laure-vieu
+    last: Vieu
+  has_abstracts: false
+  meta_date: '2007'
+  month: May-June
+  papers:
+  - Z07-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2007'
+Z07-2:
+  address: Roverto, Italy
+  editor:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Laure
+    full: Laure Vieu
+    id: laure-vieu
+    last: Vieu
+  has_abstracts: false
+  meta_date: '2007'
+  month: May-June
+  papers:
+  - Z07-2005
+  - Z07-2014
+  - Z07-2019
+  - Z07-2021
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2007'
+Z07-3:
+  address: Roverto, Italy
+  editor:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Laure
+    full: Laure Vieu
+    id: laure-vieu
+    last: Vieu
+  has_abstracts: false
+  meta_date: '2007'
+  month: May-June
+  papers:
+  - Z07-3006
+  - Z07-3007
+  - Z07-3008
+  - Z07-3009
+  - Z07-3010
+  - Z07-3011
+  - Z07-3012
+  - Z07-3013
+  - Z07-3015
+  - Z07-3016
+  - Z07-3017
+  - Z07-3018
+  - Z07-3020
+  - Z07-3022
+  - Z07-3023
+  - Z07-3024
+  - Z07-3025
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2007'
+Z07-4:
+  address: Roverto, Italy
+  editor:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Laure
+    full: Laure Vieu
+    id: laure-vieu
+    last: Vieu
+  has_abstracts: false
+  meta_date: '2007'
+  month: May-June
+  papers:
+  - Z07-4044
+  - Z07-4026
+  - Z07-4045
+  - Z07-4046
+  - Z07-4047
+  - Z07-4027
+  - Z07-4028
+  - Z07-4029
+  - Z07-4030
+  - Z07-4031
+  - Z07-4032
+  - Z07-4033
+  - Z07-4034
+  - Z07-4035
+  - Z07-4036
+  - Z07-4037
+  - Z07-4038
+  - Z07-4039
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2007'
+Z08-1:
+  address: London, United Kingdom
+  editor:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Pat
+    full: Pat Healey
+    id: patrick-healey
+    last: Healey
+  - first: Yo
+    full: Yo Sato
+    id: yo-sato
+    last: Sato
+  has_abstracts: false
+  meta_date: 2008/6
+  month: June
+  papers:
+  - Z08-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2008'
+Z08-2:
+  address: London, United Kingdom
+  editor:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Pat
+    full: Pat Healey
+    id: patrick-healey
+    last: Healey
+  - first: Yo
+    full: Yo Sato
+    id: yo-sato
+    last: Sato
+  has_abstracts: false
+  meta_date: 2008/6
+  month: June
+  papers:
+  - Z08-2005
+  - Z08-2008
+  - Z08-2017
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2008'
+Z08-3:
+  address: London, United Kingdom
+  editor:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Pat
+    full: Pat Healey
+    id: patrick-healey
+    last: Healey
+  - first: Yo
+    full: Yo Sato
+    id: yo-sato
+    last: Sato
+  has_abstracts: false
+  meta_date: 2008/6
+  month: June
+  papers:
+  - Z08-3006
+  - Z08-3007
+  - Z08-3009
+  - Z08-3010
+  - Z08-3011
+  - Z08-3012
+  - Z08-3013
+  - Z08-3014
+  - Z08-3015
+  - Z08-3016
+  - Z08-3018
+  - Z08-3019
+  - Z08-3020
+  - Z08-3021
+  - Z08-3023
+  - Z08-3024
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2008'
+Z08-4:
+  address: London, United Kingdom
+  editor:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Pat
+    full: Pat Healey
+    id: patrick-healey
+    last: Healey
+  - first: Yo
+    full: Yo Sato
+    id: yo-sato
+    last: Sato
+  has_abstracts: false
+  meta_date: 2008/6
+  month: June
+  papers:
+  - Z08-4025
+  - Z08-4026
+  - Z08-4027
+  - Z08-4028
+  - Z08-4029
+  - Z08-4030
+  - Z08-4031
+  - Z08-4032
+  - Z08-4033
+  - Z08-4034
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2008'
+Z09-1:
+  address: Stockholm, Sweden
+  editor:
+  - first: Jens
+    full: Jens Edlund
+    id: jens-edlund
+    last: Edlund
+  - first: Joakim
+    full: Joakim Gustafson
+    id: joakim-gustafson
+    last: Gustafson
+  - first: Anna
+    full: Anna Hjalmarsson
+    id: anna-hjalmarsson
+    last: Hjalmarsson
+  - first: Gabriel
+    full: Gabriel Skantze
+    id: gabriel-skantze
+    last: Skantze
+  has_abstracts: false
+  meta_date: 2009/6
+  month: June
+  papers:
+  - Z09-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue
+    - FrontMatter
+  title_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics of
+    Dialogue - FrontMatter
+  venues:
+  - SEMDIAL
+  year: '2009'
+Z09-2:
+  address: Stockholm, Sweden
+  editor:
+  - first: Jens
+    full: Jens Edlund
+    id: jens-edlund
+    last: Edlund
+  - first: Joakim
+    full: Joakim Gustafson
+    id: joakim-gustafson
+    last: Gustafson
+  - first: Anna
+    full: Anna Hjalmarsson
+    id: anna-hjalmarsson
+    last: Hjalmarsson
+  - first: Gabriel
+    full: Gabriel Skantze
+    id: gabriel-skantze
+    last: Skantze
+  has_abstracts: false
+  meta_date: 2009/6
+  month: June
+  papers:
+  - Z09-2001
+  - Z09-2002
+  - Z09-2007
+  - Z09-2008
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2009'
+Z09-3:
+  address: Stockholm, Sweden
+  editor:
+  - first: Jens
+    full: Jens Edlund
+    id: jens-edlund
+    last: Edlund
+  - first: Joakim
+    full: Joakim Gustafson
+    id: joakim-gustafson
+    last: Gustafson
+  - first: Anna
+    full: Anna Hjalmarsson
+    id: anna-hjalmarsson
+    last: Hjalmarsson
+  - first: Gabriel
+    full: Gabriel Skantze
+    id: gabriel-skantze
+    last: Skantze
+  has_abstracts: false
+  meta_date: 2009/6
+  month: June
+  papers:
+  - Z09-3009
+  - Z09-3010
+  - Z09-3011
+  - Z09-3012
+  - Z09-3013
+  - Z09-3014
+  - Z09-3015
+  - Z09-3016
+  - Z09-3017
+  - Z09-3020
+  - Z09-3021
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2009'
+Z09-4:
+  address: Stockholm, Sweden
+  editor:
+  - first: Jens
+    full: Jens Edlund
+    id: jens-edlund
+    last: Edlund
+  - first: Joakim
+    full: Joakim Gustafson
+    id: joakim-gustafson
+    last: Gustafson
+  - first: Anna
+    full: Anna Hjalmarsson
+    id: anna-hjalmarsson
+    last: Hjalmarsson
+  - first: Gabriel
+    full: Gabriel Skantze
+    id: gabriel-skantze
+    last: Skantze
+  has_abstracts: false
+  meta_date: 2009/6
+  month: June
+  papers:
+  - Z09-4022
+  - Z09-4023
+  - Z09-4024
+  - Z09-4025
+  - Z09-4026
+  - Z09-4027
+  - Z09-4028
+  - Z09-4029
+  - Z09-4030
+  - Z09-4031
+  - Z09-4034
+  - Z09-4018
+  - Z09-4019
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2009'
+Z10-1:
+  address: "POZNA\u0143, Poland"
+  editor:
+  - first: "Pawea\u0142"
+    full: "Pawea\u0142 \u0141upkowski"
+    id: paweal-lupkowski
+    last: "\u0141upkowski"
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  has_abstracts: false
+  meta_date: 2010/9
+  month: September
+  papers:
+  - Z10-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2010'
+Z10-2:
+  address: "POZNA\u0143, Poland"
+  editor:
+  - first: "Pawea\u0142"
+    full: "Pawea\u0142 \u0141upkowski"
+    id: paweal-lupkowski
+    last: "\u0141upkowski"
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  has_abstracts: false
+  meta_date: 2010/9
+  month: September
+  papers:
+  - Z10-2001
+  - Z10-2002
+  - Z10-2004
+  - Z10-2005
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2010'
+Z10-3:
+  address: "POZNA\u0143, Poland"
+  editor:
+  - first: "Pawea\u0142"
+    full: "Pawea\u0142 \u0141upkowski"
+    id: paweal-lupkowski
+    last: "\u0141upkowski"
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  has_abstracts: false
+  meta_date: 2010/9
+  month: September
+  papers:
+  - Z10-3005
+  - Z10-3006
+  - Z10-3007
+  - Z10-3008
+  - Z10-3009
+  - Z10-3010
+  - Z10-3011
+  - Z10-3012
+  - Z10-3013
+  - Z10-3014
+  - Z10-3015
+  - Z10-3016
+  - Z10-3017
+  - Z10-3018
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2010'
+Z10-4:
+  address: "POZNA\u0143, Poland"
+  editor:
+  - first: "Pawea\u0142"
+    full: "Pawea\u0142 \u0141upkowski"
+    id: paweal-lupkowski
+    last: "\u0141upkowski"
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  has_abstracts: false
+  meta_date: 2010/9
+  month: September
+  papers:
+  - Z10-4023
+  - Z10-4031
+  - Z10-4024
+  - Z10-4032
+  - Z10-4033
+  - Z10-4025
+  - Z10-4026
+  - Z10-4027
+  - Z10-4028
+  - Z10-4029
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2010'
+Z11-1:
+  address: Los Angeles, California
+  editor:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Mark
+    full: Mark Core
+    id: mark-g-core
+    last: Core
+  - first: David
+    full: David DeVault
+    id: david-devault
+    last: DeVault
+  - first: Elsi
+    full: Elsi Kaiser
+    id: elsi-kaiser
+    last: Kaiser
+  - first: Amanda
+    full: Amanda Stent
+    id: amanda-stent
+    last: Stent
+  has_abstracts: false
+  meta_date: 2011/9
+  month: September
+  papers:
+  - Z11-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 15th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2011'
+Z11-2:
+  address: Los Angeles, California
+  editor:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Mark
+    full: Mark Core
+    id: mark-g-core
+    last: Core
+  - first: David
+    full: David DeVault
+    id: david-devault
+    last: DeVault
+  - first: Elsi
+    full: Elsi Kaiser
+    id: elsi-kaiser
+    last: Kaiser
+  - first: Amanda
+    full: Amanda Stent
+    id: amanda-stent
+    last: Stent
+  has_abstracts: false
+  meta_date: 2011/9
+  month: September
+  papers:
+  - Z11-2001
+  - Z11-2002
+  - Z11-2004
+  - Z11-2005
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 15th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2011'
+Z11-3:
+  address: Los Angeles, California
+  editor:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Mark
+    full: Mark Core
+    id: mark-g-core
+    last: Core
+  - first: David
+    full: David DeVault
+    id: david-devault
+    last: DeVault
+  - first: Elsi
+    full: Elsi Kaiser
+    id: elsi-kaiser
+    last: Kaiser
+  - first: Amanda
+    full: Amanda Stent
+    id: amanda-stent
+    last: Stent
+  has_abstracts: false
+  meta_date: 2011/9
+  month: September
+  papers:
+  - Z11-3006
+  - Z11-3007
+  - Z11-3008
+  - Z11-3009
+  - Z11-3010
+  - Z11-3011
+  - Z11-3012
+  - Z11-3014
+  - Z11-3015
+  - Z11-3016
+  - Z11-3017
+  - Z11-3018
+  - Z11-3019
+  - Z11-3020
+  - Z11-3022
+  - Z11-3023
+  - Z11-3024
+  - Z11-3025
+  - Z11-3026
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 15th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2011'
+Z11-4:
+  address: Los Angeles, California
+  editor:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Mark
+    full: Mark Core
+    id: mark-g-core
+    last: Core
+  - first: David
+    full: David DeVault
+    id: david-devault
+    last: DeVault
+  - first: Elsi
+    full: Elsi Kaiser
+    id: elsi-kaiser
+    last: Kaiser
+  - first: Amanda
+    full: Amanda Stent
+    id: amanda-stent
+    last: Stent
+  has_abstracts: false
+  meta_date: 2011/9
+  month: September
+  papers:
+  - Z11-4027
+  - Z11-4028
+  - Z11-4029
+  - Z11-4030
+  - Z11-4031
+  - Z11-4032
+  - Z11-4033
+  - Z11-4034
+  - Z11-4035
+  - Z11-4036
+  - Z11-4037
+  - Z11-4038
+  - Z11-4039
+  - Z11-4040
+  - Z11-4041
+  - Z11-4042
+  - Z11-4043
+  - Z11-4044
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 15th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2011'
 Z12-1:
   address: Paris, France
   editor:
@@ -21,9 +767,9 @@ Z12-1:
   publisher: SEMDIAL
   sigs: []
   title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
-    - FrontMatter
+    - Front Matter
   title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
-    Dialogue - FrontMatter
+    Dialogue - Front Matter
   venues:
   - SEMDIAL
   year: '2012'

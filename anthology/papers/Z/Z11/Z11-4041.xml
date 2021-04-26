@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="duchaj-ntihirageza-2011-structure">
+    <titleInfo>
+        <title>The Structure of Greetings and Farewells/Thankings</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Karen</namePart>
+        <namePart type="family">Duchaj</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jeanine</namePart>
+        <namePart type="family">Ntihirageza</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">duchaj-ntihirageza-2011-structure</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Duchaj_semdial_0041.pdf</url>
+    </location>
+    <part>
+        <date>2011-sep</date>
+    </part>
+</mods>
+</modsCollection>

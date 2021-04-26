@@ -125,13 +125,27 @@ pamela-e-fink:
   slug: pamela-e-fink
   venues: []
 pamela-jordan:
-  coauthors: []
+  coauthors:
+  - - sandra-katz
+    - 2
+  - - cynthia-kersey
+    - 1
+  - - barbara-di-eugenio1
+    - 1
+  - - patricia-albacete
+    - 1
+  - - diane-litman
+    - 1
   first: Pamela
   full: Pamela Jordan
   last: Jordan
-  papers: []
+  papers:
+  - Z11-3026
+  - Z07-4032
   slug: pamela-jordan
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 2
 panayiotis-georgiou:
   coauthors: []
   first: Panayiotis
@@ -148,7 +162,7 @@ panos-alexopoulos:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -260,7 +274,7 @@ pascal-denis:
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont1
+  - - cedric-degremont
     - 1
   - - markus-guhe
     - 1
@@ -329,6 +343,23 @@ patrice-dalle:
   papers: []
   slug: patrice-dalle
   venues: []
+patricia-albacete:
+  coauthors:
+  - - sandra-katz
+    - 1
+  - - pamela-jordan
+    - 1
+  - - diane-litman
+    - 1
+  first: Patricia
+  full: Patricia Albacete
+  last: Albacete
+  papers:
+  - Z11-3026
+  slug: patricia-albacete
+  venues:
+  - - SEMDIAL
+    - 1
 patricia-goncalves:
   coauthors: []
   first: Patricia
@@ -378,6 +409,23 @@ patricio-martinez-barco:
   papers: []
   slug: patricio-martinez-barco
   venues: []
+patrick-blackburn:
+  coauthors:
+  - - alexandre-denis
+    - 1
+  - - guillaume-pitel
+    - 1
+  - - matthieu-quignard
+    - 1
+  first: Patrick
+  full: Patrick Blackburn
+  last: Blackburn
+  papers:
+  - Z07-3009
+  slug: patrick-blackburn
+  venues:
+  - - SEMDIAL
+    - 1
 patrick-cardinal:
   coauthors: []
   first: Patrick
@@ -394,6 +442,38 @@ patrick-caudal:
   papers: []
   slug: patrick-caudal
   venues: []
+patrick-ehlen:
+  coauthors:
+  - - matthew-frampton
+    - 1
+  - - raquel-fernandez
+    - 1
+  - - anish-adukuzhiyil
+    - 1
+  - - stanley-peters
+    - 1
+  first: Patrick
+  full: Patrick Ehlen
+  last: Ehlen
+  papers:
+  - Z08-3019
+  slug: patrick-ehlen
+  venues:
+  - - SEMDIAL
+    - 1
+patrick-g-t:
+  coauthors:
+  - - t-healey
+    - 1
+  first: Patrick G.
+  full: Patrick G. T.
+  last: T.
+  papers:
+  - Z11-3017
+  slug: patrick-g-t
+  venues:
+  - - SEMDIAL
+    - 1
 patrick-healey:
   coauthors:
   - - matthew-purver
@@ -404,6 +484,14 @@ patrick-healey:
     - 2
   - - shauna-concannon
     - 2
+  - - carl-vogel
+    - 1
+  - - arash-eshghi
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  - - yo-sato
+    - 1
   - - sophie-skach
     - 1
   - - leshao-zhang
@@ -434,6 +522,9 @@ patrick-healey:
   - Z12-3006
   - Z12-3012
   - Z12-4024
+  - Z11-2004
+  - Z08-1000
+  - Z07-3024
   slug: patrick-healey
   variant_entries:
   - first: Pat
@@ -447,7 +538,7 @@ patrick-healey:
     last: Healey
   venues:
   - - SEMDIAL
-    - 10
+    - 13
 patrick-l-lange:
   coauthors:
   - - david-suendermann-oeft
@@ -625,6 +716,31 @@ paul-morarescu:
   papers: []
   slug: paul-morarescu
   venues: []
+paul-piwek:
+  coauthors:
+  - - richard-power
+    - 2
+  - - david-hardcastle
+    - 1
+  - - ielka-van-der-sluis
+    - 1
+  - - albert-gatt
+    - 1
+  - - adrian-bangerter
+    - 1
+  - - brian-pluss
+    - 1
+  first: Paul
+  full: Paul Piwek
+  last: Piwek
+  papers:
+  - Z11-4044
+  - Z08-4027
+  - Z07-2021
+  slug: paul-piwek
+  venues:
+  - - SEMDIAL
+    - 3
 paul-placeway:
   coauthors: []
   first: Paul
@@ -713,6 +829,33 @@ pavel-smrz:
   papers: []
   slug: pavel-smrz
   venues: []
+paweal-lupkowski:
+  coauthors:
+  - - matthew-purver
+    - 1
+  first: "Pawea\u0142"
+  full: "Pawea\u0142 \u0141upkowski"
+  last: "\u0141upkowski"
+  papers:
+  - Z10-1000
+  slug: paweal-lupkowski
+  venues:
+  - - SEMDIAL
+    - 1
+pawel-lupkowski:
+  coauthors:
+  - - mariusz-urbanski
+    - 1
+  first: "Pawe\u0142"
+  full: "Pawe\u0142 \u0141upkowski"
+  last: "\u0141upkowski"
+  papers:
+  - Z10-3013
+  - Z10-3014
+  slug: pawel-lupkowski
+  venues:
+  - - SEMDIAL
+    - 2
 pawel-mazur:
   coauthors: []
   first: Pawel
@@ -937,9 +1080,14 @@ peter-ljunglof:
   first: Peter
   full: "Peter Ljungl\xF6f"
   last: "Ljungl\xF6f"
-  papers: []
+  papers:
+  - Z09-3017
+  - Z09-4022
+  - Z08-4031
   slug: peter-ljunglof
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 3
 peter-machonis:
   coauthors: []
   first: Peter
@@ -948,6 +1096,21 @@ peter-machonis:
   papers: []
   slug: peter-machonis
   venues: []
+peter-menke:
+  coauthors:
+  - - andy-lucking
+    - 1
+  - - alexander-mehler
+    - 1
+  first: Peter
+  full: Peter Menke
+  last: Menke
+  papers:
+  - Z08-4026
+  slug: peter-menke
+  venues:
+  - - SEMDIAL
+    - 1
 peter-mika:
   coauthors:
   - - helen-hastie
@@ -958,7 +1121,7 @@ peter-mika:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -1139,6 +1302,21 @@ petra-barancikova:
   papers: []
   slug: petra-barancikova
   venues: []
+petra-maria-strauss:
+  coauthors:
+  - - simon-friedmann
+    - 1
+  - - tobias-heinroth
+    - 1
+  first: Petra-Maria
+  full: Petra-Maria Strauss
+  last: Strauss
+  papers:
+  - Z08-4033
+  slug: petra-maria-strauss
+  venues:
+  - - SEMDIAL
+    - 1
 petra-poukarova:
   coauthors: []
   first: Petra
@@ -1326,7 +1504,7 @@ philippe-muller:
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont1
+  - - cedric-degremont
     - 1
   - - pascal-denis
     - 1
@@ -1499,6 +1677,28 @@ pilar-leon-arauz:
   papers: []
   slug: pilar-leon-arauz
   venues: []
+pilar-manchon:
+  coauthors:
+  - - guillermo-perez
+    - 2
+  - - gabriel-amores
+    - 2
+  - - antonio-avila
+    - 1
+  - - david-avila
+    - 1
+  - - jesus-gonzalez
+    - 1
+  first: Pilar
+  full: "Pilar Manch\xF3n"
+  last: "Manch\xF3n"
+  papers:
+  - Z07-4034
+  - Z07-4035
+  slug: pilar-manchon
+  venues:
+  - - SEMDIAL
+    - 2
 pinar-oezden-wennerberg:
   coauthors: []
   first: Pinar
@@ -1548,7 +1748,7 @@ pirros-tsiakoulis:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1

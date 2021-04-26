@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="berg-etal-2011-dialog">
+    <titleInfo>
+        <title>Dialog Acts from the Processing Perspective in Task Oriented Dialog Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Markus</namePart>
+        <namePart type="family">Berg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bernhard</namePart>
+        <namePart type="family">Thalheim</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Antje</namePart>
+        <namePart type="family">Düsterhöft</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">berg-etal-2011-dialog</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Berg_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2011-sep</date>
+    </part>
+</mods>
+</modsCollection>

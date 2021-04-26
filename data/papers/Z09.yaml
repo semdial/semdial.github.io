@@ -1,0 +1,666 @@
+Z09-1000:
+  address: Stockholm, Sweden
+  author:
+  - first: Jens
+    full: Jens Edlund
+    id: jens-edlund
+    last: Edlund
+  - first: Joakim
+    full: Joakim Gustafson
+    id: joakim-gustafson
+    last: Gustafson
+  - first: Anna
+    full: Anna Hjalmarsson
+    id: anna-hjalmarsson
+    last: Hjalmarsson
+  - first: Gabriel
+    full: Gabriel Skantze
+    id: gabriel-skantze
+    last: Skantze
+  bibkey: semdial-2009-semantics
+  bibtype: proceedings
+  month: June
+  paper_id: '1000'
+  parent_volume_id: Z09-1
+  publisher: SEMDIAL
+  title: Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue
+    - FrontMatter
+  title_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics of
+    Dialogue - FrontMatter
+  url: http://semdial.org/anthology/semdial2009_diaholmia_front_matter.pdf
+  year: '2009'
+Z09-2001:
+  address: Stockholm, Sweden
+  author:
+  - first: Julia
+    full: Julia Hirschberg
+    id: julia-hirschberg
+    last: Hirschberg
+  bibkey: hirschberg-2009-turn
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June
+  paper_id: '2001'
+  parent_volume_id: Z09-2
+  publisher: SEMDIAL
+  title: Turn-taking vs. backchanneling in spoken dialogue systems
+  title_html: Turn-taking vs. backchanneling in spoken dialogue systems
+  url: http://semdial.org/anthology/Z09-Hirschberg_semdial_0005.pdf
+  year: '2009'
+Z09-2002:
+  address: Stockholm, Sweden
+  author:
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  bibkey: bunt-2009-multifunctionality
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June
+  paper_id: '2002'
+  parent_volume_id: Z09-2
+  publisher: SEMDIAL
+  title: Multifunctionality and multidimensional dialogue semantics
+  title_html: Multifunctionality and multidimensional dialogue semantics
+  url: http://semdial.org/anthology/Z09-Bunt_semdial_0006.pdf
+  year: '2009'
+Z09-2007:
+  address: Stockholm, Sweden
+  author:
+  - first: Sverre
+    full: "Sverre Sj\xF6lander"
+    id: sverre-sjolander
+    last: "Sj\xF6lander"
+  bibkey: sjolander-2009-animal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June
+  paper_id: '2007'
+  parent_volume_id: Z09-2
+  publisher: SEMDIAL
+  title: Animal communication - bluffing, lying, impressing, and sometimes even information
+  title_html: Animal communication - bluffing, lying, impressing, and sometimes even
+    information
+  url: http://semdial.org/anthology/Z09-Sverre_semdial_0007.pdf
+  year: '2009'
+Z09-2008:
+  address: Stockholm, Sweden
+  author:
+  - first: Nick
+    full: Nick Campbell
+    id: nick-campbell
+    last: Campbell
+  bibkey: campbell-2009-expanding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June
+  paper_id: '2008'
+  parent_volume_id: Z09-2
+  publisher: SEMDIAL
+  title: The expanding role of prosody in speech communication technology
+  title_html: The expanding role of prosody in speech communication technology
+  url: http://semdial.org/anthology/Z09-Nick_semdial_0008.pdf
+  year: '2009'
+Z09-3009:
+  address: Stockholm, Sweden
+  author:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  bibkey: petukhova-bunt-2009-next
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3009'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: Who's next? Speaker-selection mechanisms in multiparty dialogue
+  title_html: Who's next? Speaker-selection mechanisms in multiparty dialogue
+  url: http://semdial.org/anthology/Z09-Petukhova_semdial_0009.pdf
+  year: '2009'
+Z09-3010:
+  address: Stockholm, Sweden
+  author:
+  - first: Anna
+    full: Anna Hjalmarsson
+    id: anna-hjalmarsson
+    last: Hjalmarsson
+  bibkey: hjalmarsson-2009-cue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3010'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: On cue - additive effects of turn-regulating phenomena in dialogue
+  title_html: On cue - additive effects of turn-regulating phenomena in dialogue
+  url: http://semdial.org/anthology/Z09-Hjalmarsson_semdial_0010.pdf
+  year: '2009'
+Z09-3011:
+  address: Stockholm, Sweden
+  author:
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  bibkey: poesio-rieser-2009-anaphora
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3011'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: 'Anaphora and Direct Reference: Empirical Evidence from Pointing'
+  title_html: 'Anaphora and Direct Reference: Empirical Evidence from Pointing'
+  url: http://semdial.org/anthology/Z09-Poesio_semdial_0011.pdf
+  year: '2009'
+Z09-3012:
+  address: Stockholm, Sweden
+  author:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Sudeep
+    full: Sudeep Gandhe
+    id: sudeep-gandhe
+    last: Gandhe
+  - first: Michael
+    full: Michael Rushforth
+    id: michael-rushforth
+    last: Rushforth
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: artstein-etal-2009-matching
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3012'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: Matching User Questions to Domain Speech Acts for a Tactical Questioning
+    Dialogue System
+  title_html: Matching User Questions to Domain Speech Acts for a Tactical Questioning
+    Dialogue System
+  url: http://semdial.org/anthology/Z09-Artstein_semdial_0012.pdf
+  year: '2009'
+Z09-3013:
+  address: Stockholm, Sweden
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: schlangen-2009-learn
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3013'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: What we can learn from Dialogue Systems that don't work
+  title_html: What we can learn from Dialogue Systems that don't work
+  url: http://semdial.org/anthology/Z09-Schlangen_semdial_0013.pdf
+  year: '2009'
+Z09-3014:
+  address: Stockholm, Sweden
+  author:
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: cooper-larsson-2009-compositional
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3014'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: Compositional and ontological semantics in learning from corrective feedback
+    and explicit definition
+  title_html: Compositional and ontological semantics in learning from corrective
+    feedback and explicit definition
+  url: http://semdial.org/anthology/Z09-Cooper_semdial_0014.pdf
+  year: '2009'
+Z09-3015:
+  address: Stockholm, Sweden
+  author:
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Matt
+    full: Matt Purver
+    id: matt-purver
+    last: Purver
+  - first: Greg
+    full: Greg Mills
+    id: greg-mills
+    last: Mills
+  - first: Andrew
+    full: Andrew Gargett
+    id: andrew-gargett
+    last: Gargett
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: kempson-etal-2009-mechanistic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3015'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: How mechanistic can accounts of interaction be?
+  title_html: How mechanistic can accounts of interaction be?
+  url: http://semdial.org/anthology/Z09-Kempson_semdial_0015.pdf
+  year: '2009'
+Z09-3016:
+  address: Stockholm, Sweden
+  author:
+  - first: Elena
+    full: Elena Karagjosova
+    id: elena-karagjosova
+    last: Karagjosova
+  bibkey: karagjosova-2009-monotonic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3016'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: A monotonic model of denials in dialogue
+  title_html: A monotonic model of denials in dialogue
+  url: http://semdial.org/anthology/Z09-Karagjosova_semdial_0016.pdf
+  year: '2009'
+Z09-3017:
+  address: Stockholm, Sweden
+  author:
+  - first: Peter
+    full: "Peter Ljungl\xF6f"
+    id: peter-ljunglof
+    last: "Ljungl\xF6f"
+  bibkey: ljunglof-2009-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3017'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: Dialogue Management as Interactive Tree Building
+  title_html: Dialogue Management as Interactive Tree Building
+  url: http://semdial.org/anthology/Z09-Ljunglof_semdial_0017.pdf
+  year: '2009'
+Z09-3020:
+  address: Stockholm, Sweden
+  author:
+  - first: Jan
+    full: Jan Kleindienst
+    id: jan-kleindienst
+    last: Kleindienst
+  - first: Jan
+    full: Jan Curin
+    id: jan-curin1
+    last: Curin
+  - first: Martin
+    full: Martin Labsky
+    id: martin-labsky
+    last: Labsky
+  bibkey: kleindienst-etal-2009-domain
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3020'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: A domain ontology based metric to evaluate spoken dialog systems
+  title_html: A domain ontology based metric to evaluate spoken dialog systems
+  url: http://semdial.org/anthology/Z09-Kleindienst_semdial_0020.pdf
+  year: '2009'
+Z09-3021:
+  address: Stockholm, Sweden
+  author:
+  - first: Robert
+    full: Robert Ross
+    id: robert-ross
+    last: Ross
+  - first: John
+    full: John Bateman
+    id: john-bateman
+    last: Bateman
+  bibkey: ross-bateman-2009-agency
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3021'
+  parent_volume_id: Z09-3
+  publisher: SEMDIAL
+  title: 'Agency & Information State in Situated Dialogues: Analysis & Computational
+    Modelling'
+  title_html: 'Agency &amp; Information State in Situated Dialogues: Analysis &amp;
+    Computational Modelling'
+  url: http://semdial.org/anthology/Z09-Ross_semdial_0021.pdf
+  year: '2009'
+Z09-4018:
+  address: Stockholm, Sweden
+  author:
+  - first: Vladimir
+    full: Vladimir Popescu
+    id: vladimir-popescu
+    last: Popescu
+  - first: Jean
+    full: Jean Caelen
+    id: jean-caelen
+    last: Caelen
+  bibkey: popescu-caelen-2009-non
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4018'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: 'The Non-Individuation Constraint Revisited: When to Produce Free Choice
+    Items in Multi-Party Dialogue'
+  title_html: 'The Non-Individuation Constraint Revisited: When to Produce Free Choice
+    Items in Multi-Party Dialogue'
+  url: http://semdial.org/anthology/Z09-Popescu_semdial_0018.pdf
+  year: '2009'
+Z09-4019:
+  address: Stockholm, Sweden
+  author:
+  - first: Rieks
+    full: Rieks op den Akker
+    id: rieks-op-den-akker
+    last: op den Akker
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: op-den-akker-traum-2009-comparison
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4019'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: A comparison of addressee detection methods for multiparty conversations
+  title_html: A comparison of addressee detection methods for multiparty conversations
+  url: http://semdial.org/anthology/Z09-opdenAkker_semdial_0018.pdf
+  year: '2009'
+Z09-4022:
+  address: Stockholm, Sweden
+  author:
+  - first: Peter
+    full: "Peter Ljungl\xF6f"
+    id: peter-ljunglof
+    last: "Ljungl\xF6f"
+  bibkey: ljunglof-2009-trik
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4022'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: 'TRIK: A Talking and Drawing Robot for Children with Communication Disabilities'
+  title_html: 'TRIK: A Talking and Drawing Robot for Children with Communication Disabilities'
+  url: http://semdial.org/anthology/Z09-Ljunglof_semdial_0022.pdf
+  year: '2009'
+Z09-4023:
+  address: Stockholm, Sweden
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Jessica
+    full: Jessica Villing
+    id: jessica-villing
+    last: Villing
+  bibkey: larsson-villing-2009-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4023'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Multimodal Menu-based Dialogue in Dico II
+  title_html: Multimodal Menu-based Dialogue in Dico II
+  url: http://semdial.org/anthology/Z09-Larsson_semdial_0023.pdf
+  year: '2009'
+Z09-4024:
+  address: Stockholm, Sweden
+  author:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Sudeep
+    full: Sudeep Gandhe
+    id: sudeep-gandhe
+    last: Gandhe
+  - first: Michael
+    full: Michael Rushforth
+    id: michael-rushforth
+    last: Rushforth
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: artstein-etal-2009-demonstration
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4024'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Demonstration of the Amani Tactical Questioning Dialogue System
+  title_html: Demonstration of the Amani Tactical Questioning Dialogue System
+  url: http://semdial.org/anthology/Z09-Artstein_semdial_0024.pdf
+  year: '2009'
+Z09-4025:
+  address: Stockholm, Sweden
+  author:
+  - first: Gabriel
+    full: Gabriel Skantze
+    id: gabriel-skantze
+    last: Skantze
+  - first: Joakim
+    full: Joakim Gustafson
+    id: joakim-gustafson
+    last: Gustafson
+  bibkey: skantze-gustafson-2009-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4025'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Multimodal interaction control in the MonAMI Reminder
+  title_html: Multimodal interaction control in the MonAMI Reminder
+  url: http://semdial.org/anthology/Z09-Skantze_semdial_0025.pdf
+  year: '2009'
+Z09-4026:
+  address: Stockholm, Sweden
+  author:
+  - first: Jens
+    full: Jens Edlund
+    id: jens-edlund
+    last: Edlund
+  bibkey: edlund-2009-spontal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4026'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Spontal - a first glimpse of a Swedish database of spontaneous speech
+  title_html: Spontal - a first glimpse of a Swedish database of spontaneous speech
+  url: http://semdial.org/anthology/Z09-Edlund_semdial_0026.pdf
+  year: '2009'
+Z09-4027:
+  address: Stockholm, Sweden
+  author:
+  - first: Samer
+    full: Samer Al Moubayed
+    id: samer-al-moubayed
+    last: Al Moubayed
+  bibkey: al-moubayed-2009-prosodic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4027'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Prosodic Disambiguation in Spoken Systems Output
+  title_html: Prosodic Disambiguation in Spoken Systems Output
+  url: http://semdial.org/anthology/Z09-AlMoubayed_semdial_0027.pdf
+  year: '2009'
+Z09-4028:
+  address: Stockholm, Sweden
+  author:
+  - first: Srinivasan
+    full: Srinivasan Janarthanam
+    id: srinivasan-janarthanam
+    last: Janarthanam
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: janarthanam-lemon-2009-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4028'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Learning Adaptive Referring Expression Generation Policies for Spoken Dialogue
+    Systems using Reinforcement Learning
+  title_html: Learning Adaptive Referring Expression Generation Policies for Spoken
+    Dialogue Systems using Reinforcement Learning
+  url: http://semdial.org/anthology/Z09-Janarthanam_semdial_0028.pdf
+  year: '2009'
+Z09-4029:
+  address: Stockholm, Sweden
+  author:
+  - first: Nuria
+    full: Nuria Bertomeu
+    id: nuria-bertomeu
+    last: Bertomeu
+  bibkey: bertomeu-2009-ontology
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4029'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Ontology-Based Information States for an Artificial Sales Agent
+  title_html: Ontology-Based Information States for an Artificial Sales Agent
+  url: http://semdial.org/anthology/Z09-Bertomeu_semdial_0029.pdf
+  year: '2009'
+Z09-4030:
+  address: Stockholm, Sweden
+  author:
+  - first: Elena
+    full: Elena Andonova
+    id: elena-andonova
+    last: Andonova
+  - first: Kenny R.
+    full: Kenny R. Coventry
+    id: kenny-r-coventry
+    last: Coventry
+  bibkey: andonova-coventry-2009-alignment
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4030'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Alignment and Priming of Spatial Perspective
+  title_html: Alignment and Priming of Spatial Perspective
+  url: http://semdial.org/anthology/Z09-Andonova_semdial_0030.pdf
+  year: '2009'
+Z09-4031:
+  address: Stockholm, Sweden
+  author:
+  - first: Jenny
+    full: Jenny Brusk
+    id: jenny-brusk
+    last: Brusk
+  bibkey: brusk-2009-using
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4031'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Using Screenplays as Corpus for Modeling Gossip in Game Dialogues
+  title_html: Using Screenplays as Corpus for Modeling Gossip in Game Dialogues
+  url: http://semdial.org/anthology/Z09-Brusk_semdial_0031.pdf
+  year: '2009'
+Z09-4034:
+  address: Stockholm, Sweden
+  author:
+  - first: Timo
+    full: Timo Baumann
+    id: timo-baumann
+    last: Baumann
+  bibkey: baumann-2009-integrating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 13th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4034'
+  parent_volume_id: Z09-4
+  publisher: SEMDIAL
+  title: Integrating prosodic modelling with incremental speech recognition
+  title_html: Integrating prosodic modelling with incremental speech recognition
+  url: http://semdial.org/anthology/Z09-Baumann_semdial_0034.pdf
+  year: '2009'

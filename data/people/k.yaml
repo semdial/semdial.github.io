@@ -70,6 +70,27 @@ kadri-hacioglu:
   papers: []
   slug: kadri-hacioglu
   venues: []
+kai:
+  coauthors:
+  - - nina-dethlefs
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - florian-richter
+    - 1
+  - - elena-andonova
+    - 1
+  - - john-bateman
+    - 1
+  first: Kai
+  full: Kai -
+  last: '-'
+  papers:
+  - Z10-4024
+  slug: kai
+  venues:
+  - - SEMDIAL
+    - 1
 kai-fu-lee:
   coauthors: []
   first: Kai-Fu
@@ -86,6 +107,23 @@ kai-min-kevin-chang:
   papers: []
   slug: kai-min-kevin-chang
   venues: []
+kaiser-maria:
+  coauthors:
+  - - mary-byram
+    - 1
+  - - washburn-elsi
+    - 1
+  - - luisa-zubizarreta
+    - 1
+  first: Kaiser
+  full: Kaiser Maria
+  last: Maria
+  papers:
+  - Z11-3016
+  slug: kaiser-maria
+  venues:
+  - - SEMDIAL
+    - 1
 kaja-borthen:
   coauthors: []
   first: Kaja
@@ -169,6 +207,19 @@ kamel-smaili:
   papers: []
   slug: kamel-smaili
   venues: []
+kamila-debowska:
+  coauthors:
+  - - katarzyna-budzynska
+    - 1
+  first: Kamila
+  full: "Kamila D\u0229bowska"
+  last: "D\u0229bowska"
+  papers:
+  - Z10-3012
+  slug: kamila-debowska
+  venues:
+  - - SEMDIAL
+    - 1
 kanokorn-trakultaweekoon:
   coauthors: []
   first: Kanokorn
@@ -193,6 +244,19 @@ karel-oliva:
   papers: []
   slug: karel-oliva
   venues: []
+karen-duchaj:
+  coauthors:
+  - - jeanine-ntihirageza
+    - 1
+  first: Karen
+  full: Karen Duchaj
+  last: Duchaj
+  papers:
+  - Z11-4041
+  slug: karen-duchaj
+  venues:
+  - - SEMDIAL
+    - 1
 karen-e-lochbaum:
   coauthors: []
   first: Karen E.
@@ -331,6 +395,19 @@ katarina-heimann-muhlenbock:
   papers: []
   slug: katarina-heimann-muhlenbock
   venues: []
+katarzyna-budzynska:
+  coauthors:
+  - - kamila-debowska
+    - 1
+  first: Katarzyna
+  full: Katarzyna Budzynska
+  last: Budzynska
+  papers:
+  - Z10-3012
+  slug: katarzyna-budzynska
+  venues:
+  - - SEMDIAL
+    - 1
 kate-forbes-riley:
   coauthors: []
   first: Kate
@@ -506,17 +583,17 @@ katsumasa-shimizu:
 katsuya-takanashi:
   coauthors:
   - - yasuhiro-katagiri
-    - 6
+    - 7
   - - masato-ishizaki
-    - 5
+    - 6
   - - mika-enomoto
-    - 5
+    - 6
   - - yasuharu-den
-    - 5
+    - 6
   - - shogo-okada
     - 2
   - - yosuke-matsusaka
-    - 1
+    - 2
   first: Katsuya
   full: Katsuya Takanashi
   last: Takanashi
@@ -527,10 +604,11 @@ katsuya-takanashi:
   - Z14-4034
   - Z13-4032
   - Z12-4031
+  - Z11-4042
   slug: katsuya-takanashi
   venues:
   - - SEMDIAL
-    - 6
+    - 7
 kavi-mahesh:
   coauthors: []
   first: Kavi
@@ -822,6 +900,21 @@ kenneth-forbus:
   papers: []
   slug: kenneth-forbus
   venues: []
+kenneth-holmqvist:
+  coauthors:
+  - - richard-andersson
+    - 1
+  - - jana-holsanova
+    - 1
+  first: Kenneth
+  full: Kenneth Holmqvist
+  last: Holmqvist
+  papers:
+  - Z11-4035
+  slug: kenneth-holmqvist
+  venues:
+  - - SEMDIAL
+    - 1
 kenneth-j-mckeever:
   coauthors: []
   first: Kenneth J.
@@ -848,11 +941,11 @@ kenneth-s-bogh:
   venues: []
 kenny-coventry:
   coauthors:
-  - - gesa-schole
-    - 2
   - - thora-tenbrink
-    - 2
+    - 3
   - - elena-andonova
+    - 3
+  - - gesa-schole
     - 2
   first: Kenny
   full: Kenny Coventry
@@ -860,10 +953,24 @@ kenny-coventry:
   papers:
   - Z14-4048
   - Z13-4045
+  - Z08-4034
   slug: kenny-coventry
   venues:
   - - SEMDIAL
-    - 2
+    - 3
+kenny-r-coventry:
+  coauthors:
+  - - elena-andonova
+    - 1
+  first: Kenny R.
+  full: Kenny R. Coventry
+  last: Coventry
+  papers:
+  - Z09-4030
+  slug: kenny-r-coventry
+  venues:
+  - - SEMDIAL
+    - 1
 kenny-smith:
   coauthors:
   - - lucia-castillo
@@ -903,6 +1010,23 @@ kepa-joseba-rodriguez:
   papers: []
   slug: kepa-joseba-rodriguez
   venues: []
+kepa-joseba-rodriguez1:
+  coauthors:
+  - - christian-raymond
+    - 1
+  - - giuseppe-riccardi
+    - 1
+  - - joanna-wisniewska
+    - 1
+  first: Kepa
+  full: Kepa Joseba Rodriguez
+  last: Joseba Rodriguez
+  papers:
+  - Z07-4037
+  slug: kepa-joseba-rodriguez1
+  venues:
+  - - SEMDIAL
+    - 1
 kepa-sarasola:
   coauthors: []
   first: Kepa
@@ -1276,6 +1400,38 @@ koldo-gojenola:
   papers: []
   slug: koldo-gojenola
   venues: []
+konstantina-garoufi:
+  coauthors:
+  - - alexander-koller
+    - 1
+  - - andrew-gargett
+    - 1
+  first: Konstantina
+  full: Konstantina Garoufi
+  last: Garoufi
+  papers:
+  - Z10-3006
+  slug: konstantina-garoufi
+  venues:
+  - - SEMDIAL
+    - 1
+koray-balci:
+  coauthors:
+  - - elena-not
+    - 1
+  - - fabio-pianesi
+    - 1
+  - - massimo-zancanaro
+    - 1
+  first: Koray
+  full: Koray Balci
+  last: Balci
+  papers:
+  - Z07-4036
+  slug: koray-balci
+  venues:
+  - - SEMDIAL
+    - 1
 kordula-de-kuthy:
   coauthors: []
   first: Kordula De
@@ -1360,8 +1516,21 @@ kristiina-jokinen:
   papers: []
   slug: kristiina-jokinen
   venues: []
+kristina-lundholm:
+  coauthors: []
+  first: Kristina
+  full: Kristina Lundholm
+  last: Lundholm
+  papers:
+  - Z11-4037
+  slug: kristina-lundholm
+  venues:
+  - - SEMDIAL
+    - 1
 kristina-lundholm-fors:
   coauthors:
+  - - jessica-villing
+    - 1
   - - ellen-breitholtz
     - 1
   first: Kristina Lundholm
@@ -1369,10 +1538,11 @@ kristina-lundholm-fors:
   last: Fors
   papers:
   - Z16-4017
+  - Z11-3011
   slug: kristina-lundholm-fors
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 kristina-nilsson-bjorkenstam:
   coauthors: []
   first: Kristina
@@ -1492,6 +1662,25 @@ kwong-cheong-wong:
   venues:
   - - SEMDIAL
     - 2
+kyle-aron:
+  coauthors:
+  - - glenn-taylor
+    - 1
+  - - richard-frederiksen
+    - 1
+  - - jacob-crossman
+    - 1
+  - - jonathan-voigt
+    - 1
+  first: Kyle
+  full: Kyle Aron
+  last: Aron
+  papers:
+  - Z11-4033
+  slug: kyle-aron
+  venues:
+  - - SEMDIAL
+    - 1
 kyle-richardson:
   coauthors:
   - - jonas-kuhn

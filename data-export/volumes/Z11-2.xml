@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="schubert-2011-human">
+    <titleInfo>
+        <title>What Would a Human-Like Dialogue Agent Need to Know?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Lenhart</namePart>
+        <namePart type="given">K</namePart>
+        <namePart type="family">Schubert</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">schubert-2011-human</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-K._semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2011-sep</date>
+    </part>
+</mods>
+<mods ID="hobbes-2011-structures">
+    <titleInfo>
+        <title>Structures in Three-Person Decision-Making Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jerry</namePart>
+        <namePart type="given">R</namePart>
+        <namePart type="family">Hobbes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hobbes-2011-structures</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-R._semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2011-sep</date>
+    </part>
+</mods>
+<mods ID="healey-2011-structural">
+    <titleInfo>
+        <title>Structural Divergence in Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Patrick</namePart>
+        <namePart type="given">G</namePart>
+        <namePart type="given">T</namePart>
+        <namePart type="family">Healey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">healey-2011-structural</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-G._semdial_0017.pdf</url>
+    </location>
+    <part>
+        <date>2011-sep</date>
+    </part>
+</mods>
+<mods ID="schlangen-2011-incremental">
+    <titleInfo>
+        <title>Incremental Dialogue Processing</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">schlangen-2011-incremental</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Schlangen_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2011-sep</date>
+    </part>
+</mods>
+</modsCollection>

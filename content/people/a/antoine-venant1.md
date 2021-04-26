@@ -1,5 +1,5 @@
 ---
-lastname: Venant,
+lastname: Venant
 name: antoine-venant1
-title: Antoine Venant,
+title: Antoine Venant
 ---

@@ -184,15 +184,13 @@ hannah-rohde:
   coauthors:
   - - chris-cummins
     - 2
-  - - alexandra-lorson
-    - 1
   - - ernisa-marzuki
     - 1
   - - gareth-clegg
     - 1
   - - holly-branigan
     - 1
-  - - hodgdon-stevens
+  - - alexandra-lorson
     - 1
   - - scott-seyfarth
     - 1
@@ -201,6 +199,8 @@ hannah-rohde:
   - - gerhard-jaeger
     - 1
   - - stefan-kaufmann
+    - 1
+  - - hodgdon-stevens
     - 1
   first: Hannah
   full: Hannah Rohde
@@ -233,10 +233,12 @@ hanne-fersoe:
 hannes-rieser:
   coauthors:
   - - florian-hahn
-    - 2
+    - 4
   - - insa-lawler
     - 2
   - - udo-klein
+    - 1
+  - - massimo-poesio
     - 1
   - - julia-peltason
     - 1
@@ -252,10 +254,15 @@ hannes-rieser:
   - Z14-4029
   - Z13-4034
   - Z12-4035
+  - Z11-3006
+  - Z11-4029
+  - Z10-3017
+  - Z09-3011
+  - Z08-4028
   slug: hannes-rieser
   venues:
   - - SEMDIAL
-    - 4
+    - 9
 hans-dybkjaer:
   coauthors: []
   first: Hans
@@ -461,9 +468,15 @@ harry-bratt:
 harry-bunt:
   coauthors:
   - - volha-petukhova
-    - 2
+    - 6
   - - andrei-malchanau
-    - 2
+    - 3
+  - - marcin-wlodarczak
+    - 1
+  - - roser-morante
+    - 1
+  - - simon-keizer
+    - 1
   - - ramkumar-aruchamy
     - 1
   first: Harry
@@ -473,10 +486,16 @@ harry-bunt:
   - Z17-3015
   - Z15-4041
   - Z12-3016
+  - Z10-3005
+  - Z10-4025
+  - Z10-4028
+  - Z09-2002
+  - Z09-3009
+  - Z07-3006
   slug: harry-bunt
   venues:
   - - SEMDIAL
-    - 3
+    - 9
 harry-j-tily:
   coauthors: []
   first: Harry J.
@@ -658,7 +677,7 @@ helen-hastie:
   coauthors:
   - - nina-dethlefs
     - 2
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 2
   - - verena-rieser
     - 2
@@ -858,17 +877,18 @@ hema-a-murthy:
 hendrik-buschmeier:
   coauthors:
   - - stefan-kopp
-    - 2
+    - 3
   first: Hendrik
   full: Hendrik Buschmeier
   last: Buschmeier
   papers:
   - Z14-3006
   - Z12-3005
+  - Z11-4028
   slug: hendrik-buschmeier
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 hendrik-harkema:
   coauthors:
   - - jiaying-shen
@@ -945,6 +965,17 @@ henriette-de-swart:
   venues:
   - - SEMDIAL
     - 1
+henry-prakken:
+  coauthors: []
+  first: Henry
+  full: Henry Prakken
+  last: Prakken
+  papers:
+  - Z10-2005
+  slug: henry-prakken
+  venues:
+  - - SEMDIAL
+    - 1
 henry-s-thompson:
   coauthors: []
   first: Henry S.
@@ -953,6 +984,23 @@ henry-s-thompson:
   papers: []
   slug: henry-s-thompson
   venues: []
+herbert-clark:
+  coauthors:
+  - - daniel-richardson
+    - 1
+  - - rick-dale
+    - 1
+  - - john-tomlinson
+    - 1
+  first: Herbert
+  full: Herbert Clark
+  last: Clark
+  papers:
+  - Z08-3015
+  slug: herbert-clark
+  venues:
+  - - SEMDIAL
+    - 1
 herbert-gish:
   coauthors: []
   first: Herbert
@@ -962,6 +1010,32 @@ herbert-gish:
   slug: herbert-gish
   venues: []
 heriberto-cuayahuitl:
+  coauthors:
+  - - nina-dethlefs
+    - 1
+  - - kai
+    - 1
+  - - florian-richter
+    - 1
+  - - elena-andonova
+    - 1
+  - - john-bateman
+    - 1
+  - - simon-keizer
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Heriberto
+  full: "Heriberto Cuay\xE1huitl"
+  last: "Cuay\xE1huitl"
+  papers:
+  - Z15-3015
+  - Z10-4024
+  slug: heriberto-cuayahuitl
+  venues:
+  - - SEMDIAL
+    - 2
+heriberto-cuayahuitl1:
   coauthors:
   - - nina-dethlefs
     - 2
@@ -1007,25 +1081,10 @@ heriberto-cuayahuitl:
   papers:
   - Z14-4024
   - Z14-4031
-  slug: heriberto-cuayahuitl
-  venues:
-  - - SEMDIAL
-    - 2
-heriberto-cuayahuitl1:
-  coauthors:
-  - - simon-keizer
-    - 1
-  - - oliver-lemon
-    - 1
-  first: Heriberto
-  full: "Heriberto Cuay\xE1huitl"
-  last: "Cuay\xE1huitl"
-  papers:
-  - Z15-3015
   slug: heriberto-cuayahuitl1
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 hermann-ney:
   coauthors: []
   first: Hermann
@@ -1221,14 +1280,12 @@ hiroaki-saito:
   venues: []
 hiroaki-sugiyama:
   coauthors:
-  - - tsunehiro-arimoto
+  - - ryuichiro-higashinaka
     - 2
   - - hiromi-narimatsu
     - 2
-  - - ryuichiro-higashinaka
+  - - tsunehiro-arimoto
     - 2
-  - - masahiro-mizukami
-    - 1
   - - kazuki-sakai
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
@@ -1244,6 +1301,8 @@ hiroaki-sugiyama:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
+    - 1
+  - - masahiro-mizukami
     - 1
   first: Hiroaki
   full: Hiroaki Sugiyama
@@ -1281,14 +1340,12 @@ hiromi-nakaiwa:
   venues: []
 hiromi-narimatsu:
   coauthors:
-  - - tsunehiro-arimoto
+  - - ryuichiro-higashinaka
     - 2
   - - hiroaki-sugiyama
     - 2
-  - - ryuichiro-higashinaka
+  - - tsunehiro-arimoto
     - 2
-  - - masahiro-mizukami
-    - 1
   - - kazuki-sakai
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
@@ -1304,6 +1361,8 @@ hiromi-narimatsu:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
+    - 1
+  - - masahiro-mizukami
     - 1
   first: Hiromi
   full: Hiromi Narimatsu
@@ -1347,6 +1406,19 @@ hiroshi-g-okuno:
   papers: []
   slug: hiroshi-g-okuno
   venues: []
+hiroshi-ichikawa:
+  coauthors:
+  - - takenobu-tokunaga
+    - 1
+  first: Hiroshi
+  full: Hiroshi Ichikawa
+  last: Ichikawa
+  papers:
+  - Z07-4031
+  slug: hiroshi-ichikawa
+  venues:
+  - - SEMDIAL
+    - 1
 hiroshi-ishiguro:
   coauthors:
   - - ryuichiro-higashinaka
@@ -1801,7 +1873,7 @@ hugues-bouchard:
     - 1
   - - panos-alexopoulos
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1

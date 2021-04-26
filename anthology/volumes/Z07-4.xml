@@ -1,0 +1,846 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="bel-enguix-jimenez-lopez-2007-game">
+    <titleInfo>
+        <title>A Game-Based Strategy for Optimizing Agents’ Argumentation in Deliberation Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gemma</namePart>
+        <namePart type="family">Bel-Enguix</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">M</namePart>
+        <namePart type="given">Dolores</namePart>
+        <namePart type="family">Jiménez-López</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bel-enguix-jimenez-lopez-2007-game</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Bel_semdial_0044.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="bick-ahlmann-hansen-2007-fyntour">
+    <titleInfo>
+        <title>The Fyntour Multilingual Weather and Sea Dialogue System</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Eckhard</namePart>
+        <namePart type="family">Bick</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jens</namePart>
+        <namePart type="family">Ahlmann Hansen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bick-ahlmann-hansen-2007-fyntour</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Bick_semdial_0026.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="bobbert-wolska-2007-dialog">
+    <titleInfo>
+        <title>Dialog OS: an extensible platform for teaching spoken dialogue systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daniel</namePart>
+        <namePart type="family">Bobbert</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Magdalena</namePart>
+        <namePart type="family">Wolska</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bobbert-wolska-2007-dialog</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Bobbert_semdial_0045.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="fishel-2007-complex">
+    <titleInfo>
+        <title>Complex Taxonomy Dialogue Act Recognition with a Bayesian Classifier</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mark</namePart>
+        <namePart type="family">Fishel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fishel-2007-complex</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Fishel_semdial_0045.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="foppolo-2007-default">
+    <titleInfo>
+        <title>Default preferences in donkey anaphora resolution</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Francesca</namePart>
+        <namePart type="family">Foppolo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">foppolo-2007-default</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Foppolo_semdial_0045.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="gatius-gonzalez-2007-discourse">
+    <titleInfo>
+        <title>Discourse Management in Voice Systems for Accessing Web Services</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marta</namePart>
+        <namePart type="family">Gatius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Meritxell</namePart>
+        <namePart type="family">González</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gatius-gonzalez-2007-discourse</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Gatius_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="guhe-bard-2007-adaptation">
+    <titleInfo>
+        <title>Adaptation of the use of colour terms in referring expressions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Markus</namePart>
+        <namePart type="family">Guhe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Bard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">guhe-bard-2007-adaptation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Guhe_semdial_0028.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="horchani-etal-2007-platform">
+    <titleInfo>
+        <title>A Platform for Designing Multimodal Dialogic and Presentation Strategies</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Meriam</namePart>
+        <namePart type="family">Horchani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dominique</namePart>
+        <namePart type="family">Fréard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Eric</namePart>
+        <namePart type="family">Jamet</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Laurence</namePart>
+        <namePart type="family">Nigay</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Franck</namePart>
+        <namePart type="family">Panaget</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">horchani-etal-2007-platform</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Meriam_semdial_0029.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="hurtado-etal-2007-adapting">
+    <titleInfo>
+        <title>Adapting a Statistical Dialog Model for a New Domain</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Lluís</namePart>
+        <namePart type="given">F</namePart>
+        <namePart type="family">Hurtado</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Griol</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Encarna</namePart>
+        <namePart type="family">Segarra</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Emilio</namePart>
+        <namePart type="family">Sanchis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hurtado-etal-2007-adapting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Hurtado_semdial_0030.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="ichikawa-tokunaga-2007-empirical">
+    <titleInfo>
+        <title>An empirical study on detection and prediction of topic shifts ininformation seeking chats</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hiroshi</namePart>
+        <namePart type="family">Ichikawa</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Takenobu</namePart>
+        <namePart type="family">Tokunaga</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ichikawa-tokunaga-2007-empirical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Ichikawa_semdial_0031.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="kersey-etal-2007-collaboration">
+    <titleInfo>
+        <title>Collaboration in Peer Learning Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Cynthia</namePart>
+        <namePart type="family">Kersey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Barbara</namePart>
+        <namePart type="family">Di Eugenio</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pamela</namePart>
+        <namePart type="family">Jordan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sandra</namePart>
+        <namePart type="family">Katz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kersey-etal-2007-collaboration</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Kersey_semdial_0032.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="kirschner-2007-bob">
+    <titleInfo>
+        <title>The BoB IQA System: a Domain Expert’s Perspective</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Manuel</namePart>
+        <namePart type="family">Kirschner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kirschner-2007-bob</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Kirschner_semdial_0033.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="manchon-etal-2007-ambrosio">
+    <titleInfo>
+        <title>AMBROSIO: The MIMUS talking head</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Pilar</namePart>
+        <namePart type="family">Manchón</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Antonio</namePart>
+        <namePart type="family">Ávila</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Ávila</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Guillermo</namePart>
+        <namePart type="family">Pérez</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gabriel</namePart>
+        <namePart type="family">Amores</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">manchon-etal-2007-ambrosio</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Manchon_semdial_0034.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="manchon-etal-2007-semi">
+    <titleInfo>
+        <title>Semi-automated testing of real world applications in non-menu-based dialogue systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Pilar</namePart>
+        <namePart type="family">Manchón</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Guillermo</namePart>
+        <namePart type="family">Pérez</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gabriel</namePart>
+        <namePart type="family">Amores</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jesús</namePart>
+        <namePart type="family">González</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">manchon-etal-2007-semi</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Manchon_semdial_0035.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="not-etal-2007-enhancing">
+    <titleInfo>
+        <title>Enhancing System Communication through Synthetic Characters</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Elena</namePart>
+        <namePart type="family">Not</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Koray</namePart>
+        <namePart type="family">Balci</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Fabio</namePart>
+        <namePart type="family">Pianesi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Massimo</namePart>
+        <namePart type="family">Zancanaro</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">not-etal-2007-enhancing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Not_semdial_0036.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="raymond-etal-2007-luna">
+    <titleInfo>
+        <title>The LUNA Corpus: an Annotation Scheme for a Multi-domain Multi-lingual Dialogue Corpus</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christian</namePart>
+        <namePart type="family">Raymond</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Giuseppe</namePart>
+        <namePart type="family">Riccardi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kepa</namePart>
+        <namePart type="family">Joseba Rodriguez</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Joanna</namePart>
+        <namePart type="family">Wisniewska</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">raymond-etal-2007-luna</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Raymond_semdial_0037.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="rojas-barahona-2007-adapting">
+    <titleInfo>
+        <title>Adapting Combinatory Categorial Grammars in a Framework for HealthCare Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Lina</namePart>
+        <namePart type="given">Maria</namePart>
+        <namePart type="family">Rojas-Barahona</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">rojas-barahona-2007-adapting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Rojas_semdial_0038.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+<mods ID="subba-di-eugenio-2007-automatic">
+    <titleInfo>
+        <title>Automatic Discourse Segmentation using Neural Networks</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Rajen</namePart>
+        <namePart type="family">Subba</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Barbara</namePart>
+        <namePart type="family">Di Eugenio</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">subba-di-eugenio-2007-automatic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Subba_semdial_0039.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+</modsCollection>

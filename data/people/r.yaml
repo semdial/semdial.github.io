@@ -30,6 +30,19 @@ r-piotrowski:
   papers: []
   slug: r-piotrowski
   venues: []
+rachel-a-ryskin:
+  coauthors:
+  - - sarah-brown-schmidt
+    - 1
+  first: Rachel A.
+  full: Rachel A. Ryskin
+  last: Ryskin
+  papers:
+  - Z11-4038
+  slug: rachel-a-ryskin
+  venues:
+  - - SEMDIAL
+    - 1
 rachel-edita-roxas:
   coauthors: []
   first: Rachel Edita
@@ -204,6 +217,19 @@ rajen-chatterjee:
   papers: []
   slug: rajen-chatterjee
   venues: []
+rajen-subba:
+  coauthors:
+  - - barbara-di-eugenio1
+    - 1
+  first: Rajen
+  full: Rajen Subba
+  last: Subba
+  papers:
+  - Z07-4039
+  slug: rajen-subba
+  venues:
+  - - SEMDIAL
+    - 1
 rajesh-bhat:
   coauthors: []
   first: Rajesh
@@ -263,10 +289,6 @@ ralf-klabunde:
     - 3
   - - sebastian-reusse
     - 2
-  - - jon-stevens
-    - 1
-  - - ronja-laarmann-quante
-    - 1
   - - christoph-hesse
     - 1
   - - maryam-mohammadi
@@ -275,7 +297,11 @@ ralf-klabunde:
     - 1
   - - judith-fischer
     - 1
+  - - jon-stevens
+    - 1
   - - jon-stevens1
+    - 1
+  - - ronja-laarmann-quante
     - 1
   first: Ralf
   full: Ralf Klabunde
@@ -324,7 +350,7 @@ ramesh-manuvinakurike:
   coauthors:
   - - maike-paetzel
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   first: Ramesh
   full: Ramesh Manuvinakurike
@@ -444,7 +470,21 @@ raquel-fernandez:
   coauthors:
   - - julian-j-schloder
     - 3
-  - - robert-grimm
+  - - laura-aina
+    - 1
+  - - natalia-philippova
+    - 1
+  - - valentin-vogelmann
+    - 1
+  - - matthew-frampton
+    - 1
+  - - patrick-ehlen
+    - 1
+  - - anish-adukuzhiyil
+    - 1
+  - - stanley-peters
+    - 1
+  - - amy-isard
     - 1
   - - alberto-testoni
     - 1
@@ -452,21 +492,21 @@ raquel-fernandez:
     - 1
   - - raffaella-bernardi
     - 1
-  - - laura-aina
-    - 1
-  - - natalia-philippova
-    - 1
-  - - valentin-vogelmann
-    - 1
   - - janosch-haber
     - 1
   - - elia-bruni
     - 1
-  - - sarah-hiller
+  - - ines-crespo
     - 1
-  - - amy-isard
+  - - richard-kunert
+    - 1
+  - - willem-zuidema
     - 1
   - - ellen-breitholtz
+    - 1
+  - - robert-grimm
+    - 1
+  - - sarah-hiller
     - 1
   first: Raquel
   full: "Raquel Fern\xE1ndez"
@@ -481,6 +521,10 @@ raquel-fernandez:
   - Z14-4028
   - Z14-4047
   - Z13-1000
+  - Z11-3015
+  - Z11-3019
+  - Z10-3018
+  - Z08-3019
   slug: raquel-fernandez
   variant_entries:
   - first: Raquel
@@ -488,7 +532,7 @@ raquel-fernandez:
     last: Fernandez
   venues:
   - - SEMDIAL
-    - 9
+    - 13
 raquel-martinez:
   coauthors: []
   first: Raquel
@@ -729,9 +773,16 @@ renato-de-mori:
   first: Renato
   full: Renato De Mori
   last: De Mori
-  papers: []
+  papers:
+  - Z07-2019
   slug: renato-de-mori
-  venues: []
+  variant_entries:
+  - first: Renato
+    full: Renato de Mori
+    last: de Mori
+  venues:
+  - - SEMDIAL
+    - 1
 rene-schneider:
   coauthors: []
   first: "Ren\xE9"
@@ -827,6 +878,21 @@ richard-a-sharman:
   papers: []
   slug: richard-a-sharman
   venues: []
+richard-andersson:
+  coauthors:
+  - - jana-holsanova
+    - 1
+  - - kenneth-holmqvist
+    - 1
+  first: Richard
+  full: Richard Andersson
+  last: Andersson
+  papers:
+  - Z11-4035
+  slug: richard-andersson
+  venues:
+  - - SEMDIAL
+    - 1
 richard-c-wang:
   coauthors: []
   first: Richard C.
@@ -894,6 +960,25 @@ richard-farkas:
   papers: []
   slug: richard-farkas
   venues: []
+richard-frederiksen:
+  coauthors:
+  - - glenn-taylor
+    - 1
+  - - jacob-crossman
+    - 1
+  - - jonathan-voigt
+    - 1
+  - - kyle-aron
+    - 1
+  first: Richard
+  full: Richard Frederiksen
+  last: Frederiksen
+  papers:
+  - Z11-4033
+  slug: richard-frederiksen
+  venues:
+  - - SEMDIAL
+    - 1
 richard-fritzson:
   coauthors: []
   first: Richard
@@ -918,6 +1003,21 @@ richard-kittredge:
   papers: []
   slug: richard-kittredge
   venues: []
+richard-kunert:
+  coauthors:
+  - - raquel-fernandez
+    - 1
+  - - willem-zuidema
+    - 1
+  first: Richard
+  full: Richard Kunert
+  last: Kunert
+  papers:
+  - Z11-3019
+  slug: richard-kunert
+  venues:
+  - - SEMDIAL
+    - 1
 richard-l-lewis:
   coauthors: []
   first: Richard L.
@@ -934,6 +1034,24 @@ richard-m-stern:
   papers: []
   slug: richard-m-stern
   venues: []
+richard-power:
+  coauthors:
+  - - paul-piwek
+    - 2
+  - - david-hardcastle
+    - 1
+  - - brian-pluss
+    - 1
+  first: Richard
+  full: Richard Power
+  last: Power
+  papers:
+  - Z11-4044
+  - Z07-2021
+  slug: richard-power
+  venues:
+  - - SEMDIAL
+    - 2
 richard-schwartz:
   coauthors: []
   first: Richard
@@ -1003,6 +1121,23 @@ richmond-h-thomason:
   papers: []
   slug: richmond-h-thomason
   venues: []
+rick-dale:
+  coauthors:
+  - - daniel-richardson
+    - 1
+  - - john-tomlinson
+    - 1
+  - - herbert-clark
+    - 1
+  first: Rick
+  full: Rick Dale,
+  last: Dale,
+  papers:
+  - Z08-3015
+  slug: rick-dale
+  venues:
+  - - SEMDIAL
+    - 1
 rick-heemskerk:
   coauthors:
   - - raja-lala
@@ -1040,6 +1175,19 @@ rie-johnson:
   papers: []
   slug: rie-johnson
   venues: []
+rieks-op-den-akker:
+  coauthors:
+  - - david-traum
+    - 1
+  first: Rieks
+  full: Rieks op den Akker
+  last: op den Akker
+  papers:
+  - Z09-4019
+  slug: rieks-op-den-akker
+  venues:
+  - - SEMDIAL
+    - 1
 rihards-kalnins:
   coauthors: []
   first: Rihards
@@ -1338,6 +1486,8 @@ robert-rhys-thomas:
     - 1
 robert-ross:
   coauthors:
+  - - john-bateman
+    - 1
   - - anh-duong-trinh
     - 1
   - - john-kelleher
@@ -1347,10 +1497,11 @@ robert-ross:
   last: Ross
   papers:
   - Z19-4033
+  - Z09-3021
   slug: robert-ross
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 robert-s-belvin:
   coauthors: []
   first: Robert S.
@@ -1474,6 +1625,10 @@ roberto-pieraccini:
 robin-cooper:
   coauthors:
   - - ellen-breitholtz
+    - 2
+  - - staffan-larsson
+    - 1
+  - - jonathan-ginzburg
     - 1
   first: Robin
   full: Robin Cooper
@@ -1481,10 +1636,14 @@ robin-cooper:
   papers:
   - Z18-4022
   - Z14-3007
+  - Z11-3022
+  - Z11-3024
+  - Z10-3016
+  - Z09-3014
   slug: robin-cooper
   venues:
   - - SEMDIAL
-    - 2
+    - 6
 robin-copper:
   coauthors: []
   first: Robin
@@ -1493,6 +1652,21 @@ robin-copper:
   papers:
   - Z13-3005
   slug: robin-copper
+  venues:
+  - - SEMDIAL
+    - 1
+robin-hill:
+  coauthors:
+  - - ellen-gurman-bard
+    - 1
+  - - mary-ellen-foster
+    - 1
+  first: Robin
+  full: Robin Hill
+  last: Hill
+  papers:
+  - Z08-3021
+  slug: robin-hill
   venues:
   - - SEMDIAL
     - 1
@@ -1657,13 +1831,27 @@ romuald-skiba:
   venues: []
 ron-artstein:
   coauthors:
+  - - david-traum
+    - 3
+  - - sudeep-gandhe
+    - 2
+  - - michael-rushforth
+    - 2
+  - - laure-vieu
+    - 1
+  - - fauren-faust
+    - 1
   - - usman-sohail
     - 1
   - - carla-gordon
     - 1
-  - - david-traum
+  - - mark-g-core
     - 1
-  - - fauren-faust
+  - - david-devault
+    - 1
+  - - elsi-kaiser
+    - 1
+  - - amanda-stent
     - 1
   first: Ron
   full: Ron Artstein
@@ -1671,10 +1859,14 @@ ron-artstein:
   papers:
   - Z19-3018
   - Z13-3007
+  - Z11-1000
+  - Z09-3012
+  - Z09-4024
+  - Z07-1000
   slug: ron-artstein
   venues:
   - - SEMDIAL
-    - 2
+    - 6
 ron-daniel-jr:
   coauthors: []
   first: Ron
@@ -1749,7 +1941,7 @@ roni-ben-aharon:
   venues: []
 ronja-laarmann-quante:
   coauthors:
-  - - jon-stevens
+  - - jon-stevens1
     - 1
   - - anton-benz
     - 1
@@ -1768,6 +1960,12 @@ ronja-laarmann-quante:
     - 1
 ronnie-cann:
   coauthors:
+  - - matthew-purver
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - wilfried-meyer-viol
+    - 1
   - - ruth-kempson
     - 1
   - - stergios-chatzikyriakidis
@@ -1777,10 +1975,11 @@ ronnie-cann:
   last: Cann
   papers:
   - Z15-4035
+  - Z10-3010
   slug: ronnie-cann
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ronnie-w-smith:
   coauthors: []
   first: Ronnie W.
@@ -1817,15 +2016,15 @@ rose-mccabe:
   coauthors:
   - - christine-howes
     - 2
-  - - julian-hough
-    - 1
-  - - matthew-purver
-    - 1
   - - matt-purver
     - 1
   - - patrick-healey
     - 1
   - - mary-lavelle
+    - 1
+  - - julian-hough
+    - 1
+  - - matthew-purver
     - 1
   first: Rose
   full: Rose McCabe
@@ -1846,6 +2045,21 @@ rosemary-stevenson:
   papers: []
   slug: rosemary-stevenson
   venues: []
+roser-morante:
+  coauthors:
+  - - simon-keizer
+    - 1
+  - - harry-bunt
+    - 1
+  first: Roser
+  full: Roser Morante
+  last: Morante
+  papers:
+  - Z07-3006
+  slug: roser-morante
+  venues:
+  - - SEMDIAL
+    - 1
 roser-sauri:
   coauthors: []
   first: Roser
@@ -2014,27 +2228,33 @@ ruth-aylett:
     - 2
 ruth-kempson:
   coauthors:
+  - - eleni-gregoromichelaki
+    - 4
+  - - christine-howes
+    - 3
   - - julian-hough
     - 3
   - - mehrnoosh-sadrzadeh
     - 3
   - - matthew-purver
     - 3
-  - - eleni-gregoromichelaki
-    - 2
-  - - christine-howes
+  - - andrew-gargett
     - 2
   - - arash-eshghi
     - 2
   - - stergios-chatzikyriakidis
     - 2
-  - - gijs-wijnholds
+  - - matt-purver
     - 1
-  - - ronnie-cann
+  - - greg-mills
+    - 1
+  - - gijs-wijnholds
     - 1
   - - jieun-kiaer
     - 1
   - - graham-white
+    - 1
+  - - ronnie-cann
     - 1
   first: Ruth
   full: Ruth Kempson
@@ -2044,10 +2264,12 @@ ruth-kempson:
   - Z19-4025
   - Z18-3016
   - Z15-4035
+  - Z09-3015
+  - Z07-3013
   slug: ruth-kempson
   venues:
   - - SEMDIAL
-    - 4
+    - 6
 rutu-mulkar-mehta:
   coauthors: []
   first: Rutu
@@ -2138,16 +2360,14 @@ ryu-iida:
     - 1
 ryuichiro-higashinaka:
   coauthors:
-  - - tsunehiro-arimoto
-    - 2
   - - hiroaki-sugiyama
     - 2
   - - hiromi-narimatsu
     - 2
+  - - tsunehiro-arimoto
+    - 2
   - - yoshihiro-matsuo
     - 2
-  - - masahiro-mizukami
-    - 1
   - - kazuki-sakai
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
@@ -2161,6 +2381,8 @@ ryuichiro-higashinaka:
   - - yuichiro-yoshikawa
     - 1
   - - hiroshi-ishiguro
+    - 1
+  - - masahiro-mizukami
     - 1
   - - yuiko-tsunomori
     - 1

@@ -66,10 +66,12 @@ yanchao-yu:
   coauthors:
   - - oliver-lemon
     - 5
-  - - verena-rieser
-    - 2
   - - arash-eshghi
     - 2
+  - - verena-rieser
+    - 2
+  - - arash-eshghi1
+    - 1
   - - helen-hastie
     - 1
   - - marie-aude-aufaure
@@ -78,7 +80,7 @@ yanchao-yu:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -107,8 +109,6 @@ yanchao-yu:
   - - srinivasan-janarthanam
     - 1
   - - andy-taylor
-    - 1
-  - - arash-eshghi1
     - 1
   first: Yanchao
   full: Yanchao Yu
@@ -301,17 +301,17 @@ yaser-al-onaizan:
 yasuharu-den:
   coauthors:
   - - yasuhiro-katagiri
-    - 5
+    - 6
   - - katsuya-takanashi
-    - 5
+    - 6
   - - masato-ishizaki
-    - 5
+    - 6
   - - mika-enomoto
-    - 5
+    - 6
   - - shogo-okada
     - 2
   - - yosuke-matsusaka
-    - 1
+    - 2
   first: Yasuharu
   full: Yasuharu Den
   last: Den
@@ -321,24 +321,25 @@ yasuharu-den:
   - Z14-4034
   - Z13-4032
   - Z12-4031
+  - Z11-4042
   slug: yasuharu-den
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 yasuhiro-katagiri:
   coauthors:
   - - katsuya-takanashi
-    - 6
+    - 7
   - - masato-ishizaki
-    - 5
+    - 6
   - - mika-enomoto
-    - 5
+    - 6
   - - yasuharu-den
-    - 5
+    - 6
   - - shogo-okada
     - 2
   - - yosuke-matsusaka
-    - 1
+    - 2
   first: Yasuhiro
   full: Yasuhiro Katagiri
   last: Katagiri
@@ -349,10 +350,11 @@ yasuhiro-katagiri:
   - Z14-4034
   - Z13-4032
   - Z12-4031
+  - Z11-4042
   slug: yasuhiro-katagiri
   venues:
   - - SEMDIAL
-    - 6
+    - 7
 yasunari-harada:
   coauthors:
   - - miwa-morishita
@@ -393,6 +395,14 @@ ye-tian:
   coauthors:
   - - jonathan-ginzburg
     - 3
+  - - volha-petukhova
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - staffan-larsson
+    - 1
+  - - jean-philippe-bernardy
+    - 1
   - - david-schlangen
     - 1
   - - julian-hough
@@ -402,14 +412,6 @@ ye-tian:
   - - sam-green
     - 1
   - - caspar-addyman
-    - 1
-  - - volha-petukhova
-    - 1
-  - - vladislav-maraev
-    - 1
-  - - staffan-larsson
-    - 1
-  - - jean-philippe-bernardy
     - 1
   - - claire-beyssade
     - 1
@@ -574,6 +576,28 @@ yingju-xia:
   papers: []
   slug: yingju-xia
   venues: []
+yo-sato:
+  coauthors:
+  - - jonathan-ginzburg
+    - 1
+  - - patrick-healey
+    - 1
+  - - andrew-gargett
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - christine-howes
+    - 1
+  first: Yo
+  full: Yo Sato
+  last: Sato
+  papers:
+  - Z08-1000
+  - Z08-3010
+  slug: yo-sato
+  venues:
+  - - SEMDIAL
+    - 2
 yoan-gutierrez:
   coauthors: []
   first: Yoan
@@ -729,24 +753,25 @@ yoshiyuki-kotani:
 yosuke-matsusaka:
   coauthors:
   - - yasuhiro-katagiri
-    - 1
-  - - masato-ishizaki
-    - 1
-  - - yasuharu-den
-    - 1
+    - 2
   - - katsuya-takanashi
-    - 1
+    - 2
+  - - masato-ishizaki
+    - 2
   - - mika-enomoto
-    - 1
+    - 2
+  - - yasuharu-den
+    - 2
   first: Yosuke
   full: Yosuke Matsusaka
   last: Matsusaka
   papers:
   - Z12-4031
+  - Z11-4042
   slug: yosuke-matsusaka
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 yosuke-takashima:
   coauthors: []
   first: Yosuke
@@ -1085,7 +1110,7 @@ yves-vanrompay:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1

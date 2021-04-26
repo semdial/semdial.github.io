@@ -112,6 +112,20 @@ oiwi-parker-jones:
   papers: []
   slug: oiwi-parker-jones
   venues: []
+okko-buss:
+  coauthors:
+  - - david-schlangen
+    - 2
+  first: Okko
+  full: "Okko Bu\xDF"
+  last: "Bu\xDF"
+  papers:
+  - Z11-3010
+  - Z10-3009
+  slug: okko-buss
+  venues:
+  - - SEMDIAL
+    - 2
 olatz-ansa:
   coauthors: []
   first: Olatz
@@ -155,22 +169,60 @@ oliver-lemon:
     - 5
   - - yanchao-yu
     - 5
+  - - srinivasan-janarthanam
+    - 4
   - - simon-keizer
     - 3
+  - - igor-shalyminov
+    - 2
+  - - xingkun-liu
+    - 2
   - - nina-dethlefs
     - 2
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 2
   - - helen-hastie
     - 2
   - - ioannis-efstathiou
     - 2
-  - - xingkun-liu
-    - 2
-  - - srinivasan-janarthanam
-    - 2
-  - - igor-shalyminov
-    - 2
+  - - ivan-v-meza-ruiz
+    - 1
+  - - sebastian-riedel
+    - 1
+  - - phil-bartie
+    - 1
+  - - william-mackaness
+    - 1
+  - - tiphaine-dalmas
+    - 1
+  - - jana-gotze
+    - 1
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - alex-lascarides
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
+    - 1
+  - - arash-eshghi1
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -203,41 +255,7 @@ oliver-lemon:
     - 1
   - - zhuoran-wang
     - 1
-  - - heriberto-cuayahuitl1
-    - 1
-  - - arash-eshghi1
-    - 1
-  - - phil-bartie
-    - 1
-  - - william-mackaness
-    - 1
-  - - tiphaine-dalmas
-    - 1
-  - - jana-gotze
-    - 1
-  - - stergos-afantenos
-    - 1
-  - - nicholas-asher
-    - 1
-  - - farah-benamara
-    - 1
-  - - anais-cadilhac
-    - 1
-  - - cedric-degremont1
-    - 1
-  - - pascal-denis
-    - 1
-  - - markus-guhe
-    - 1
-  - - alex-lascarides
-    - 1
-  - - philippe-muller
-    - 1
-  - - soumya-paul
-    - 1
-  - - vladimir-popescu
-    - 1
-  - - laure-vieu
+  - - heriberto-cuayahuitl
     - 1
   first: Oliver
   full: Oliver Lemon
@@ -260,10 +278,14 @@ oliver-lemon:
   - Z12-4025
   - Z12-4029
   - Z12-4033
+  - Z09-4028
+  - Z08-3011
+  - Z08-4025
+  - Z08-4032
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 17
+    - 21
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.

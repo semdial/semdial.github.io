@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="popescu-caelen-2009-non">
+    <titleInfo>
+        <title>The Non-Individuation Constraint Revisited: When to Produce Free Choice Items in Multi-Party Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Vladimir</namePart>
+        <namePart type="family">Popescu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jean</namePart>
+        <namePart type="family">Caelen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2009-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Stockholm, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">popescu-caelen-2009-non</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z09-Popescu_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2009-jun</date>
+    </part>
+</mods>
+</modsCollection>

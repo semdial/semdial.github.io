@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="andonova-coventry-2009-alignment">
+    <titleInfo>
+        <title>Alignment and Priming of Spatial Perspective</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Elena</namePart>
+        <namePart type="family">Andonova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kenny</namePart>
+        <namePart type="given">R</namePart>
+        <namePart type="family">Coventry</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2009-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Stockholm, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">andonova-coventry-2009-alignment</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z09-Andonova_semdial_0030.pdf</url>
+    </location>
+    <part>
+        <date>2009-jun</date>
+    </part>
+</mods>
+</modsCollection>

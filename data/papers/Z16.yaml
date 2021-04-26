@@ -443,7 +443,7 @@ Z16-4019:
     last: Klabunde
   - first: Jon
     full: Jon Stevens,
-    id: jon-stevens1
+    id: jon-stevens
     last: Stevens,
   - first: Anton
     full: Anton Benz
@@ -470,7 +470,7 @@ Z16-4020:
     last: "Schl\xF6der"
   - first: Antoine
     full: Antoine Venant,
-    id: antoine-venant1
+    id: antoine-venant
     last: Venant,
   - first: Nicholas
     full: Nicholas Asher

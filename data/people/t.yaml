@@ -6,6 +6,19 @@ t-florian-jaeger:
   papers: []
   slug: t-florian-jaeger
   venues: []
+t-healey:
+  coauthors:
+  - - patrick-g-t
+    - 1
+  first: T.
+  full: T. Healey
+  last: Healey
+  papers:
+  - Z11-3017
+  slug: t-healey
+  venues:
+  - - SEMDIAL
+    - 1
 t-mark-ellison:
   coauthors: []
   first: T. Mark
@@ -176,6 +189,8 @@ takehito-utsuro:
   venues: []
 takenobu-tokunaga:
   coauthors:
+  - - hiroshi-ichikawa
+    - 1
   - - kotaro-funakoshi
     - 1
   - - mikio-nakano
@@ -187,10 +202,11 @@ takenobu-tokunaga:
   last: Tokunaga
   papers:
   - Z12-4023
+  - Z07-4031
   slug: takenobu-tokunaga
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 takeo-honda:
   coauthors: []
   first: Takeo
@@ -263,6 +279,19 @@ tamas-varadi:
   papers: []
   slug: tamas-varadi
   venues: []
+tamina-stephenson:
+  coauthors:
+  - - sophia-malamud
+    - 1
+  first: Tamina
+  full: Tamina Stephenson
+  last: Stephenson
+  papers:
+  - Z11-3014
+  slug: tamina-stephenson
+  venues:
+  - - SEMDIAL
+    - 1
 tangqiu-li:
   coauthors: []
   first: Tangqiu
@@ -271,6 +300,19 @@ tangqiu-li:
   papers: []
   slug: tangqiu-li
   venues: []
+tania-henetz:
+  coauthors:
+  - - marisa-tice
+    - 1
+  first: Tania
+  full: Tania Henetz
+  last: Henetz
+  papers:
+  - Z11-4040
+  slug: tania-henetz
+  venues:
+  - - SEMDIAL
+    - 1
 tania-rojas-esponda:
   coauthors: []
   first: Tania
@@ -331,6 +373,17 @@ tat-seng-chua:
   papers: []
   slug: tat-seng-chua
   venues: []
+tatjana-lucht:
+  coauthors: []
+  first: Tatjana
+  full: Tatjana Lucht
+  last: Lucht
+  papers:
+  - Z07-3008
+  slug: tatjana-lucht
+  venues:
+  - - SEMDIAL
+    - 1
 tatjana-scheffler:
   coauthors:
   - - yulia-clausen
@@ -674,11 +727,11 @@ thomas-wasow:
   venues: []
 thora-tenbrink:
   coauthors:
-  - - gesa-schole
-    - 2
-  - - kenny-coventry
-    - 2
   - - elena-andonova
+    - 4
+  - - kenny-coventry
+    - 3
+  - - gesa-schole
     - 2
   first: Thora
   full: Thora Tenbrink
@@ -686,10 +739,12 @@ thora-tenbrink:
   papers:
   - Z14-4048
   - Z13-4045
+  - Z10-4027
+  - Z08-4034
   slug: thora-tenbrink
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 thoudam-doren-singh:
   coauthors: []
   first: Thoudam Doren
@@ -724,7 +779,7 @@ ti-potter:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -868,6 +923,17 @@ tim-van-de-cruys:
   papers: []
   slug: tim-van-de-cruys
   venues: []
+timo-baumann:
+  coauthors: []
+  first: Timo
+  full: Timo Baumann
+  last: Baumann
+  papers:
+  - Z09-4034
+  slug: timo-baumann
+  venues:
+  - - SEMDIAL
+    - 1
 timo-jarvinen:
   coauthors: []
   first: Timo
@@ -964,11 +1030,11 @@ ting-han:
   coauthors:
   - - david-schlangen
     - 3
-  - - spyros-kousidis
-    - 1
   - - sina-zarriess
     - 1
   - - kazunori-komatani
+    - 1
+  - - spyros-kousidis
     - 1
   - - casey-kennington
     - 1
@@ -1038,6 +1104,21 @@ toan-q-nguyen:
   papers: []
   slug: toan-q-nguyen
   venues: []
+tobias-heinroth:
+  coauthors:
+  - - petra-maria-strauss
+    - 1
+  - - simon-friedmann
+    - 1
+  first: Tobias
+  full: Tobias Heinroth
+  last: Heinroth
+  papers:
+  - Z08-4033
+  slug: tobias-heinroth
+  venues:
+  - - SEMDIAL
+    - 1
 tohru-shimizu:
   coauthors: []
   first: Tohru
@@ -1208,13 +1289,18 @@ tor-klingberg:
   slug: tor-klingberg
   venues: []
 torbjorn-lager:
-  coauthors: []
+  coauthors:
+  - - fredrik-kronlid
+    - 1
   first: "Torbj\xF6rn"
   full: "Torbj\xF6rn Lager"
   last: Lager
-  papers: []
+  papers:
+  - Z07-3018
   slug: torbjorn-lager
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 toru-hirano:
   coauthors:
   - - nozomi-kobayashi
@@ -1351,14 +1437,12 @@ tsong-yi-chen:
   venues: []
 tsunehiro-arimoto:
   coauthors:
+  - - ryuichiro-higashinaka
+    - 2
   - - hiroaki-sugiyama
     - 2
   - - hiromi-narimatsu
     - 2
-  - - ryuichiro-higashinaka
-    - 2
-  - - masahiro-mizukami
-    - 1
   - - kazuki-sakai
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
@@ -1374,6 +1458,8 @@ tsunehiro-arimoto:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
+    - 1
+  - - masahiro-mizukami
     - 1
   first: Tsunehiro
   full: Tsunehiro Arimoto

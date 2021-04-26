@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="roque-2011-tracking">
+    <titleInfo>
+        <title>Tracking Communication and Belief in Virtual Worlds</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Antonio</namePart>
+        <namePart type="family">Roque</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">roque-2011-tracking</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Roque_semdial_0031.pdf</url>
+    </location>
+    <part>
+        <date>2011-sep</date>
+    </part>
+</mods>
+</modsCollection>

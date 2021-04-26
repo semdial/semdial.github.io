@@ -164,6 +164,10 @@ carl-vogel:
   coauthors:
   - - emer-gilmartin
     - 2
+  - - patrick-healey
+    - 1
+  - - arash-eshghi
+    - 1
   - - francesca-bonin
     - 1
   - - nick-campbell
@@ -174,10 +178,11 @@ carl-vogel:
   papers:
   - Z19-4023
   - Z13-4028
+  - Z07-3024
   slug: carl-vogel
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 carla-gordon:
   coauthors:
   - - david-traum
@@ -253,6 +258,38 @@ carlos-d-martinez-hinarejos:
   papers: []
   slug: carlos-d-martinez-hinarejos
   venues: []
+carlos-gomez-gallo:
+  coauthors:
+  - - gregory-aist
+    - 2
+  - - james-allen
+    - 2
+  - - mary-swift
+    - 2
+  - - william-de-beaumont
+    - 1
+  - - sergio-coria
+    - 1
+  - - whitney-gegg-harrison
+    - 1
+  - - joana-pardal
+    - 1
+  - - ellen-campana
+    - 1
+  - - scott-c-stoness
+    - 1
+  - - michael-tanenhaus
+    - 1
+  first: Carlos Gomez
+  full: Carlos Gomez Gallo
+  last: Gallo
+  papers:
+  - Z07-3015
+  - Z07-3025
+  slug: carlos-gomez-gallo
+  venues:
+  - - SEMDIAL
+    - 2
 carlos-henriquez:
   coauthors: []
   first: Carlos
@@ -398,21 +435,21 @@ casey-kennington:
     - 2
   - - soledad-lopez-gambino
     - 2
-  - - spyros-kousidis
+  - - daniel-kondratyuk
     - 1
   - - christine-howes
     - 1
   - - julian-hough
     - 1
-  - - daniel-kondratyuk
-    - 1
-  - - sina-zarriess
-    - 1
-  - - ting-han
-    - 1
   - - gerardo-caracas
     - 1
   - - david-mcneill
+    - 1
+  - - sina-zarriess
+    - 1
+  - - spyros-kousidis
+    - 1
+  - - ting-han
     - 1
   first: Casey
   full: Casey Kennington
@@ -578,21 +615,6 @@ cecilia-ovesdotter-alm:
   venues: []
 cedric-degremont:
   coauthors:
-  - - antoine-venant
-    - 1
-  - - nicholas-asher
-    - 1
-  first: "C\xE9dric"
-  full: "C\xE9dric D\xE9gremont"
-  last: "D\xE9gremont"
-  papers:
-  - Z14-3021
-  slug: cedric-degremont
-  venues:
-  - - SEMDIAL
-    - 1
-cedric-degremont1:
-  coauthors:
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -626,6 +648,21 @@ cedric-degremont1:
   last: Degremont
   papers:
   - Z12-4029
+  slug: cedric-degremont
+  venues:
+  - - SEMDIAL
+    - 1
+cedric-degremont1:
+  coauthors:
+  - - antoine-venant1
+    - 1
+  - - nicholas-asher
+    - 1
+  first: "C\xE9dric"
+  full: "C\xE9dric D\xE9gremont"
+  last: "D\xE9gremont"
+  papers:
+  - Z14-3021
   slug: cedric-degremont1
   venues:
   - - SEMDIAL
@@ -1059,12 +1096,6 @@ chiara-mazzocconi:
     - 2
   - - jonathan-ginzburg
     - 2
-  - - sam-green
-    - 1
-  - - ye-tian
-    - 1
-  - - caspar-addyman
-    - 1
   - - arash-eshghi
     - 1
   - - christine-howes
@@ -1072,6 +1103,12 @@ chiara-mazzocconi:
   - - julian-hough
     - 1
   - - ye-tian1
+    - 1
+  - - sam-green
+    - 1
+  - - ye-tian
+    - 1
+  - - caspar-addyman
     - 1
   first: Chiara
   full: Chiara Mazzocconi
@@ -1266,13 +1303,13 @@ chris-cummins:
   coauthors:
   - - hannah-rohde
     - 2
-  - - alexandra-lorson
-    - 1
   - - ernisa-marzuki
     - 1
   - - gareth-clegg
     - 1
   - - holly-branigan
+    - 1
+  - - alexandra-lorson
     - 1
   - - j-p-de-ruiter
     - 1
@@ -1464,6 +1501,23 @@ christian-mueller:
   papers: []
   slug: christian-mueller
   venues: []
+christian-raymond:
+  coauthors:
+  - - giuseppe-riccardi
+    - 1
+  - - kepa-joseba-rodriguez1
+    - 1
+  - - joanna-wisniewska
+    - 1
+  first: Christian
+  full: Christian Raymond
+  last: Raymond
+  papers:
+  - Z07-4037
+  slug: christian-raymond
+  venues:
+  - - SEMDIAL
+    - 1
 christian-retore:
   coauthors:
   - - davide-catta
@@ -1537,22 +1591,30 @@ christine-howes:
   coauthors:
   - - julian-hough
     - 5
-  - - matthew-purver
+  - - eleni-gregoromichelaki
+    - 4
+  - - ruth-kempson
     - 3
   - - arash-eshghi
     - 3
-  - - rose-mccabe
+  - - matthew-purver
+    - 3
+  - - andrew-gargett
+    - 2
+  - - matt-purver
     - 2
   - - staffan-larsson
-    - 2
-  - - eleni-gregoromichelaki
-    - 2
-  - - ruth-kempson
     - 2
   - - mehrnoosh-sadrzadeh
     - 2
   - - ellen-breitholtz
     - 2
+  - - rose-mccabe
+    - 2
+  - - yo-sato
+    - 1
+  - - greg-mills
+    - 1
   - - casey-kennington
     - 1
   - - anastasia-bondarenko
@@ -1567,21 +1629,19 @@ christine-howes:
     - 1
   - - asad-sayeed
     - 1
-  - - simon-dobnik
-    - 1
-  - - john-kelleher
-    - 1
   - - stergios-chatzikyriakidis
     - 1
   - - jieun-kiaer
     - 1
   - - graham-white
     - 1
-  - - matt-purver
-    - 1
   - - patrick-healey
     - 1
   - - mary-lavelle
+    - 1
+  - - simon-dobnik
+    - 1
+  - - john-kelleher
     - 1
   first: Christine
   full: Christine Howes
@@ -1599,10 +1659,12 @@ christine-howes:
   - Z15-4022
   - Z14-3013
   - Z12-4024
+  - Z09-3015
+  - Z08-3010
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 12
+    - 14
 christine-piatko:
   coauthors: []
   first: Christine
@@ -2241,6 +2303,8 @@ colin-de-la-higuera:
   venues: []
 colin-matheson:
   coauthors:
+  - - mary-ellen-foster
+    - 1
   - - matthew-henderson
     - 1
   - - jon-oberlander
@@ -2253,10 +2317,11 @@ colin-matheson:
   papers:
   - Z12-3017
   - Z12-4027
+  - Z08-3012
   slug: colin-matheson
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 colin-w-wightman:
   coauthors: []
   first: Colin W.
@@ -2281,6 +2346,19 @@ cong-kai-lin:
   papers: []
   slug: cong-kai-lin
   venues: []
+congkai-sun:
+  coauthors:
+  - - louis-philippe-morency
+    - 1
+  first: Congkai
+  full: Congkai Sun
+  last: Sun
+  papers:
+  - Z11-4032
+  slug: congkai-sun
+  venues:
+  - - SEMDIAL
+    - 1
 constantin-orasan:
   coauthors: []
   first: Constantin
@@ -2436,6 +2514,23 @@ curry-i-guinn:
   papers: []
   slug: curry-i-guinn
   venues: []
+cynthia-kersey:
+  coauthors:
+  - - barbara-di-eugenio1
+    - 1
+  - - pamela-jordan
+    - 1
+  - - sandra-katz
+    - 1
+  first: Cynthia
+  full: Cynthia Kersey
+  last: Kersey
+  papers:
+  - Z07-4032
+  slug: cynthia-kersey
+  venues:
+  - - SEMDIAL
+    - 1
 cynthia-van-hee:
   coauthors: []
   first: Cynthia

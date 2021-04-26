@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="barr-2010-distributed">
+    <titleInfo>
+        <title>On the distributed nature of mutual understanding</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Dale</namePart>
+        <namePart type="family">Barr</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">barr-2010-distributed</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Barr_semdial_0001.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="ginzburg-2010-relevance">
+    <titleInfo>
+        <title>Relevance for Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ginzburg-2010-relevance</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Ginzburg_semdial_0020.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="groenendijk-2010-radical">
+    <titleInfo>
+        <title>Radical Inquisitive Semantics</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jeroen</namePart>
+        <namePart type="family">Groenendijk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">groenendijk-2010-radical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Groenendijk_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="prakken-2010-argumentation">
+    <titleInfo>
+        <title>Argumentation in Artificial Intelligence</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Henry</namePart>
+        <namePart type="family">Prakken</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">prakken-2010-argumentation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Prakken_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+</modsCollection>

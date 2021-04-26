@@ -176,11 +176,15 @@ verena-rieser:
     - 6
   - - simon-keizer
     - 3
+  - - markus-guhe
+    - 2
+  - - alex-lascarides
+    - 2
   - - philippe-muller
     - 2
   - - nina-dethlefs
     - 2
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 2
   - - helen-hastie
     - 2
@@ -188,10 +192,26 @@ verena-rieser:
     - 2
   - - zhuoran-wang
     - 2
-  - - markus-guhe
-    - 2
-  - - alex-lascarides
-    - 2
+  - - kevin-o-connor
+    - 1
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont
+    - 1
+  - - pascal-denis
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -233,26 +253,6 @@ verena-rieser:
   - - aimilios-vourliotakis
     - 1
   - - ioannis-efstathiou
-    - 1
-  - - kevin-o-connor
-    - 1
-  - - stergos-afantenos
-    - 1
-  - - nicholas-asher
-    - 1
-  - - farah-benamara
-    - 1
-  - - anais-cadilhac
-    - 1
-  - - cedric-degremont1
-    - 1
-  - - pascal-denis
-    - 1
-  - - soumya-paul
-    - 1
-  - - vladimir-popescu
-    - 1
-  - - laure-vieu
     - 1
   first: Verena
   full: Verena Rieser
@@ -658,17 +658,17 @@ vivian-k-lee:
   venues: []
 vivien-mast:
   coauthors:
-  - - daniel-couto-vale1
-    - 1
-  - - zoe-falomir
-    - 1
-  - - mohammad-fazleh-elahi
-    - 1
   - - christina-freihorst
     - 1
   - - simon-algorta
     - 1
   - - robert-porzel
+    - 1
+  - - daniel-couto-vale1
+    - 1
+  - - zoe-falomir
+    - 1
+  - - mohammad-fazleh-elahi
     - 1
   first: Vivien
   full: Vivien Mast
@@ -706,6 +706,8 @@ vladimir-petkevic:
   venues: []
 vladimir-popescu:
   coauthors:
+  - - jean-caelen
+    - 1
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -714,7 +716,7 @@ vladimir-popescu:
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont1
+  - - cedric-degremont
     - 1
   - - pascal-denis
     - 1
@@ -739,10 +741,11 @@ vladimir-popescu:
   last: Popescu
   papers:
   - Z12-4029
+  - Z09-4018
   slug: vladimir-popescu
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 vladislav-kubon:
   coauthors: []
   first: Vladislav
@@ -803,10 +806,12 @@ vojtech-kovar:
 volha-petukhova:
   coauthors:
   - - harry-bunt
-    - 2
+    - 6
   - - andrei-malchanau
-    - 2
+    - 3
   - - ye-tian
+    - 1
+  - - marcin-wlodarczak
     - 1
   - - ramkumar-aruchamy
     - 1
@@ -817,10 +822,14 @@ volha-petukhova:
   - Z17-1000
   - Z17-3015
   - Z15-4041
+  - Z10-3005
+  - Z10-4025
+  - Z10-4028
+  - Z09-3009
   slug: volha-petukhova
   venues:
   - - SEMDIAL
-    - 3
+    - 7
 volodymyr-yanov:
   coauthors:
   - - carla-gordon

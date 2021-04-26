@@ -1,0 +1,654 @@
+Z10-1000:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: "Pawea\u0142"
+    full: "Pawea\u0142 \u0141upkowski"
+    id: paweal-lupkowski
+    last: "\u0141upkowski"
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: semdial-2010-semantics
+  bibtype: proceedings
+  month: September
+  paper_id: '1000'
+  parent_volume_id: Z10-1
+  publisher: SEMDIAL
+  title: Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2010_pozdial_front_matter.pdf
+  year: '2010'
+Z10-2001:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Dale
+    full: Dale Barr
+    id: dale-barr
+    last: Barr
+  bibkey: barr-2010-distributed
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2001'
+  parent_volume_id: Z10-2
+  publisher: SEMDIAL
+  title: On the distributed nature of mutual understanding
+  title_html: On the distributed nature of mutual understanding
+  url: http://semdial.org/anthology/Z10-Barr_semdial_0001.pdf
+  year: '2010'
+Z10-2002:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: ginzburg-2010-relevance
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2002'
+  parent_volume_id: Z10-2
+  publisher: SEMDIAL
+  title: Relevance for Dialogue
+  title_html: Relevance for Dialogue
+  url: http://semdial.org/anthology/Z10-Ginzburg_semdial_0020.pdf
+  year: '2010'
+Z10-2004:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Jeroen
+    full: Jeroen Groenendijk
+    id: jeroen-groenendijk
+    last: Groenendijk
+  bibkey: groenendijk-2010-radical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2004'
+  parent_volume_id: Z10-2
+  publisher: SEMDIAL
+  title: Radical Inquisitive Semantics
+  title_html: Radical Inquisitive Semantics
+  url: http://semdial.org/anthology/Z10-Groenendijk_semdial_0021.pdf
+  year: '2010'
+Z10-2005:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Henry
+    full: Henry Prakken
+    id: henry-prakken
+    last: Prakken
+  bibkey: prakken-2010-argumentation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2005'
+  parent_volume_id: Z10-2
+  publisher: SEMDIAL
+  title: Argumentation in Artificial Intelligence
+  title_html: Argumentation in Artificial Intelligence
+  url: http://semdial.org/anthology/Z10-Prakken_semdial_0004.pdf
+  year: '2010'
+Z10-3005:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  - first: Andrei
+    full: Andrei Malchanau
+    id: andrei-malchanau
+    last: Malchanau
+  bibkey: petukhova-etal-2010-empirical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3005'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Empirical and theoretical constraints on dialogue act combinations
+  title_html: Empirical and theoretical constraints on dialogue act combinations
+  url: http://semdial.org/anthology/Z10-Petukhova_semdial_0005.pdf
+  year: '2010'
+Z10-3006:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Alexander
+    full: Alexander Koller
+    id: alexander-koller
+    last: Koller
+  - first: Andrew
+    full: Andrew Gargett
+    id: andrew-gargett
+    last: Gargett
+  - first: Konstantina
+    full: Konstantina Garoufi
+    id: konstantina-garoufi
+    last: Garoufi
+  bibkey: koller-etal-2010-scalable
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3006'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: A scalable model of planning perlocutionary acts
+  title_html: A scalable model of planning perlocutionary acts
+  url: http://semdial.org/anthology/Z10-Koller_semdial_0006.pdf
+  year: '2010'
+Z10-3007:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Gregory
+    full: Gregory Mills
+    id: gregory-mills
+    last: Mills
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  bibkey: mills-gregoromichelaki-2010-establishing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3007'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: 'Establishing coherence in dialogue: sequentiality, intentions and negotiation'
+  title_html: 'Establishing coherence in dialogue: sequentiality, intentions and negotiation'
+  url: http://semdial.org/anthology/Z10-Mills_semdial_0007.pdf
+  year: '2010'
+Z10-3008:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: schlangen-2010-practices
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3008'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Practices in Dialogue
+  title_html: Practices in Dialogue
+  url: http://semdial.org/anthology/Z10-Schlangen_semdial_0008.pdf
+  year: '2010'
+Z10-3009:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Okko
+    full: "Okko Bu\xDF"
+    id: okko-buss
+    last: "Bu\xDF"
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: buss-schlangen-2010-modelling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3009'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Modelling Sub-Utterance Phenomena in Spoken Dialogue Systems
+  title_html: Modelling Sub-Utterance Phenomena in Spoken Dialogue Systems
+  url: http://semdial.org/anthology/Z10-Buss_semdial_0009.pdf
+  year: '2010'
+Z10-3010:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Wilfried
+    full: Wilfried Meyer-Viol
+    id: wilfried-meyer-viol
+    last: Meyer-Viol
+  - first: Ronnie
+    full: Ronnie Cann
+    id: ronnie-cann
+    last: Cann
+  bibkey: purver-etal-2010-splitting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3010'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: "Splitting the \u201CI\u201Ds and Crossing the \u201CYou\u201Ds: Context,
+    Speech Acts and Grammar"
+  title_html: "Splitting the \u201CI\u201Ds and Crossing the \u201CYou\u201Ds: Context,
+    Speech Acts and Grammar"
+  url: http://semdial.org/anthology/Z10-Purver_semdial_0010.pdf
+  year: '2010'
+Z10-3011:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  bibkey: stone-lascarides-2010-coherence
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3011'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Coherence and Rationality in Grounding
+  title_html: Coherence and Rationality in Grounding
+  url: http://semdial.org/anthology/Z10-Stone_semdial_0011.pdf
+  year: '2010'
+Z10-3012:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Katarzyna
+    full: Katarzyna Budzynska
+    id: katarzyna-budzynska
+    last: Budzynska
+  - first: Kamila
+    full: "Kamila D\u0229bowska"
+    id: kamila-debowska
+    last: "D\u0229bowska"
+  bibkey: budzynska-debowska-2010-dialogues
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3012'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: 'Dialogues with conflict resolution: goals and effects'
+  title_html: 'Dialogues with conflict resolution: goals and effects'
+  url: http://semdial.org/anthology/Z10-Budzynska_semdial_0012.pdf
+  year: '2010'
+Z10-3013:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Mariusz
+    full: "Mariusz Urba\u0144ski"
+    id: mariusz-urbanski
+    last: "Urba\u0144ski"
+  - first: "Pawe\u0142"
+    full: "Pawe\u0142 \u0141upkowski"
+    id: pawel-lupkowski
+    last: "\u0141upkowski"
+  bibkey: urbanski-lupkowski-2010-erotetic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3013'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: "Erotetic Search Scenarios: Revealing Interrogator\u2019s Hidden Agenda"
+  title_html: "Erotetic Search Scenarios: Revealing Interrogator\u2019s Hidden Agenda"
+  url: http://semdial.org/anthology/Z10-Urbanski_semdial_0013.pdf
+  year: '2010'
+Z10-3014:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: "Pawe\u0142"
+    full: "Pawe\u0142 \u0141upkowski"
+    id: pawel-lupkowski
+    last: "\u0141upkowski"
+  bibkey: lupkowski-2010-cooperative
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3014'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Cooperative answering and Inferential Erotetic Logic
+  title_html: Cooperative answering and Inferential Erotetic Logic
+  url: http://semdial.org/anthology/Z10-Lupkowski_semdial_0014.pdf
+  year: '2010'
+Z10-3015:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: larsson-2010-accommodating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3015'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Accommodating innovative meaning in dialogue
+  title_html: Accommodating innovative meaning in dialogue
+  url: http://semdial.org/anthology/Z10-Larsson_semdial_0015.pdf
+  year: '2010'
+Z10-3016:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  bibkey: cooper-2010-generalized
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3016'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Generalized quantifiers and clarification content
+  title_html: Generalized quantifiers and clarification content
+  url: http://semdial.org/anthology/Z10-Cooper_semdial_0016.pdf
+  year: '2010'
+Z10-3017:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Florian
+    full: Florian Hahn
+    id: florian-hahn
+    last: Hahn
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  bibkey: hahn-rieser-2010-explaining
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3017'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Explaining Speech Gesture Alignment in MM Dialogue Using Gesture Typology
+  title_html: Explaining Speech Gesture Alignment in MM Dialogue Using Gesture Typology
+  url: http://semdial.org/anthology/Z10-Hahn_semdial_0017.pdf
+  year: '2010'
+Z10-3018:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: fernandez-2010-early
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3018'
+  parent_volume_id: Z10-3
+  publisher: SEMDIAL
+  title: Early Interpretation by Implicature in Definite Referential Descriptions
+  title_html: Early Interpretation by Implicature in Definite Referential Descriptions
+  url: http://semdial.org/anthology/Z10-Fernandez_semdial_0018.pdf
+  year: '2010'
+Z10-4023:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  bibkey: breitholtz-2010-clarification
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4023'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: Clarification Requests as Enthymeme Elicitors
+  title_html: Clarification Requests as Enthymeme Elicitors
+  url: http://semdial.org/anthology/Z10-Breitholtz_semdial_0023.pdf
+  year: '2010'
+Z10-4024:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Nina
+    full: Nina Dethlefs
+    id: nina-dethlefs
+    last: Dethlefs
+  - first: Heriberto
+    full: "Heriberto Cuay\xE1huitl"
+    id: heriberto-cuayahuitl
+    last: "Cuay\xE1huitl"
+  - first: Kai
+    full: Kai -
+    id: kai
+    last: '-'
+  - first: Florian
+    full: Florian Richter
+    id: florian-richter
+    last: Richter
+  - first: Elena
+    full: Elena Andonova
+    id: elena-andonova
+    last: Andonova
+  - first: John
+    full: John Bateman
+    id: john-bateman
+    last: Bateman
+  bibkey: dethlefs-etal-2010-evaluating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4024'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: Evaluating Task Success in a Dialogue System for Indoor Navigation
+  title_html: Evaluating Task Success in a Dialogue System for Indoor Navigation
+  url: http://semdial.org/anthology/Z10-Dethlefs_semdial_0024.pdf
+  year: '2010'
+Z10-4025:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  bibkey: petukhova-bunt-2010-context
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4025'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: Context-driven dialogue act generation
+  title_html: Context-driven dialogue act generation
+  url: http://semdial.org/anthology/Z10-Petukhova_semdial_0025.pdf
+  year: '2010'
+Z10-4026:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Joanna
+    full: Joanna Szwabe
+    id: joanna-szwabe
+    last: Szwabe
+  bibkey: szwabe-2010-communicative
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4026'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: "The Communicative Style of the Physically Disabled \u2013 a Corpus Study"
+  title_html: "The Communicative Style of the Physically Disabled \u2013 a Corpus
+    Study"
+  url: http://semdial.org/anthology/Z10-Szwabe_semdial_0026.pdf
+  year: '2010'
+Z10-4027:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Thora
+    full: Thora Tenbrink
+    id: thora-tenbrink
+    last: Tenbrink
+  - first: Elena
+    full: Elena Andonova
+    id: elena-andonova
+    last: Andonova
+  bibkey: tenbrink-andonova-2010-communicating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4027'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: Communicating routes to older and younger addressees
+  title_html: Communicating routes to older and younger addressees
+  url: http://semdial.org/anthology/Z10-Tenbrink_semdial_0027.pdf
+  year: '2010'
+Z10-4028:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Marcin
+    full: "Marcin W\u0142odarczak"
+    id: marcin-wlodarczak
+    last: "W\u0142odarczak"
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  bibkey: wlodarczak-etal-2010-entailed
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4028'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: 'Entailed feedback: evidence from a ranking experiment'
+  title_html: 'Entailed feedback: evidence from a ranking experiment'
+  url: http://semdial.org/anthology/Z10-Wlodarczak_semdial_0028.pdf
+  year: '2010'
+Z10-4029:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Michael
+    full: Michael Wunder
+    id: michael-wunder
+    last: Wunder
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  bibkey: wunder-stone-2010-statistical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4029'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: Statistical Evaluation of Intention in Group Decision-making Dialogue
+  title_html: Statistical Evaluation of Intention in Group Decision-making Dialogue
+  url: http://semdial.org/anthology/Z10-Wunder_semdial_0029.pdf
+  year: '2010'
+Z10-4031:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Jenny
+    full: Jenny Brusk
+    id: jenny-brusk
+    last: Brusk
+  bibkey: brusk-2010-computational
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4031'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: A Computational Model for Gossip Initiation
+  title_html: A Computational Model for Gossip Initiation
+  url: http://semdial.org/anthology/Z10-Brusk_semdial_0031.pdf
+  year: '2010'
+Z10-4032:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Marta
+    full: Marta Gatius
+    id: marta-gatius
+    last: Gatius
+  - first: Meritxell
+    full: "Meritxell Gonz\xE1lez"
+    id: meritxell-gonzalez
+    last: "Gonz\xE1lez"
+  bibkey: gatius-gonzalez-2010-guiding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4032'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: Guiding the User when Searching Information on the Web
+  title_html: Guiding the User when Searching Information on the Web
+  url: http://semdial.org/anthology/Z10-Gatius_semdial_0032.pdf
+  year: '2010'
+Z10-4033:
+  address: "POZNA\u0143, Poland"
+  author:
+  - first: Maria H.
+    full: Maria H. Golka
+    id: maria-h-golka
+    last: Golka
+  bibkey: golka-2010-computational
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 14th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4033'
+  parent_volume_id: Z10-4
+  publisher: SEMDIAL
+  title: A Computational Model for Gossip Initiation
+  title_html: A Computational Model for Gossip Initiation
+  url: http://semdial.org/anthology/Z10-Golka_semdial_0033.pdf
+  year: '2010'

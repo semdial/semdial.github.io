@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="budzynska-debowska-2010-dialogues">
+    <titleInfo>
+        <title>Dialogues with conflict resolution: goals and effects</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Katarzyna</namePart>
+        <namePart type="family">Budzynska</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kamila</namePart>
+        <namePart type="family">Dȩbowska</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">budzynska-debowska-2010-dialogues</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Budzynska_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+</modsCollection>

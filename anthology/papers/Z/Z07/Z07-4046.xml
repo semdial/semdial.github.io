@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="fishel-2007-complex">
+    <titleInfo>
+        <title>Complex Taxonomy Dialogue Act Recognition with a Bayesian Classifier</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mark</namePart>
+        <namePart type="family">Fishel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fishel-2007-complex</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Fishel_semdial_0045.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+</modsCollection>

@@ -69,13 +69,18 @@ ebbe-spang-hanssen:
   slug: ebbe-spang-hanssen
   venues: []
 eckhard-bick:
-  coauthors: []
+  coauthors:
+  - - jens-ahlmann-hansen
+    - 1
   first: Eckhard
   full: Eckhard Bick
   last: Bick
-  papers: []
+  papers:
+  - Z07-4026
   slug: eckhard-bick
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 ed-baggs:
   coauthors: []
   first: Ed
@@ -360,22 +365,38 @@ eldon-g-lytle:
   venues: []
 elena-andonova:
   coauthors:
+  - - thora-tenbrink
+    - 4
+  - - kenny-coventry
+    - 3
   - - gesa-schole
     - 2
-  - - thora-tenbrink
-    - 2
-  - - kenny-coventry
-    - 2
+  - - nina-dethlefs
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - kai
+    - 1
+  - - florian-richter
+    - 1
+  - - john-bateman
+    - 1
+  - - kenny-r-coventry
+    - 1
   first: Elena
   full: Elena Andonova
   last: Andonova
   papers:
   - Z14-4048
   - Z13-4045
+  - Z10-4024
+  - Z10-4027
+  - Z09-4030
+  - Z08-4034
   slug: elena-andonova
   venues:
   - - SEMDIAL
-    - 2
+    - 6
 elena-barcena:
   coauthors: []
   first: Elena
@@ -406,7 +427,40 @@ elena-karagjosova:
   last: Karagjosova
   papers:
   - Z13-4031
+  - Z09-3016
   slug: elena-karagjosova
+  venues:
+  - - SEMDIAL
+    - 2
+elena-lieven:
+  coauthors:
+  - - danielle-matthews
+    - 1
+  - - michael-tomasello
+    - 1
+  first: Elena
+  full: Elena Lieven
+  last: Lieven
+  papers:
+  - Z08-3020
+  slug: elena-lieven
+  venues:
+  - - SEMDIAL
+    - 1
+elena-not:
+  coauthors:
+  - - koray-balci
+    - 1
+  - - fabio-pianesi
+    - 1
+  - - massimo-zancanaro
+    - 1
+  first: Elena
+  full: Elena Not
+  last: Not
+  papers:
+  - Z07-4036
+  slug: elena-not
   venues:
   - - SEMDIAL
     - 1
@@ -428,18 +482,32 @@ elena-v-paducheva:
   venues: []
 eleni-gregoromichelaki:
   coauthors:
-  - - christine-howes
-    - 2
-  - - arash-eshghi
-    - 2
   - - ruth-kempson
+    - 4
+  - - christine-howes
+    - 4
+  - - matthew-purver
+    - 3
+  - - andrew-gargett
+    - 3
+  - - arash-eshghi
     - 2
   - - julian-hough
     - 2
   - - mehrnoosh-sadrzadeh
     - 2
-  - - matthew-purver
-    - 2
+  - - gregory-mills
+    - 1
+  - - wilfried-meyer-viol
+    - 1
+  - - ronnie-cann
+    - 1
+  - - yo-sato
+    - 1
+  - - matt-purver
+    - 1
+  - - greg-mills
+    - 1
   - - gijs-wijnholds
     - 1
   - - stergios-chatzikyriakidis
@@ -454,10 +522,15 @@ eleni-gregoromichelaki:
   papers:
   - Z20-3022
   - Z19-4025
+  - Z10-3007
+  - Z10-3010
+  - Z09-3015
+  - Z08-3010
+  - Z07-3013
   slug: eleni-gregoromichelaki
   venues:
   - - SEMDIAL
-    - 2
+    - 7
 eleni-koutsogeorgos:
   coauthors: []
   first: Eleni
@@ -712,23 +785,28 @@ elizaveta-loginova-clouet:
   slug: elizaveta-loginova-clouet
   venues: []
 ellen-bard:
-  coauthors: []
+  coauthors:
+  - - markus-guhe
+    - 1
   first: Ellen
   full: Ellen Bard
   last: Bard
   papers:
   - Z15-2001
+  - Z07-4028
   slug: ellen-bard
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ellen-breitholtz:
   coauthors:
   - - christine-howes
     - 2
-  - - vladislav-maraev
-    - 1
   - - robin-cooper
+    - 2
+  - - jessica-villing
+    - 1
+  - - vladislav-maraev
     - 1
   - - julian-j-schloder
     - 1
@@ -746,18 +824,36 @@ ellen-breitholtz:
   - Z16-3005
   - Z16-4017
   - Z15-4022
+  - Z11-3024
+  - Z10-4023
+  - Z08-3018
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
-    - 6
+    - 9
 ellen-campana:
-  coauthors: []
+  coauthors:
+  - - gregory-aist
+    - 1
+  - - james-allen
+    - 1
+  - - carlos-gomez-gallo
+    - 1
+  - - scott-c-stoness
+    - 1
+  - - mary-swift
+    - 1
+  - - michael-tanenhaus
+    - 1
   first: Ellen
   full: Ellen Campana
   last: Campana
-  papers: []
+  papers:
+  - Z07-3025
   slug: ellen-campana
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 ellen-douglas-cowie:
   coauthors: []
   first: Ellen
@@ -766,6 +862,24 @@ ellen-douglas-cowie:
   papers: []
   slug: ellen-douglas-cowie
   venues: []
+ellen-gurman-bard:
+  coauthors:
+  - - markus-guhe
+    - 1
+  - - robin-hill
+    - 1
+  - - mary-ellen-foster
+    - 1
+  first: Ellen Gurman
+  full: Ellen Gurman Bard
+  last: Bard
+  papers:
+  - Z08-3016
+  - Z08-3021
+  slug: ellen-gurman-bard
+  venues:
+  - - SEMDIAL
+    - 2
 ellen-k-dodge:
   coauthors: []
   first: Ellen K.
@@ -850,6 +964,25 @@ elnaz-nouri:
   venues:
   - - SEMDIAL
     - 1
+elsi-kaiser:
+  coauthors:
+  - - ron-artstein
+    - 1
+  - - mark-g-core
+    - 1
+  - - david-devault
+    - 1
+  - - amanda-stent
+    - 1
+  first: Elsi
+  full: Elsi Kaiser
+  last: Kaiser
+  papers:
+  - Z11-1000
+  slug: elsi-kaiser
+  venues:
+  - - SEMDIAL
+    - 1
 elvira-i-sicilia-garcia:
   coauthors: []
   first: Elvira I.
@@ -884,10 +1017,12 @@ emanuele-pianta:
   venues: []
 emer-gilmartin:
   coauthors:
-  - - nick-campbell
-    - 2
   - - carl-vogel
     - 2
+  - - nick-campbell
+    - 2
+  - - francesca-bonin
+    - 1
   - - joao-paulo-cabral1
     - 1
   - - sree-ganesh
@@ -905,8 +1040,6 @@ emer-gilmartin:
   - - thomas-pellegrini
     - 1
   - - odei-rey-orozko
-    - 1
-  - - francesca-bonin
     - 1
   first: Emer
   full: Emer Gilmartin
@@ -952,13 +1085,22 @@ emiliano-raul-guevara:
   slug: emiliano-raul-guevara
   venues: []
 emilio-sanchis:
-  coauthors: []
+  coauthors:
+  - - lluis-f-hurtado
+    - 1
+  - - david-griol
+    - 1
+  - - encarna-segarra
+    - 1
   first: Emilio
   full: Emilio Sanchis
   last: Sanchis
-  papers: []
+  papers:
+  - Z07-4030
   slug: emilio-sanchis
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 emily-m-bender:
   coauthors: []
   first: Emily M.
@@ -1006,6 +1148,23 @@ emmanuel-ferreira:
   papers:
   - Z13-3008
   slug: emmanuel-ferreira
+  venues:
+  - - SEMDIAL
+    - 1
+encarna-segarra:
+  coauthors:
+  - - lluis-f-hurtado
+    - 1
+  - - david-griol
+    - 1
+  - - emilio-sanchis
+    - 1
+  first: Encarna
+  full: Encarna Segarra
+  last: Segarra
+  papers:
+  - Z07-4030
+  slug: encarna-segarra
   venues:
   - - SEMDIAL
     - 1
@@ -1190,6 +1349,25 @@ eric-jackson:
   papers: []
   slug: eric-jackson
   venues: []
+eric-jamet:
+  coauthors:
+  - - meriam-horchani
+    - 1
+  - - dominique-freard
+    - 1
+  - - laurence-nigay
+    - 1
+  - - franck-panaget
+    - 1
+  first: Eric
+  full: Eric Jamet
+  last: Jamet
+  papers:
+  - Z07-4029
+  slug: eric-jamet
+  venues:
+  - - SEMDIAL
+    - 1
 eric-kow:
   coauthors:
   - - julie-hunter
@@ -1598,16 +1776,21 @@ eve-v-clark:
   - - SEMDIAL
     - 1
 eve-v-clark1:
-  coauthors: []
+  coauthors:
+  - - marisa-tice
+    - 1
+  - - susan-c-bobb1
+    - 1
   first: Eve V.
   full: Eve V. Clark
   last: Clark
   papers:
   - Z12-2002
+  - Z11-4039
   slug: eve-v-clark1
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 evelyne-tzoukermann:
   coauthors: []
   first: Evelyne
@@ -1616,6 +1799,17 @@ evelyne-tzoukermann:
   papers: []
   slug: evelyne-tzoukermann
   venues: []
+evgeny-chukharev-hudilainen:
+  coauthors: []
+  first: Evgeny
+  full: Evgeny Chukharev-Hudilainen
+  last: Chukharev-Hudilainen
+  papers:
+  - Z11-3018
+  slug: evgeny-chukharev-hudilainen
+  venues:
+  - - SEMDIAL
+    - 1
 evgeny-stepanov:
   coauthors: []
   first: Evgeny

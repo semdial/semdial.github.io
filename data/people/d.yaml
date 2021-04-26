@@ -71,6 +71,17 @@ dale-a-miller:
   papers: []
   slug: dale-a-miller
   venues: []
+dale-barr:
+  coauthors: []
+  first: Dale
+  full: Dale Barr
+  last: Barr
+  papers:
+  - Z10-2001
+  slug: dale-barr
+  venues:
+  - - SEMDIAL
+    - 1
 damaris-ayuso:
   coauthors: []
   first: Damaris
@@ -244,6 +255,19 @@ daniel-beck:
   papers: []
   slug: daniel-beck
   venues: []
+daniel-bobbert:
+  coauthors:
+  - - magdalena-wolska
+    - 1
+  first: Daniel
+  full: Daniel Bobbert
+  last: Bobbert
+  papers:
+  - Z07-4045
+  slug: daniel-bobbert
+  venues:
+  - - SEMDIAL
+    - 1
 daniel-bobrow:
   coauthors: []
   first: Daniel
@@ -476,6 +500,23 @@ daniel-preotiuc-pietro:
   papers: []
   slug: daniel-preotiuc-pietro
   venues: []
+daniel-richardson:
+  coauthors:
+  - - rick-dale
+    - 1
+  - - john-tomlinson
+    - 1
+  - - herbert-clark
+    - 1
+  first: Daniel
+  full: Daniel Richardson
+  last: Richardson
+  papers:
+  - Z08-3015
+  slug: daniel-richardson
+  venues:
+  - - SEMDIAL
+    - 1
 daniel-s-weld:
   coauthors: []
   first: Daniel S.
@@ -613,16 +654,21 @@ danielle-l-mowery:
   slug: danielle-l-mowery
   venues: []
 danielle-matthews:
-  coauthors: []
+  coauthors:
+  - - elena-lieven
+    - 1
+  - - michael-tomasello
+    - 1
   first: Danielle
   full: Danielle Matthews
   last: Matthews
   papers:
   - Z13-2001
+  - Z08-3020
   slug: danielle-matthews
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 danielle-s-mcnamara:
   coauthors: []
   first: Danielle S.
@@ -663,6 +709,17 @@ danniel-liwanag-alcantara:
   papers: []
   slug: danniel-liwanag-alcantara
   venues: []
+daria-bahtina:
+  coauthors: []
+  first: Daria
+  full: Daria Bahtina
+  last: Bahtina
+  papers:
+  - Z11-3020
+  slug: daria-bahtina
+  venues:
+  - - SEMDIAL
+    - 1
 darla-magdalene-shockley:
   coauthors: []
   first: Darla Magdalene
@@ -742,6 +799,25 @@ david-a-smith:
   papers: []
   slug: david-a-smith
   venues: []
+david-avila:
+  coauthors:
+  - - pilar-manchon
+    - 1
+  - - antonio-avila
+    - 1
+  - - guillermo-perez
+    - 1
+  - - gabriel-amores
+    - 1
+  first: David
+  full: "David \xC1vila"
+  last: "\xC1vila"
+  papers:
+  - Z07-4034
+  slug: david-avila
+  venues:
+  - - SEMDIAL
+    - 1
 david-blei:
   coauthors: []
   first: David
@@ -819,10 +895,33 @@ david-day:
   venues: []
 david-devault:
   coauthors:
-  - - ramesh-manuvinakurike
+  - - matthew-stone
     - 1
-  - - maike-paetzel
+  - - ron-artstein
     - 1
+  - - mark-g-core
+    - 1
+  - - elsi-kaiser
+    - 1
+  - - amanda-stent
+    - 1
+  - - brian-pluss
+    - 1
+  - - david-traum
+    - 1
+  first: David
+  full: David DeVault
+  last: DeVault
+  papers:
+  - Z11-1000
+  - Z11-3012
+  - Z07-3011
+  slug: david-devault
+  venues:
+  - - SEMDIAL
+    - 3
+david-devault1:
+  coauthors:
   - - zhou-yu
     - 1
   - - stefan-scherer
@@ -835,13 +934,17 @@ david-devault:
     - 1
   - - justine-cassell
     - 1
+  - - ramesh-manuvinakurike
+    - 1
+  - - maike-paetzel
+    - 1
   first: David
   full: David Devault
   last: Devault
   papers:
   - Z15-3016
   - Z13-3020
-  slug: david-devault
+  slug: david-devault1
   venues:
   - - SEMDIAL
     - 2
@@ -917,6 +1020,23 @@ david-goodine:
   papers: []
   slug: david-goodine
   venues: []
+david-griol:
+  coauthors:
+  - - lluis-f-hurtado
+    - 1
+  - - encarna-segarra
+    - 1
+  - - emilio-sanchis
+    - 1
+  first: David
+  full: David Griol
+  last: Griol
+  papers:
+  - Z07-4030
+  slug: david-griol
+  venues:
+  - - SEMDIAL
+    - 1
 david-h-d-warren:
   coauthors: []
   first: David H. D.
@@ -925,6 +1045,21 @@ david-h-d-warren:
   papers: []
   slug: david-h-d-warren
   venues: []
+david-hardcastle:
+  coauthors:
+  - - paul-piwek
+    - 1
+  - - richard-power
+    - 1
+  first: David
+  full: David Hardcastle
+  last: Hardcastle
+  papers:
+  - Z07-2021
+  slug: david-hardcastle
+  venues:
+  - - SEMDIAL
+    - 1
 david-hopes:
   coauthors:
   - - julian-hough
@@ -1149,33 +1284,35 @@ david-sankoff:
   venues: []
 david-schlangen:
   coauthors:
-  - - julian-hough
-    - 5
   - - sina-zarriess
+    - 5
+  - - julian-hough
     - 5
   - - casey-kennington
     - 4
+  - - nikolai-ilinykh
+    - 3
+  - - ting-han
+    - 3
   - - iwan-de-kok
     - 3
   - - stefan-kopp
     - 3
-  - - ting-han
-    - 3
-  - - nikolai-ilinykh
-    - 3
-  - - spyros-kousidis
+  - - okko-buss
     - 2
   - - soledad-lopez-gambino
     - 2
+  - - spyros-kousidis
+    - 2
+  - - kazunori-komatani
+    - 1
+  - - tim-diekmann
+    - 1
   - - cornelia-frank
     - 1
   - - jonathan-ginzburg
     - 1
   - - ye-tian
-    - 1
-  - - kazunori-komatani
-    - 1
-  - - tim-diekmann
     - 1
   - - felix-hulsmann
     - 1
@@ -1203,10 +1340,15 @@ david-schlangen:
   - Z14-4026
   - Z14-4030
   - Z14-4035
+  - Z11-2005
+  - Z11-3010
+  - Z10-3008
+  - Z10-3009
+  - Z09-3013
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 16
+    - 21
 david-stallard:
   coauthors: []
   first: David
@@ -1255,17 +1397,19 @@ david-tomas:
   venues: []
 david-traum:
   coauthors:
+  - - ron-artstein
+    - 3
   - - carla-gordon
     - 3
+  - - sudeep-gandhe
+    - 2
+  - - michael-rushforth
+    - 2
   - - kallirroi-georgila
     - 2
-  - - angela-nazarian
-    - 1
-  - - elnaz-nouri
+  - - rieks-op-den-akker
     - 1
   - - usman-sohail
-    - 1
-  - - ron-artstein
     - 1
   - - volodymyr-yanov
     - 1
@@ -1277,6 +1421,14 @@ david-traum:
     - 1
   - - jill-boberg
     - 1
+  - - brian-pluss
+    - 1
+  - - david-devault
+    - 1
+  - - angela-nazarian
+    - 1
+  - - elnaz-nouri
+    - 1
   first: David
   full: David Traum
   last: Traum
@@ -1286,10 +1438,15 @@ david-traum:
   - Z19-4026
   - Z18-3010
   - Z14-4044
+  - Z11-3012
+  - Z09-3012
+  - Z09-4024
+  - Z09-4019
+  - Z08-2005
   slug: david-traum
   venues:
   - - SEMDIAL
-    - 5
+    - 10
 david-w-aha:
   coauthors: []
   first: David W.
@@ -1476,6 +1633,23 @@ dennis-mehay:
   papers: []
   slug: dennis-mehay
   venues: []
+dennis-perzanowski:
+  coauthors:
+  - - arthi-murugesan
+    - 1
+  - - derek-brock
+    - 1
+  - - wende-k-frost
+    - 1
+  first: Dennis
+  full: Dennis Perzanowski
+  last: Perzanowski
+  papers:
+  - Z11-4030
+  slug: dennis-perzanowski
+  venues:
+  - - SEMDIAL
+    - 1
 dennis-ryan-storoshenko:
   coauthors: []
   first: Dennis Ryan
@@ -1492,6 +1666,23 @@ deok-bong-kim:
   papers: []
   slug: deok-bong-kim
   venues: []
+derek-brock:
+  coauthors:
+  - - arthi-murugesan
+    - 1
+  - - wende-k-frost
+    - 1
+  - - dennis-perzanowski
+    - 1
+  first: Derek
+  full: Derek Brock
+  last: Brock
+  papers:
+  - Z11-4030
+  slug: derek-brock
+  venues:
+  - - SEMDIAL
+    - 1
 derek-f-wong:
   coauthors: []
   first: Derek F.
@@ -1589,13 +1780,22 @@ diana-trandabat:
   slug: diana-trandabat
   venues: []
 diane-litman:
-  coauthors: []
+  coauthors:
+  - - sandra-katz
+    - 1
+  - - patricia-albacete
+    - 1
+  - - pamela-jordan
+    - 1
   first: Diane
   full: Diane Litman
   last: Litman
-  papers: []
+  papers:
+  - Z11-3026
   slug: diane-litman
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 dianne-p-oleary:
   coauthors: []
   first: Dianne P.
@@ -1903,6 +2103,25 @@ dominique-estival:
   papers: []
   slug: dominique-estival
   venues: []
+dominique-freard:
+  coauthors:
+  - - meriam-horchani
+    - 1
+  - - eric-jamet
+    - 1
+  - - laurence-nigay
+    - 1
+  - - franck-panaget
+    - 1
+  first: Dominique
+  full: "Dominique Fr\xE9ard"
+  last: "Fr\xE9ard"
+  papers:
+  - Z07-4029
+  slug: dominique-freard
+  venues:
+  - - SEMDIAL
+    - 1
 dominique-vaufreydaz:
   coauthors: []
   first: Dominique
@@ -2126,6 +2345,19 @@ duane-e-olawsky:
   papers: []
   slug: duane-e-olawsky
   venues: []
+duane-watson:
+  coauthors:
+  - - scott-fraundorf
+    - 1
+  first: Duane
+  full: Duane Watson
+  last: Watson
+  papers:
+  - Z08-3023
+  slug: duane-watson
+  venues:
+  - - SEMDIAL
+    - 1
 duc-vu-tran:
   coauthors: []
   first: Duc-Vu

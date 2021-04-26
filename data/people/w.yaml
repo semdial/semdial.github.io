@@ -94,6 +94,23 @@ warren-j-plath:
   papers: []
   slug: warren-j-plath
   venues: []
+washburn-elsi:
+  coauthors:
+  - - mary-byram
+    - 1
+  - - kaiser-maria
+    - 1
+  - - luisa-zubizarreta
+    - 1
+  first: Washburn
+  full: Washburn Elsi
+  last: Elsi
+  papers:
+  - Z11-3016
+  slug: washburn-elsi
+  venues:
+  - - SEMDIAL
+    - 1
 wassim-el-hajj:
   coauthors: []
   first: Wassim
@@ -143,13 +160,20 @@ wei-yun-ma:
   slug: wei-yun-ma
   venues: []
 weigang-li:
-  coauthors: []
+  coauthors:
+  - - alex-fang
+    - 1
+  - - jonathan-j-webster
+    - 1
   first: Weigang
   full: Weigang Li
   last: Li
-  papers: []
+  papers:
+  - Z08-4030
   slug: weigang-li
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 weina-zhao:
   coauthors: []
   first: Weina
@@ -238,6 +262,23 @@ wen-wang:
   papers: []
   slug: wen-wang
   venues: []
+wende-k-frost:
+  coauthors:
+  - - arthi-murugesan
+    - 1
+  - - derek-brock
+    - 1
+  - - dennis-perzanowski
+    - 1
+  first: Wende K.
+  full: Wende K. Frost
+  last: Frost
+  papers:
+  - Z11-4030
+  slug: wende-k-frost
+  venues:
+  - - SEMDIAL
+    - 1
 wendy-chapman:
   coauthors: []
   first: Wendy
@@ -279,6 +320,31 @@ wenshuo-tang:
   venues:
   - - SEMDIAL
     - 1
+whitney-gegg-harrison:
+  coauthors:
+  - - carlos-gomez-gallo
+    - 1
+  - - gregory-aist
+    - 1
+  - - james-allen
+    - 1
+  - - william-de-beaumont
+    - 1
+  - - sergio-coria
+    - 1
+  - - joana-pardal
+    - 1
+  - - mary-swift
+    - 1
+  first: Whitney
+  full: Whitney Gegg-Harrison
+  last: Gegg-Harrison
+  papers:
+  - Z07-3015
+  slug: whitney-gegg-harrison
+  venues:
+  - - SEMDIAL
+    - 1
 whitney-l-cade:
   coauthors: []
   first: Whitney L.
@@ -303,6 +369,23 @@ wiebke-brockhaus:
   papers: []
   slug: wiebke-brockhaus
   venues: []
+wilfried-meyer-viol:
+  coauthors:
+  - - matthew-purver
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - ronnie-cann
+    - 1
+  first: Wilfried
+  full: Wilfried Meyer-Viol
+  last: Meyer-Viol
+  papers:
+  - Z10-3010
+  slug: wilfried-meyer-viol
+  venues:
+  - - SEMDIAL
+    - 1
 willem-robert-van-hage:
   coauthors: []
   first: Willem Robert
@@ -311,6 +394,21 @@ willem-robert-van-hage:
   papers: []
   slug: willem-robert-van-hage
   venues: []
+willem-zuidema:
+  coauthors:
+  - - richard-kunert
+    - 1
+  - - raquel-fernandez
+    - 1
+  first: Willem
+  full: Willem Zuidema
+  last: Zuidema
+  papers:
+  - Z11-3019
+  slug: willem-zuidema
+  venues:
+  - - SEMDIAL
+    - 1
 william-a-baumgartner-jr:
   coauthors: []
   first: William A.
@@ -392,13 +490,30 @@ william-coster:
   slug: william-coster
   venues: []
 william-de-beaumont:
-  coauthors: []
+  coauthors:
+  - - carlos-gomez-gallo
+    - 1
+  - - gregory-aist
+    - 1
+  - - james-allen
+    - 1
+  - - sergio-coria
+    - 1
+  - - whitney-gegg-harrison
+    - 1
+  - - joana-pardal
+    - 1
+  - - mary-swift
+    - 1
   first: William
   full: William de Beaumont
   last: de Beaumont
-  papers: []
+  papers:
+  - Z07-3015
   slug: william-de-beaumont
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 william-h-wilson:
   coauthors: []
   first: William H.
@@ -579,6 +694,10 @@ wolfgang-minker:
     - 1
   - - hubertus-feussner
     - 1
+  - - daniela-stier
+    - 1
+  - - ulrich-heid
+    - 1
   - - patricia-kittel
     - 1
   - - wolfgang-maier
@@ -588,10 +707,6 @@ wolfgang-minker:
   - - louisa-pragst
     - 1
   - - matthias-kraus
-    - 1
-  - - daniela-stier
-    - 1
-  - - ulrich-heid
     - 1
   first: Wolfgang
   full: Wolfgang Minker

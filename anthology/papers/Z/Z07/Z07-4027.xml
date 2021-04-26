@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="gatius-gonzalez-2007-discourse">
+    <titleInfo>
+        <title>Discourse Management in Voice Systems for Accessing Web Services</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marta</namePart>
+        <namePart type="family">Gatius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Meritxell</namePart>
+        <namePart type="family">González</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gatius-gonzalez-2007-discourse</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Gatius_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2007-may&quot;-&quot;jun</date>
+    </part>
+</mods>
+</modsCollection>

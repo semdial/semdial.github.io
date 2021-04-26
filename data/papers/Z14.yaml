@@ -490,7 +490,7 @@ Z14-3020:
   author:
   - first: Jon
     full: Jon Stevens
-    id: jon-stevens
+    id: jon-stevens1
     last: Stevens
   - first: Anton
     full: Anton Benz
@@ -525,7 +525,7 @@ Z14-3021:
   author:
   - first: Antoine
     full: Antoine Venant
-    id: antoine-venant
+    id: antoine-venant1
     last: Venant
   - first: Nicholas
     full: Nicholas Asher
@@ -533,7 +533,7 @@ Z14-3021:
     last: Asher
   - first: "C\xE9dric"
     full: "C\xE9dric D\xE9gremont"
-    id: cedric-degremont
+    id: cedric-degremont1
     last: "D\xE9gremont"
   bibkey: venant-etal-2014-credibility
   bibtype: inproceedings
@@ -650,7 +650,7 @@ Z14-4024:
     last: Dethlefs
   - first: Heriberto
     full: Heriberto Cuayahuitl
-    id: heriberto-cuayahuitl
+    id: heriberto-cuayahuitl1
     last: Cuayahuitl
   - first: Helen
     full: Helen Hastie
@@ -856,7 +856,7 @@ Z14-4031:
     last: Bouchard
   - first: Heriberto
     full: Heriberto Cuayahuitl
-    id: heriberto-cuayahuitl
+    id: heriberto-cuayahuitl1
     last: Cuayahuitl
   - first: Nina
     full: Nina Dethlefs

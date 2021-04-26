@@ -366,9 +366,12 @@ nate-blaylock:
   first: Nate
   full: Nate Blaylock
   last: Blaylock
-  papers: []
+  papers:
+  - Z07-3017
   slug: nate-blaylock
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 nathalie-le-brun:
   coauthors: []
   first: Nathalie
@@ -578,31 +581,19 @@ nguyen-vo:
   venues: []
 nicholas-asher:
   coauthors:
-  - - stergos-afantenos
-    - 3
   - - alex-lascarides
-    - 3
+    - 4
   - - soumya-paul
+    - 3
+  - - stergos-afantenos
     - 3
   - - jeremy-perret
     - 2
-  - - antoine-venant
-    - 1
-  - - cedric-degremont
-    - 1
-  - - julie-hunter
-    - 1
-  - - eric-kow
-    - 1
-  - - julian-j-schloder
-    - 1
-  - - antoine-venant1
-    - 1
   - - farah-benamara
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont1
+  - - cedric-degremont
     - 1
   - - pascal-denis
     - 1
@@ -620,6 +611,18 @@ nicholas-asher:
     - 1
   - - laure-vieu
     - 1
+  - - julian-j-schloder
+    - 1
+  - - antoine-venant
+    - 1
+  - - antoine-venant1
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - julie-hunter
+    - 1
+  - - eric-kow
+    - 1
   first: Nicholas
   full: Nicholas Asher
   last: Asher
@@ -632,10 +635,11 @@ nicholas-asher:
   - Z13-4022
   - Z12-3007
   - Z12-4029
+  - Z08-3009
   slug: nicholas-asher
   venues:
   - - SEMDIAL
-    - 8
+    - 9
 nicholas-hubert-kirk:
   coauthors: []
   first: Nicholas Hubert
@@ -667,6 +671,10 @@ nick-campbell:
   coauthors:
   - - emer-gilmartin
     - 2
+  - - francesca-bonin
+    - 1
+  - - carl-vogel
+    - 1
   - - joao-paulo-cabral1
     - 1
   - - sree-ganesh
@@ -685,20 +693,28 @@ nick-campbell:
     - 1
   - - odei-rey-orozko
     - 1
-  - - francesca-bonin
-    - 1
-  - - carl-vogel
-    - 1
   first: Nick
   full: Nick Campbell
   last: Campbell
   papers:
   - Z14-4022
   - Z13-4028
+  - Z09-2008
   slug: nick-campbell
   venues:
   - - SEMDIAL
-    - 2
+    - 3
+nick-cassimatis:
+  coauthors: []
+  first: Nick
+  full: Nick Cassimatis
+  last: Cassimatis
+  papers:
+  - Z08-4029
+  slug: nick-cassimatis
+  venues:
+  - - SEMDIAL
+    - 1
 nick-j-youd:
   coauthors: []
   first: Nick J.
@@ -871,6 +887,7 @@ nigel-ward:
   last: Ward
   papers:
   - Z16-2003
+  - Z11-3008
   slug: nigel-ward
   variant_entries:
   - first: Nigel G.
@@ -878,7 +895,7 @@ nigel-ward:
     last: Ward
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 niklas-paulsson:
   coauthors: []
   first: Niklas
@@ -940,7 +957,7 @@ niladri-chatterjee:
   venues: []
 nina-dethlefs:
   coauthors:
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 2
   - - helen-hastie
     - 2
@@ -948,6 +965,16 @@ nina-dethlefs:
     - 2
   - - oliver-lemon
     - 2
+  - - heriberto-cuayahuitl
+    - 1
+  - - kai
+    - 1
+  - - florian-richter
+    - 1
+  - - elena-andonova
+    - 1
+  - - john-bateman
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -984,10 +1011,11 @@ nina-dethlefs:
   papers:
   - Z14-4024
   - Z14-4031
+  - Z10-4024
   slug: nina-dethlefs
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 nishtha-malhotra:
   coauthors: []
   first: Nishtha
@@ -1213,13 +1241,25 @@ nuria-bel:
   slug: nuria-bel
   venues: []
 nuria-bertomeu:
-  coauthors: []
+  coauthors:
+  - - anton-benz
+    - 1
+  - - alexandra-strekalova
+    - 1
   first: "N\xFAria"
   full: "N\xFAria Bertomeu"
   last: Bertomeu
-  papers: []
+  papers:
+  - Z11-3009
+  - Z09-4029
   slug: nuria-bertomeu
-  venues: []
+  variant_entries:
+  - first: Nuria
+    full: Nuria Bertomeu
+    last: Bertomeu
+  venues:
+  - - SEMDIAL
+    - 2
 nuria-castell:
   coauthors: []
   first: "N\xFAria"

@@ -23,13 +23,18 @@ m-antonia-marti:
   slug: m-antonia-marti
   venues: []
 m-dolores-jimenez-lopez:
-  coauthors: []
+  coauthors:
+  - - gemma-bel-enguix
+    - 1
   first: M. Dolores
   full: "M. Dolores Jim\xE9nez-L\xF3pez"
   last: "Jim\xE9nez-L\xF3pez"
-  papers: []
+  papers:
+  - Z07-4044
   slug: m-dolores-jimenez-lopez
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 m-dolores-molina-gonzalez:
   coauthors: []
   first: M. Dolores
@@ -212,6 +217,23 @@ magdalena-sandahl:
   venues:
   - - SEMDIAL
     - 1
+magdalena-wolska:
+  coauthors:
+  - - mark-buckley
+    - 2
+  - - daniel-bobbert
+    - 1
+  first: Magdalena
+  full: Magdalena Wolska
+  last: Wolska
+  papers:
+  - Z08-3006
+  - Z07-3010
+  - Z07-4045
+  slug: magdalena-wolska
+  venues:
+  - - SEMDIAL
+    - 3
 magdi-nagi:
   coauthors: []
   first: Magdi
@@ -256,7 +278,7 @@ maike-paetzel:
   coauthors:
   - - ramesh-manuvinakurike
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   first: Maike
   full: Maike Paetzel
@@ -317,7 +339,7 @@ majid-yazdani:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -561,6 +583,17 @@ manuel-j-mana-lopez:
   papers: []
   slug: manuel-j-mana-lopez
   venues: []
+manuel-kirschner:
+  coauthors: []
+  first: Manuel
+  full: Manuel Kirschner
+  last: Kirschner
+  papers:
+  - Z07-4033
+  slug: manuel-kirschner
+  venues:
+  - - SEMDIAL
+    - 1
 manuel-montes:
   coauthors: []
   first: Manuel
@@ -732,6 +765,21 @@ marcin-szummer:
   papers: []
   slug: marcin-szummer
   venues: []
+marcin-wlodarczak:
+  coauthors:
+  - - harry-bunt
+    - 1
+  - - volha-petukhova
+    - 1
+  first: Marcin
+  full: "Marcin W\u0142odarczak"
+  last: "W\u0142odarczak"
+  papers:
+  - Z10-4028
+  slug: marcin-wlodarczak
+  venues:
+  - - SEMDIAL
+    - 1
 marcis-pinnis:
   coauthors: []
   first: "M\u0101rcis"
@@ -1057,6 +1105,17 @@ maria-gavrilidou:
   papers: []
   slug: maria-gavrilidou
   venues: []
+maria-h-golka:
+  coauthors: []
+  first: Maria H.
+  full: Maria H. Golka
+  last: Golka
+  papers:
+  - Z10-4033
+  slug: maria-h-golka
+  venues:
+  - - SEMDIAL
+    - 1
 maria-jose-b-finatto:
   coauthors: []
   first: "Maria Jos\xE9 B."
@@ -1244,7 +1303,7 @@ marie-aude-aufaure:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -1524,6 +1583,24 @@ marisa-casillas:
   venues:
   - - SEMDIAL
     - 2
+marisa-tice:
+  coauthors:
+  - - susan-c-bobb1
+    - 1
+  - - eve-v-clark1
+    - 1
+  - - tania-henetz
+    - 1
+  first: Marisa
+  full: Marisa Tice
+  last: Tice
+  papers:
+  - Z11-4039
+  - Z11-4040
+  slug: marisa-tice
+  venues:
+  - - SEMDIAL
+    - 2
 marius-pasca:
   coauthors: []
   first: Marius
@@ -1532,6 +1609,19 @@ marius-pasca:
   papers: []
   slug: marius-pasca
   venues: []
+mariusz-urbanski:
+  coauthors:
+  - - pawel-lupkowski
+    - 1
+  first: Mariusz
+  full: "Mariusz Urba\u0144ski"
+  last: "Urba\u0144ski"
+  papers:
+  - Z10-3013
+  slug: mariusz-urbanski
+  venues:
+  - - SEMDIAL
+    - 1
 marjan-van-de-kauter:
   coauthors: []
   first: Marjan
@@ -1564,6 +1654,20 @@ mark-a-greenwood:
   papers: []
   slug: mark-a-greenwood
   venues: []
+mark-buckley:
+  coauthors:
+  - - magdalena-wolska
+    - 2
+  first: Mark
+  full: Mark Buckley
+  last: Buckley
+  papers:
+  - Z08-3006
+  - Z07-3010
+  slug: mark-buckley
+  venues:
+  - - SEMDIAL
+    - 2
 mark-carman:
   coauthors: []
   first: Mark
@@ -1596,14 +1700,40 @@ mark-finlayson:
   papers: []
   slug: mark-finlayson
   venues: []
-mark-g-core:
+mark-fishel:
   coauthors: []
+  first: Mark
+  full: Mark Fishel
+  last: Fishel
+  papers:
+  - Z07-4046
+  slug: mark-fishel
+  venues:
+  - - SEMDIAL
+    - 1
+mark-g-core:
+  coauthors:
+  - - ron-artstein
+    - 1
+  - - david-devault
+    - 1
+  - - elsi-kaiser
+    - 1
+  - - amanda-stent
+    - 1
   first: Mark G.
   full: Mark G. Core
   last: Core
-  papers: []
+  papers:
+  - Z11-1000
   slug: mark-g-core
-  venues: []
+  variant_entries:
+  - first: Mark
+    full: Mark Core
+    last: Core
+  venues:
+  - - SEMDIAL
+    - 1
 mark-h-smith:
   coauthors: []
   first: Mark H.
@@ -1700,12 +1830,31 @@ marketa-lopatkova:
   papers: []
   slug: marketa-lopatkova
   venues: []
+markus-berg:
+  coauthors:
+  - - bernhard-thalheim
+    - 1
+  - - antje-dusterhoft
+    - 1
+  first: Markus
+  full: Markus Berg
+  last: Berg
+  papers:
+  - Z11-4027
+  slug: markus-berg
+  venues:
+  - - SEMDIAL
+    - 1
 markus-guhe:
   coauthors:
   - - alex-lascarides
     - 3
   - - verena-rieser
     - 2
+  - - ellen-bard
+    - 1
+  - - ellen-gurman-bard
+    - 1
   - - kevin-o-connor
     - 1
   - - stergos-afantenos
@@ -1716,7 +1865,7 @@ markus-guhe:
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont1
+  - - cedric-degremont
     - 1
   - - pascal-denis
     - 1
@@ -1739,10 +1888,12 @@ markus-guhe:
   - Z14-3011
   - Z13-3012
   - Z12-4029
+  - Z08-3016
+  - Z07-4028
   slug: markus-guhe
   venues:
   - - SEMDIAL
-    - 3
+    - 5
 markus-kommenda:
   coauthors: []
   first: Markus
@@ -1812,16 +1963,20 @@ marta-garrote-salazar:
   slug: marta-garrote-salazar
   venues: []
 marta-gatius:
-  coauthors: []
+  coauthors:
+  - - meritxell-gonzalez
+    - 2
   first: Marta
   full: Marta Gatius
   last: Gatius
   papers:
   - Z13-4027
+  - Z10-4032
+  - Z07-4027
   slug: marta-gatius
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 marta-r-costa-jussa:
   coauthors: []
   first: Marta R.
@@ -1946,6 +2101,21 @@ martin-hofmann-apitius:
   papers: []
   slug: martin-hofmann-apitius
   venues: []
+martin-johansson:
+  coauthors:
+  - - gabriel-skantze
+    - 1
+  - - gustafson
+    - 1
+  first: Martin
+  full: Martin Johansson
+  last: Johansson
+  papers:
+  - Z11-3007
+  slug: martin-johansson
+  venues:
+  - - SEMDIAL
+    - 1
 martin-kay:
   coauthors: []
   first: Martin
@@ -1963,13 +2133,24 @@ martin-krallinger:
   slug: martin-krallinger
   venues: []
 martin-labsky:
-  coauthors: []
+  coauthors:
+  - - jan-kleindienst
+    - 1
+  - - jan-curin1
+    - 1
   first: Martin
   full: "Martin Labsk\xFD"
   last: "Labsk\xFD"
-  papers: []
+  papers:
+  - Z09-3020
   slug: martin-labsky
-  venues: []
+  variant_entries:
+  - first: Martin
+    full: Martin Labsky
+    last: Labsky
+  venues:
+  - - SEMDIAL
+    - 1
 martin-pereira-farina:
   coauthors: []
   first: "Mart\xEDn"
@@ -2034,6 +2215,23 @@ martine-de-cock:
   papers: []
   slug: martine-de-cock
   venues: []
+mary-byram:
+  coauthors:
+  - - washburn-elsi
+    - 1
+  - - kaiser-maria
+    - 1
+  - - luisa-zubizarreta
+    - 1
+  first: Mary
+  full: Mary Byram
+  last: Byram
+  papers:
+  - Z11-3016
+  slug: mary-byram
+  venues:
+  - - SEMDIAL
+    - 1
 mary-elaine-califf:
   coauthors: []
   first: Mary Elaine
@@ -2052,6 +2250,12 @@ mary-ellen-foster:
     - 2
   - - ruth-aylett
     - 2
+  - - colin-matheson
+    - 1
+  - - ellen-gurman-bard
+    - 1
+  - - robin-hill
+    - 1
   - - mei-yii-lim
     - 1
   first: Mary Ellen
@@ -2060,10 +2264,12 @@ mary-ellen-foster:
   papers:
   - Z15-4033
   - Z14-4040
+  - Z08-3012
+  - Z08-3021
   slug: mary-ellen-foster
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 mary-harper:
   coauthors: []
   first: Mary
@@ -2108,13 +2314,37 @@ mary-s-neff:
   slug: mary-s-neff
   venues: []
 mary-swift:
-  coauthors: []
+  coauthors:
+  - - carlos-gomez-gallo
+    - 2
+  - - gregory-aist
+    - 2
+  - - james-allen
+    - 2
+  - - william-de-beaumont
+    - 1
+  - - sergio-coria
+    - 1
+  - - whitney-gegg-harrison
+    - 1
+  - - joana-pardal
+    - 1
+  - - ellen-campana
+    - 1
+  - - scott-c-stoness
+    - 1
+  - - michael-tanenhaus
+    - 1
   first: Mary
   full: Mary Swift
   last: Swift
-  papers: []
+  papers:
+  - Z07-3015
+  - Z07-3025
   slug: mary-swift
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 2
 maryam-mohammadi:
   coauthors:
   - - christoph-hesse
@@ -2230,17 +2460,17 @@ masatake-dantsuji:
 masato-ishizaki:
   coauthors:
   - - yasuhiro-katagiri
-    - 5
+    - 6
   - - katsuya-takanashi
-    - 5
+    - 6
   - - mika-enomoto
-    - 5
+    - 6
   - - yasuharu-den
-    - 5
+    - 6
   - - shogo-okada
     - 2
   - - yosuke-matsusaka
-    - 1
+    - 2
   first: Masato
   full: Masato Ishizaki
   last: Ishizaki
@@ -2250,10 +2480,11 @@ masato-ishizaki:
   - Z14-4034
   - Z13-4032
   - Z12-4031
+  - Z11-4042
   slug: masato-ishizaki
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 massih-r-amini:
   coauthors: []
   first: Massih R.
@@ -2272,6 +2503,8 @@ massimo-marino:
   venues: []
 massimo-poesio:
   coauthors:
+  - - hannes-rieser
+    - 1
   - - janosch-haber
     - 1
   first: Massimo
@@ -2279,7 +2512,25 @@ massimo-poesio:
   last: Poesio
   papers:
   - Z20-3017
+  - Z09-3011
   slug: massimo-poesio
+  venues:
+  - - SEMDIAL
+    - 2
+massimo-zancanaro:
+  coauthors:
+  - - elena-not
+    - 1
+  - - koray-balci
+    - 1
+  - - fabio-pianesi
+    - 1
+  first: Massimo
+  full: Massimo Zancanaro
+  last: Zancanaro
+  papers:
+  - Z07-4036
+  slug: massimo-zancanaro
   venues:
   - - SEMDIAL
     - 1
@@ -2334,6 +2585,14 @@ mats-wiren:
 matt-purver:
   coauthors:
   - - christine-howes
+    - 2
+  - - ruth-kempson
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - greg-mills
+    - 1
+  - - andrew-gargett
     - 1
   - - rose-mccabe
     - 1
@@ -2346,10 +2605,11 @@ matt-purver:
   last: Purver
   papers:
   - Z12-4024
+  - Z09-3015
   slug: matt-purver
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 matteo-negri:
   coauthors: []
   first: Matteo
@@ -2366,6 +2626,25 @@ matthew-crocker:
   papers: []
   slug: matthew-crocker
   venues: []
+matthew-frampton:
+  coauthors:
+  - - raquel-fernandez
+    - 1
+  - - patrick-ehlen
+    - 1
+  - - anish-adukuzhiyil
+    - 1
+  - - stanley-peters
+    - 1
+  first: Matthew
+  full: Matthew Frampton
+  last: Frampton
+  papers:
+  - Z08-3019
+  slug: matthew-frampton
+  venues:
+  - - SEMDIAL
+    - 1
 matthew-gerber:
   coauthors: []
   first: Matthew
@@ -2420,6 +2699,8 @@ matthew-purver:
   coauthors:
   - - julian-hough
     - 8
+  - - eleni-gregoromichelaki
+    - 3
   - - christine-howes
     - 3
   - - ruth-kempson
@@ -2428,13 +2709,15 @@ matthew-purver:
     - 3
   - - patrick-healey
     - 3
-  - - eleni-gregoromichelaki
-    - 2
   - - arash-eshghi
     - 2
   - - shauna-concannon
     - 2
-  - - rose-mccabe
+  - - paweal-lupkowski
+    - 1
+  - - wilfried-meyer-viol
+    - 1
+  - - ronnie-cann
     - 1
   - - shamila-nasreen
     - 1
@@ -2447,6 +2730,8 @@ matthew-purver:
   - - jieun-kiaer
     - 1
   - - graham-white
+    - 1
+  - - rose-mccabe
     - 1
   first: Matthew
   full: Matthew Purver
@@ -2464,10 +2749,12 @@ matthew-purver:
   - Z14-3013
   - Z13-3013
   - Z12-3018
+  - Z10-1000
+  - Z10-3010
   slug: matthew-purver
   venues:
   - - SEMDIAL
-    - 12
+    - 14
 matthew-r-gormley:
   coauthors: []
   first: Matthew R.
@@ -2488,7 +2775,11 @@ matthew-stone:
   coauthors:
   - - brian-mcmahan
     - 2
-  - - timothy-meo
+  - - alex-lascarides
+    - 1
+  - - michael-wunder
+    - 1
+  - - david-devault
     - 1
   - - baber-khalid
     - 1
@@ -2500,6 +2791,8 @@ matthew-stone:
     - 1
   - - mandy-simmons
     - 1
+  - - timothy-meo
+    - 1
   first: Matthew
   full: Matthew Stone
   last: Stone
@@ -2508,10 +2801,13 @@ matthew-stone:
   - Z16-1000
   - Z14-3016
   - Z13-2002
+  - Z10-3011
+  - Z10-4029
+  - Z07-3011
   slug: matthew-stone
   venues:
   - - SEMDIAL
-    - 4
+    - 7
 matthew-w-bilotti:
   coauthors: []
   first: Matthew W.
@@ -2612,13 +2908,22 @@ matthieu-constant:
   slug: matthieu-constant
   venues: []
 matthieu-quignard:
-  coauthors: []
+  coauthors:
+  - - alexandre-denis
+    - 1
+  - - guillaume-pitel
+    - 1
+  - - patrick-blackburn
+    - 1
   first: Matthieu
   full: Matthieu Quignard
   last: Quignard
-  papers: []
+  papers:
+  - Z07-3009
   slug: matthieu-quignard
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 matthijs-westera:
   coauthors: []
   first: Matthijs
@@ -3014,6 +3319,25 @@ mercedes-garcia-martinez:
   papers: []
   slug: mercedes-garcia-martinez
   venues: []
+meriam-horchani:
+  coauthors:
+  - - dominique-freard
+    - 1
+  - - eric-jamet
+    - 1
+  - - laurence-nigay
+    - 1
+  - - franck-panaget
+    - 1
+  first: Meriam
+  full: Meriam Horchani
+  last: Horchani
+  papers:
+  - Z07-4029
+  slug: meriam-horchani
+  venues:
+  - - SEMDIAL
+    - 1
 meriama-laib:
   coauthors: []
   first: Meriama
@@ -3044,13 +3368,23 @@ merideth-gattis:
   - - SEMDIAL
     - 1
 meritxell-gonzalez:
-  coauthors: []
+  coauthors:
+  - - marta-gatius
+    - 2
   first: Meritxell
   full: "Meritxell Gonz\xE0lez"
   last: "Gonz\xE0lez"
-  papers: []
+  papers:
+  - Z10-4032
+  - Z07-4027
   slug: meritxell-gonzalez
-  venues: []
+  variant_entries:
+  - first: Meritxell
+    full: "Meritxell Gonz\xE1lez"
+    last: "Gonz\xE1lez"
+  venues:
+  - - SEMDIAL
+    - 2
 mia-xu-chen:
   coauthors: []
   first: Mia Xu
@@ -3082,6 +3416,19 @@ michael-b-kac:
   papers: []
   slug: michael-b-kac
   venues: []
+michael-brenner:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  first: Michael
+  full: Michael Brenner
+  last: Brenner
+  papers:
+  - Z08-3013
+  slug: michael-brenner
+  venues:
+  - - SEMDIAL
+    - 1
 michael-c-frank:
   coauthors:
   - - marisa-casillas
@@ -3378,6 +3725,24 @@ michael-rosner:
   papers: []
   slug: michael-rosner
   venues: []
+michael-rushforth:
+  coauthors:
+  - - ron-artstein
+    - 2
+  - - sudeep-gandhe
+    - 2
+  - - david-traum
+    - 2
+  first: Michael
+  full: Michael Rushforth
+  last: Rushforth
+  papers:
+  - Z09-3012
+  - Z09-4024
+  slug: michael-rushforth
+  venues:
+  - - SEMDIAL
+    - 2
 michael-s-kearns:
   coauthors: []
   first: Michael S.
@@ -3413,6 +3778,44 @@ michael-t-johnson:
   papers: []
   slug: michael-t-johnson
   venues: []
+michael-tanenhaus:
+  coauthors:
+  - - gregory-aist
+    - 1
+  - - james-allen
+    - 1
+  - - ellen-campana
+    - 1
+  - - carlos-gomez-gallo
+    - 1
+  - - scott-c-stoness
+    - 1
+  - - mary-swift
+    - 1
+  first: Michael
+  full: Michael Tanenhaus
+  last: Tanenhaus
+  papers:
+  - Z07-3025
+  slug: michael-tanenhaus
+  venues:
+  - - SEMDIAL
+    - 1
+michael-tomasello:
+  coauthors:
+  - - danielle-matthews
+    - 1
+  - - elena-lieven
+    - 1
+  first: Michael
+  full: Michael Tomasello
+  last: Tomasello
+  papers:
+  - Z08-3020
+  slug: michael-tomasello
+  venues:
+  - - SEMDIAL
+    - 1
 michael-wagner:
   coauthors:
   - - daniel-goodhue
@@ -3449,6 +3852,19 @@ michael-wayne-goodman:
   papers: []
   slug: michael-wayne-goodman
   venues: []
+michael-wunder:
+  coauthors:
+  - - matthew-stone
+    - 1
+  first: Michael
+  full: Michael Wunder
+  last: Wunder
+  papers:
+  - Z10-4029
+  slug: michael-wunder
+  venues:
+  - - SEMDIAL
+    - 1
 michael-zock:
   coauthors: []
   first: Michael
@@ -3626,17 +4042,17 @@ mijail-kabadjov:
 mika-enomoto:
   coauthors:
   - - yasuhiro-katagiri
-    - 5
+    - 6
   - - katsuya-takanashi
-    - 5
+    - 6
   - - masato-ishizaki
-    - 5
+    - 6
   - - yasuharu-den
-    - 5
+    - 6
   - - shogo-okada
     - 2
   - - yosuke-matsusaka
-    - 1
+    - 2
   first: Mika
   full: Mika Enomoto
   last: Enomoto
@@ -3646,10 +4062,11 @@ mika-enomoto:
   - Z14-4034
   - Z13-4032
   - Z12-4031
+  - Z11-4042
   slug: mika-enomoto
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 mikael-andersson:
   coauthors: []
   first: Mikael
@@ -3749,7 +4166,7 @@ milica-gasic:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1

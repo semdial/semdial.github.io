@@ -130,6 +130,26 @@ barbara-di-eugenio:
   venues:
   - - SEMDIAL
     - 1
+barbara-di-eugenio1:
+  coauthors:
+  - - cynthia-kersey
+    - 1
+  - - pamela-jordan
+    - 1
+  - - sandra-katz
+    - 1
+  - - rajen-subba
+    - 1
+  first: Barbara
+  full: Barbara Di Eugenio
+  last: Di Eugenio
+  papers:
+  - Z07-4032
+  - Z07-4039
+  slug: barbara-di-eugenio1
+  venues:
+  - - SEMDIAL
+    - 2
 barbara-gawronska:
   coauthors: []
   first: Barbara
@@ -472,13 +492,13 @@ benoit-favre:
   coauthors:
   - - simone-fuscone
     - 2
+  - - laurent-prvot
+    - 1
   - - laurent-prevot
     - 1
   - - magalie-ochs
     - 1
   - - laurent-pr-evot
-    - 1
-  - - laurent-prvot
     - 1
   first: Benoit
   full: Benoit Favre
@@ -643,15 +663,15 @@ bernd-kiefer:
   coauthors:
   - - ivana-kruijff-korbayova
     - 2
+  - - ilaria-baroni
+    - 1
+  - - mattia-coti-zelati
+    - 1
   - - stefania-racioppa
     - 1
   - - elettra-oleari
     - 1
   - - clara-pozzi
-    - 1
-  - - ilaria-baroni
-    - 1
-  - - mattia-coti-zelati
     - 1
   first: Bernd
   full: Bernd Kiefer
@@ -671,6 +691,21 @@ bernd-mobius:
   papers: []
   slug: bernd-mobius
   venues: []
+bernhard-thalheim:
+  coauthors:
+  - - markus-berg
+    - 1
+  - - antje-dusterhoft
+    - 1
+  first: Bernhard
+  full: Bernhard Thalheim
+  last: Thalheim
+  papers:
+  - Z11-4027
+  slug: bernhard-thalheim
+  venues:
+  - - SEMDIAL
+    - 1
 berry-claus:
   coauthors:
   - - marlijn-meijer
@@ -996,7 +1031,7 @@ boris-villazon-terrazas:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -1186,13 +1221,13 @@ brian-mcmahan:
   coauthors:
   - - matthew-stone
     - 2
-  - - timothy-meo
-    - 1
   - - baber-khalid
     - 1
   - - malihe-alikhani
     - 1
   - - michael-fellner
+    - 1
+  - - timothy-meo
     - 1
   first: Brian
   full: Brian McMahan
@@ -1212,6 +1247,26 @@ brian-mitchell:
   papers: []
   slug: brian-mitchell
   venues: []
+brian-pluss:
+  coauthors:
+  - - david-devault
+    - 1
+  - - david-traum
+    - 1
+  - - paul-piwek
+    - 1
+  - - richard-power
+    - 1
+  first: Brian
+  full: "Brian Pl\xFCss"
+  last: "Pl\xFCss"
+  papers:
+  - Z11-3012
+  - Z11-4044
+  slug: brian-pluss
+  venues:
+  - - SEMDIAL
+    - 2
 brian-w-dillon:
   coauthors: []
   first: Brian W.
@@ -1318,6 +1373,17 @@ brunelle-magnana-ekoukou:
   papers: []
   slug: brunelle-magnana-ekoukou
   venues: []
+bruno-bara:
+  coauthors: []
+  first: Bruno
+  full: Bruno Bara
+  last: Bara
+  papers:
+  - Z07-2005
+  slug: bruno-bara
+  venues:
+  - - SEMDIAL
+    - 1
 bruno-galmar:
   coauthors: []
   first: Bruno

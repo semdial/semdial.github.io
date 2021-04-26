@@ -1,0 +1,742 @@
+Z08-1000:
+  address: London, United Kingdom
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Pat
+    full: Pat Healey
+    id: patrick-healey
+    last: Healey
+  - first: Yo
+    full: Yo Sato
+    id: yo-sato
+    last: Sato
+  bibkey: semdial-2008-semantics
+  bibtype: proceedings
+  month: June
+  paper_id: '1000'
+  parent_volume_id: Z08-1
+  publisher: SEMDIAL
+  title: Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2008_londial_front_matter.pdf
+  year: '2008'
+Z08-2005:
+  address: London, United Kingdom
+  author:
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: traum-2008-computational
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June
+  paper_id: '2005'
+  parent_volume_id: Z08-2
+  publisher: SEMDIAL
+  title: Computational Models of Non-cooperative dialogue
+  title_html: Computational Models of Non-cooperative dialogue
+  url: http://semdial.org/anthology/Z08-NONAME_semdial_0005.pdf
+  year: '2008'
+Z08-2008:
+  address: London, United Kingdom
+  author:
+  - first: Andrzej
+    full: "Andrzej Wi\u015Bniewski"
+    id: andrzej-wisniewski
+    last: "Wi\u015Bniewski"
+  bibkey: wisniewski-2008-questions
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June
+  paper_id: '2008'
+  parent_volume_id: Z08-2
+  publisher: SEMDIAL
+  title: Questions, Inferences, and Dialogues
+  title_html: Questions, Inferences, and Dialogues
+  url: http://semdial.org/anthology/Z08-Wisniewski_semdial_0008.pdf
+  year: '2008'
+Z08-2017:
+  address: London, United Kingdom
+  author:
+  - first: Susan
+    full: Susan Fussell
+    id: susan-fussell
+    last: Fussell
+  bibkey: fussell-2008-cultural
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June
+  paper_id: '2017'
+  parent_volume_id: Z08-2
+  publisher: SEMDIAL
+  title: Cultural Differences in Computer-Mediated Communication
+  title_html: Cultural Differences in Computer-Mediated Communication
+  url: http://semdial.org/anthology/Z08-Fussell_semdial_0017.pdf
+  year: '2008'
+Z08-3006:
+  address: London, United Kingdom
+  author:
+  - first: Mark
+    full: Mark Buckley
+    id: mark-buckley
+    last: Buckley
+  - first: Magdalena
+    full: Magdalena Wolska
+    id: magdalena-wolska
+    last: Wolska
+  bibkey: buckley-wolska-2008-grounding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3006'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: A Grounding Approach to Modelling Tutorial Dialogue Structures
+  title_html: A Grounding Approach to Modelling Tutorial Dialogue Structures
+  url: http://semdial.org/anthology/Z08-Buckley_semdial_0006.pdf
+  year: '2008'
+Z08-3007:
+  address: London, United Kingdom
+  author:
+  - first: Ian
+    full: Ian Lewin
+    id: ian-lewin
+    last: Lewin
+  bibkey: lewin-2008-flexible
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3007'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Flexible dialogue management and cost-models
+  title_html: Flexible dialogue management and cost-models
+  url: http://semdial.org/anthology/Z08-Lewin_semdial_0007.pdf
+  year: '2008'
+Z08-3009:
+  address: London, United Kingdom
+  author:
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  bibkey: asher-lascarides-2008-commitments
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3009'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Commitments, Beliefs and Intentions in Dialogue
+  title_html: Commitments, Beliefs and Intentions in Dialogue
+  url: http://semdial.org/anthology/Z08-Asher_semdial_0009.pdf
+  year: '2008'
+Z08-3010:
+  address: London, United Kingdom
+  author:
+  - first: Andrew
+    full: Andrew Gargett
+    id: andrew-gargett
+    last: Gargett
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Yo
+    full: Yo Sato
+    id: yo-sato
+    last: Sato
+  bibkey: gargett-etal-2008-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3010'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Dialogue-Grammar Correspondence in Dynamic Syntax
+  title_html: Dialogue-Grammar Correspondence in Dynamic Syntax
+  url: http://semdial.org/anthology/Z08-Gargett_semdial_0010.pdf
+  year: '2008'
+Z08-3011:
+  address: London, United Kingdom
+  author:
+  - first: Srinivasan
+    full: Srinivasan Janarthanam
+    id: srinivasan-janarthanam
+    last: Janarthanam
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: janarthanam-lemon-2008-user
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3011'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: User Simulations for Online Adaptation and Knowledge-alignment in Troubleshooting
+    Dialogue Systems
+  title_html: User Simulations for Online Adaptation and Knowledge-alignment in Troubleshooting
+    Dialogue Systems
+  url: http://semdial.org/anthology/Z08-Janarthanam_semdial_0011.pdf
+  year: '2008'
+Z08-3012:
+  address: London, United Kingdom
+  author:
+  - first: Mary Ellen
+    full: Mary Ellen Foster
+    id: mary-ellen-foster
+    last: Foster
+  - first: Colin
+    full: Colin Matheson
+    id: colin-matheson
+    last: Matheson
+  bibkey: foster-matheson-2008-representing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3012'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Representing and Using Assembly Plans in Cooperative, Task-Based Human-Robot
+    Dialogue
+  title_html: Representing and Using Assembly Plans in Cooperative, Task-Based Human-Robot
+    Dialogue
+  url: http://semdial.org/anthology/Z08-Foster_semdial_0012.pdf
+  year: '2008'
+Z08-3013:
+  address: London, United Kingdom
+  author:
+  - first: Michael
+    full: Michael Brenner
+    id: michael-brenner
+    last: Brenner
+  - first: Ivana
+    full: Ivana Kruijff-Korbayova
+    id: ivana-kruijff-korbayova
+    last: Kruijff-Korbayova
+  bibkey: brenner-kruijff-korbayova-2008-continual
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3013'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: A Continual Multiagent Planning Approach to Situated Dialogue
+  title_html: A Continual Multiagent Planning Approach to Situated Dialogue
+  url: http://semdial.org/anthology/Z08-Brenner_semdial_0013.pdf
+  year: '2008'
+Z08-3014:
+  address: London, United Kingdom
+  author:
+  - first: Luciana
+    full: Luciana Benotti
+    id: luciana-benotti
+    last: Benotti
+  bibkey: benotti-2008-accommodation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3014'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Accommodation through Tacit Sensing
+  title_html: Accommodation through Tacit Sensing
+  url: http://semdial.org/anthology/Z08-Benotti_semdial_0014.pdf
+  year: '2008'
+Z08-3015:
+  address: London, United Kingdom
+  author:
+  - first: Daniel
+    full: Daniel Richardson
+    id: daniel-richardson
+    last: Richardson
+  - first: Rick
+    full: Rick Dale,
+    id: rick-dale
+    last: Dale,
+  - first: John
+    full: John Tomlinson
+    id: john-tomlinson
+    last: Tomlinson
+  - first: Herbert
+    full: Herbert Clark
+    id: herbert-clark
+    last: Clark
+  bibkey: richardson-etal-2008-eye
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3015'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: 'What eye believe that you can see: Conversation, gaze coordination and visual
+    common ground'
+  title_html: 'What eye believe that you can see: Conversation, gaze coordination
+    and visual common ground'
+  url: http://semdial.org/anthology/Z08-Richardson_semdial_0015.pdf
+  year: '2008'
+Z08-3016:
+  address: London, United Kingdom
+  author:
+  - first: Markus
+    full: Markus Guhe
+    id: markus-guhe
+    last: Guhe
+  - first: Ellen Gurman
+    full: Ellen Gurman Bard
+    id: ellen-gurman-bard
+    last: Bard
+  bibkey: guhe-bard-2008-adapting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3016'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: 'Adapting the Use of Attributes to the Task Environment in Joint Action:
+    results and a model'
+  title_html: 'Adapting the Use of Attributes to the Task Environment in Joint Action:
+    results and a model'
+  url: http://semdial.org/anthology/Z08-Guhe_semdial_0016.pdf
+  year: '2008'
+Z08-3018:
+  address: London, United Kingdom
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Jessica
+    full: Jessica Villing
+    id: jessica-villing
+    last: Villing
+  bibkey: breitholtz-villing-2008-aristotelian
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3018'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Can Aristotelian Enthymemes Decrease the Cognitive Load of a Dialogue
+  title_html: Can Aristotelian Enthymemes Decrease the Cognitive Load of a Dialogue
+  url: http://semdial.org/anthology/Z08-Breitholtz_semdial_0018.pdf
+  year: '2008'
+Z08-3019:
+  address: London, United Kingdom
+  author:
+  - first: Matthew
+    full: Matthew Frampton
+    id: matthew-frampton
+    last: Frampton
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Patrick
+    full: Patrick Ehlen
+    id: patrick-ehlen
+    last: Ehlen
+  - first: Anish
+    full: Anish Adukuzhiyil
+    id: anish-adukuzhiyil
+    last: Adukuzhiyil
+  - first: Stanley
+    full: Stanley Peters
+    id: stanley-peters
+    last: Peters
+  bibkey: frampton-etal-2008-leveraging
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3019'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Leveraging Minimal User Input to Improve Targeted Extraction of Action Items
+  title_html: Leveraging Minimal User Input to Improve Targeted Extraction of Action
+    Items
+  url: http://semdial.org/anthology/Z08-Frampton_semdial_0019.pdf
+  year: '2008'
+Z08-3020:
+  address: London, United Kingdom
+  author:
+  - first: Danielle
+    full: Danielle Matthews
+    id: danielle-matthews
+    last: Matthews
+  - first: Elena
+    full: Elena Lieven
+    id: elena-lieven
+    last: Lieven
+  - first: Michael
+    full: Michael Tomasello
+    id: michael-tomasello
+    last: Tomasello
+  bibkey: matthews-etal-2008-whats
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3020'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: "What\u2019s in a Manner of Speaking? Children\u2019s sensitivity to partner-specific
+    referential precedents"
+  title_html: "What\u2019s in a Manner of Speaking? Children\u2019s sensitivity to
+    partner-specific referential precedents"
+  url: http://semdial.org/anthology/Z08-Matthews_semdial_0020.pdf
+  year: '2008'
+Z08-3021:
+  address: London, United Kingdom
+  author:
+  - first: Ellen Gurman
+    full: Ellen Gurman Bard
+    id: ellen-gurman-bard
+    last: Bard
+  - first: Robin
+    full: Robin Hill
+    id: robin-hill
+    last: Hill
+  - first: Mary Ellen
+    full: Mary Ellen Foster
+    id: mary-ellen-foster
+    last: Foster
+  bibkey: bard-etal-2008-tunes
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3021'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Who Tunes Accessibility of Referring Expressions in Dialogue
+  title_html: Who Tunes Accessibility of Referring Expressions in Dialogue
+  url: http://semdial.org/anthology/Z08-Bard_semdial_0021.pdf
+  year: '2008'
+Z08-3023:
+  address: London, United Kingdom
+  author:
+  - first: Scott
+    full: Scott Fraundorf
+    id: scott-fraundorf
+    last: Fraundorf
+  - first: Duane
+    full: Duane Watson
+    id: duane-watson
+    last: Watson
+  bibkey: fraundorf-watson-2008-dimensions
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3023'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: Dimensions of Variation in Disfluency Production in Discourse
+  title_html: Dimensions of Variation in Disfluency Production in Discourse
+  url: http://semdial.org/anthology/Z08-Fraundorf_semdial_0023.pdf
+  year: '2008'
+Z08-3024:
+  address: London, United Kingdom
+  author:
+  - first: Lilla
+    full: Lilla Magyari
+    id: lilla-magyari
+    last: Magyari
+  - first: Jan-Peter
+    full: Jan-Peter de Ruiter
+    id: jan-peter-de-ruiter
+    last: de Ruiter
+  bibkey: magyari-de-ruiter-2008-timing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June
+  paper_id: '3024'
+  parent_volume_id: Z08-3
+  publisher: SEMDIAL
+  title: 'Timing in conversation: The anticipation of turn endings'
+  title_html: 'Timing in conversation: The anticipation of turn endings'
+  url: http://semdial.org/anthology/Z08-Magyari_semdial_0024.pdf
+  year: '2008'
+Z08-4025:
+  address: London, United Kingdom
+  author:
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: lemon-2008-adaptive
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4025'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: Adaptive Natural Language Generation in Dialogue using Reinforcement Learning
+  title_html: Adaptive Natural Language Generation in Dialogue using Reinforcement
+    Learning
+  url: http://semdial.org/anthology/Z08-Lemon_semdial_0025.pdf
+  year: '2008'
+Z08-4026:
+  address: London, United Kingdom
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Alexander
+    full: Alexander Mehler
+    id: alexander-mehler
+    last: Mehler
+  - first: Peter
+    full: Peter Menke
+    id: peter-menke
+    last: Menke
+  bibkey: lucking-etal-2008-taking
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4026'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: 'Taking Fingerprints of Speech-and-Gesture Ensembles: Approaching Empirical
+    Evidence of Intrapersonal Alignment in Multimodal Communication'
+  title_html: 'Taking Fingerprints of Speech-and-Gesture Ensembles: Approaching Empirical
+    Evidence of Intrapersonal Alignment in Multimodal Communication'
+  url: http://semdial.org/anthology/Z08-Lucking_semdial_0026.pdf
+  year: '2008'
+Z08-4027:
+  address: London, United Kingdom
+  author:
+  - first: Paul
+    full: Paul Piwek
+    id: paul-piwek
+    last: Piwek
+  - first: Ielka
+    full: Ielka van der Sluis
+    id: ielka-van-der-sluis
+    last: van der Sluis
+  - first: Albert
+    full: Albert Gatt
+    id: albert-gatt
+    last: Gatt
+  - first: Adrian
+    full: Adrian Bangerter
+    id: adrian-bangerter
+    last: Bangerter
+  bibkey: piwek-etal-2008-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4027'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: 'Multimodal Reference in Dialogue: Towards a Balanced Corpus'
+  title_html: 'Multimodal Reference in Dialogue: Towards a Balanced Corpus'
+  url: http://semdial.org/anthology/Z08-Piwek_semdial_0027.pdf
+  year: '2008'
+Z08-4028:
+  address: London, United Kingdom
+  author:
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  bibkey: rieser-2008-aligned
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4028'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: Aligned Iconic Gesture in Different Strata of MM Route-description
+  title_html: Aligned Iconic Gesture in Different Strata of MM Route-description
+  url: http://semdial.org/anthology/Z08-Rieser_semdial_0028.pdf
+  year: '2008'
+Z08-4029:
+  address: London, United Kingdom
+  author:
+  - first: Nick
+    full: Nick Cassimatis
+    id: nick-cassimatis
+    last: Cassimatis
+  bibkey: cassimatis-2008-resolving
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4029'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: Resolving Ambiguous, Implicit and Non-Literal References by Jointly Reasoning
+    over Linguistic and Non-Linguistic Knowledge
+  title_html: Resolving Ambiguous, Implicit and Non-Literal References by Jointly
+    Reasoning over Linguistic and Non-Linguistic Knowledge
+  url: http://semdial.org/anthology/Z08-Cassimatis_semdial_0029.pdf
+  year: '2008'
+Z08-4030:
+  address: London, United Kingdom
+  author:
+  - first: Alex
+    full: Alex Fang
+    id: alex-fang
+    last: Fang
+  - first: Weigang
+    full: Weigang Li
+    id: weigang-li
+    last: Li
+  - first: Jonathan
+    full: Jonathan Webster
+    id: jonathan-j-webster
+    last: Webster
+  bibkey: fang-etal-2008-word
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4030'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: A Word-Probabilistic Interface to Dialogue Modules
+  title_html: A Word-Probabilistic Interface to Dialogue Modules
+  url: http://semdial.org/anthology/Z08-Fang_semdial_0030.pdf
+  year: '2008'
+Z08-4031:
+  address: London, United Kingdom
+  author:
+  - first: Peter
+    full: "Peter Ljungl\xF6f"
+    id: peter-ljunglof
+    last: "Ljungl\xF6f"
+  bibkey: ljunglof-2008-grammar
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4031'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: A Grammar Formalism for Specifying ISU-based Dialogue Systems
+  title_html: A Grammar Formalism for Specifying ISU-based Dialogue Systems
+  url: http://semdial.org/anthology/Z08-Ljunglof_semdial_0031.pdf
+  year: '2008'
+Z08-4032:
+  address: London, United Kingdom
+  author:
+  - first: Ivan V.
+    full: Ivan V. Meza-Ruiz
+    id: ivan-v-meza-ruiz
+    last: Meza-Ruiz
+  - first: Sebastian
+    full: Sebastian Riedel
+    id: sebastian-riedel
+    last: Riedel
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: meza-ruiz-etal-2008-spoken
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4032'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: 'Spoken Language Understanding in Dialogue Systems, Using a 2-layer Markov
+    Logic Network: improving semantic accuracy'
+  title_html: 'Spoken Language Understanding in Dialogue Systems, Using a 2-layer
+    Markov Logic Network: improving semantic accuracy'
+  url: http://semdial.org/anthology/Z08-Meza-Ruiz_semdial_0032.pdf
+  year: '2008'
+Z08-4033:
+  address: London, United Kingdom
+  author:
+  - first: Petra-Maria
+    full: Petra-Maria Strauss
+    id: petra-maria-strauss
+    last: Strauss
+  - first: Simon
+    full: Simon Friedmann
+    id: simon-friedmann
+    last: Friedmann
+  - first: Tobias
+    full: Tobias Heinroth
+    id: tobias-heinroth
+    last: Heinroth
+  bibkey: strauss-etal-2008-discourse
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4033'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: Discourse Motivated Constraint Prioritisation For Task-Oriented Multi-Party
+    Dialogue Systems
+  title_html: Discourse Motivated Constraint Prioritisation For Task-Oriented Multi-Party
+    Dialogue Systems
+  url: http://semdial.org/anthology/Z08-Strauss_semdial_0033.pdf
+  year: '2008'
+Z08-4034:
+  address: London, United Kingdom
+  author:
+  - first: Thora
+    full: Thora Tenbrink
+    id: thora-tenbrink
+    last: Tenbrink
+  - first: Elena
+    full: Elena Andonova
+    id: elena-andonova
+    last: Andonova
+  - first: Kenny
+    full: Kenny Coventry
+    id: kenny-coventry
+    last: Coventry
+  bibkey: tenbrink-etal-2008-negotiating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 12th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June
+  paper_id: '4034'
+  parent_volume_id: Z08-4
+  publisher: SEMDIAL
+  title: 'Negotiating Spatial Relationships in Dialogue: The role of the addressee'
+  title_html: 'Negotiating Spatial Relationships in Dialogue: The role of the addressee'
+  url: http://semdial.org/anthology/Z08-Tenbrink_semdial_0034.pdf
+  year: '2008'

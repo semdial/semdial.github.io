@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="lemon-2008-adaptive">
+    <titleInfo>
+        <title>Adaptive Natural Language Generation in Dialogue using Reinforcement Learning</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lemon-2008-adaptive</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Lemon_semdial_0025.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="lucking-etal-2008-taking">
+    <titleInfo>
+        <title>Taking Fingerprints of Speech-and-Gesture Ensembles: Approaching Empirical Evidence of Intrapersonal Alignment in Multimodal Communication</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Andy</namePart>
+        <namePart type="family">Lücking</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alexander</namePart>
+        <namePart type="family">Mehler</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Peter</namePart>
+        <namePart type="family">Menke</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lucking-etal-2008-taking</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Lucking_semdial_0026.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="piwek-etal-2008-multimodal">
+    <titleInfo>
+        <title>Multimodal Reference in Dialogue: Towards a Balanced Corpus</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Paul</namePart>
+        <namePart type="family">Piwek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ielka</namePart>
+        <namePart type="family">van der Sluis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Albert</namePart>
+        <namePart type="family">Gatt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Adrian</namePart>
+        <namePart type="family">Bangerter</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">piwek-etal-2008-multimodal</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Piwek_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="rieser-2008-aligned">
+    <titleInfo>
+        <title>Aligned Iconic Gesture in Different Strata of MM Route-description</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hannes</namePart>
+        <namePart type="family">Rieser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">rieser-2008-aligned</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Rieser_semdial_0028.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="cassimatis-2008-resolving">
+    <titleInfo>
+        <title>Resolving Ambiguous, Implicit and Non-Literal References by Jointly Reasoning over Linguistic and Non-Linguistic Knowledge</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nick</namePart>
+        <namePart type="family">Cassimatis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cassimatis-2008-resolving</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Cassimatis_semdial_0029.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="fang-etal-2008-word">
+    <titleInfo>
+        <title>A Word-Probabilistic Interface to Dialogue Modules</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Fang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Weigang</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Webster</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fang-etal-2008-word</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Fang_semdial_0030.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="ljunglof-2008-grammar">
+    <titleInfo>
+        <title>A Grammar Formalism for Specifying ISU-based Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Peter</namePart>
+        <namePart type="family">Ljunglöf</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ljunglof-2008-grammar</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Ljunglof_semdial_0031.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="meza-ruiz-etal-2008-spoken">
+    <titleInfo>
+        <title>Spoken Language Understanding in Dialogue Systems, Using a 2-layer Markov Logic Network: improving semantic accuracy</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ivan</namePart>
+        <namePart type="given">V</namePart>
+        <namePart type="family">Meza-Ruiz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sebastian</namePart>
+        <namePart type="family">Riedel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">meza-ruiz-etal-2008-spoken</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Meza-Ruiz_semdial_0032.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="strauss-etal-2008-discourse">
+    <titleInfo>
+        <title>Discourse Motivated Constraint Prioritisation For Task-Oriented Multi-Party Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Petra-Maria</namePart>
+        <namePart type="family">Strauss</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Friedmann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tobias</namePart>
+        <namePart type="family">Heinroth</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">strauss-etal-2008-discourse</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Strauss_semdial_0033.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+<mods ID="tenbrink-etal-2008-negotiating">
+    <titleInfo>
+        <title>Negotiating Spatial Relationships in Dialogue: The role of the addressee</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Thora</namePart>
+        <namePart type="family">Tenbrink</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Elena</namePart>
+        <namePart type="family">Andonova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kenny</namePart>
+        <namePart type="family">Coventry</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">tenbrink-etal-2008-negotiating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Tenbrink_semdial_0034.pdf</url>
+    </location>
+    <part>
+        <date>2008-jun</date>
+    </part>
+</mods>
+</modsCollection>

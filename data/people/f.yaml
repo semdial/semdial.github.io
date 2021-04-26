@@ -90,13 +90,22 @@ fabio-massimo-zanzotto:
   slug: fabio-massimo-zanzotto
   venues: []
 fabio-pianesi:
-  coauthors: []
+  coauthors:
+  - - elena-not
+    - 1
+  - - koray-balci
+    - 1
+  - - massimo-zancanaro
+    - 1
   first: Fabio
   full: Fabio Pianesi
   last: Pianesi
-  papers: []
+  papers:
+  - Z07-4036
   slug: fabio-pianesi
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 fabio-tamburini:
   coauthors: []
   first: Fabio
@@ -174,7 +183,7 @@ farah-benamara:
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont1
+  - - cedric-degremont
     - 1
   - - pascal-denis
     - 1
@@ -554,9 +563,9 @@ florence-reeder:
   venues: []
 florian-hahn:
   coauthors:
-  - - insa-lawler
-    - 2
   - - hannes-rieser
+    - 4
+  - - insa-lawler
     - 2
   - - udo-klein
     - 1
@@ -566,10 +575,33 @@ florian-hahn:
   papers:
   - Z14-4029
   - Z13-4034
+  - Z11-4029
+  - Z10-3017
   slug: florian-hahn
   venues:
   - - SEMDIAL
-    - 2
+    - 4
+florian-richter:
+  coauthors:
+  - - nina-dethlefs
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - kai
+    - 1
+  - - elena-andonova
+    - 1
+  - - john-bateman
+    - 1
+  first: Florian
+  full: Florian Richter
+  last: Richter
+  papers:
+  - Z10-4024
+  slug: florian-richter
+  venues:
+  - - SEMDIAL
+    - 1
 florin-bulgarov:
   coauthors: []
   first: Florin
@@ -597,6 +629,17 @@ folkert-de-vriend:
   papers: []
   slug: folkert-de-vriend
   venues: []
+foppolo-bicocca:
+  coauthors: []
+  first: Foppolo
+  full: Foppolo Bicocca
+  last: Bicocca
+  papers:
+  - Z07-3022
+  slug: foppolo-bicocca
+  venues:
+  - - SEMDIAL
+    - 1
 forrest-bao:
   coauthors: []
   first: Forrest
@@ -643,6 +686,17 @@ francesca-bonin:
   papers:
   - Z13-4028
   slug: francesca-bonin
+  venues:
+  - - SEMDIAL
+    - 1
+francesca-foppolo:
+  coauthors: []
+  first: Francesca
+  full: Francesca Foppolo
+  last: Foppolo
+  papers:
+  - Z07-4047
+  slug: francesca-foppolo
   venues:
   - - SEMDIAL
     - 1
@@ -746,6 +800,25 @@ francisco-melo:
   papers:
   - Z14-3015
   slug: francisco-melo
+  venues:
+  - - SEMDIAL
+    - 1
+franck-panaget:
+  coauthors:
+  - - meriam-horchani
+    - 1
+  - - dominique-freard
+    - 1
+  - - eric-jamet
+    - 1
+  - - laurence-nigay
+    - 1
+  first: Franck
+  full: Franck Panaget
+  last: Panaget
+  papers:
+  - Z07-4029
+  slug: franck-panaget
   venues:
   - - SEMDIAL
     - 1
@@ -1006,6 +1079,8 @@ fredrik-kronlid:
   coauthors:
   - - staffan-larsson
     - 2
+  - - torbjorn-lager
+    - 1
   - - pontus-warnestal
     - 1
   - - sebastian-berlin
@@ -1018,10 +1093,11 @@ fredrik-kronlid:
   papers:
   - Z13-4035
   - Z13-4037
+  - Z07-3018
   slug: fredrik-kronlid
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 fredy-a-amaya:
   coauthors: []
   first: Fredy A.

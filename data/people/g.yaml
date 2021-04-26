@@ -22,6 +22,28 @@ gabor-proszeky:
   papers: []
   slug: gabor-proszeky
   venues: []
+gabriel-amores:
+  coauthors:
+  - - pilar-manchon
+    - 2
+  - - guillermo-perez
+    - 2
+  - - antonio-avila
+    - 1
+  - - david-avila
+    - 1
+  - - jesus-gonzalez
+    - 1
+  first: Gabriel
+  full: Gabriel Amores
+  last: Amores
+  papers:
+  - Z07-4034
+  - Z07-4035
+  slug: gabriel-amores
+  venues:
+  - - SEMDIAL
+    - 2
 gabriel-g-bes:
   coauthors: []
   first: Gabriel G.
@@ -67,6 +89,30 @@ gabriel-lopes:
   papers: []
   slug: gabriel-lopes
   venues: []
+gabriel-skantze:
+  coauthors:
+  - - joakim-gustafson
+    - 2
+  - - jens-edlund
+    - 1
+  - - anna-hjalmarsson
+    - 1
+  - - martin-johansson
+    - 1
+  - - gustafson
+    - 1
+  first: Gabriel
+  full: Gabriel Skantze
+  last: Skantze
+  papers:
+  - Z11-3007
+  - Z11-4034
+  - Z09-1000
+  - Z09-4025
+  slug: gabriel-skantze
+  venues:
+  - - SEMDIAL
+    - 4
 gabriela-cavaglia:
   coauthors: []
   first: Gabriela
@@ -259,13 +305,18 @@ gema-ramirez-sanchez:
   slug: gema-ramirez-sanchez
   venues: []
 gemma-bel-enguix:
-  coauthors: []
+  coauthors:
+  - - m-dolores-jimenez-lopez
+    - 1
   first: Gemma
   full: Gemma Bel-Enguix
   last: Bel-Enguix
-  papers: []
+  papers:
+  - Z07-4044
   slug: gemma-bel-enguix
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 gemma-boleda:
   coauthors: []
   first: Gemma
@@ -635,9 +686,9 @@ gesa-schole:
   coauthors:
   - - thora-tenbrink
     - 2
-  - - kenny-coventry
-    - 2
   - - elena-andonova
+    - 2
+  - - kenny-coventry
     - 2
   first: Gesa
   full: Gesa Schole
@@ -855,7 +906,7 @@ giota-stratou:
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   - - jon-gratch
     - 1
@@ -960,6 +1011,42 @@ giuseppe-di-fabbrizio:
   papers: []
   slug: giuseppe-di-fabbrizio
   venues: []
+giuseppe-riccardi:
+  coauthors:
+  - - christian-raymond
+    - 1
+  - - kepa-joseba-rodriguez1
+    - 1
+  - - joanna-wisniewska
+    - 1
+  first: Giuseppe
+  full: Giuseppe Riccardi
+  last: Riccardi
+  papers:
+  - Z07-4037
+  slug: giuseppe-riccardi
+  venues:
+  - - SEMDIAL
+    - 1
+glenn-taylor:
+  coauthors:
+  - - richard-frederiksen
+    - 1
+  - - jacob-crossman
+    - 1
+  - - jonathan-voigt
+    - 1
+  - - kyle-aron
+    - 1
+  first: Glenn
+  full: Glenn Taylor
+  last: Taylor
+  papers:
+  - Z11-4033
+  slug: glenn-taylor
+  venues:
+  - - SEMDIAL
+    - 1
 gloria-corpas-pastor:
   coauthors: []
   first: Gloria
@@ -1141,10 +1228,6 @@ graham-russell:
   venues: []
 graham-white:
   coauthors:
-  - - gibson-ikoro
-    - 1
-  - - raul-mondragon
-    - 1
   - - eleni-gregoromichelaki
     - 1
   - - stergios-chatzikyriakidis
@@ -1162,6 +1245,10 @@ graham-white:
   - - matthew-purver
     - 1
   - - mehrnoosh-sadrzadeh
+    - 1
+  - - gibson-ikoro
+    - 1
+  - - raul-mondragon
     - 1
   first: Graham
   full: Graham White
@@ -1197,6 +1284,27 @@ greg-gul-rajani:
   papers: []
   slug: greg-gul-rajani
   venues: []
+greg-mills:
+  coauthors:
+  - - ruth-kempson
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - matt-purver
+    - 1
+  - - andrew-gargett
+    - 1
+  - - christine-howes
+    - 1
+  first: Greg
+  full: Greg Mills
+  last: Mills
+  papers:
+  - Z09-3015
+  slug: greg-mills
+  venues:
+  - - SEMDIAL
+    - 1
 gregers-koch:
   coauthors: []
   first: Gregers
@@ -1237,13 +1345,37 @@ gregorio-hernandez:
   slug: gregorio-hernandez
   venues: []
 gregory-aist:
-  coauthors: []
+  coauthors:
+  - - carlos-gomez-gallo
+    - 2
+  - - james-allen
+    - 2
+  - - mary-swift
+    - 2
+  - - william-de-beaumont
+    - 1
+  - - sergio-coria
+    - 1
+  - - whitney-gegg-harrison
+    - 1
+  - - joana-pardal
+    - 1
+  - - ellen-campana
+    - 1
+  - - scott-c-stoness
+    - 1
+  - - michael-tanenhaus
+    - 1
   first: Gregory
   full: Gregory Aist
   last: Aist
-  papers: []
+  papers:
+  - Z07-3015
+  - Z07-3025
   slug: gregory-aist
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 2
 gregory-crane:
   coauthors: []
   first: Gregory
@@ -1261,17 +1393,21 @@ gregory-finley:
   slug: gregory-finley
   venues: []
 gregory-mills:
-  coauthors: []
+  coauthors:
+  - - eleni-gregoromichelaki
+    - 1
   first: Gregory
   full: Gregory Mills
   last: Mills
   papers:
   - Z13-4040
   - Z12-4032
+  - Z11-4043
+  - Z10-3007
   slug: gregory-mills
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 gregory-roulet-guiot:
   coauthors: []
   first: "Gr\xE9gory"
@@ -1389,6 +1525,23 @@ guillaume-gravier:
   papers: []
   slug: guillaume-gravier
   venues: []
+guillaume-pitel:
+  coauthors:
+  - - alexandre-denis
+    - 1
+  - - matthieu-quignard
+    - 1
+  - - patrick-blackburn
+    - 1
+  first: Guillaume
+  full: Guillaume Pitel
+  last: Pitel
+  papers:
+  - Z07-3009
+  slug: guillaume-pitel
+  venues:
+  - - SEMDIAL
+    - 1
 guillaume-vauvert:
   coauthors: []
   first: Guillaume
@@ -1405,6 +1558,28 @@ guillermo-a-cecchi:
   papers: []
   slug: guillermo-a-cecchi
   venues: []
+guillermo-perez:
+  coauthors:
+  - - pilar-manchon
+    - 2
+  - - gabriel-amores
+    - 2
+  - - antonio-avila
+    - 1
+  - - david-avila
+    - 1
+  - - jesus-gonzalez
+    - 1
+  first: Guillermo
+  full: "Guillermo P\xE9rez"
+  last: "P\xE9rez"
+  papers:
+  - Z07-4034
+  - Z07-4035
+  slug: guillermo-perez
+  venues:
+  - - SEMDIAL
+    - 2
 guiping-zhang:
   coauthors: []
   first: Guiping
@@ -1517,6 +1692,21 @@ gus-hahn-powell:
   papers: []
   slug: gus-hahn-powell
   venues: []
+gustafson:
+  coauthors:
+  - - martin-johansson
+    - 1
+  - - gabriel-skantze
+    - 1
+  first: Gustafson
+  full: Gustafson
+  last: ''
+  papers:
+  - Z11-3007
+  slug: gustafson
+  venues:
+  - - SEMDIAL
+    - 1
 gustav-leunbach:
   coauthors: []
   first: Gustav

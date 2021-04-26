@@ -27,6 +27,17 @@ ian-blood:
   venues:
   - - SEMDIAL
     - 1
+ian-lewin:
+  coauthors: []
+  first: Ian
+  full: Ian Lewin
+  last: Lewin
+  papers:
+  - Z08-3007
+  slug: ian-lewin
+  venues:
+  - - SEMDIAL
+    - 1
 ian-m-oneill:
   coauthors: []
   first: Ian M.
@@ -69,6 +80,23 @@ ido-dagan:
   papers: []
   slug: ido-dagan
   venues: []
+ielka-van-der-sluis:
+  coauthors:
+  - - paul-piwek
+    - 1
+  - - albert-gatt
+    - 1
+  - - adrian-bangerter
+    - 1
+  first: Ielka
+  full: Ielka van der Sluis
+  last: van der Sluis
+  papers:
+  - Z08-4027
+  slug: ielka-van-der-sluis
+  venues:
+  - - SEMDIAL
+    - 1
 igor-a-bolshakov:
   coauthors: []
   first: Igor A.
@@ -206,6 +234,19 @@ inaki-gaminde:
   papers: []
   slug: inaki-gaminde
   venues: []
+ines-crespo:
+  coauthors:
+  - - raquel-fernandez
+    - 1
+  first: "In\xE9s"
+  full: "In\xE9s Crespo"
+  last: Crespo
+  papers:
+  - Z11-3015
+  slug: ines-crespo
+  venues:
+  - - SEMDIAL
+    - 1
 ingmar-steiner:
   coauthors:
   - - eran-raveh
@@ -253,9 +294,9 @@ inmaculada-hernaez:
   venues: []
 insa-lawler:
   coauthors:
-  - - florian-hahn
-    - 2
   - - hannes-rieser
+    - 2
+  - - florian-hahn
     - 2
   - - udo-klein
     - 1
@@ -337,6 +378,17 @@ ionut-sorodoc:
   papers: []
   slug: ionut-sorodoc
   venues: []
+ipke-wachsmuth:
+  coauthors: []
+  first: Ipke
+  full: Ipke Wachsmuth
+  last: Wachsmuth
+  papers:
+  - Z07-2014
+  slug: ipke-wachsmuth
+  venues:
+  - - SEMDIAL
+    - 1
 irena-spasic:
   coauthors: []
   first: Irena
@@ -606,19 +658,36 @@ ivan-obradovic:
   papers: []
   slug: ivan-obradovic
   venues: []
+ivan-v-meza-ruiz:
+  coauthors:
+  - - sebastian-riedel
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Ivan V.
+  full: Ivan V. Meza-Ruiz
+  last: Meza-Ruiz
+  papers:
+  - Z08-4032
+  slug: ivan-v-meza-ruiz
+  venues:
+  - - SEMDIAL
+    - 1
 ivana-kruijff-korbayova:
   coauthors:
   - - bernd-kiefer
     - 2
+  - - michael-brenner
+    - 1
+  - - ilaria-baroni
+    - 1
+  - - mattia-coti-zelati
+    - 1
   - - stefania-racioppa
     - 1
   - - elettra-oleari
     - 1
   - - clara-pozzi
-    - 1
-  - - ilaria-baroni
-    - 1
-  - - mattia-coti-zelati
     - 1
   first: Ivana
   full: "Ivana Kruijff-Korbayov\xE1"
@@ -626,6 +695,7 @@ ivana-kruijff-korbayova:
   papers:
   - Z14-3014
   - Z13-4036
+  - Z08-3013
   slug: ivana-kruijff-korbayova
   variant_entries:
   - first: Ivana
@@ -633,7 +703,7 @@ ivana-kruijff-korbayova:
     last: Kruijff-Korbayova
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 ivandre-paraboni:
   coauthors: []
   first: "Ivandr\xE9"

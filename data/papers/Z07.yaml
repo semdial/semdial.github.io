@@ -1,0 +1,1015 @@
+Z07-1000:
+  address: Roverto, Italy
+  author:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Laure
+    full: Laure Vieu
+    id: laure-vieu
+    last: Vieu
+  bibkey: semdial-2007-semantics
+  bibtype: proceedings
+  month: May-June
+  paper_id: '1000'
+  parent_volume_id: Z07-1
+  publisher: SEMDIAL
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2007_decalog_front_matter.pdf
+  year: '2007'
+Z07-2005:
+  address: Roverto, Italy
+  author:
+  - first: Bruno
+    full: Bruno Bara
+    id: bruno-bara
+    last: Bara
+  bibkey: bara-2007-neuropragmatics
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: May-June
+  paper_id: '2005'
+  parent_volume_id: Z07-2
+  publisher: SEMDIAL
+  title: 'Neuropragmatics: mind/brain evidence for communicative intentions'
+  title_html: 'Neuropragmatics: mind/brain evidence for communicative intentions'
+  url: http://semdial.org/anthology/Z07-Bara_semdial_0005.pdf
+  year: '2007'
+Z07-2014:
+  address: Roverto, Italy
+  author:
+  - first: Ipke
+    full: Ipke Wachsmuth
+    id: ipke-wachsmuth
+    last: Wachsmuth
+  bibkey: wachsmuth-2007-embodied
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: May-June
+  paper_id: '2014'
+  parent_volume_id: Z07-2
+  publisher: SEMDIAL
+  title: Embodied Communication with a Virtual HumanIpke Wachsmuth
+  title_html: Embodied Communication with a Virtual HumanIpke Wachsmuth
+  url: http://semdial.org/anthology/Z07-Wachsmuth_semdial_0014.pdf
+  year: '2007'
+Z07-2019:
+  address: Roverto, Italy
+  author:
+  - first: Renato
+    full: Renato de Mori
+    id: renato-de-mori
+    last: de Mori
+  bibkey: de-mori-2007-recent
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: May-June
+  paper_id: '2019'
+  parent_volume_id: Z07-2
+  publisher: SEMDIAL
+  title: Recent advances in spoken language understanding
+  title_html: Recent advances in spoken language understanding
+  url: http://semdial.org/anthology/Z07-deMori_semdial_0019.pdf
+  year: '2007'
+Z07-2021:
+  address: Roverto, Italy
+  author:
+  - first: Paul
+    full: Paul Piwek
+    id: paul-piwek
+    last: Piwek
+  - first: David
+    full: David Hardcastle
+    id: david-hardcastle
+    last: Hardcastle
+  - first: Richard
+    full: Richard Power
+    id: richard-power
+    last: Power
+  bibkey: piwek-etal-2007-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: May-June
+  paper_id: '2021'
+  parent_volume_id: Z07-2
+  publisher: SEMDIAL
+  title: Dialogue Games for Crosslingual Communication
+  title_html: Dialogue Games for Crosslingual Communication
+  url: http://semdial.org/anthology/Z07-Piwek_semdial_0021.pdf
+  year: '2007'
+Z07-3006:
+  address: Roverto, Italy
+  author:
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Simon
+    full: Simon Keizer
+    id: simon-keizer
+    last: Keizer
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  bibkey: morante-etal-2007-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3006'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: A dialogue act based model for context updating
+  title_html: A dialogue act based model for context updating
+  url: http://semdial.org/anthology/Z07-Morante_semdial_0006.pdf
+  year: '2007'
+Z07-3007:
+  address: Roverto, Italy
+  author:
+  - first: Luciana
+    full: Luciana Benotti
+    id: luciana-benotti
+    last: Benotti
+  bibkey: benotti-2007-incomplete
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3007'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Incomplete Knowledge and Tacit Action:Enlightened Update in a Dialogue Game
+  title_html: Incomplete Knowledge and Tacit Action:Enlightened Update in a Dialogue
+    Game
+  url: http://semdial.org/anthology/Z07-Benotti_semdial_0007.pdf
+  year: '2007'
+Z07-3008:
+  address: Roverto, Italy
+  author:
+  - first: Tatjana
+    full: Tatjana Lucht
+    id: tatjana-lucht
+    last: Lucht
+  bibkey: lucht-2007-push
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3008'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Push-to-talk ain't always bad! Comparing Different Interactivity Settings
+    in Task-oriented Dialogue
+  title_html: Push-to-talk ain't always bad! Comparing Different Interactivity Settings
+    in Task-oriented Dialogue
+  url: http://semdial.org/anthology/Z07-Fernandez_semdial_0008.pdf
+  year: '2007'
+Z07-3009:
+  address: Roverto, Italy
+  author:
+  - first: Alexandre
+    full: Alexandre Denis
+    id: alexandre-denis
+    last: Denis
+  - first: Guillaume
+    full: Guillaume Pitel
+    id: guillaume-pitel
+    last: Pitel
+  - first: Matthieu
+    full: Matthieu Quignard
+    id: matthieu-quignard
+    last: Quignard
+  - first: Patrick
+    full: Patrick Blackburn
+    id: patrick-blackburn
+    last: Blackburn
+  bibkey: denis-etal-2007-incorporating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3009'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Incorporating Asymmetric and Asynchronous Evidence of Understandingin a Grounding
+    Model
+  title_html: Incorporating Asymmetric and Asynchronous Evidence of Understandingin
+    a Grounding Model
+  url: http://semdial.org/anthology/Z07-Denis_semdial_0009.pdf
+  year: '2007'
+Z07-3010:
+  address: Roverto, Italy
+  author:
+  - first: Mark
+    full: Mark Buckley
+    id: mark-buckley
+    last: Buckley
+  - first: Magdalena
+    full: Magdalena Wolska
+    id: magdalena-wolska
+    last: Wolska
+  bibkey: buckley-wolska-2007-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3010'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Towards Modelling and Using Common Ground in Tutorial Dialogue
+  title_html: Towards Modelling and Using Common Ground in Tutorial Dialogue
+  url: http://semdial.org/anthology/Z07-Mark_semdial_0010.pdf
+  year: '2007'
+Z07-3011:
+  address: Roverto, Italy
+  author:
+  - first: David
+    full: David DeVault
+    id: david-devault
+    last: DeVault
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  bibkey: devault-stone-2007-managing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3011'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Managing ambiguities across utterances in dialogue
+  title_html: Managing ambiguities across utterances in dialogue
+  url: http://semdial.org/anthology/Z07-DeVault_semdial_0011.pdf
+  year: '2007'
+Z07-3012:
+  address: Roverto, Italy
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: ginzburg-2007-unifying
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3012'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Unifying Self- and Other-Repair
+  title_html: Unifying Self- and Other-Repair
+  url: http://semdial.org/anthology/Z07-Jonathan_semdial_0012.pdf
+  year: '2007'
+Z07-3013:
+  address: Roverto, Italy
+  author:
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  - first: Andrew
+    full: Andrew Gargett
+    id: andrew-gargett
+    last: Gargett
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  bibkey: kempson-etal-2007-incremental
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3013'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Incremental Fragment Construal
+  title_html: Incremental Fragment Construal
+  url: http://semdial.org/anthology/Z07-Ruth_semdial_0013.pdf
+  year: '2007'
+Z07-3015:
+  address: Roverto, Italy
+  author:
+  - first: Carlos Gomez
+    full: Carlos Gomez Gallo
+    id: carlos-gomez-gallo
+    last: Gallo
+  - first: Gregory
+    full: Gregory Aist
+    id: gregory-aist
+    last: Aist
+  - first: James
+    full: James Allen
+    id: james-allen
+    last: Allen
+  - first: William
+    full: William de Beaumont
+    id: william-de-beaumont
+    last: de Beaumont
+  - first: Sergio
+    full: Sergio Coria
+    id: sergio-coria
+    last: Coria
+  - first: Whitney
+    full: Whitney Gegg-Harrison
+    id: whitney-gegg-harrison
+    last: Gegg-Harrison
+  - first: Joana
+    full: Joana Pardal
+    id: joana-pardal
+    last: Pardal
+  - first: Mary
+    full: Mary Swift
+    id: mary-swift
+    last: Swift
+  bibkey: gallo-etal-2007-annotating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3015'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Annotating Continuous Understanding in a Multimodal Dialogue Corpus
+  title_html: Annotating Continuous Understanding in a Multimodal Dialogue Corpus
+  url: http://semdial.org/anthology/Z07-Gallo_semdial_0015.pdf
+  year: '2007'
+Z07-3016:
+  address: Roverto, Italy
+  author:
+  - first: Silvia
+    full: Silvia Quarteroni
+    id: silvia-quarteroni
+    last: Quarteroni
+  bibkey: quarteroni-2007-chatbot
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3016'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: A Chatbot-based Interactive Question Answering System
+  title_html: A Chatbot-based Interactive Question Answering System
+  url: http://semdial.org/anthology/Z07-Quarteroni_semdial_0016.pdf
+  year: '2007'
+Z07-3017:
+  address: Roverto, Italy
+  author:
+  - first: Nate
+    full: Nate Blaylock
+    id: nate-blaylock
+    last: Blaylock
+  bibkey: blaylock-2007-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3017'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Towards Flexible, Domain-Independent Dialogue Management using Collaborative
+    Problem Solving
+  title_html: Towards Flexible, Domain-Independent Dialogue Management using Collaborative
+    Problem Solving
+  url: http://semdial.org/anthology/Z07-Blaylock_semdial_0017.pdf
+  year: '2007'
+Z07-3018:
+  address: Roverto, Italy
+  author:
+  - first: Fredrik
+    full: Fredrik Kronlid
+    id: fredrik-kronlid
+    last: Kronlid
+  - first: "Torbj\xF6rn"
+    full: "Torbj\xF6rn Lager"
+    id: torbjorn-lager
+    last: Lager
+  bibkey: kronlid-lager-2007-implementing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3018'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Implementing the Information-State Update Approach to Dialogue Management
+    in a Slightly Extended SCXML
+  title_html: Implementing the Information-State Update Approach to Dialogue Management
+    in a Slightly Extended SCXML
+  url: http://semdial.org/anthology/Z07-Kronlid_semdial_0018.pdf
+  year: '2007'
+Z07-3020:
+  address: Roverto, Italy
+  author:
+  - first: Staffan
+    full: Staffan Larson
+    id: staffan-larson
+    last: Larson
+  bibkey: larson-2007-coordinating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3020'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Coordinating on ad-hoc semantic systems in dialogue
+  title_html: Coordinating on ad-hoc semantic systems in dialogue
+  url: http://semdial.org/anthology/Z07-Larsson_semdial_0020.pdf
+  year: '2007'
+Z07-3022:
+  address: Roverto, Italy
+  author:
+  - first: Foppolo
+    full: Foppolo Bicocca
+    id: foppolo-bicocca
+    last: Bicocca
+  bibkey: bicocca-2007-cost
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3022'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: "Between \u201Ccost\u201D and \u201Cdefault\u201D: a new approach to Scalar
+    Implicature"
+  title_html: "Between \u201Ccost\u201D and \u201Cdefault\u201D: a new approach to
+    Scalar Implicature"
+  url: http://semdial.org/anthology/Z07-Bicocca_semdial_0022.pdf
+  year: '2007'
+Z07-3023:
+  address: Roverto, Italy
+  author:
+  - first: Ariel
+    full: Ariel Cohen
+    id: ariel-cohen
+    last: Cohen
+  bibkey: cohen-2007-incredulity
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3023'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Incredulity Questions
+  title_html: Incredulity Questions
+  url: http://semdial.org/anthology/Z07-Cohen_semdial_0023.pdf
+  year: '2007'
+Z07-3024:
+  address: Roverto, Italy
+  author:
+  - first: Pat
+    full: Pat Healey
+    id: patrick-healey
+    last: Healey
+  - first: Carl
+    full: Carl Vogel
+    id: carl-vogel
+    last: Vogel
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  bibkey: healey-etal-2007-group
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3024'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Group Dialects in an Online Community
+  title_html: Group Dialects in an Online Community
+  url: http://semdial.org/anthology/Z07-Healey_semdial_0024.pdf
+  year: '2007'
+Z07-3025:
+  address: Roverto, Italy
+  author:
+  - first: Gregory
+    full: Gregory Aist
+    id: gregory-aist
+    last: Aist
+  - first: James
+    full: James Allen
+    id: james-allen
+    last: Allen
+  - first: Ellen
+    full: Ellen Campana
+    id: ellen-campana
+    last: Campana
+  - first: Carlos Gomez
+    full: Carlos Gomez Gallo
+    id: carlos-gomez-gallo
+    last: Gallo
+  - first: Scott
+    full: Scott Stoness
+    id: scott-c-stoness
+    last: Stoness
+  - first: Mary
+    full: Mary Swift
+    id: mary-swift
+    last: Swift
+  - first: Michael
+    full: Michael Tanenhaus
+    id: michael-tanenhaus
+    last: Tanenhaus
+  bibkey: aist-etal-2007-incremental
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: May-June
+  paper_id: '3025'
+  parent_volume_id: Z07-3
+  publisher: SEMDIAL
+  title: Incremental understanding in human-computer dialogue and experimental evidence
+    for advantages over nonincremental methods
+  title_html: Incremental understanding in human-computer dialogue and experimental
+    evidence for advantages over nonincremental methods
+  url: http://semdial.org/anthology/Z07-Aist_semdial_0025.pdf
+  year: '2007'
+Z07-4026:
+  address: Roverto, Italy
+  author:
+  - first: Eckhard
+    full: Eckhard Bick
+    id: eckhard-bick
+    last: Bick
+  - first: Jens
+    full: Jens Ahlmann Hansen
+    id: jens-ahlmann-hansen
+    last: Ahlmann Hansen
+  bibkey: bick-ahlmann-hansen-2007-fyntour
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4026'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: The Fyntour Multilingual Weather and Sea Dialogue System
+  title_html: The Fyntour Multilingual Weather and Sea Dialogue System
+  url: http://semdial.org/anthology/Z07-Bick_semdial_0026.pdf
+  year: '2007'
+Z07-4027:
+  address: Roverto, Italy
+  author:
+  - first: Marta
+    full: Marta Gatius
+    id: marta-gatius
+    last: Gatius
+  - first: Meritxell
+    full: "Meritxell Gonz\xE1lez"
+    id: meritxell-gonzalez
+    last: "Gonz\xE1lez"
+  bibkey: gatius-gonzalez-2007-discourse
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4027'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Discourse Management in Voice Systems for Accessing Web Services
+  title_html: Discourse Management in Voice Systems for Accessing Web Services
+  url: http://semdial.org/anthology/Z07-Gatius_semdial_0027.pdf
+  year: '2007'
+Z07-4028:
+  address: Roverto, Italy
+  author:
+  - first: Markus
+    full: Markus Guhe
+    id: markus-guhe
+    last: Guhe
+  - first: Ellen
+    full: Ellen Bard
+    id: ellen-bard
+    last: Bard
+  bibkey: guhe-bard-2007-adaptation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4028'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Adaptation of the use of colour terms in referring expressions
+  title_html: Adaptation of the use of colour terms in referring expressions
+  url: http://semdial.org/anthology/Z07-Guhe_semdial_0028.pdf
+  year: '2007'
+Z07-4029:
+  address: Roverto, Italy
+  author:
+  - first: Meriam
+    full: Meriam Horchani
+    id: meriam-horchani
+    last: Horchani
+  - first: Dominique
+    full: "Dominique Fr\xE9ard"
+    id: dominique-freard
+    last: "Fr\xE9ard"
+  - first: Eric
+    full: Eric Jamet
+    id: eric-jamet
+    last: Jamet
+  - first: Laurence
+    full: Laurence Nigay
+    id: laurence-nigay
+    last: Nigay
+  - first: Franck
+    full: Franck Panaget
+    id: franck-panaget
+    last: Panaget
+  bibkey: horchani-etal-2007-platform
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4029'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: A Platform for Designing Multimodal Dialogic and Presentation Strategies
+  title_html: A Platform for Designing Multimodal Dialogic and Presentation Strategies
+  url: http://semdial.org/anthology/Z07-Meriam_semdial_0029.pdf
+  year: '2007'
+Z07-4030:
+  address: Roverto, Italy
+  author:
+  - first: "Llu\xEDs F."
+    full: "Llu\xEDs F. Hurtado"
+    id: lluis-f-hurtado
+    last: Hurtado
+  - first: David
+    full: David Griol
+    id: david-griol
+    last: Griol
+  - first: Encarna
+    full: Encarna Segarra
+    id: encarna-segarra
+    last: Segarra
+  - first: Emilio
+    full: Emilio Sanchis
+    id: emilio-sanchis
+    last: Sanchis
+  bibkey: hurtado-etal-2007-adapting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4030'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Adapting a Statistical Dialog Model for a New Domain
+  title_html: Adapting a Statistical Dialog Model for a New Domain
+  url: http://semdial.org/anthology/Z07-Hurtado_semdial_0030.pdf
+  year: '2007'
+Z07-4031:
+  address: Roverto, Italy
+  author:
+  - first: Hiroshi
+    full: Hiroshi Ichikawa
+    id: hiroshi-ichikawa
+    last: Ichikawa
+  - first: Takenobu
+    full: Takenobu Tokunaga
+    id: takenobu-tokunaga
+    last: Tokunaga
+  bibkey: ichikawa-tokunaga-2007-empirical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4031'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: An empirical study on detection and prediction of topic shifts ininformation
+    seeking chats
+  title_html: An empirical study on detection and prediction of topic shifts ininformation
+    seeking chats
+  url: http://semdial.org/anthology/Z07-Ichikawa_semdial_0031.pdf
+  year: '2007'
+Z07-4032:
+  address: Roverto, Italy
+  author:
+  - first: Cynthia
+    full: Cynthia Kersey
+    id: cynthia-kersey
+    last: Kersey
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio1
+    last: Di Eugenio
+  - first: Pamela
+    full: Pamela Jordan
+    id: pamela-jordan
+    last: Jordan
+  - first: Sandra
+    full: Sandra Katz
+    id: sandra-katz
+    last: Katz
+  bibkey: kersey-etal-2007-collaboration
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4032'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Collaboration in Peer Learning Dialogues
+  title_html: Collaboration in Peer Learning Dialogues
+  url: http://semdial.org/anthology/Z07-Kersey_semdial_0032.pdf
+  year: '2007'
+Z07-4033:
+  address: Roverto, Italy
+  author:
+  - first: Manuel
+    full: Manuel Kirschner
+    id: manuel-kirschner
+    last: Kirschner
+  bibkey: kirschner-2007-bob
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4033'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: 'The BoB IQA System: a Domain Expert''s Perspective'
+  title_html: 'The BoB IQA System: a Domain Expert''s Perspective'
+  url: http://semdial.org/anthology/Z07-Kirschner_semdial_0033.pdf
+  year: '2007'
+Z07-4034:
+  address: Roverto, Italy
+  author:
+  - first: Pilar
+    full: "Pilar Manch\xF3n"
+    id: pilar-manchon
+    last: "Manch\xF3n"
+  - first: Antonio
+    full: "Antonio \xC1vila"
+    id: antonio-avila
+    last: "\xC1vila"
+  - first: David
+    full: "David \xC1vila"
+    id: david-avila
+    last: "\xC1vila"
+  - first: Guillermo
+    full: "Guillermo P\xE9rez"
+    id: guillermo-perez
+    last: "P\xE9rez"
+  - first: Gabriel
+    full: Gabriel Amores
+    id: gabriel-amores
+    last: Amores
+  bibkey: manchon-etal-2007-ambrosio
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4034'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: 'AMBROSIO: The MIMUS talking head'
+  title_html: 'AMBROSIO: The MIMUS talking head'
+  url: http://semdial.org/anthology/Z07-Manchon_semdial_0034.pdf
+  year: '2007'
+Z07-4035:
+  address: Roverto, Italy
+  author:
+  - first: Pilar
+    full: "Pilar Manch\xF3n"
+    id: pilar-manchon
+    last: "Manch\xF3n"
+  - first: Guillermo
+    full: "Guillermo P\xE9rez"
+    id: guillermo-perez
+    last: "P\xE9rez"
+  - first: Gabriel
+    full: Gabriel Amores
+    id: gabriel-amores
+    last: Amores
+  - first: "Jes\xFAs"
+    full: "Jes\xFAs Gonz\xE1lez"
+    id: jesus-gonzalez
+    last: "Gonz\xE1lez"
+  bibkey: manchon-etal-2007-semi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4035'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Semi-automated testing of real world applications in non-menu-based dialogue
+    systems
+  title_html: Semi-automated testing of real world applications in non-menu-based
+    dialogue systems
+  url: http://semdial.org/anthology/Z07-Manchon_semdial_0035.pdf
+  year: '2007'
+Z07-4036:
+  address: Roverto, Italy
+  author:
+  - first: Elena
+    full: Elena Not
+    id: elena-not
+    last: Not
+  - first: Koray
+    full: Koray Balci
+    id: koray-balci
+    last: Balci
+  - first: Fabio
+    full: Fabio Pianesi
+    id: fabio-pianesi
+    last: Pianesi
+  - first: Massimo
+    full: Massimo Zancanaro
+    id: massimo-zancanaro
+    last: Zancanaro
+  bibkey: not-etal-2007-enhancing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4036'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Enhancing System Communication through Synthetic Characters
+  title_html: Enhancing System Communication through Synthetic Characters
+  url: http://semdial.org/anthology/Z07-Not_semdial_0036.pdf
+  year: '2007'
+Z07-4037:
+  address: Roverto, Italy
+  author:
+  - first: Christian
+    full: Christian Raymond
+    id: christian-raymond
+    last: Raymond
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  - first: Kepa
+    full: Kepa Joseba Rodriguez
+    id: kepa-joseba-rodriguez1
+    last: Joseba Rodriguez
+  - first: Joanna
+    full: Joanna Wisniewska
+    id: joanna-wisniewska
+    last: Wisniewska
+  bibkey: raymond-etal-2007-luna
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4037'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: 'The LUNA Corpus: an Annotation Scheme for a Multi-domain Multi-lingual Dialogue
+    Corpus'
+  title_html: 'The LUNA Corpus: an Annotation Scheme for a Multi-domain Multi-lingual
+    Dialogue Corpus'
+  url: http://semdial.org/anthology/Z07-Raymond_semdial_0037.pdf
+  year: '2007'
+Z07-4038:
+  address: Roverto, Italy
+  author:
+  - first: Lina Maria
+    full: Lina Maria Rojas-Barahona
+    id: lina-m-rojas-barahona
+    last: Rojas-Barahona
+  bibkey: rojas-barahona-2007-adapting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4038'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Adapting Combinatory Categorial Grammars in a Framework for HealthCare Dialogue
+    Systems
+  title_html: Adapting Combinatory Categorial Grammars in a Framework for HealthCare
+    Dialogue Systems
+  url: http://semdial.org/anthology/Z07-Rojas_semdial_0038.pdf
+  year: '2007'
+Z07-4039:
+  address: Roverto, Italy
+  author:
+  - first: Rajen
+    full: Rajen Subba
+    id: rajen-subba
+    last: Subba
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio1
+    last: Di Eugenio
+  bibkey: subba-di-eugenio-2007-automatic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4039'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Automatic Discourse Segmentation using Neural Networks
+  title_html: Automatic Discourse Segmentation using Neural Networks
+  url: http://semdial.org/anthology/Z07-Subba_semdial_0039.pdf
+  year: '2007'
+Z07-4044:
+  address: Roverto, Italy
+  author:
+  - first: Gemma
+    full: Gemma Bel-Enguix
+    id: gemma-bel-enguix
+    last: Bel-Enguix
+  - first: M. Dolores
+    full: "M. Dolores Jim\xE9nez-L\xF3pez"
+    id: m-dolores-jimenez-lopez
+    last: "Jim\xE9nez-L\xF3pez"
+  bibkey: bel-enguix-jimenez-lopez-2007-game
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4044'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: "A Game-Based Strategy for Optimizing Agents\u2019 Argumentation in Deliberation
+    Dialogues"
+  title_html: "A Game-Based Strategy for Optimizing Agents\u2019 Argumentation in
+    Deliberation Dialogues"
+  url: http://semdial.org/anthology/Z07-Bel_semdial_0044.pdf
+  year: '2007'
+Z07-4045:
+  address: Roverto, Italy
+  author:
+  - first: Daniel
+    full: Daniel Bobbert
+    id: daniel-bobbert
+    last: Bobbert
+  - first: Magdalena
+    full: Magdalena Wolska
+    id: magdalena-wolska
+    last: Wolska
+  bibkey: bobbert-wolska-2007-dialog
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4045'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: 'Dialog OS: an extensible platform for teaching spoken dialogue systems'
+  title_html: 'Dialog OS: an extensible platform for teaching spoken dialogue systems'
+  url: http://semdial.org/anthology/Z07-Bobbert_semdial_0045.pdf
+  year: '2007'
+Z07-4046:
+  address: Roverto, Italy
+  author:
+  - first: Mark
+    full: Mark Fishel
+    id: mark-fishel
+    last: Fishel
+  bibkey: fishel-2007-complex
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4046'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Complex Taxonomy Dialogue Act Recognition with a Bayesian Classifier
+  title_html: Complex Taxonomy Dialogue Act Recognition with a Bayesian Classifier
+  url: http://semdial.org/anthology/Z07-Fishel_semdial_0045.pdf
+  year: '2007'
+Z07-4047:
+  address: Roverto, Italy
+  author:
+  - first: Francesca
+    full: Francesca Foppolo
+    id: francesca-foppolo
+    last: Foppolo
+  bibkey: foppolo-2007-default
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: May-June
+  paper_id: '4047'
+  parent_volume_id: Z07-4
+  publisher: SEMDIAL
+  title: Default preferences in donkey anaphora resolution
+  title_html: Default preferences in donkey anaphora resolution
+  url: http://semdial.org/anthology/Z07-Foppolo_semdial_0045.pdf
+  year: '2007'

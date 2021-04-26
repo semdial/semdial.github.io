@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="petukhova-etal-2010-empirical">
+    <titleInfo>
+        <title>Empirical and theoretical constraints on dialogue act combinations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Volha</namePart>
+        <namePart type="family">Petukhova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harry</namePart>
+        <namePart type="family">Bunt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andrei</namePart>
+        <namePart type="family">Malchanau</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">petukhova-etal-2010-empirical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Petukhova_semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="koller-etal-2010-scalable">
+    <titleInfo>
+        <title>A scalable model of planning perlocutionary acts</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alexander</namePart>
+        <namePart type="family">Koller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andrew</namePart>
+        <namePart type="family">Gargett</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Konstantina</namePart>
+        <namePart type="family">Garoufi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">koller-etal-2010-scalable</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Koller_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="mills-gregoromichelaki-2010-establishing">
+    <titleInfo>
+        <title>Establishing coherence in dialogue: sequentiality, intentions and negotiation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gregory</namePart>
+        <namePart type="family">Mills</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Eleni</namePart>
+        <namePart type="family">Gregoromichelaki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">mills-gregoromichelaki-2010-establishing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Mills_semdial_0007.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="schlangen-2010-practices">
+    <titleInfo>
+        <title>Practices in Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">schlangen-2010-practices</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Schlangen_semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="buss-schlangen-2010-modelling">
+    <titleInfo>
+        <title>Modelling Sub-Utterance Phenomena in Spoken Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Okko</namePart>
+        <namePart type="family">Buß</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">buss-schlangen-2010-modelling</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Buss_semdial_0009.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="purver-etal-2010-splitting">
+    <titleInfo>
+        <title>Splitting the “I”s and Crossing the “You”s: Context, Speech Acts and Grammar</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Eleni</namePart>
+        <namePart type="family">Gregoromichelaki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wilfried</namePart>
+        <namePart type="family">Meyer-Viol</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ronnie</namePart>
+        <namePart type="family">Cann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">purver-etal-2010-splitting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Purver_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="stone-lascarides-2010-coherence">
+    <titleInfo>
+        <title>Coherence and Rationality in Grounding</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Stone</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Lascarides</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">stone-lascarides-2010-coherence</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Stone_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="budzynska-debowska-2010-dialogues">
+    <titleInfo>
+        <title>Dialogues with conflict resolution: goals and effects</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Katarzyna</namePart>
+        <namePart type="family">Budzynska</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kamila</namePart>
+        <namePart type="family">Dȩbowska</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">budzynska-debowska-2010-dialogues</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Budzynska_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="urbanski-lupkowski-2010-erotetic">
+    <titleInfo>
+        <title>Erotetic Search Scenarios: Revealing Interrogator’s Hidden Agenda</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mariusz</namePart>
+        <namePart type="family">Urbański</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Paweł</namePart>
+        <namePart type="family">Łupkowski</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">urbanski-lupkowski-2010-erotetic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Urbanski_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="lupkowski-2010-cooperative">
+    <titleInfo>
+        <title>Cooperative answering and Inferential Erotetic Logic</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Paweł</namePart>
+        <namePart type="family">Łupkowski</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lupkowski-2010-cooperative</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Lupkowski_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="larsson-2010-accommodating">
+    <titleInfo>
+        <title>Accommodating innovative meaning in dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">larsson-2010-accommodating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Larsson_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="cooper-2010-generalized">
+    <titleInfo>
+        <title>Generalized quantifiers and clarification content</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Robin</namePart>
+        <namePart type="family">Cooper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cooper-2010-generalized</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Cooper_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="hahn-rieser-2010-explaining">
+    <titleInfo>
+        <title>Explaining Speech Gesture Alignment in MM Dialogue Using Gesture Typology</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Florian</namePart>
+        <namePart type="family">Hahn</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hannes</namePart>
+        <namePart type="family">Rieser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hahn-rieser-2010-explaining</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Hahn_semdial_0017.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+<mods ID="fernandez-2010-early">
+    <titleInfo>
+        <title>Early Interpretation by Implicature in Definite Referential Descriptions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fernandez-2010-early</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Fernandez_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2010-sep</date>
+    </part>
+</mods>
+</modsCollection>

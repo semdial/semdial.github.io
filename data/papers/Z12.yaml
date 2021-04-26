@@ -20,9 +20,9 @@ Z12-1000:
   parent_volume_id: Z12-1
   publisher: SEMDIAL
   title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
-    - FrontMatter
+    - Front Matter
   title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
-    Dialogue - FrontMatter
+    Dialogue - Front Matter
   url: http://semdial.org/anthology/semdial2012_seinedial_front_matter.pdf
   year: '2012'
 Z12-2001:
@@ -791,7 +791,7 @@ Z12-4029:
     last: Cadilhac
   - first: Cedric
     full: Cedric Degremont
-    id: cedric-degremont1
+    id: cedric-degremont
     last: Degremont
   - first: Pascal
     full: Pascal Denis
