@@ -1197,6 +1197,8 @@ louis-des-tombe:
   venues: []
 louis-philippe-morency:
   coauthors:
+  - - congkai-sun
+    - 1
   - - zhou-yu
     - 1
   - - stefan-scherer
@@ -1208,8 +1210,6 @@ louis-philippe-morency:
   - - giota-stratou
     - 1
   - - justine-cassell
-    - 1
-  - - congkai-sun
     - 1
   first: Louis-Philippe
   full: Louis-Philippe Morency
@@ -1338,6 +1338,23 @@ lucia-castillo:
   papers:
   - Z15-4023
   slug: lucia-castillo
+  venues:
+  - - SEMDIAL
+    - 1
+lucia-donatelli:
+  coauthors:
+  - - kenneth-lai
+    - 1
+  - - richard-brutti
+    - 1
+  - - james-pustejovsky
+    - 1
+  first: Lucia
+  full: Lucia Donatelli
+  last: Donatelli
+  papers:
+  - Z21-4028
+  slug: lucia-donatelli
   venues:
   - - SEMDIAL
     - 1

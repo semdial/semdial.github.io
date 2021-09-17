@@ -60,6 +60,23 @@ eamonn-kenny:
   venues:
   - - SEMDIAL
     - 1
+ebba-axelsson-nord:
+  coauthors:
+  - - vladislav-maraev
+    - 1
+  - - ellen-breitholtz
+    - 1
+  - - christine-howes
+    - 1
+  first: Ebba
+  full: Ebba Axelsson Nord
+  last: Axelsson Nord
+  papers:
+  - Z21-4020
+  slug: ebba-axelsson-nord
+  venues:
+  - - SEMDIAL
+    - 1
 ebbe-spang-hanssen:
   coauthors: []
   first: Ebbe
@@ -371,6 +388,8 @@ elena-andonova:
     - 3
   - - gesa-schole
     - 2
+  - - kenny-r-coventry
+    - 1
   - - nina-dethlefs
     - 1
   - - heriberto-cuayahuitl
@@ -380,8 +399,6 @@ elena-andonova:
   - - florian-richter
     - 1
   - - john-bateman
-    - 1
-  - - kenny-r-coventry
     - 1
   first: Elena
   full: Elena Andonova
@@ -482,9 +499,9 @@ elena-v-paducheva:
   venues: []
 eleni-gregoromichelaki:
   coauthors:
-  - - ruth-kempson
-    - 4
   - - christine-howes
+    - 4
+  - - ruth-kempson
     - 4
   - - matthew-purver
     - 3
@@ -496,25 +513,25 @@ eleni-gregoromichelaki:
     - 2
   - - mehrnoosh-sadrzadeh
     - 2
-  - - gregory-mills
-    - 1
-  - - wilfried-meyer-viol
-    - 1
-  - - ronnie-cann
+  - - gijs-wijnholds
     - 1
   - - yo-sato
-    - 1
-  - - matt-purver
-    - 1
-  - - greg-mills
-    - 1
-  - - gijs-wijnholds
     - 1
   - - stergios-chatzikyriakidis
     - 1
   - - jieun-kiaer
     - 1
   - - graham-white
+    - 1
+  - - matt-purver
+    - 1
+  - - greg-mills
+    - 1
+  - - gregory-mills
+    - 1
+  - - wilfried-meyer-viol
+    - 1
+  - - ronnie-cann
     - 1
   first: Eleni
   full: Eleni Gregoromichelaki
@@ -801,12 +818,22 @@ ellen-bard:
 ellen-breitholtz:
   coauthors:
   - - christine-howes
-    - 2
+    - 5
   - - robin-cooper
+    - 3
+  - - vladislav-maraev
     - 2
   - - jessica-villing
     - 1
-  - - vladislav-maraev
+  - - kallirroi-georgila
+    - 1
+  - - david-schlangen
+    - 1
+  - - mary-lavelle
+    - 1
+  - - denis-ioussef
+    - 1
+  - - ebba-axelsson-nord
     - 1
   - - julian-j-schloder
     - 1
@@ -818,6 +845,10 @@ ellen-breitholtz:
   full: Ellen Breitholtz
   last: Breitholtz
   papers:
+  - Z21-1000
+  - Z21-3009
+  - Z21-3010
+  - Z21-4020
   - Z20-3018
   - Z19-3016
   - Z18-4022
@@ -830,7 +861,7 @@ ellen-breitholtz:
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
-    - 9
+    - 13
 ellen-campana:
   coauthors:
   - - gregory-aist
@@ -924,9 +955,9 @@ elma-hilbrink:
   coauthors:
   - - marisa-casillas
     - 1
-  - - susan-c-bobb
+  - - susan-c-bobb1
     - 1
-  - - eve-v-clark
+  - - eve-v-clark1
     - 1
   - - merideth-gattis
     - 1
@@ -1021,6 +1052,8 @@ emer-gilmartin:
     - 2
   - - nick-campbell
     - 2
+  - - marcin-wlodarczak
+    - 1
   - - francesca-bonin
     - 1
   - - joao-paulo-cabral1
@@ -1045,13 +1078,14 @@ emer-gilmartin:
   full: Emer Gilmartin
   last: Gilmartin
   papers:
+  - Z21-4026
   - Z19-4023
   - Z14-4022
   - Z13-4028
   slug: emer-gilmartin
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 emerson-cabrera-paraiso:
   coauthors: []
   first: Emerson Cabrera
@@ -1756,11 +1790,27 @@ evandro-b-fonseca:
   venues: []
 eve-v-clark:
   coauthors:
+  - - marisa-tice
+    - 1
+  - - susan-c-bobb
+    - 1
+  first: Eve V.
+  full: Eve V. Clark
+  last: Clark
+  papers:
+  - Z12-2002
+  - Z11-4039
+  slug: eve-v-clark
+  venues:
+  - - SEMDIAL
+    - 2
+eve-v-clark1:
+  coauthors:
   - - marisa-casillas
     - 1
   - - elma-hilbrink
     - 1
-  - - susan-c-bobb
+  - - susan-c-bobb1
     - 1
   - - merideth-gattis
     - 1
@@ -1771,26 +1821,10 @@ eve-v-clark:
   last: V.~Clark
   papers:
   - Z13-4023
-  slug: eve-v-clark
-  venues:
-  - - SEMDIAL
-    - 1
-eve-v-clark1:
-  coauthors:
-  - - marisa-tice
-    - 1
-  - - susan-c-bobb1
-    - 1
-  first: Eve V.
-  full: Eve V. Clark
-  last: Clark
-  papers:
-  - Z12-2002
-  - Z11-4039
   slug: eve-v-clark1
   venues:
   - - SEMDIAL
-    - 2
+    - 1
 evelyne-tzoukermann:
   coauthors: []
   first: Evelyne

@@ -673,19 +673,32 @@ wolfgang-maier:
     - 1
   - - wolfgang-minker
     - 1
+  - - stefan-ultes
+    - 1
   first: Wolfgang
   full: Wolfgang Maier
   last: Maier
   papers:
+  - Z21-4029
   - Z18-3020
   slug: wolfgang-maier
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 wolfgang-minker:
   coauthors:
   - - stefan-ultes
     - 2
+  - - patricia-kittel
+    - 1
+  - - wolfgang-maier
+    - 1
+  - - maria-schmidt
+    - 1
+  - - daniela-stier
+    - 1
+  - - ulrich-heid
+    - 1
   - - juliana-miehle
     - 1
   - - nadine-gerstenlauer
@@ -693,16 +706,6 @@ wolfgang-minker:
   - - daniel-ostler
     - 1
   - - hubertus-feussner
-    - 1
-  - - daniela-stier
-    - 1
-  - - ulrich-heid
-    - 1
-  - - patricia-kittel
-    - 1
-  - - wolfgang-maier
-    - 1
-  - - maria-schmidt
     - 1
   - - louisa-pragst
     - 1
@@ -736,6 +739,21 @@ won-ho-ryu:
   papers: []
   slug: won-ho-ryu
   venues: []
+woon-seng-gan:
+  coauthors:
+  - - jing-yang-lee
+    - 1
+  - - kong-aik-lee
+    - 1
+  first: Woon Seng
+  full: Woon Seng Gan
+  last: Gan
+  papers:
+  - Z21-3012
+  slug: woon-seng-gan
+  venues:
+  - - SEMDIAL
+    - 1
 woong-ki-lee:
   coauthors: []
   first: Woong Ki

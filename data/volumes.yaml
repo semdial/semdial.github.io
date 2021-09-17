@@ -2047,3 +2047,146 @@ Z20-4:
   venues:
   - SEMDIAL
   year: '2020'
+Z21-1:
+  address: Potsdam, Germany
+  editor:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  has_abstracts: false
+  meta_date: 2021/9
+  month: September
+  papers:
+  - Z21-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2021'
+Z21-2:
+  address: Potsdam, Germany
+  editor:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  has_abstracts: false
+  meta_date: 2021/9
+  month: September
+  papers:
+  - Z21-2001
+  - Z21-2002
+  - Z21-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2021'
+Z21-3:
+  address: Potsdam, Germany
+  editor:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  has_abstracts: false
+  meta_date: 2021/9
+  month: September
+  papers:
+  - Z21-3004
+  - Z21-3005
+  - Z21-3006
+  - Z21-3007
+  - Z21-3008
+  - Z21-3009
+  - Z21-3010
+  - Z21-3011
+  - Z21-3012
+  - Z21-3013
+  - Z21-3014
+  - Z21-3015
+  - Z21-3016
+  - Z21-3017
+  - Z21-3018
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2021'
+Z21-4:
+  address: Potsdam, Germany
+  editor:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  has_abstracts: false
+  meta_date: 2021/9
+  month: September
+  papers:
+  - Z21-4019
+  - Z21-4020
+  - Z21-4021
+  - Z21-4022
+  - Z21-4023
+  - Z21-4024
+  - Z21-4025
+  - Z21-4026
+  - Z21-4027
+  - Z21-4028
+  - Z21-4029
+  - Z21-4030
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2021'

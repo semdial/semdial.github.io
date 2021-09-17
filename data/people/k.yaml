@@ -162,16 +162,21 @@ kallirroi-georgila:
     - 1
   - - jill-boberg
     - 1
+  - - ellen-breitholtz
+    - 1
+  - - david-schlangen
+    - 1
   first: Kallirroi
   full: Kallirroi Georgila
   last: Georgila
   papers:
+  - Z21-1000
   - Z19-4024
   - Z18-3010
   slug: kallirroi-georgila
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 kam-fai-wong:
   coauthors: []
   first: Kam-Fai
@@ -424,6 +429,23 @@ kate-hunicke-smith:
   papers: []
   slug: kate-hunicke-smith
   venues: []
+kate-viloria:
+  coauthors:
+  - - bill-noble
+    - 1
+  - - staffan-larsson
+    - 1
+  - - asad-sayeed
+    - 1
+  first: Kate
+  full: Kate Viloria
+  last: Viloria
+  papers:
+  - Z21-3016
+  slug: kate-viloria
+  venues:
+  - - SEMDIAL
+    - 1
 katerina-vesela:
   coauthors: []
   first: Katerina
@@ -590,9 +612,9 @@ katsuya-takanashi:
     - 6
   - - yasuharu-den
     - 6
-  - - shogo-okada
-    - 2
   - - yosuke-matsusaka
+    - 2
+  - - shogo-okada
     - 2
   first: Katsuya
   full: Katsuya Takanashi
@@ -923,6 +945,23 @@ kenneth-j-mckeever:
   papers: []
   slug: kenneth-j-mckeever
   venues: []
+kenneth-lai:
+  coauthors:
+  - - richard-brutti
+    - 1
+  - - lucia-donatelli
+    - 1
+  - - james-pustejovsky
+    - 1
+  first: Kenneth
+  full: Kenneth Lai
+  last: Lai
+  papers:
+  - Z21-4028
+  slug: kenneth-lai
+  venues:
+  - - SEMDIAL
+    - 1
 kenneth-m-anderson:
   coauthors: []
   first: Kenneth M.
@@ -1400,6 +1439,21 @@ koldo-gojenola:
   papers: []
   slug: koldo-gojenola
   venues: []
+kong-aik-lee:
+  coauthors:
+  - - jing-yang-lee
+    - 1
+  - - woon-seng-gan
+    - 1
+  first: Kong Aik
+  full: Kong Aik Lee
+  last: Lee
+  papers:
+  - Z21-3012
+  slug: kong-aik-lee
+  venues:
+  - - SEMDIAL
+    - 1
 konstantina-garoufi:
   coauthors:
   - - alexander-koller

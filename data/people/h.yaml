@@ -184,12 +184,6 @@ hannah-rohde:
   coauthors:
   - - chris-cummins
     - 2
-  - - ernisa-marzuki
-    - 1
-  - - gareth-clegg
-    - 1
-  - - holly-branigan
-    - 1
   - - alexandra-lorson
     - 1
   - - scott-seyfarth
@@ -199,6 +193,12 @@ hannah-rohde:
   - - gerhard-jaeger
     - 1
   - - stefan-kaufmann
+    - 1
+  - - ernisa-marzuki
+    - 1
+  - - gareth-clegg
+    - 1
+  - - holly-branigan
     - 1
   - - hodgdon-stevens
     - 1
@@ -236,9 +236,9 @@ hannes-rieser:
     - 4
   - - insa-lawler
     - 2
-  - - udo-klein
-    - 1
   - - massimo-poesio
+    - 1
+  - - udo-klein
     - 1
   - - julia-peltason
     - 1
@@ -675,6 +675,14 @@ heinz-j-weber:
   venues: []
 helen-hastie:
   coauthors:
+  - - srinivasan-janarthanam
+    - 2
+  - - amol-deshmukh
+    - 2
+  - - ruth-aylett
+    - 2
+  - - mary-ellen-foster
+    - 2
   - - nina-dethlefs
     - 2
   - - heriberto-cuayahuitl1
@@ -683,14 +691,8 @@ helen-hastie:
     - 2
   - - oliver-lemon
     - 2
-  - - mary-ellen-foster
-    - 2
-  - - srinivasan-janarthanam
-    - 2
-  - - amol-deshmukh
-    - 2
-  - - ruth-aylett
-    - 2
+  - - jose-david-lopes
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -727,6 +729,7 @@ helen-hastie:
   full: Helen Hastie
   last: Hastie
   papers:
+  - Z21-3014
   - Z15-4033
   - Z14-4024
   - Z14-4031
@@ -734,7 +737,7 @@ helen-hastie:
   slug: helen-hastie
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 helen-k-y-chen:
   coauthors:
   - - laurent-prevot
@@ -1280,12 +1283,14 @@ hiroaki-saito:
   venues: []
 hiroaki-sugiyama:
   coauthors:
-  - - ryuichiro-higashinaka
+  - - tsunehiro-arimoto
     - 2
   - - hiromi-narimatsu
     - 2
-  - - tsunehiro-arimoto
+  - - ryuichiro-higashinaka
     - 2
+  - - masahiro-mizukami
+    - 1
   - - kazuki-sakai
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
@@ -1301,8 +1306,6 @@ hiroaki-sugiyama:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
-    - 1
-  - - masahiro-mizukami
     - 1
   first: Hiroaki
   full: Hiroaki Sugiyama
@@ -1340,12 +1343,14 @@ hiromi-nakaiwa:
   venues: []
 hiromi-narimatsu:
   coauthors:
-  - - ryuichiro-higashinaka
+  - - tsunehiro-arimoto
     - 2
   - - hiroaki-sugiyama
     - 2
-  - - tsunehiro-arimoto
+  - - ryuichiro-higashinaka
     - 2
+  - - masahiro-mizukami
+    - 1
   - - kazuki-sakai
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
@@ -1361,8 +1366,6 @@ hiromi-narimatsu:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
-    - 1
-  - - masahiro-mizukami
     - 1
   first: Hiromi
   full: Hiromi Narimatsu

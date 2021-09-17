@@ -679,6 +679,8 @@ ivana-kruijff-korbayova:
     - 2
   - - michael-brenner
     - 1
+  - - tatiana-anikina
+    - 1
   - - ilaria-baroni
     - 1
   - - mattia-coti-zelati
@@ -693,6 +695,7 @@ ivana-kruijff-korbayova:
   full: "Ivana Kruijff-Korbayov\xE1"
   last: "Kruijff-Korbayov\xE1"
   papers:
+  - Z21-4019
   - Z14-3014
   - Z13-4036
   - Z08-3013
@@ -703,7 +706,7 @@ ivana-kruijff-korbayova:
     last: Kruijff-Korbayova
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 ivandre-paraboni:
   coauthors: []
   first: "Ivandr\xE9"
@@ -728,13 +731,13 @@ iwan-de-kok:
     - 3
   - - stefan-kopp
     - 3
-  - - cornelia-frank
-    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
     - 1
   - - mario-botsch
+    - 1
+  - - cornelia-frank
     - 1
   first: Iwan de
   full: Iwan de Kok

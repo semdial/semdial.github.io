@@ -342,21 +342,24 @@ tanveer-a-faruquie:
   venues: []
 tanvi-dinkar:
   coauthors:
+  - - chloe-clavel
+    - 2
   - - ioana-vasilescu
     - 1
   - - catherine-pelachaud
     - 1
-  - - chloe-clavel
+  - - beatrice-biancardi
     - 1
   first: Tanvi
   full: Tanvi Dinkar
   last: Dinkar
   papers:
+  - Z21-4024
   - Z18-4024
   slug: tanvi-dinkar
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 tapas-nayak:
   coauthors: []
   first: Tapas
@@ -373,6 +376,19 @@ tat-seng-chua:
   papers: []
   slug: tat-seng-chua
   venues: []
+tatiana-anikina:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  first: Tatiana
+  full: Tatiana Anikina
+  last: Anikina
+  papers:
+  - Z21-4019
+  slug: tatiana-anikina
+  venues:
+  - - SEMDIAL
+    - 1
 tatjana-lucht:
   coauthors: []
   first: Tatjana
@@ -413,6 +429,29 @@ tatyana-ruzsics:
   papers: []
   slug: tatyana-ruzsics
   venues: []
+taylor-hudson:
+  coauthors:
+  - - claire-bonial
+    - 1
+  - - mitchell-abrams
+    - 1
+  - - anthony-l-baker
+    - 1
+  - - stephanie-lukin
+    - 1
+  - - david-traum
+    - 1
+  - - clare-voss
+    - 1
+  first: Taylor
+  full: Taylor Hudson
+  last: Hudson
+  papers:
+  - Z21-3006
+  slug: taylor-hudson
+  venues:
+  - - SEMDIAL
+    - 1
 ted-briscoe:
   coauthors: []
   first: Ted
@@ -1034,9 +1073,9 @@ ting-han:
     - 1
   - - kazunori-komatani
     - 1
-  - - spyros-kousidis
-    - 1
   - - casey-kennington
+    - 1
+  - - spyros-kousidis
     - 1
   first: Ting
   full: Ting Han
@@ -1437,12 +1476,14 @@ tsong-yi-chen:
   venues: []
 tsunehiro-arimoto:
   coauthors:
-  - - ryuichiro-higashinaka
-    - 2
   - - hiroaki-sugiyama
     - 2
   - - hiromi-narimatsu
     - 2
+  - - ryuichiro-higashinaka
+    - 2
+  - - masahiro-mizukami
+    - 1
   - - kazuki-sakai
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
@@ -1458,8 +1499,6 @@ tsunehiro-arimoto:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
-    - 1
-  - - masahiro-mizukami
     - 1
   first: Tsunehiro
   full: Tsunehiro Arimoto

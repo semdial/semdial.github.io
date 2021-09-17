@@ -895,8 +895,6 @@ david-day:
   venues: []
 david-devault:
   coauthors:
-  - - matthew-stone
-    - 1
   - - ron-artstein
     - 1
   - - mark-g-core
@@ -908,6 +906,8 @@ david-devault:
   - - brian-pluss
     - 1
   - - david-traum
+    - 1
+  - - matthew-stone
     - 1
   first: David
   full: David DeVault
@@ -1298,9 +1298,9 @@ david-schlangen:
     - 3
   - - stefan-kopp
     - 3
-  - - okko-buss
-    - 2
   - - soledad-lopez-gambino
+    - 2
+  - - okko-buss
     - 2
   - - spyros-kousidis
     - 2
@@ -1308,11 +1308,9 @@ david-schlangen:
     - 1
   - - tim-diekmann
     - 1
-  - - cornelia-frank
+  - - ellen-breitholtz
     - 1
-  - - jonathan-ginzburg
-    - 1
-  - - ye-tian
+  - - kallirroi-georgila
     - 1
   - - felix-hulsmann
     - 1
@@ -1320,10 +1318,17 @@ david-schlangen:
     - 1
   - - mario-botsch
     - 1
+  - - cornelia-frank
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  - - ye-tian
+    - 1
   first: David
   full: David Schlangen
   last: Schlangen
   papers:
+  - Z21-1000
   - Z20-3010
   - Z19-3006
   - Z18-3004
@@ -1348,7 +1353,7 @@ david-schlangen:
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 21
+    - 22
 david-stallard:
   coauthors: []
   first: David
@@ -1397,18 +1402,16 @@ david-tomas:
   venues: []
 david-traum:
   coauthors:
-  - - ron-artstein
-    - 3
   - - carla-gordon
     - 3
+  - - ron-artstein
+    - 3
+  - - kallirroi-georgila
+    - 2
   - - sudeep-gandhe
     - 2
   - - michael-rushforth
     - 2
-  - - kallirroi-georgila
-    - 2
-  - - rieks-op-den-akker
-    - 1
   - - usman-sohail
     - 1
   - - volodymyr-yanov
@@ -1420,6 +1423,22 @@ david-traum:
   - - hyungtak-choi
     - 1
   - - jill-boberg
+    - 1
+  - - claire-bonial
+    - 1
+  - - mitchell-abrams
+    - 1
+  - - anthony-l-baker
+    - 1
+  - - taylor-hudson
+    - 1
+  - - stephanie-lukin
+    - 1
+  - - clare-voss
+    - 1
+  - - patricia-chaffey
+    - 1
+  - - rieks-op-den-akker
     - 1
   - - brian-pluss
     - 1
@@ -1433,6 +1452,8 @@ david-traum:
   full: David Traum
   last: Traum
   papers:
+  - Z21-3006
+  - Z21-4022
   - Z19-3018
   - Z19-4024
   - Z19-4026
@@ -1446,7 +1467,7 @@ david-traum:
   slug: david-traum
   venues:
   - - SEMDIAL
-    - 10
+    - 12
 david-w-aha:
   coauthors: []
   first: David W.
@@ -1617,6 +1638,21 @@ demetrios-master:
   papers: []
   slug: demetrios-master
   venues: []
+denis-ioussef:
+  coauthors:
+  - - ellen-breitholtz
+    - 1
+  - - christine-howes
+    - 1
+  first: Denis
+  full: Denis Ioussef
+  last: Ioussef
+  papers:
+  - Z21-3010
+  slug: denis-ioussef
+  venues:
+  - - SEMDIAL
+    - 1
 denise-dipersio:
   coauthors: []
   first: Denise

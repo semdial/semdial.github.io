@@ -482,15 +482,22 @@ james-pustejovsky:
     - 1
   - - jonathan-ginzburg
     - 1
+  - - kenneth-lai
+    - 1
+  - - richard-brutti
+    - 1
+  - - lucia-donatelli
+    - 1
   first: James
   full: James Pustejovsky
   last: Pustejovsky
   papers:
+  - Z21-4028
   - Z20-1000
   slug: james-pustejovsky
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 james-r-curran:
   coauthors: []
   first: James R.
@@ -773,11 +780,11 @@ janne-bondi-johannessen:
   venues: []
 janosch-haber:
   coauthors:
-  - - massimo-poesio
-    - 1
   - - elia-bruni
     - 1
   - - raquel-fernandez
+    - 1
+  - - massimo-poesio
     - 1
   first: Janosch
   full: Janosch Haber
@@ -864,7 +871,7 @@ jason-leigh:
     - 1
   - - jillian-aurisano
     - 1
-  - - barbara-di-eugenio
+  - - barbara-di-eugenio1
     - 1
   - - andrew-johnson
     - 1
@@ -1381,15 +1388,15 @@ jeremy-leixa:
   venues: []
 jeremy-perret:
   coauthors:
-  - - stergos-afantenos
-    - 2
   - - nicholas-asher
     - 2
-  - - alex-lascarides
-    - 1
+  - - stergos-afantenos
+    - 2
   - - julie-hunter
     - 1
   - - eric-kow
+    - 1
+  - - alex-lascarides
     - 1
   first: "J\xE9r\xE9my"
   full: "J\xE9r\xE9my Perret"
@@ -1747,7 +1754,7 @@ jillian-aurisano:
   coauthors:
   - - abhinav-kumar
     - 1
-  - - barbara-di-eugenio
+  - - barbara-di-eugenio1
     - 1
   - - andrew-johnson
     - 1
@@ -1871,6 +1878,21 @@ jing-shin-chang:
   papers: []
   slug: jing-shin-chang
   venues: []
+jing-yang-lee:
+  coauthors:
+  - - kong-aik-lee
+    - 1
+  - - woon-seng-gan
+    - 1
+  first: Jing Yang
+  full: Jing Yang Lee
+  last: Lee
+  papers:
+  - Z21-3012
+  slug: jing-yang-lee
+  venues:
+  - - SEMDIAL
+    - 1
 jingguang-han:
   coauthors: []
   first: Jingguang
@@ -2299,6 +2321,21 @@ johanna-d-moore:
   papers: []
   slug: johanna-d-moore
   venues: []
+johanna-dobbriner:
+  coauthors:
+  - - cathy-ennis
+    - 1
+  - - robert-ross
+    - 1
+  first: Johanna
+  full: Johanna Dobbriner
+  last: Dobbriner
+  papers:
+  - Z21-4025
+  slug: johanna-dobbriner
+  venues:
+  - - SEMDIAL
+    - 1
 johanna-geiss:
   coauthors: []
   first: Johanna
@@ -2347,6 +2384,8 @@ john-barnden:
   venues: []
 john-bateman:
   coauthors:
+  - - robert-ross
+    - 1
   - - nina-dethlefs
     - 1
   - - heriberto-cuayahuitl
@@ -2356,8 +2395,6 @@ john-bateman:
   - - florian-richter
     - 1
   - - elena-andonova
-    - 1
-  - - robert-ross
     - 1
   first: John
   full: John Bateman
@@ -2432,7 +2469,7 @@ john-d-kelleher:
   coauthors:
   - - anh-duong-trinh
     - 1
-  - - robert-j-ross1
+  - - robert-j-ross
     - 1
   first: John D
   full: John D Kelleher
@@ -2559,22 +2596,25 @@ john-kelleher:
     - 5
   - - anh-duong-trinh
     - 2
+  - - robert-ross
+    - 2
   - - christos-koniaris
     - 2
-  - - robert-j-ross
+  - - na-li
     - 1
-  - - robert-ross
+  - - robert-j-ross1
+    - 1
+  - - christine-howes
     - 1
   - - niels-schuette
     - 1
   - - brian-mac-namee
     - 1
-  - - christine-howes
-    - 1
   first: John
   full: John Kelleher
   last: Kelleher
   papers:
+  - Z21-3013
   - Z19-4032
   - Z19-4033
   - Z17-4030
@@ -2590,7 +2630,7 @@ john-kelleher:
     last: Kelleher
   venues:
   - - SEMDIAL
-    - 8
+    - 9
 john-l-beaven:
   coauthors: []
   first: John L.
@@ -2792,13 +2832,13 @@ jon-m-slack:
   venues: []
 jon-oberlander:
   coauthors:
-  - - arabella-sinclair
-    - 1
-  - - dragan-gasevic
-    - 1
   - - matthew-henderson
     - 1
   - - colin-matheson
+    - 1
+  - - arabella-sinclair
+    - 1
+  - - dragan-gasevic
     - 1
   first: Jon
   full: Jon Oberlander
@@ -2917,27 +2957,31 @@ jonathan-ginzburg:
     - 3
   - - ye-tian
     - 3
-  - - sara-moradlou
-    - 2
-  - - andy-lucking
-    - 2
-  - - jean-philippe-bernardy
-    - 2
   - - chiara-mazzocconi
     - 2
   - - staffan-larsson
     - 2
+  - - jean-philippe-bernardy
+    - 2
   - - kwong-cheong-wong
     - 2
+  - - andy-lucking
+    - 2
+  - - sara-moradlou
+    - 2
+  - - christopher-cash
+    - 1
   - - patrick-healey
     - 1
   - - yo-sato
     - 1
-  - - christopher-cash
-    - 1
   - - sophia-malamud
     - 1
   - - james-pustejovsky
+    - 1
+  - - alafate-abulimiti
+    - 1
+  - - justine-cassell
     - 1
   - - robin-cooper
     - 1
@@ -2945,18 +2989,19 @@ jonathan-ginzburg:
     - 1
   - - ye-tian1
     - 1
-  - - david-schlangen
-    - 1
-  - - julian-hough
-    - 1
   - - claire-beyssade
     - 1
   - - yannick-mathieu
+    - 1
+  - - david-schlangen
+    - 1
+  - - julian-hough
     - 1
   first: Jonathan
   full: Jonathan Ginzburg
   last: Ginzburg
   papers:
+  - Z21-3004
   - Z20-1000
   - Z20-3008
   - Z20-3016
@@ -2979,7 +3024,7 @@ jonathan-ginzburg:
   slug: jonathan-ginzburg
   venues:
   - - SEMDIAL
-    - 19
+    - 20
 jonathan-h-clark:
   coauthors: []
   first: Jonathan H.
@@ -3263,6 +3308,19 @@ jose-coch:
   papers: []
   slug: jose-coch
   venues: []
+jose-david-lopes:
+  coauthors:
+  - - helen-hastie
+    - 1
+  first: "Jos\xE9 David"
+  full: "Jos\xE9 David Lopes"
+  last: Lopes
+  papers:
+  - Z21-3014
+  slug: jose-david-lopes
+  venues:
+  - - SEMDIAL
+    - 1
 jose-deulofeu:
   coauthors: []
   first: "Jos\xE9"
@@ -3878,6 +3936,14 @@ julian-hough:
     - 1
   - - david-hopes
     - 1
+  - - md-mabrur-husan-dihyat
+    - 1
+  - - felix-hulsmann
+    - 1
+  - - thomas-waltema
+    - 1
+  - - mario-botsch
+    - 1
   - - rose-mccabe
     - 1
   - - cornelia-frank
@@ -3886,16 +3952,11 @@ julian-hough:
     - 1
   - - ye-tian
     - 1
-  - - felix-hulsmann
-    - 1
-  - - thomas-waltema
-    - 1
-  - - mario-botsch
-    - 1
   first: Julian
   full: Julian Hough
   last: Hough
   papers:
+  - Z21-4023
   - Z20-3005
   - Z20-3013
   - Z20-3022
@@ -3918,7 +3979,7 @@ julian-hough:
   slug: julian-hough
   venues:
   - - SEMDIAL
-    - 19
+    - 20
 julian-j-odell:
   coauthors: []
   first: Julian J.
@@ -4252,6 +4313,10 @@ justin-h-gross:
   venues: []
 justine-cassell:
   coauthors:
+  - - alafate-abulimiti
+    - 1
+  - - jonathan-ginzburg
+    - 1
   - - zhou-yu
     - 1
   - - stefan-scherer
@@ -4268,11 +4333,12 @@ justine-cassell:
   full: Justine Cassell
   last: Cassell
   papers:
+  - Z21-3004
   - Z13-3020
   slug: justine-cassell
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 justus-c-roux:
   coauthors: []
   first: Justus C.

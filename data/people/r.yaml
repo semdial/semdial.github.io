@@ -219,7 +219,7 @@ rajen-chatterjee:
   venues: []
 rajen-subba:
   coauthors:
-  - - barbara-di-eugenio1
+  - - barbara-di-eugenio
     - 1
   first: Rajen
   full: Rajen Subba
@@ -470,22 +470,6 @@ raquel-fernandez:
   coauthors:
   - - julian-j-schloder
     - 3
-  - - laura-aina
-    - 1
-  - - natalia-philippova
-    - 1
-  - - valentin-vogelmann
-    - 1
-  - - matthew-frampton
-    - 1
-  - - patrick-ehlen
-    - 1
-  - - anish-adukuzhiyil
-    - 1
-  - - stanley-peters
-    - 1
-  - - amy-isard
-    - 1
   - - alberto-testoni
     - 1
   - - ravi-shekhar
@@ -496,22 +480,41 @@ raquel-fernandez:
     - 1
   - - elia-bruni
     - 1
+  - - matthew-frampton
+    - 1
+  - - patrick-ehlen
+    - 1
+  - - anish-adukuzhiyil
+    - 1
+  - - stanley-peters
+    - 1
+  - - arabella-sinclair
+    - 1
   - - ines-crespo
     - 1
   - - richard-kunert
     - 1
   - - willem-zuidema
     - 1
+  - - amy-isard
+    - 1
   - - ellen-breitholtz
     - 1
-  - - robert-grimm
+  - - laura-aina
+    - 1
+  - - natalia-philippova
+    - 1
+  - - valentin-vogelmann
     - 1
   - - sarah-hiller
+    - 1
+  - - robert-grimm
     - 1
   first: Raquel
   full: "Raquel Fern\xE1ndez"
   last: "Fern\xE1ndez"
   papers:
+  - Z21-3018
   - Z19-3005
   - Z19-3014
   - Z18-4028
@@ -532,7 +535,7 @@ raquel-fernandez:
     last: Fernandez
   venues:
   - - SEMDIAL
-    - 13
+    - 14
 raquel-martinez:
   coauthors: []
   first: Raquel
@@ -893,6 +896,23 @@ richard-andersson:
   venues:
   - - SEMDIAL
     - 1
+richard-brutti:
+  coauthors:
+  - - kenneth-lai
+    - 1
+  - - lucia-donatelli
+    - 1
+  - - james-pustejovsky
+    - 1
+  first: Richard
+  full: Richard Brutti
+  last: Brutti
+  papers:
+  - Z21-4028
+  slug: richard-brutti
+  venues:
+  - - SEMDIAL
+    - 1
 richard-c-wang:
   coauthors: []
   first: Richard C.
@@ -1038,9 +1058,9 @@ richard-power:
   coauthors:
   - - paul-piwek
     - 2
-  - - david-hardcastle
-    - 1
   - - brian-pluss
+    - 1
+  - - david-hardcastle
     - 1
   first: Richard
   full: Richard Power
@@ -1365,13 +1385,13 @@ robert-j-ross:
   coauthors:
   - - anh-duong-trinh
     - 1
-  - - john-kelleher
+  - - john-d-kelleher
     - 1
-  first: Robert J.
-  full: Robert J. Ross
+  first: Robert J
+  full: Robert J Ross
   last: Ross
   papers:
-  - Z17-4030
+  - Z18-3017
   slug: robert-j-ross
   venues:
   - - SEMDIAL
@@ -1380,13 +1400,13 @@ robert-j-ross1:
   coauthors:
   - - anh-duong-trinh
     - 1
-  - - john-d-kelleher
+  - - john-kelleher
     - 1
-  first: Robert J
-  full: Robert J Ross
+  first: Robert J.
+  full: Robert J. Ross
   last: Ross
   papers:
-  - Z18-3017
+  - Z17-4030
   slug: robert-j-ross1
   venues:
   - - SEMDIAL
@@ -1486,22 +1506,30 @@ robert-rhys-thomas:
     - 1
 robert-ross:
   coauthors:
-  - - john-bateman
-    - 1
+  - - john-kelleher
+    - 2
   - - anh-duong-trinh
     - 1
-  - - john-kelleher
+  - - na-li
+    - 1
+  - - johanna-dobbriner
+    - 1
+  - - cathy-ennis
+    - 1
+  - - john-bateman
     - 1
   first: Robert
   full: Robert Ross
   last: Ross
   papers:
+  - Z21-3013
+  - Z21-4025
   - Z19-4033
   - Z09-3021
   slug: robert-ross
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 robert-s-belvin:
   coauthors: []
   first: Robert S.
@@ -1625,7 +1653,11 @@ roberto-pieraccini:
 robin-cooper:
   coauthors:
   - - ellen-breitholtz
-    - 2
+    - 3
+  - - christine-howes
+    - 1
+  - - mary-lavelle
+    - 1
   - - staffan-larsson
     - 1
   - - jonathan-ginzburg
@@ -1634,6 +1666,7 @@ robin-cooper:
   full: Robin Cooper
   last: Cooper
   papers:
+  - Z21-3009
   - Z18-4022
   - Z14-3007
   - Z11-3022
@@ -1643,7 +1676,7 @@ robin-cooper:
   slug: robin-cooper
   venues:
   - - SEMDIAL
-    - 6
+    - 7
 robin-copper:
   coauthors: []
   first: Robin
@@ -1837,13 +1870,11 @@ ron-artstein:
     - 2
   - - michael-rushforth
     - 2
-  - - laure-vieu
-    - 1
-  - - fauren-faust
-    - 1
   - - usman-sohail
     - 1
   - - carla-gordon
+    - 1
+  - - stephanie-hernandez
     - 1
   - - mark-g-core
     - 1
@@ -1853,10 +1884,15 @@ ron-artstein:
     - 1
   - - amanda-stent
     - 1
+  - - laure-vieu
+    - 1
+  - - fauren-faust
+    - 1
   first: Ron
   full: Ron Artstein
   last: Artstein
   papers:
+  - Z21-4027
   - Z19-3018
   - Z13-3007
   - Z11-1000
@@ -1866,7 +1902,7 @@ ron-artstein:
   slug: ron-artstein
   venues:
   - - SEMDIAL
-    - 6
+    - 7
 ron-daniel-jr:
   coauthors: []
   first: Ron
@@ -2206,13 +2242,13 @@ russell-beckley:
   venues: []
 ruth-aylett:
   coauthors:
-  - - mary-ellen-foster
-    - 2
   - - srinivasan-janarthanam
+    - 2
+  - - helen-hastie
     - 2
   - - amol-deshmukh
     - 2
-  - - helen-hastie
+  - - mary-ellen-foster
     - 2
   - - mei-yii-lim
     - 1
@@ -2238,21 +2274,21 @@ ruth-kempson:
     - 3
   - - matthew-purver
     - 3
-  - - andrew-gargett
-    - 2
   - - arash-eshghi
     - 2
   - - stergios-chatzikyriakidis
     - 2
-  - - matt-purver
-    - 1
-  - - greg-mills
-    - 1
+  - - andrew-gargett
+    - 2
   - - gijs-wijnholds
     - 1
   - - jieun-kiaer
     - 1
   - - graham-white
+    - 1
+  - - matt-purver
+    - 1
+  - - greg-mills
     - 1
   - - ronnie-cann
     - 1
@@ -2260,6 +2296,7 @@ ruth-kempson:
   full: Ruth Kempson
   last: Kempson
   papers:
+  - Z21-2002
   - Z20-3022
   - Z19-4025
   - Z18-3016
@@ -2269,7 +2306,7 @@ ruth-kempson:
   slug: ruth-kempson
   venues:
   - - SEMDIAL
-    - 6
+    - 7
 rutu-mulkar-mehta:
   coauthors: []
   first: Rutu
@@ -2360,14 +2397,22 @@ ryu-iida:
     - 1
 ryuichiro-higashinaka:
   coauthors:
+  - - tsunehiro-arimoto
+    - 2
   - - hiroaki-sugiyama
     - 2
   - - hiromi-narimatsu
     - 2
-  - - tsunehiro-arimoto
-    - 2
   - - yoshihiro-matsuo
     - 2
+  - - masahiro-mizukami
+    - 1
+  - - yuiko-tsunomori
+    - 1
+  - - tetsuro-takahashi
+    - 1
+  - - michimasa-inaba
+    - 1
   - - kazuki-sakai
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
@@ -2382,14 +2427,6 @@ ryuichiro-higashinaka:
     - 1
   - - hiroshi-ishiguro
     - 1
-  - - masahiro-mizukami
-    - 1
-  - - yuiko-tsunomori
-    - 1
-  - - tetsuro-takahashi
-    - 1
-  - - michimasa-inaba
-    - 1
   - - toru-hirano
     - 1
   - - nozomi-kobayashi
@@ -2400,6 +2437,7 @@ ryuichiro-higashinaka:
   full: Ryuichiro Higashinaka
   last: Higashinaka
   papers:
+  - Z21-2003
   - Z19-4020
   - Z18-3007
   - Z17-4019
@@ -2407,4 +2445,4 @@ ryuichiro-higashinaka:
   slug: ryuichiro-higashinaka
   venues:
   - - SEMDIAL
-    - 4
+    - 5
