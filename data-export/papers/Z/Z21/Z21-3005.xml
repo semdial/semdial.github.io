@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="barthel-2021-speech">
+    <titleInfo>
+        <title>Speech planning interferes with language comprehension: Evidence from semantic illusions in question-response sequences</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mathias</namePart>
+        <namePart type="family">Barthel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">barthel-2021-speech</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Barthel_semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2021-sep</date>
+    </part>
+</mods>
+</modsCollection>

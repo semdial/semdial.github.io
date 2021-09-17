@@ -1,0 +1,805 @@
+Z21-1000:
+  address: Potsdam, Germany
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: semdial-2021-semantics
+  bibtype: proceedings
+  month: September
+  paper_id: '1000'
+  parent_volume_id: Z21-1
+  publisher: SEMDIAL
+  title: Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2021_potsdial_front_matter.pdf
+  year: '2021'
+Z21-2001:
+  address: Potsdam, Germany
+  author:
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: kopp-2021-human
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2001'
+  parent_volume_id: Z21-2
+  publisher: SEMDIAL
+  title: Human-aware conversational agents
+  title_html: Human-aware conversational agents
+  url: http://semdial.org/anthology/Z21-Kopp_semdial_0001.pdf
+  year: '2021'
+Z21-2002:
+  address: Potsdam, Germany
+  author:
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  bibkey: kempson-2021-escape
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2002'
+  parent_volume_id: Z21-2
+  publisher: SEMDIAL
+  title: 'How to escape the encodingism stranglehold: Dynamic syntax, process and
+    interaction'
+  title_html: 'How to escape the encodingism stranglehold: Dynamic syntax, process
+    and interaction'
+  url: http://semdial.org/anthology/Z21-Kempson_semdial_0002.pdf
+  year: '2021'
+Z21-2003:
+  address: Potsdam, Germany
+  author:
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  bibkey: higashinaka-2021-leveraging
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2003'
+  parent_volume_id: Z21-2
+  publisher: SEMDIAL
+  title: Leveraging the wisdom of the crowd to realize a character-like chatbot
+  title_html: Leveraging the wisdom of the crowd to realize a character-like chatbot
+  url: http://semdial.org/anthology/Z21-Higashinaka_semdial_0003.pdf
+  year: '2021'
+Z21-3004:
+  address: Potsdam, Germany
+  author:
+  - first: Alafate
+    full: Alafate Abulimiti
+    id: alafate-abulimiti
+    last: Abulimiti
+  - first: Justine
+    full: Justine Cassell
+    id: justine-cassell
+    last: Cassell
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: abulimiti-etal-2021-way
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3004'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: "\u201CBy the way, do you like Spider Man?\u201D --- Towards a social planning
+    model for rapport"
+  title_html: "\u201CBy the way, do you like Spider Man?\u201D --- Towards a social
+    planning model for rapport"
+  url: http://semdial.org/anthology/Z21-Abulimiti_semdial_0004.pdf
+  year: '2021'
+Z21-3005:
+  address: Potsdam, Germany
+  author:
+  - first: Mathias
+    full: Mathias Barthel
+    id: mathias-barthel
+    last: Barthel
+  bibkey: barthel-2021-speech
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3005'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: 'Speech planning interferes with language comprehension: Evidence from semantic
+    illusions in question-response sequences'
+  title_html: 'Speech planning interferes with language comprehension: Evidence from
+    semantic illusions in question-response sequences'
+  url: http://semdial.org/anthology/Z21-Barthel_semdial_0005.pdf
+  year: '2021'
+Z21-3006:
+  address: Potsdam, Germany
+  author:
+  - first: Claire
+    full: Claire Bonial
+    id: claire-bonial
+    last: Bonial
+  - first: Mitchell
+    full: Mitchell Abrams
+    id: mitchell-abrams
+    last: Abrams
+  - first: Anthony L.
+    full: Anthony L. Baker
+    id: anthony-l-baker
+    last: Baker
+  - first: Taylor
+    full: Taylor Hudson
+    id: taylor-hudson
+    last: Hudson
+  - first: Stephanie M.
+    full: Stephanie M. Lukin
+    id: stephanie-lukin
+    last: Lukin
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  - first: Clare R.
+    full: Clare R. Voss
+    id: clare-voss
+    last: Voss
+  bibkey: bonial-etal-2021-context
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3006'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: 'Context is key: Annotating situated dialogue relations in multi-floor dialogue'
+  title_html: 'Context is key: Annotating situated dialogue relations in multi-floor
+    dialogue'
+  url: http://semdial.org/anthology/Z21-Bonial_semdial_0006.pdf
+  year: '2021'
+Z21-3007:
+  address: Potsdam, Germany
+  author:
+  - first: Yuya
+    full: Yuya Chiba
+    id: yuya-chiba
+    last: Chiba
+  - first: Yoshihiro
+    full: Yoshihiro Yamazaki
+    id: yoshihiro-yamazaki
+    last: Yamazaki
+  - first: Akinori
+    full: Akinori Ito
+    id: akinori-ito
+    last: Ito
+  bibkey: chiba-etal-2021-speaker
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3007'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: 'Speaker intimacy in chat-talks: Analysis and recognition based on verbal
+    and non-verbal information'
+  title_html: 'Speaker intimacy in chat-talks: Analysis and recognition based on verbal
+    and non-verbal information'
+  url: http://semdial.org/anthology/Z21-Chiba_semdial_0007.pdf
+  year: '2021'
+Z21-3008:
+  address: Potsdam, Germany
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Vera
+    full: Vera Silfversparre
+    id: vera-silfversparre
+    last: Silfversparre
+  bibkey: dobnik-silfversparre-2021-red
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3008'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: 'The red cup on the left: Reference, coreference and attention in visual
+    dialogue'
+  title_html: 'The red cup on the left: Reference, coreference and attention in visual
+    dialogue'
+  url: http://semdial.org/anthology/Z21-Dobnik_semdial_0008.pdf
+  year: '2021'
+Z21-3009:
+  address: Potsdam, Germany
+  author:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Mary
+    full: Mary Lavelle
+    id: mary-lavelle
+    last: Lavelle
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  bibkey: howes-etal-2021-justifiable
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3009'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: 'Justifiable reasons for everyone: Dialogical reasoning in patients with
+    schizophrenia'
+  title_html: 'Justifiable reasons for everyone: Dialogical reasoning in patients
+    with schizophrenia'
+  url: http://semdial.org/anthology/Z21-Howes_semdial_0009.pdf
+  year: '2021'
+Z21-3010:
+  address: Potsdam, Germany
+  author:
+  - first: Denis
+    full: Denis Ioussef
+    id: denis-ioussef
+    last: Ioussef
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: ioussef-etal-2021-dont
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3010'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: "Don\u2019t you think that a rhetorical question can convey an argument?"
+  title_html: "Don\u2019t you think that a rhetorical question can convey an argument?"
+  url: http://semdial.org/anthology/Z21-Ioussef_semdial_0010.pdf
+  year: '2021'
+Z21-3011:
+  address: Potsdam, Germany
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: larsson-2021-role
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3011'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: The role of definitions in coordinating on perceptual meanings
+  title_html: The role of definitions in coordinating on perceptual meanings
+  url: http://semdial.org/anthology/Z21-Larsson_semdial_0011.pdf
+  year: '2021'
+Z21-3012:
+  address: Potsdam, Germany
+  author:
+  - first: Jing Yang
+    full: Jing Yang Lee
+    id: jing-yang-lee
+    last: Lee
+  - first: Kong Aik
+    full: Kong Aik Lee
+    id: kong-aik-lee
+    last: Lee
+  - first: Woon Seng
+    full: Woon Seng Gan
+    id: woon-seng-gan
+    last: Gan
+  bibkey: lee-etal-2021-generating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3012'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: Generating personalized dialogue via multi-task meta-learning
+  title_html: Generating personalized dialogue via multi-task meta-learning
+  url: http://semdial.org/anthology/Z21-Lee_semdial_0012.pdf
+  year: '2021'
+Z21-3013:
+  address: Potsdam, Germany
+  author:
+  - first: Na
+    full: Na Li
+    id: na-li
+    last: Li
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  - first: Robert
+    full: Robert Ross
+    id: robert-ross
+    last: Ross
+  bibkey: li-etal-2021-detecting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3013'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: 'Detecting interlocutor confusion in situated human-avatar dialogue: A pilot
+    study'
+  title_html: 'Detecting interlocutor confusion in situated human-avatar dialogue:
+    A pilot study'
+  url: http://semdial.org/anthology/Z21-Li_semdial_0013.pdf
+  year: '2021'
+Z21-3014:
+  address: Potsdam, Germany
+  author:
+  - first: "Jos\xE9 David"
+    full: "Jos\xE9 David Lopes"
+    id: jose-david-lopes
+    last: Lopes
+  - first: Helen
+    full: Helen Hastie
+    id: helen-hastie
+    last: Hastie
+  bibkey: lopes-hastie-2021-language
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3014'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: The language of persuasion, negotiation and trust
+  title_html: The language of persuasion, negotiation and trust
+  url: http://semdial.org/anthology/Z21-Lopes_semdial_0014.pdf
+  year: '2021'
+Z21-3015:
+  address: Potsdam, Germany
+  author:
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Bill
+    full: Bill Noble
+    id: bill-noble
+    last: Noble
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: maraev-etal-2021-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3015'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: Dialogue act classification is a laughing matter
+  title_html: Dialogue act classification is a laughing matter
+  url: http://semdial.org/anthology/Z21-Maraev_semdial_0015.pdf
+  year: '2021'
+Z21-3016:
+  address: Potsdam, Germany
+  author:
+  - first: Bill
+    full: Bill Noble
+    id: bill-noble
+    last: Noble
+  - first: Kate
+    full: Kate Viloria
+    id: kate-viloria
+    last: Viloria
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Asad
+    full: Asad Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  bibkey: noble-etal-2021-mean
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3016'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: What do you mean by negotiation? Annotating social media discussions about
+    word meaning
+  title_html: What do you mean by negotiation? Annotating social media discussions
+    about word meaning
+  url: http://semdial.org/anthology/Z21-Noble_semdial_0016.pdf
+  year: '2021'
+Z21-3017:
+  address: Potsdam, Germany
+  author:
+  - first: Vesela
+    full: Vesela Simeonova
+    id: vesela-simeonova
+    last: Simeonova
+  bibkey: simeonova-2021-challenging
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3017'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: Challenging evidential non-challengeability
+  title_html: Challenging evidential non-challengeability
+  url: http://semdial.org/anthology/Z21-Simeonova_semdial_0017.pdf
+  year: '2021'
+Z21-3018:
+  address: Potsdam, Germany
+  author:
+  - first: Arabella
+    full: Arabella Sinclair
+    id: arabella-sinclair
+    last: Sinclair
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: sinclair-fernandez-2021-construction
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3018'
+  parent_volume_id: Z21-3
+  publisher: SEMDIAL
+  title: Construction coordination in first and second language acquisition
+  title_html: Construction coordination in first and second language acquisition
+  url: http://semdial.org/anthology/Z21-Sinclair_semdial_0018.pdf
+  year: '2021'
+Z21-4019:
+  address: Potsdam, Germany
+  author:
+  - first: Tatiana
+    full: Tatiana Anikina
+    id: tatiana-anikina
+    last: Anikina
+  - first: Ivana
+    full: "Ivana Kruijff-Korbayov\xE1"
+    id: ivana-kruijff-korbayova
+    last: "Kruijff-Korbayov\xE1"
+  bibkey: anikina-kruijff-korbayova-2021-annotating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4019'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: Annotating events and entities in dialogue
+  title_html: Annotating events and entities in dialogue
+  url: http://semdial.org/anthology/Z21-Anikina_semdial_0019.pdf
+  year: '2021'
+Z21-4020:
+  address: Potsdam, Germany
+  author:
+  - first: Ebba
+    full: Ebba Axelsson Nord
+    id: ebba-axelsson-nord
+    last: Axelsson Nord
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: axelsson-nord-etal-2021-mean
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4020'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: What do you mean? Eliciting enthymemes in text-based dialogue
+  title_html: What do you mean? Eliciting enthymemes in text-based dialogue
+  url: http://semdial.org/anthology/Z21-Nord_semdial_0020.pdf
+  year: '2021'
+Z21-4021:
+  address: Potsdam, Germany
+  author:
+  - first: Friederike
+    full: Friederike Buch
+    id: friederike-buch
+    last: Buch
+  bibkey: buch-2021-deictic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4021'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: The deictic nature of speech act reference
+  title_html: The deictic nature of speech act reference
+  url: http://semdial.org/anthology/Z21-Buch_semdial_0021.pdf
+  year: '2021'
+Z21-4022:
+  address: Potsdam, Germany
+  author:
+  - first: Patricia
+    full: Patricia Chaffey
+    id: patricia-chaffey
+    last: Chaffey
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: chaffey-traum-2021-identity
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4022'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: Identity models for role-play dialogue characters
+  title_html: Identity models for role-play dialogue characters
+  url: http://semdial.org/anthology/Z21-Chaffey_semdial_0022.pdf
+  year: '2021'
+Z21-4023:
+  address: Potsdam, Germany
+  author:
+  - first: Md Mabrur Husan
+    full: Md Mabrur Husan Dihyat
+    id: md-mabrur-husan-dihyat
+    last: Dihyat
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  bibkey: dihyat-hough-2021-rule
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4023'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: 'Can rule-based chatbots outperform neural models without pre-training in
+    small data situations?: A preliminary comparison of AIML and Seq2Seq'
+  title_html: 'Can rule-based chatbots outperform neural models without pre-training
+    in small data situations?: A preliminary comparison of AIML and Seq2Seq'
+  url: http://semdial.org/anthology/Z21-Dihyat_semdial_0023.pdf
+  year: '2021'
+Z21-4024:
+  address: Potsdam, Germany
+  author:
+  - first: Tanvi
+    full: Tanvi Dinkar
+    id: tanvi-dinkar
+    last: Dinkar
+  - first: Beatrice
+    full: Beatrice Biancardi
+    id: beatrice-biancardi
+    last: Biancardi
+  - first: "Chlo\xE9"
+    full: "Chlo\xE9 Clavel"
+    id: chloe-clavel
+    last: Clavel
+  bibkey: dinkar-etal-2021-local
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4024'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: "From local hesitations to global impressions of a speaker\u2019s feeling
+    of knowing"
+  title_html: "From local hesitations to global impressions of a speaker\u2019s feeling
+    of knowing"
+  url: http://semdial.org/anthology/Z21-Dinkar_semdial_0024.pdf
+  year: '2021'
+Z21-4025:
+  address: Potsdam, Germany
+  author:
+  - first: Johanna
+    full: Johanna Dobbriner
+    id: johanna-dobbriner
+    last: Dobbriner
+  - first: Cathy
+    full: Cathy Ennis
+    id: cathy-ennis
+    last: Ennis
+  - first: Robert
+    full: Robert Ross
+    id: robert-ross
+    last: Ross
+  bibkey: dobbriner-etal-2021-exploring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4025'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: Exploring the personality of virtual tutors in conversational foreign language
+    practice
+  title_html: Exploring the personality of virtual tutors in conversational foreign
+    language practice
+  url: http://semdial.org/anthology/Z21-Dobbriner_semdial_0025.pdf
+  year: '2021'
+Z21-4026:
+  address: Potsdam, Germany
+  author:
+  - first: Emer
+    full: Emer Gilmartin
+    id: emer-gilmartin
+    last: Gilmartin
+  - first: Marcin
+    full: "Marcin W\u0142odarczak"
+    id: marcin-wlodarczak
+    last: "W\u0142odarczak"
+  bibkey: gilmartin-wlodarczak-2021-getting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4026'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: 'Getting from A to B: Exploring floor state transitions in conversation'
+  title_html: 'Getting from A to B: Exploring floor state transitions in conversation'
+  url: http://semdial.org/anthology/Z21-Gilmartin_semdial_0026.pdf
+  year: '2021'
+Z21-4027:
+  address: Potsdam, Germany
+  author:
+  - first: Stephanie
+    full: Stephanie Hernandez
+    id: stephanie-hernandez
+    last: Hernandez
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  bibkey: hernandez-artstein-2021-annotating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4027'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: Annotating low-confidence questions improves classifier performance
+  title_html: Annotating low-confidence questions improves classifier performance
+  url: http://semdial.org/anthology/Z21-Hernandez_semdial_0027.pdf
+  year: '2021'
+Z21-4028:
+  address: Potsdam, Germany
+  author:
+  - first: Kenneth
+    full: Kenneth Lai
+    id: kenneth-lai
+    last: Lai
+  - first: Richard
+    full: Richard Brutti
+    id: richard-brutti
+    last: Brutti
+  - first: Lucia
+    full: Lucia Donatelli
+    id: lucia-donatelli
+    last: Donatelli
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  bibkey: lai-etal-2021-situated
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4028'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: Situated UMR for multimodal interactions
+  title_html: Situated UMR for multimodal interactions
+  url: http://semdial.org/anthology/Z21-Lai_semdial_0028.pdf
+  year: '2021'
+Z21-4029:
+  address: Potsdam, Germany
+  author:
+  - first: Wolfgang
+    full: Wolfgang Maier
+    id: wolfgang-maier
+    last: Maier
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  bibkey: maier-ultes-2021-challenges
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4029'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: Challenges for the conversational entity dialog model
+  title_html: Challenges for the conversational entity dialog model
+  url: http://semdial.org/anthology/Z21-Maier_semdial_0029.pdf
+  year: '2021'
+Z21-4030:
+  address: Potsdam, Germany
+  author:
+  - first: Maria
+    full: Maria Di Maro
+    id: maria-di-maro
+    last: Di Maro
+  - first: Antonio
+    full: Antonio Origlia
+    id: antonio-origlia
+    last: Origlia
+  - first: Francesco
+    full: Francesco Cutugno
+    id: francesco-cutugno
+    last: Cutugno
+  bibkey: di-maro-etal-2021-conflict
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 25th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4030'
+  parent_volume_id: Z21-4
+  publisher: SEMDIAL
+  title: Conflict search graph for common ground consistency checks in dialogue systems
+  title_html: Conflict search graph for common ground consistency checks in dialogue
+    systems
+  url: http://semdial.org/anthology/Z21-Maro_semdial_0030.pdf
+  year: '2021'

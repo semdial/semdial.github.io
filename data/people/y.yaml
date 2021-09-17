@@ -308,9 +308,9 @@ yasuharu-den:
     - 6
   - - mika-enomoto
     - 6
-  - - shogo-okada
-    - 2
   - - yosuke-matsusaka
+    - 2
+  - - shogo-okada
     - 2
   first: Yasuharu
   full: Yasuharu Den
@@ -336,9 +336,9 @@ yasuhiro-katagiri:
     - 6
   - - yasuharu-den
     - 6
-  - - shogo-okada
-    - 2
   - - yosuke-matsusaka
+    - 2
+  - - shogo-okada
     - 2
   first: Yasuhiro
   full: Yasuhiro Katagiri
@@ -357,13 +357,13 @@ yasuhiro-katagiri:
     - 7
 yasunari-harada:
   coauthors:
-  - - miwa-morishita
-    - 1
   - - mayumi-kawamura
     - 1
   - - daisuke-yokomori
     - 1
   - - tomoko-endo
+    - 1
+  - - miwa-morishita
     - 1
   first: Yasunari
   full: Yasunari Harada
@@ -395,13 +395,17 @@ ye-tian:
   coauthors:
   - - jonathan-ginzburg
     - 3
-  - - volha-petukhova
-    - 1
   - - vladislav-maraev
     - 1
   - - staffan-larsson
     - 1
   - - jean-philippe-bernardy
+    - 1
+  - - volha-petukhova
+    - 1
+  - - claire-beyssade
+    - 1
+  - - yannick-mathieu
     - 1
   - - david-schlangen
     - 1
@@ -412,10 +416,6 @@ ye-tian:
   - - sam-green
     - 1
   - - caspar-addyman
-    - 1
-  - - claire-beyssade
-    - 1
-  - - yannick-mathieu
     - 1
   first: Ye
   full: Ye Tian
@@ -742,6 +742,21 @@ yoshihiro-ueda:
   papers: []
   slug: yoshihiro-ueda
   venues: []
+yoshihiro-yamazaki:
+  coauthors:
+  - - yuya-chiba
+    - 1
+  - - akinori-ito
+    - 1
+  first: Yoshihiro
+  full: Yoshihiro Yamazaki
+  last: Yamazaki
+  papers:
+  - Z21-3007
+  slug: yoshihiro-yamazaki
+  venues:
+  - - SEMDIAL
+    - 1
 yoshiyuki-kotani:
   coauthors: []
   first: Yoshiyuki
@@ -1084,6 +1099,21 @@ yutaka-mitsuishi:
   papers: []
   slug: yutaka-mitsuishi
   venues: []
+yuya-chiba:
+  coauthors:
+  - - yoshihiro-yamazaki
+    - 1
+  - - akinori-ito
+    - 1
+  first: Yuya
+  full: Yuya Chiba
+  last: Chiba
+  papers:
+  - Z21-3007
+  slug: yuya-chiba
+  venues:
+  - - SEMDIAL
+    - 1
 yves-lepage:
   coauthors: []
   first: Yves

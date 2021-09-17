@@ -446,13 +446,13 @@ sandra-katz:
   coauthors:
   - - pamela-jordan
     - 2
-  - - cynthia-kersey
-    - 1
-  - - barbara-di-eugenio1
-    - 1
   - - patricia-albacete
     - 1
   - - diane-litman
+    - 1
+  - - cynthia-kersey
+    - 1
+  - - barbara-di-eugenio
     - 1
   first: Sandra
   full: Sandra Katz
@@ -2018,11 +2018,11 @@ simon-dobnik:
     - 3
   - - christos-koniaris
     - 2
-  - - amelie-astbom
-    - 1
   - - sharid-loaiciga
     - 1
   - - jose-miguel-cano-santin
+    - 1
+  - - axel-storckenfeldt
     - 1
   - - magdalena-sandahl
     - 1
@@ -2030,20 +2030,23 @@ simon-dobnik:
     - 1
   - - robert-rhys-thomas
     - 1
-  - - axel-storckenfeldt
+  - - vera-silfversparre
     - 1
-  - - staffan-larsson
-    - 1
-  - - sebastian-berlin
+  - - amelie-astbom
     - 1
   - - christine-howes
     - 1
   - - erik-de-graaf
     - 1
+  - - staffan-larsson
+    - 1
+  - - sebastian-berlin
+    - 1
   first: Simon
   full: Simon Dobnik
   last: Dobnik
   papers:
+  - Z21-3008
   - Z20-4026
   - Z20-4028
   - Z19-4021
@@ -2061,7 +2064,7 @@ simon-dobnik:
   slug: simon-dobnik
   venues:
   - - SEMDIAL
-    - 14
+    - 15
 simon-dobrisek:
   coauthors: []
   first: Simon
@@ -2087,9 +2090,9 @@ simon-friedmann:
     - 1
 simon-keizer:
   coauthors:
-  - - verena-rieser
-    - 3
   - - oliver-lemon
+    - 3
+  - - verena-rieser
     - 3
   - - roser-morante
     - 1
@@ -2146,9 +2149,9 @@ simone-fuscone:
   coauthors:
   - - benoit-favre
     - 2
-  - - laurent-prvot
-    - 1
   - - laurent-pr-evot
+    - 1
+  - - laurent-prvot
     - 1
   first: Simone
   full: Simone Fuscone
@@ -2608,13 +2611,13 @@ srinivasan-janarthanam:
   coauthors:
   - - oliver-lemon
     - 4
-  - - mary-ellen-foster
+  - - helen-hastie
     - 2
   - - amol-deshmukh
     - 2
-  - - helen-hastie
-    - 2
   - - ruth-aylett
+    - 2
+  - - mary-ellen-foster
     - 2
   - - xingkun-liu
     - 1
@@ -2669,29 +2672,19 @@ staffan-larson:
     - 1
 staffan-larsson:
   coauthors:
+  - - christine-howes
+    - 2
+  - - bill-noble
+    - 2
+  - - asad-sayeed
+    - 2
+  - - jonathan-ginzburg
+    - 2
   - - fredrik-kronlid
     - 2
   - - sebastian-berlin
     - 2
-  - - christine-howes
-    - 2
-  - - jonathan-ginzburg
-    - 2
-  - - jenny-myrendal
-    - 1
-  - - pontus-warnestal
-    - 1
-  - - anders-eliasson
-    - 1
-  - - robin-cooper
-    - 1
-  - - jessica-villing
-    - 1
   - - anastasia-bondarenko
-    - 1
-  - - bill-noble
-    - 1
-  - - asad-sayeed
     - 1
   - - vladislav-maraev
     - 1
@@ -2699,7 +2692,19 @@ staffan-larsson:
     - 1
   - - jean-philippe-bernardy
     - 1
+  - - kate-viloria
+    - 1
+  - - robin-cooper
+    - 1
+  - - jessica-villing
+    - 1
+  - - pontus-warnestal
+    - 1
+  - - anders-eliasson
+    - 1
   - - sarah-brown-schmidt
+    - 1
+  - - jenny-myrendal
     - 1
   - - simon-dobnik
     - 1
@@ -2707,6 +2712,8 @@ staffan-larsson:
   full: Staffan Larsson
   last: Larsson
   papers:
+  - Z21-3011
+  - Z21-3016
   - Z20-3019
   - Z19-2002
   - Z19-3012
@@ -2726,7 +2733,7 @@ staffan-larsson:
   slug: staffan-larsson
   venues:
   - - SEMDIAL
-    - 16
+    - 18
 stan-c-kwasny:
   coauthors: []
   first: Stan C.
@@ -2849,14 +2856,12 @@ stefan-kopp:
   coauthors:
   - - hendrik-buschmeier
     - 3
-  - - iwan-de-kok
-    - 3
   - - julian-hough
+    - 3
+  - - iwan-de-kok
     - 3
   - - david-schlangen
     - 3
-  - - cornelia-frank
-    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
@@ -2867,10 +2872,13 @@ stefan-kopp:
     - 1
   - - malte-schilling
     - 1
+  - - cornelia-frank
+    - 1
   first: Stefan
   full: Stefan Kopp
   last: Kopp
   papers:
+  - Z21-2001
   - Z15-3013
   - Z15-4026
   - Z15-4045
@@ -2881,7 +2889,7 @@ stefan-kopp:
   slug: stefan-kopp
   venues:
   - - SEMDIAL
-    - 7
+    - 8
 stefan-l-frank:
   coauthors: []
   first: Stefan L.
@@ -2997,6 +3005,8 @@ stefan-ultes:
   coauthors:
   - - wolfgang-minker
     - 2
+  - - wolfgang-maier
+    - 1
   - - juliana-miehle
     - 1
   - - nadine-gerstenlauer
@@ -3013,12 +3023,13 @@ stefan-ultes:
   full: Stefan Ultes
   last: Ultes
   papers:
+  - Z21-4029
   - Z17-4024
   - Z15-4043
   slug: stefan-ultes
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 stefan-wagner:
   coauthors: []
   first: Stefan
@@ -3145,21 +3156,47 @@ stephane-rauzy:
   venues:
   - - SEMDIAL
     - 1
+stephanie-hernandez:
+  coauthors:
+  - - ron-artstein
+    - 1
+  first: Stephanie
+  full: Stephanie Hernandez
+  last: Hernandez
+  papers:
+  - Z21-4027
+  slug: stephanie-hernandez
+  venues:
+  - - SEMDIAL
+    - 1
 stephanie-lukin:
   coauthors:
   - - claire-bonial
-    - 1
+    - 2
   - - clare-voss
+    - 2
+  - - mitchell-abrams
+    - 1
+  - - anthony-l-baker
+    - 1
+  - - taylor-hudson
+    - 1
+  - - david-traum
     - 1
   first: Stephanie
   full: Stephanie Lukin
   last: Lukin
   papers:
+  - Z21-3006
   - Z20-2002
   slug: stephanie-lukin
+  variant_entries:
+  - first: Stephanie M.
+    full: Stephanie M. Lukin
+    last: Lukin
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 stephanie-s-everett:
   coauthors: []
   first: Stephanie S.
@@ -3224,9 +3261,9 @@ stephen-c-levinson1:
     - 1
   - - elma-hilbrink
     - 1
-  - - susan-c-bobb
+  - - susan-c-bobb1
     - 1
-  - - eve-v-clark
+  - - eve-v-clark1
     - 1
   - - merideth-gattis
     - 1
@@ -3757,11 +3794,26 @@ susan-armstrong:
   venues: []
 susan-c-bobb:
   coauthors:
+  - - marisa-tice
+    - 1
+  - - eve-v-clark
+    - 1
+  first: Susan C.
+  full: Susan C. Bobb
+  last: Bobb
+  papers:
+  - Z11-4039
+  slug: susan-c-bobb
+  venues:
+  - - SEMDIAL
+    - 1
+susan-c-bobb1:
+  coauthors:
   - - marisa-casillas
     - 1
   - - elma-hilbrink
     - 1
-  - - eve-v-clark
+  - - eve-v-clark1
     - 1
   - - merideth-gattis
     - 1
@@ -3772,21 +3824,6 @@ susan-c-bobb:
   last: C.~Bobb
   papers:
   - Z13-4023
-  slug: susan-c-bobb
-  venues:
-  - - SEMDIAL
-    - 1
-susan-c-bobb1:
-  coauthors:
-  - - marisa-tice
-    - 1
-  - - eve-v-clark1
-    - 1
-  first: Susan C.
-  full: Susan C. Bobb
-  last: Bobb
-  papers:
-  - Z11-4039
   slug: susan-c-bobb1
   venues:
   - - SEMDIAL

@@ -700,6 +700,21 @@ francesca-foppolo:
   venues:
   - - SEMDIAL
     - 1
+francesco-cutugno:
+  coauthors:
+  - - maria-di-maro
+    - 1
+  - - antonio-origlia
+    - 1
+  first: Francesco
+  full: Francesco Cutugno
+  last: Cutugno
+  papers:
+  - Z21-4030
+  slug: francesco-cutugno
+  venues:
+  - - SEMDIAL
+    - 1
 francesco-piazza:
   coauthors: []
   first: Francesco
@@ -826,7 +841,7 @@ franco-cutugno:
   coauthors:
   - - marco-valentino
     - 1
-  - - maria-di-maro
+  - - maria-di-maro1
     - 1
   first: Franco
   full: Franco Cutugno
@@ -1106,6 +1121,17 @@ fredy-a-amaya:
   papers: []
   slug: fredy-a-amaya
   venues: []
+friederike-buch:
+  coauthors: []
+  first: Friederike
+  full: Friederike Buch
+  last: Buch
+  papers:
+  - Z21-4021
+  slug: friederike-buch
+  venues:
+  - - SEMDIAL
+    - 1
 friedrich-dudda:
   coauthors: []
   first: Friedrich

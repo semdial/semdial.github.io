@@ -177,13 +177,13 @@ oliver-lemon:
     - 2
   - - xingkun-liu
     - 2
+  - - ioannis-efstathiou
+    - 2
   - - nina-dethlefs
     - 2
   - - heriberto-cuayahuitl1
     - 2
   - - helen-hastie
-    - 2
-  - - ioannis-efstathiou
     - 2
   - - ivan-v-meza-ruiz
     - 1
@@ -223,6 +223,8 @@ oliver-lemon:
     - 1
   - - arash-eshghi1
     - 1
+  - - heriberto-cuayahuitl
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -254,8 +256,6 @@ oliver-lemon:
   - - wenshuo-tang
     - 1
   - - zhuoran-wang
-    - 1
-  - - heriberto-cuayahuitl
     - 1
   first: Oliver
   full: Oliver Lemon

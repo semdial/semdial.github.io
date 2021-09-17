@@ -710,7 +710,7 @@ Z07-4032:
     last: Kersey
   - first: Barbara
     full: Barbara Di Eugenio
-    id: barbara-di-eugenio1
+    id: barbara-di-eugenio
     last: Di Eugenio
   - first: Pamela
     full: Pamela Jordan
@@ -913,7 +913,7 @@ Z07-4039:
     last: Subba
   - first: Barbara
     full: Barbara Di Eugenio
-    id: barbara-di-eugenio1
+    id: barbara-di-eugenio
     last: Di Eugenio
   bibkey: subba-di-eugenio-2007-automatic
   bibtype: inproceedings

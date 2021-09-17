@@ -429,27 +429,27 @@ casey-kennington:
   coauthors:
   - - david-schlangen
     - 4
-  - - pierre-lison
-    - 2
   - - daniele-moro
     - 2
   - - soledad-lopez-gambino
     - 2
-  - - daniel-kondratyuk
-    - 1
+  - - pierre-lison
+    - 2
   - - christine-howes
     - 1
   - - julian-hough
+    - 1
+  - - sina-zarriess
     - 1
   - - gerardo-caracas
     - 1
   - - david-mcneill
     - 1
-  - - sina-zarriess
-    - 1
-  - - spyros-kousidis
+  - - daniel-kondratyuk
     - 1
   - - ting-han
+    - 1
+  - - spyros-kousidis
     - 1
   first: Casey
   full: Casey Kennington
@@ -573,6 +573,21 @@ catherine-pelachaud:
   venues:
   - - SEMDIAL
     - 3
+cathy-ennis:
+  coauthors:
+  - - johanna-dobbriner
+    - 1
+  - - robert-ross
+    - 1
+  first: Cathy
+  full: Cathy Ennis
+  last: Ennis
+  papers:
+  - Z21-4025
+  slug: cathy-ennis
+  venues:
+  - - SEMDIAL
+    - 1
 catia-cucchiarini:
   coauthors: []
   first: Catia
@@ -1093,14 +1108,16 @@ chiara-gambi:
 chiara-mazzocconi:
   coauthors:
   - - vladislav-maraev
+    - 3
+  - - christine-howes
     - 2
   - - jonathan-ginzburg
     - 2
   - - arash-eshghi
     - 1
-  - - christine-howes
-    - 1
   - - julian-hough
+    - 1
+  - - bill-noble
     - 1
   - - ye-tian1
     - 1
@@ -1114,6 +1131,7 @@ chiara-mazzocconi:
   full: Chiara Mazzocconi
   last: Mazzocconi
   papers:
+  - Z21-3015
   - Z19-4034
   - Z18-3005
   - Z16-3014
@@ -1121,7 +1139,7 @@ chiara-mazzocconi:
   slug: chiara-mazzocconi
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 chih-lung-lin:
   coauthors: []
   first: Chih-Lung
@@ -1213,20 +1231,23 @@ chiwei-che:
 chloe-clavel:
   coauthors:
   - - tanvi-dinkar
-    - 1
+    - 2
   - - ioana-vasilescu
     - 1
   - - catherine-pelachaud
+    - 1
+  - - beatrice-biancardi
     - 1
   first: "Chlo\xE9"
   full: "Chlo\xE9 Clavel"
   last: Clavel
   papers:
+  - Z21-4024
   - Z18-4024
   slug: chloe-clavel
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 chloe-kiddon:
   coauthors: []
   first: "Chlo\xE9"
@@ -1303,15 +1324,15 @@ chris-cummins:
   coauthors:
   - - hannah-rohde
     - 2
+  - - alexandra-lorson
+    - 1
+  - - j-p-de-ruiter
+    - 1
   - - ernisa-marzuki
     - 1
   - - gareth-clegg
     - 1
   - - holly-branigan
-    - 1
-  - - alexandra-lorson
-    - 1
-  - - j-p-de-ruiter
     - 1
   first: Chris
   full: Chris Cummins
@@ -1591,43 +1612,43 @@ christine-howes:
   coauthors:
   - - julian-hough
     - 5
+  - - ellen-breitholtz
+    - 5
   - - eleni-gregoromichelaki
     - 4
-  - - ruth-kempson
-    - 3
   - - arash-eshghi
+    - 3
+  - - ruth-kempson
     - 3
   - - matthew-purver
     - 3
-  - - andrew-gargett
-    - 2
-  - - matt-purver
-    - 2
+  - - vladislav-maraev
+    - 3
   - - staffan-larsson
     - 2
   - - mehrnoosh-sadrzadeh
     - 2
-  - - ellen-breitholtz
+  - - chiara-mazzocconi
+    - 2
+  - - andrew-gargett
+    - 2
+  - - mary-lavelle
+    - 2
+  - - matt-purver
     - 2
   - - rose-mccabe
     - 2
-  - - yo-sato
-    - 1
-  - - greg-mills
-    - 1
   - - casey-kennington
     - 1
   - - anastasia-bondarenko
     - 1
   - - gijs-wijnholds
     - 1
-  - - vladislav-maraev
-    - 1
-  - - chiara-mazzocconi
-    - 1
   - - vidya-somashekarappa
     - 1
   - - asad-sayeed
+    - 1
+  - - yo-sato
     - 1
   - - stergios-chatzikyriakidis
     - 1
@@ -1635,9 +1656,17 @@ christine-howes:
     - 1
   - - graham-white
     - 1
-  - - patrick-healey
+  - - robin-cooper
     - 1
-  - - mary-lavelle
+  - - denis-ioussef
+    - 1
+  - - bill-noble
+    - 1
+  - - ebba-axelsson-nord
+    - 1
+  - - greg-mills
+    - 1
+  - - patrick-healey
     - 1
   - - simon-dobnik
     - 1
@@ -1647,6 +1676,10 @@ christine-howes:
   full: Christine Howes
   last: Howes
   papers:
+  - Z21-3009
+  - Z21-3010
+  - Z21-3015
+  - Z21-4020
   - Z20-3018
   - Z20-3022
   - Z19-1000
@@ -1664,7 +1697,7 @@ christine-howes:
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 14
+    - 18
 christine-piatko:
   coauthors: []
   first: Christine
@@ -2094,18 +2127,27 @@ claire-beyssade:
 claire-bonial:
   coauthors:
   - - stephanie-lukin
-    - 1
+    - 2
   - - clare-voss
+    - 2
+  - - mitchell-abrams
+    - 1
+  - - anthony-l-baker
+    - 1
+  - - taylor-hudson
+    - 1
+  - - david-traum
     - 1
   first: Claire
   full: Claire Bonial
   last: Bonial
   papers:
+  - Z21-3006
   - Z20-2002
   slug: claire-bonial
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 claire-cardie:
   coauthors: []
   first: Claire
@@ -2173,13 +2215,22 @@ clara-pozzi:
 clare-voss:
   coauthors:
   - - claire-bonial
-    - 1
+    - 2
   - - stephanie-lukin
+    - 2
+  - - mitchell-abrams
+    - 1
+  - - anthony-l-baker
+    - 1
+  - - taylor-hudson
+    - 1
+  - - david-traum
     - 1
   first: Clare
   full: Clare Voss
   last: Voss
   papers:
+  - Z21-3006
   - Z20-2002
   slug: clare-voss
   variant_entries:
@@ -2188,7 +2239,7 @@ clare-voss:
     last: Voss
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 claude-barras:
   coauthors: []
   first: Claude
@@ -2516,7 +2567,7 @@ curry-i-guinn:
   venues: []
 cynthia-kersey:
   coauthors:
-  - - barbara-di-eugenio1
+  - - barbara-di-eugenio
     - 1
   - - pamela-jordan
     - 1
