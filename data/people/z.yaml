@@ -225,6 +225,23 @@ zhuoran-wang:
   venues:
   - - SEMDIAL
     - 3
+zihan-xu:
+  coauthors:
+  - - charlie-hallart
+    - 1
+  - - morgane-peirolo
+    - 1
+  - - abdellah-fourtassi
+    - 1
+  first: Zihan
+  full: Zihan Xu
+  last: Xu
+  papers:
+  - Z22-4039
+  slug: zihan-xu
+  venues:
+  - - SEMDIAL
+    - 1
 ziortza-polin:
   coauthors: []
   first: Ziortza
@@ -250,6 +267,21 @@ zoe-falomir:
   venues:
   - - SEMDIAL
     - 1
+zohreh-khosrobeigi:
+  coauthors:
+  - - maria-koutsombogera
+    - 1
+  - - carl-vogel
+    - 1
+  first: Zohreh
+  full: Zohreh Khosrobeigi
+  last: Khosrobeigi
+  papers:
+  - Z22-3019
+  slug: zohreh-khosrobeigi
+  venues:
+  - - SEMDIAL
+    - 1
 zoltan-alexin:
   coauthors: []
   first: "Zolt\xE1n"
@@ -258,6 +290,19 @@ zoltan-alexin:
   papers: []
   slug: zoltan-alexin
   venues: []
+zoran-macura:
+  coauthors:
+  - - jonathan-ginzburg
+    - 1
+  first: Zoran
+  full: Zoran Macura
+  last: Macura
+  papers:
+  - Z06-3019
+  slug: zoran-macura
+  venues:
+  - - SEMDIAL
+    - 1
 zoya-m-shalyapina:
   coauthors: []
   first: Zoya M.
@@ -266,6 +311,21 @@ zoya-m-shalyapina:
   papers: []
   slug: zoya-m-shalyapina
   venues: []
+zulipiye-yusupujiang:
+  coauthors:
+  - - alafate-abulimiti
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Zulipiye
+  full: Zulipiye Yusupujiang
+  last: Yusupujiang
+  papers:
+  - Z22-3009
+  slug: zulipiye-yusupujiang
+  venues:
+  - - SEMDIAL
+    - 1
 zuzana-fraterova:
   coauthors: []
   first: Zuzana

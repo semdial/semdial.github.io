@@ -145,6 +145,25 @@ olawunmi-oni-buraimoh:
   venues:
   - - SEMDIAL
     - 1
+olga-gerassimenko:
+  coauthors:
+  - - tiit-hennoste
+    - 1
+  - - mare-koit
+    - 1
+  - - andriela-raabis
+    - 1
+  - - maret-valdisoo
+    - 1
+  first: Olga
+  full: Olga Gerassimenko
+  last: Gerassimenko
+  papers:
+  - Z04-4026
+  slug: olga-gerassimenko
+  venues:
+  - - SEMDIAL
+    - 1
 olga-n-lashevskaja:
   coauthors: []
   first: Olga N.
@@ -171,23 +190,31 @@ oliver-lemon:
     - 5
   - - srinivasan-janarthanam
     - 4
+  - - xingkun-liu
+    - 3
   - - simon-keizer
     - 3
+  - - kallirroi-georgila
+    - 2
   - - igor-shalyminov
     - 2
-  - - xingkun-liu
-    - 2
-  - - ioannis-efstathiou
+  - - james-henderson
     - 2
   - - nina-dethlefs
     - 2
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 2
   - - helen-hastie
+    - 2
+  - - ioannis-efstathiou
     - 2
   - - ivan-v-meza-ruiz
     - 1
   - - sebastian-riedel
+    - 1
+  - - daniel-shapiro
+    - 1
+  - - carl-tollander
     - 1
   - - phil-bartie
     - 1
@@ -221,10 +248,6 @@ oliver-lemon:
     - 1
   - - laure-vieu
     - 1
-  - - arash-eshghi1
-    - 1
-  - - heriberto-cuayahuitl
-    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -234,8 +257,6 @@ oliver-lemon:
   - - milica-gasic
     - 1
   - - almudena-gonzalez-guimerans
-    - 1
-  - - james-henderson
     - 1
   - - peter-mika
     - 1
@@ -256,6 +277,10 @@ oliver-lemon:
   - - wenshuo-tang
     - 1
   - - zhuoran-wang
+    - 1
+  - - heriberto-cuayahuitl1
+    - 1
+  - - arash-eshghi1
     - 1
   first: Oliver
   full: Oliver Lemon
@@ -282,10 +307,14 @@ oliver-lemon:
   - Z08-3011
   - Z08-4025
   - Z08-4032
+  - Z06-4035
+  - Z06-4044
+  - Z05-4011
+  - Z04-3010
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 21
+    - 25
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.
@@ -435,6 +464,19 @@ orphee-de-clercq:
   papers: []
   slug: orphee-de-clercq
   venues: []
+osama-natouf:
+  coauthors:
+  - - casey-kennington
+    - 1
+  first: Osama
+  full: Osama Natouf
+  last: Natouf
+  papers:
+  - Z22-3010
+  slug: osama-natouf
+  venues:
+  - - SEMDIAL
+    - 1
 osamu-furuse:
   coauthors: []
   first: Osamu

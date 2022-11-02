@@ -30,6 +30,21 @@ wai-lok-tam:
   papers: []
   slug: wai-lok-tam
   venues: []
+walid-magdy:
+  coauthors:
+  - - fatemeh-samadzadeh-tarighat
+    - 1
+  - - martin-corley
+    - 1
+  first: Walid
+  full: Walid Magdy
+  last: Magdy
+  papers:
+  - Z22-4023
+  slug: walid-magdy
+  venues:
+  - - SEMDIAL
+    - 1
 walter-daelemans:
   coauthors: []
   first: Walter
@@ -458,13 +473,22 @@ william-byrne:
   slug: william-byrne
   venues: []
 william-c-mann:
-  coauthors: []
+  coauthors:
+  - - jorn-kreutel
+    - 1
   first: William C.
   full: William C. Mann
   last: Mann
-  papers: []
+  papers:
+  - Z04-3012
   slug: william-c-mann
-  venues: []
+  variant_entries:
+  - first: William
+    full: William Mann
+    last: Mann
+  venues:
+  - - SEMDIAL
+    - 1
 william-c-ogden:
   coauthors: []
   first: William C.
@@ -667,34 +691,40 @@ wolfgang-klein:
   venues: []
 wolfgang-maier:
   coauthors:
+  - - stefan-ultes
+    - 3
+  - - wolfgang-minker
+    - 3
+  - - ye-liu
+    - 2
   - - patricia-kittel
     - 1
   - - maria-schmidt
     - 1
-  - - wolfgang-minker
-    - 1
-  - - stefan-ultes
+  - - yung-ching-yang
     - 1
   first: Wolfgang
   full: Wolfgang Maier
   last: Maier
   papers:
+  - Z22-4024
+  - Z22-4034
   - Z21-4029
   - Z18-3020
   slug: wolfgang-maier
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 wolfgang-minker:
   coauthors:
   - - stefan-ultes
-    - 2
-  - - patricia-kittel
-    - 1
+    - 6
   - - wolfgang-maier
-    - 1
-  - - maria-schmidt
-    - 1
+    - 3
+  - - ye-liu
+    - 2
+  - - annalena-aicher
+    - 2
   - - daniela-stier
     - 1
   - - ulrich-heid
@@ -707,6 +737,18 @@ wolfgang-minker:
     - 1
   - - hubertus-feussner
     - 1
+  - - patricia-kittel
+    - 1
+  - - maria-schmidt
+    - 1
+  - - stefan-hillmann
+    - 1
+  - - thilo-michael
+    - 1
+  - - sebastian-moller
+    - 1
+  - - yung-ching-yang
+    - 1
   - - louisa-pragst
     - 1
   - - matthias-kraus
@@ -715,6 +757,10 @@ wolfgang-minker:
   full: Wolfgang Minker
   last: Minker
   papers:
+  - Z22-4024
+  - Z22-4030
+  - Z22-4034
+  - Z22-4040
   - Z20-4025
   - Z18-3020
   - Z17-4024
@@ -722,7 +768,7 @@ wolfgang-minker:
   slug: wolfgang-minker
   venues:
   - - SEMDIAL
-    - 4
+    - 8
 wolfgang-wahlster:
   coauthors: []
   first: Wolfgang

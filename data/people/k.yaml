@@ -74,7 +74,7 @@ kai:
   coauthors:
   - - nina-dethlefs
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - florian-richter
     - 1
@@ -152,31 +152,49 @@ kalliopi-zervanou:
   venues: []
 kallirroi-georgila:
   coauthors:
+  - - oliver-lemon
+    - 2
   - - carla-gordon
     - 2
   - - david-traum
     - 2
-  - - volodymyr-yanov
+  - - ellen-breitholtz
+    - 1
+  - - david-schlangen
+    - 1
+  - - ron-artstein
+    - 1
+  - - mark-g-core
+    - 1
+  - - david-devault
+    - 1
+  - - elsi-kaiser
+    - 1
+  - - amanda-stent
     - 1
   - - hyungtak-choi
     - 1
   - - jill-boberg
     - 1
-  - - ellen-breitholtz
+  - - james-henderson
     - 1
-  - - david-schlangen
+  - - volodymyr-yanov
     - 1
   first: Kallirroi
   full: Kallirroi Georgila
   last: Georgila
   papers:
+  - Z22-3011
   - Z21-1000
   - Z19-4024
   - Z18-3010
+  - Z11-1000
+  - Z06-4035
+  - Z05-4011
   slug: kallirroi-georgila
   venues:
   - - SEMDIAL
-    - 3
+    - 7
 kam-fai-wong:
   coauthors: []
   first: Kam-Fai
@@ -334,6 +352,21 @@ karine-baschung:
   papers: []
   slug: karine-baschung
   venues: []
+karla-friedrichs:
+  coauthors:
+  - - jana-gotze1
+    - 1
+  - - david-schlangen
+    - 1
+  first: Karla
+  full: Karla Friedrichs
+  last: Friedrichs
+  papers:
+  - Z22-3015
+  slug: karla-friedrichs
+  venues:
+  - - SEMDIAL
+    - 1
 karmele-lopez-de-ipina:
   coauthors: []
   first: Karmele
@@ -342,6 +375,17 @@ karmele-lopez-de-ipina:
   papers: []
   slug: karmele-lopez-de-ipina
   venues: []
+karolina-eliasson:
+  coauthors: []
+  first: Karolina
+  full: Karolina Eliasson
+  last: Eliasson
+  papers:
+  - Z05-3007
+  slug: karolina-eliasson
+  venues:
+  - - SEMDIAL
+    - 1
 karoly-fabricz:
   coauthors: []
   first: Karoly
@@ -379,11 +423,12 @@ kata-balogh:
   full: Kata Balogh
   last: Balogh
   papers:
+  - Z22-3021
   - Z16-4016
   slug: kata-balogh
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 katalin-ilona-simko:
   coauthors: []
   first: Katalin Ilona
@@ -639,6 +684,17 @@ kavi-mahesh:
   papers: []
   slug: kavi-mahesh
   venues: []
+kavita-e-thomas:
+  coauthors: []
+  first: Kavita E.
+  full: Kavita E. Thomas
+  last: Thomas
+  papers:
+  - Z06-3006
+  slug: kavita-e-thomas
+  venues:
+  - - SEMDIAL
+    - 1
 kavosh-asadi-atui:
   coauthors: []
   first: Kavosh
@@ -906,6 +962,31 @@ kenji-hanakata:
   papers: []
   slug: kenji-hanakata
   venues: []
+kenji-mase:
+  coauthors:
+  - - ichiro-umata
+    - 1
+  - - sadanori-ito
+    - 1
+  - - shoichiro-iwasawa
+    - 1
+  - - noriko-suzuki
+    - 1
+  - - tomoji-toriyama
+    - 1
+  - - naomi-inoue
+    - 1
+  - - kiyoshi-kogure
+    - 1
+  first: Kenji
+  full: Kenji Mase
+  last: Mase
+  papers:
+  - Z06-4036
+  slug: kenji-mase
+  venues:
+  - - SEMDIAL
+    - 1
 kenneth-church:
   coauthors: []
   first: Kenneth
@@ -1042,13 +1123,22 @@ kentaro-torisawa:
   slug: kentaro-torisawa
   venues: []
 kepa-joseba-rodriguez:
-  coauthors: []
+  coauthors:
+  - - david-schlangen
+    - 1
   first: Kepa Joseba
   full: Kepa Joseba Rodriguez
   last: Rodriguez
-  papers: []
+  papers:
+  - Z04-3017
   slug: kepa-joseba-rodriguez
-  venues: []
+  variant_entries:
+  - first: Kepa Joseba
+    full: "Kepa Joseba Rodr\xEDguez"
+    last: "Rodr\xEDguez"
+  venues:
+  - - SEMDIAL
+    - 1
 kepa-joseba-rodriguez1:
   coauthors:
   - - christian-raymond
@@ -1074,6 +1164,21 @@ kepa-sarasola:
   papers: []
   slug: kepa-sarasola
   venues: []
+kerstin-fischer:
+  coauthors:
+  - - thora-tenbrink
+    - 1
+  - - shi-hui
+    - 1
+  first: Kerstin
+  full: Kerstin Fischer
+  last: Fischer
+  papers:
+  - Z06-4026
+  slug: kerstin-fischer
+  venues:
+  - - SEMDIAL
+    - 1
 kerstin-kunz:
   coauthors: []
   first: Kerstin
@@ -1283,6 +1388,36 @@ kiril-simov:
   papers: []
   slug: kiril-simov
   venues: []
+kirsten-bergmann:
+  coauthors:
+  - - stefan-kopp
+    - 1
+  first: Kirsten
+  full: Kirsten Bergmann
+  last: Bergmann
+  papers:
+  - Z06-3016
+  slug: kirsten-bergmann
+  venues:
+  - - SEMDIAL
+    - 1
+kirsten-hadelich:
+  coauthors:
+  - - holly-branigan
+    - 1
+  - - martin-pickering
+    - 1
+  - - matthew-crocker
+    - 1
+  first: Kirsten
+  full: Kirsten Hadelich
+  last: Hadelich
+  papers:
+  - Z04-3008
+  slug: kirsten-hadelich
+  venues:
+  - - SEMDIAL
+    - 1
 kiyohiro-shikano:
   coauthors: []
   first: Kiyohiro
@@ -1292,13 +1427,30 @@ kiyohiro-shikano:
   slug: kiyohiro-shikano
   venues: []
 kiyoshi-kogure:
-  coauthors: []
+  coauthors:
+  - - ichiro-umata
+    - 1
+  - - sadanori-ito
+    - 1
+  - - shoichiro-iwasawa
+    - 1
+  - - noriko-suzuki
+    - 1
+  - - tomoji-toriyama
+    - 1
+  - - naomi-inoue
+    - 1
+  - - kenji-mase
+    - 1
   first: Kiyoshi
   full: Kiyoshi Kogure
   last: Kogure
-  papers: []
+  papers:
+  - Z06-4036
   slug: kiyoshi-kogure
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 kiyoshi-yamabana:
   coauthors: []
   first: Kiyoshi

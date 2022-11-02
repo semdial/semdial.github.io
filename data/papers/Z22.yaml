@@ -1,0 +1,1176 @@
+Z22-1000:
+  address: Dublin, Ireland
+  author:
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  bibkey: semdial-2022-semantics
+  bibtype: proceedings
+  month: August
+  paper_id: '1000'
+  parent_volume_id: Z22-1
+  publisher: SEMDIAL
+  title: Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2022_dubdial_front_matter.pdf
+  year: '2022'
+Z22-2001:
+  address: Dublin, Ireland
+  author:
+  - first: Joanna
+    full: "Joanna Ra\u0328czaszek-Leonardi"
+    id: joanna-raczaszek-leonardi
+    last: "Ra\u0328czaszek-Leonardi"
+  bibkey: raczaszek-leonardi-2022-early
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2001'
+  parent_volume_id: Z22-2
+  publisher: SEMDIAL
+  title: 'Early interaction: language ungrounding and grounding in dialogue'
+  title_html: 'Early interaction: language ungrounding and grounding in dialogue'
+  url: "http://semdial.org/anthology/Z22-Ra\u0328czaszek-Leonardi_semdial_0001.pdf"
+  year: '2022'
+Z22-2002:
+  address: Dublin, Ireland
+  author:
+  - first: Mark H.
+    full: Mark H. Bickhard
+    id: mark-h-bickhard
+    last: Bickhard
+  bibkey: bickhard-2022-language
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2002'
+  parent_volume_id: Z22-2
+  publisher: SEMDIAL
+  title: Language as an (Inter-)Action System
+  title_html: Language as an (Inter-)Action System
+  url: http://semdial.org/anthology/Z22-Bickhard_semdial_0002.pdf
+  year: '2022'
+Z22-2003:
+  address: Dublin, Ireland
+  author:
+  - first: Yvette
+    full: Yvette Graham
+    id: yvette-graham
+    last: Graham
+  bibkey: graham-2022-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2003'
+  parent_volume_id: Z22-2
+  publisher: SEMDIAL
+  title: Towards better dialogue system evaluation
+  title_html: Towards better dialogue system evaluation
+  url: http://semdial.org/anthology/Z22-Graham_semdial_0003.pdf
+  year: '2022'
+Z22-3004:
+  address: Dublin, Ireland
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  bibkey: ginzburg-lucking-2022-integrated
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3004'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: 'The Integrated Model of Memory: a dialogical perspective'
+  title_html: 'The Integrated Model of Memory: a dialogical perspective'
+  url: http://semdial.org/anthology/Z22-Ginzburg_semdial_0004.pdf
+  year: '2022'
+Z22-3005:
+  address: Dublin, Ireland
+  author:
+  - first: Thomas
+    full: Thomas Misiek
+    id: thomas-misiek
+    last: Misiek
+  - first: Abdellah
+    full: Abdellah Fourtassi
+    id: abdellah-fourtassi
+    last: Fourtassi
+  bibkey: misiek-fourtassi-2022-caregivers
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3005'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: Caregivers Exaggerate Their Lexical Alignment to Young Children Across Several
+    Cultures
+  title_html: Caregivers Exaggerate Their Lexical Alignment to Young Children Across
+    Several Cultures
+  url: http://semdial.org/anthology/Z22-Misiek_semdial_0005.pdf
+  year: '2022'
+Z22-3006:
+  address: Dublin, Ireland
+  author:
+  - first: Andrea
+    full: "Andrea Carri\xF3n Del Fresno"
+    id: andrea-carrion-del-fresno
+    last: "Carri\xF3n Del Fresno"
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: carrion-del-fresno-etal-2022-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3006'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: "Dialogue strategies for... c\xF3mo se dice entrenamiento de vocabulario?"
+  title_html: "Dialogue strategies for... c\xF3mo se dice entrenamiento de vocabulario?"
+  url: "http://semdial.org/anthology/Z22-Carri\xF3n-Del-Fresno_semdial_0006.pdf"
+  year: '2022'
+Z22-3007:
+  address: Dublin, Ireland
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: lucking-ginzburg-2022-repair
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3007'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: How to repair a slip of the tongue?
+  title_html: How to repair a slip of the tongue?
+  url: "http://semdial.org/anthology/Z22-L\xFCcking_semdial_0007.pdf"
+  year: '2022'
+Z22-3008:
+  address: Dublin, Ireland
+  author:
+  - first: John
+    full: John Duff
+    id: john-duff
+    last: Duff
+  - first: Lalitha
+    full: Lalitha Balachandran
+    id: lalitha-balachandran
+    last: Balachandran
+  bibkey: duff-balachandran-2022-participants
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3008'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: 'Participants seek shared outlooks in non-canonical disagreements: Evidence
+    from a corpus of dyadic conversation in English'
+  title_html: 'Participants seek shared outlooks in non-canonical disagreements: Evidence
+    from a corpus of dyadic conversation in English'
+  url: http://semdial.org/anthology/Z22-Duff_semdial_0008.pdf
+  year: '2022'
+Z22-3009:
+  address: Dublin, Ireland
+  author:
+  - first: Zulipiye
+    full: Zulipiye Yusupujiang
+    id: zulipiye-yusupujiang
+    last: Yusupujiang
+  - first: Alafate
+    full: Alafate Abulimiti
+    id: alafate-abulimiti
+    last: Abulimiti
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: yusupujiang-etal-2022-classifying
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3009'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: 'Classifying the Response Space of Questions: A Machine Learning Approach'
+  title_html: 'Classifying the Response Space of Questions: A Machine Learning Approach'
+  url: http://semdial.org/anthology/Z22-Yusupujiang_semdial_0009.pdf
+  year: '2022'
+Z22-3010:
+  address: Dublin, Ireland
+  author:
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  - first: Osama
+    full: Osama Natouf
+    id: osama-natouf
+    last: Natouf
+  bibkey: kennington-natouf-2022-symbol
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3010'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: The Symbol Grounding Problem Re-framed as Concreteness-Abstractness Learned
+    through Spoken Interaction
+  title_html: The Symbol Grounding Problem Re-framed as Concreteness-Abstractness
+    Learned through Spoken Interaction
+  url: http://semdial.org/anthology/Z22-Kennington_semdial_0010.pdf
+  year: '2022'
+Z22-3011:
+  address: Dublin, Ireland
+  author:
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  bibkey: georgila-2022-comparing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3011'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: Comparing Regression Methods for Dialogue System Evaluation on a Richly Annotated
+    Corpus
+  title_html: Comparing Regression Methods for Dialogue System Evaluation on a Richly
+    Annotated Corpus
+  url: http://semdial.org/anthology/Z22-Georgila_semdial_0011.pdf
+  year: '2022'
+Z22-3012:
+  address: Dublin, Ireland
+  author:
+  - first: Manfred
+    full: Manfred Krifka
+    id: manfred-krifka
+    last: Krifka
+  bibkey: krifka-2022-adjacency
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3012'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: 'Adjacency Pairs in Common Ground Update: Assertions, Questions, Greetings,
+    Offers, Commands'
+  title_html: 'Adjacency Pairs in Common Ground Update: Assertions, Questions, Greetings,
+    Offers, Commands'
+  url: http://semdial.org/anthology/Z22-Krifka_semdial_0012.pdf
+  year: '2022'
+Z22-3013:
+  address: Dublin, Ireland
+  author:
+  - first: Jean-Philippe
+    full: Jean-Philippe Bernardy
+    id: jean-philippe-bernardy
+    last: Bernardy
+  - first: Julian
+    full: Julian Grove
+    id: julian-grove
+    last: Grove
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: bernardy-etal-2022-rational
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3013'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: Rational Speech Act models are utterance-independent updates of world priors
+  title_html: Rational Speech Act models are utterance-independent updates of world
+    priors
+  url: http://semdial.org/anthology/Z22-Bernardy_semdial_0013.pdf
+  year: '2022'
+Z22-3014:
+  address: Dublin, Ireland
+  author:
+  - first: Maximilian
+    full: Maximilian Zachrau
+    id: maximilian-zachrau
+    last: Zachrau
+  bibkey: zachrau-2022-relationality
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3014'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: 'Relationality is Not Enough: The Organization of Dynamic Structures'
+  title_html: 'Relationality is Not Enough: The Organization of Dynamic Structures'
+  url: http://semdial.org/anthology/Z22-Zachrau_semdial_0014.pdf
+  year: '2022'
+Z22-3015:
+  address: Dublin, Ireland
+  author:
+  - first: Jana
+    full: "Jana Go\u0308tze"
+    id: jana-gotze1
+    last: "Go\u0308tze"
+  - first: Karla
+    full: Karla Friedrichs
+    id: karla-friedrichs
+    last: Friedrichs
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: gotze-etal-2022-interactive
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3015'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: 'Interactive and Cooperative Delivery of Referring Expressions: A Comparison
+    of Three Algorithms'
+  title_html: 'Interactive and Cooperative Delivery of Referring Expressions: A Comparison
+    of Three Algorithms'
+  url: "http://semdial.org/anthology/Z22-Go\u0308tze_semdial_0015.pdf"
+  year: '2022'
+Z22-3016:
+  address: Dublin, Ireland
+  author:
+  - first: Mert
+    full: Mert Inan
+    id: mert-inan
+    last: Inan
+  - first: Malihe
+    full: Malihe Alikhani
+    id: malihe-alikhani
+    last: Alikhani
+  bibkey: inan-alikhani-2022-grounding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3016'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: Grounding Novel Utterances in Visual Dialogue
+  title_html: Grounding Novel Utterances in Visual Dialogue
+  url: http://semdial.org/anthology/Z22-Inan_semdial_0016.pdf
+  year: '2022'
+Z22-3017:
+  address: Dublin, Ireland
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Aram
+    full: Aram Karimi
+    id: aram-karimi
+    last: Karimi
+  bibkey: dobnik-etal-2022-refer
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3017'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: What to refer to and when? Reference and re-reference in two language-and-vision
+    tasks
+  title_html: What to refer to and when? Reference and re-reference in two language-and-vision
+    tasks
+  url: http://semdial.org/anthology/Z22-Dobnik_semdial_0017.pdf
+  year: '2022'
+Z22-3018:
+  address: Dublin, Ireland
+  author:
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Gregory
+    full: Gregory Mills
+    id: gregory-mills
+    last: Mills
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Patrick
+    full: Patrick Healey
+    id: patrick-healey
+    last: Healey
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: gregoromichelaki-etal-2022-language
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3018'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: Language and Cognition as Distributed Process and Interactions
+  title_html: Language and Cognition as Distributed Process and Interactions
+  url: http://semdial.org/anthology/Z22-Gregoromichelaki_semdial_0018.pdf
+  year: '2022'
+Z22-3019:
+  address: Dublin, Ireland
+  author:
+  - first: Zohreh
+    full: Zohreh Khosrobeigi
+    id: zohreh-khosrobeigi
+    last: Khosrobeigi
+  - first: Maria
+    full: Maria Koutsombogera
+    id: maria-koutsombogera
+    last: Koutsombogera
+  - first: Carl
+    full: Carl Vogel
+    id: carl-vogel
+    last: Vogel
+  bibkey: khosrobeigi-etal-2022-gesture
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3019'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: Gesture and Part-of-Speech Alignment in Dialogues
+  title_html: Gesture and Part-of-Speech Alignment in Dialogues
+  url: http://semdial.org/anthology/Z22-Khosrobeigi_semdial_0019.pdf
+  year: '2022'
+Z22-3020:
+  address: Dublin, Ireland
+  author:
+  - first: Bill
+    full: Bill Noble
+    id: bill-noble
+    last: Noble
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  bibkey: noble-etal-2022-coordinating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3020'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: 'Coordinating taxonomical and observational meaning: The case of genus-differentia
+    definitions'
+  title_html: 'Coordinating taxonomical and observational meaning: The case of genus-differentia
+    definitions'
+  url: http://semdial.org/anthology/Z22-Noble_semdial_0020.pdf
+  year: '2022'
+Z22-3021:
+  address: Dublin, Ireland
+  author:
+  - first: Kata
+    full: Kata Balogh
+    id: kata-balogh
+    last: Balogh
+  bibkey: balogh-2022-focus
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3021'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: Focus negation in formal grammar
+  title_html: Focus negation in formal grammar
+  url: http://semdial.org/anthology/Z22-Balogh_semdial_0021.pdf
+  year: '2022'
+Z22-3022:
+  address: Dublin, Ireland
+  author:
+  - first: Rui
+    full: Rui Marques
+    id: rui-marques
+    last: Marques
+  bibkey: marques-2022-conversation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3022'
+  parent_volume_id: Z22-3
+  publisher: SEMDIAL
+  title: Conversation and mood in European Portuguese
+  title_html: Conversation and mood in European Portuguese
+  url: http://semdial.org/anthology/Z22-Marques_semdial_0022.pdf
+  year: '2022'
+Z22-4023:
+  address: Dublin, Ireland
+  author:
+  - first: Fatemeh Samadzadeh
+    full: Fatemeh Samadzadeh Tarighat
+    id: fatemeh-samadzadeh-tarighat
+    last: Tarighat
+  - first: Walid
+    full: Walid Magdy
+    id: walid-magdy
+    last: Magdy
+  - first: Martin
+    full: Martin Corley
+    id: martin-corley
+    last: Corley
+  bibkey: tarighat-etal-2022-understanding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4023'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: 'Understanding Fillers May Facilitate Automatic Sarcasm Comprehension: A
+    Structural Analysis of Twitter Data and a Participant Study'
+  title_html: 'Understanding Fillers May Facilitate Automatic Sarcasm Comprehension:
+    A Structural Analysis of Twitter Data and a Participant Study'
+  url: http://semdial.org/anthology/Z22-Tarighat_semdial_0023.pdf
+  year: '2022'
+Z22-4024:
+  address: Dublin, Ireland
+  author:
+  - first: Ye
+    full: Ye Liu
+    id: ye-liu
+    last: Liu
+  - first: Wolfgang
+    full: Wolfgang Maier
+    id: wolfgang-maier
+    last: Maier
+  - first: Wolfgang
+    full: Wolfgang Minker
+    id: wolfgang-minker
+    last: Minker
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  bibkey: liu-etal-2022-conceptnet
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4024'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: ConceptNet infused DialoGPT for Underlying Commonsense Understanding and
+    Reasoning in Dialogue Response Generation
+  title_html: ConceptNet infused DialoGPT for Underlying Commonsense Understanding
+    and Reasoning in Dialogue Response Generation
+  url: http://semdial.org/anthology/Z22-Liu_semdial_0024.pdf
+  year: '2022'
+Z22-4025:
+  address: Dublin, Ireland
+  author:
+  - first: Eline Borch
+    full: Eline Borch Petersen
+    id: eline-borch-petersen
+    last: Petersen
+  - first: Els
+    full: Els Walravens
+    id: els-walravens
+    last: Walravens
+  - first: Anja Kofoed
+    full: Anja Kofoed Pedersen.
+    id: anja-kofoed-pedersen
+    last: Pedersen.
+  bibkey: petersen-etal-2022-real
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4025'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: 'Real-life Listening in the Lab: Does Wearing Hearing Aids Affect the Dynamics
+    of a Group Conversation?'
+  title_html: 'Real-life Listening in the Lab: Does Wearing Hearing Aids Affect the
+    Dynamics of a Group Conversation?'
+  url: http://semdial.org/anthology/Z22-Petersen_semdial_0025.pdf
+  year: '2022'
+Z22-4026:
+  address: Dublin, Ireland
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: breitholtz-howes-2022-done
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4026'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: '``He hasn''t done much to keep it up": Annotating topoi in the balloon task'
+  title_html: '``He hasn''t done much to keep it up": Annotating topoi in the balloon
+    task'
+  url: http://semdial.org/anthology/Z22-Breitholtz_semdial_0026.pdf
+  year: '2022'
+Z22-4027:
+  address: Dublin, Ireland
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Aram
+    full: Aram Karimi
+    id: aram-karimi
+    last: Karimi
+  bibkey: dobnik-karimi-2022-chat
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4027'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: 'Chat-o-matic: an online chat tool for collecting conversations of situated
+    dialogue'
+  title_html: 'Chat-o-matic: an online chat tool for collecting conversations of situated
+    dialogue'
+  url: http://semdial.org/anthology/Z22-Dobnik_semdial_0027.pdf
+  year: '2022'
+Z22-4028:
+  address: Dublin, Ireland
+  author:
+  - first: Emer
+    full: Emer Gilmartin
+    id: emer-gilmartin
+    last: Gilmartin
+  - first: Marcin
+    full: Marcin Wlodarczak
+    id: marcin-wlodarczak1
+    last: Wlodarczak
+  bibkey: gilmartin-wlodarczak-2022-speaker
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4028'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: Speaker transitions in 2- and 3-party conversation
+  title_html: Speaker transitions in 2- and 3-party conversation
+  url: http://semdial.org/anthology/Z22-Gilmartin_semdial_0028.pdf
+  year: '2022'
+Z22-4029:
+  address: Dublin, Ireland
+  author:
+  - first: Alexander
+    full: Alexander Berman
+    id: alexander-berman
+    last: Berman
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: berman-howes-2022-apparently
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4029'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: '``Apparently acousticness is positively correlated with neuroticism": Conversational
+    explanations of model predictions'
+  title_html: '``Apparently acousticness is positively correlated with neuroticism":
+    Conversational explanations of model predictions'
+  url: http://semdial.org/anthology/Z22-Berman_semdial_0029.pdf
+  year: '2022'
+Z22-4030:
+  address: Dublin, Ireland
+  author:
+  - first: Annalena
+    full: Annalena Aicher
+    id: annalena-aicher
+    last: Aicher
+  - first: Stefan
+    full: Stefan Hillmann
+    id: stefan-hillmann
+    last: Hillmann
+  - first: Thilo
+    full: Thilo Michael
+    id: thilo-michael
+    last: Michael
+  - first: Sebastian
+    full: "Sebastian M\xF6ller"
+    id: sebastian-moller
+    last: "M\xF6ller"
+  - first: Wolfgang
+    full: Wolfgang Minker
+    id: wolfgang-minker
+    last: Minker
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  bibkey: aicher-etal-2022-evaluation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4030'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: Evaluation of a Spoken Argumentative Dialogue System for Opinion-Building
+  title_html: Evaluation of a Spoken Argumentative Dialogue System for Opinion-Building
+  url: http://semdial.org/anthology/Z22-Aicher_semdial_0030.pdf
+  year: '2022'
+Z22-4031:
+  address: Dublin, Ireland
+  author:
+  - first: Alex
+    full: "Alex L\u01B0u"
+    id: alex-luu
+    last: "L\u01B0u"
+  bibkey: luu-2022-edge
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4031'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: 'Edge Cases of Discourse Salience in American English Casual Dialogs: A New
+    Window into the Co-Constructed Nature of Social Conversation'
+  title_html: 'Edge Cases of Discourse Salience in American English Casual Dialogs:
+    A New Window into the Co-Constructed Nature of Social Conversation'
+  url: http://semdial.org/anthology/Z22-Luu_semdial_0031.pdf
+  year: '2022'
+Z22-4032:
+  address: Dublin, Ireland
+  author:
+  - first: "Mercedes Gonza\u0301lez"
+    full: "Mercedes Gonza\u0301lez Va\u0301zquez"
+    id: mercedes-gonzalez-vazquez
+    last: "Va\u0301zquez"
+  bibkey: vazquez-2022-construction
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4032'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: 'The construction of stereotypes through language: the case of evidential
+    markers'
+  title_html: 'The construction of stereotypes through language: the case of evidential
+    markers'
+  url: "http://semdial.org/anthology/Z22-Va\u0301zquez_semdial_0032.pdf"
+  year: '2022'
+Z22-4033:
+  address: Dublin, Ireland
+  author:
+  - first: Fahima Ayub
+    full: Fahima Ayub Khan
+    id: fahima-ayub-khan
+    last: Khan
+  - first: Bill
+    full: Bill Noble
+    id: bill-noble
+    last: Noble
+  bibkey: khan-noble-2022-investigating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4033'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: Investigating code-switching and disfluencies in bilingual dialogue
+  title_html: Investigating code-switching and disfluencies in bilingual dialogue
+  url: http://semdial.org/anthology/Z22-Khan_semdial_0033.pdf
+  year: '2022'
+Z22-4034:
+  address: Dublin, Ireland
+  author:
+  - first: Ye
+    full: Ye Liu
+    id: ye-liu
+    last: Liu
+  - first: Yung-Ching
+    full: Yung-Ching Yang
+    id: yung-ching-yang
+    last: Yang
+  - first: Wolfgang
+    full: Wolfgang Maier
+    id: wolfgang-maier
+    last: Maier
+  - first: Wolfgang
+    full: Wolfgang Minker
+    id: wolfgang-minker
+    last: Minker
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  bibkey: liu-etal-2022-system
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4034'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: On System-Initiated Transitions in a Unified Natural Language Generation
+    Model for Dialogue Systems
+  title_html: On System-Initiated Transitions in a Unified Natural Language Generation
+    Model for Dialogue Systems
+  url: http://semdial.org/anthology/Z22-Liu_semdial_0034.pdf
+  year: '2022'
+Z22-4035:
+  address: Dublin, Ireland
+  author:
+  - first: Charles
+    full: Charles Threlkeld
+    id: charles-threlkeld
+    last: Threlkeld
+  - first: JP de
+    full: JP de Ruiter
+    id: jp-de-ruiter
+    last: Ruiter
+  bibkey: threlkeld-ruiter-2022-assessing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4035'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: Assessing the Literal Force Hypothesis in Unconstrained Conversation
+  title_html: Assessing the Literal Force Hypothesis in Unconstrained Conversation
+  url: http://semdial.org/anthology/Z22-Threlkeld_semdial_0035.pdf
+  year: '2022'
+Z22-4036:
+  address: Dublin, Ireland
+  author:
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  - first: Richard
+    full: Richard Bartle
+    id: richard-bartle
+    last: Bartle
+  - first: Jon
+    full: Jon Chamberlain
+    id: jon-chamberlain
+    last: Chamberlain
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Chris
+    full: Chris Madge
+    id: chris-madge
+    last: Madge
+  - first: Diego
+    full: Diego Perez-Llebana
+    id: diego-perez-llebana
+    last: Perez-Llebana
+  - first: Matt
+    full: Matt Purver
+    id: matt-purver
+    last: Purver
+  - first: Juntao
+    full: Juntao Yu
+    id: juntao-yu
+    last: Yu
+  bibkey: poesio-etal-2022-arciduca
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4036'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: 'ARCIDUCA: Annotating Reference and Coreference In Dialogue Using Conversational
+    Agents in games'
+  title_html: 'ARCIDUCA: Annotating Reference and Coreference In Dialogue Using Conversational
+    Agents in games'
+  url: http://semdial.org/anthology/Z22-Poesio_semdial_0036.pdf
+  year: '2022'
+Z22-4037:
+  address: Dublin, Ireland
+  author:
+  - first: Na
+    full: Na Li
+    id: na-li
+    last: Li
+  - first: Robert
+    full: Robert Ross
+    id: robert-ross
+    last: Ross
+  bibkey: li-ross-2022-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4037'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: Dialogue Policies for Confusion Mitigation in Situated HRI
+  title_html: Dialogue Policies for Confusion Mitigation in Situated HRI
+  url: http://semdial.org/anthology/Z22-Li_semdial_0037.pdf
+  year: '2022'
+Z22-4038:
+  address: Dublin, Ireland
+  author:
+  - first: Teresa
+    full: "Teresa Rodr\xEDguez Mun\u0303oz"
+    id: teresa-rodriguez-munoz
+    last: "Rodr\xEDguez Mun\u0303oz"
+  - first: Emily
+    full: Emily Ip
+    id: emily-ip
+    last: Ip
+  - first: Guanyu
+    full: Guanyu Huang
+    id: guanyu-huang
+    last: Huang
+  - first: Roger K.
+    full: Roger K. Moore
+    id: roger-k-moore
+    last: Moore
+  bibkey: rodriguez-munoz-etal-2022-interactivism
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4038'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: Interactivism in Spoken Dialogue Systems
+  title_html: Interactivism in Spoken Dialogue Systems
+  url: "http://semdial.org/anthology/Z22-Rodr\xEDguez-Mun\u0303oz_semdial_0038.pdf"
+  year: '2022'
+Z22-4039:
+  address: Dublin, Ireland
+  author:
+  - first: Charlie
+    full: Charlie Hallart
+    id: charlie-hallart
+    last: Hallart
+  - first: Morgane
+    full: Morgane Peirolo
+    id: morgane-peirolo
+    last: Peirolo
+  - first: Zihan
+    full: Zihan Xu
+    id: zihan-xu
+    last: Xu
+  - first: Abdellah
+    full: Abdellah Fourtassi
+    id: abdellah-fourtassi
+    last: Fourtassi
+  bibkey: hallart-etal-2022-contingency
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4039'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: 'Contingency in Child-Caregiver Naturalistic Conversation: Evidence for Mutual
+    Influence'
+  title_html: 'Contingency in Child-Caregiver Naturalistic Conversation: Evidence
+    for Mutual Influence'
+  url: http://semdial.org/anthology/Z22-Hallart_semdial_0039.pdf
+  year: '2022'
+Z22-4040:
+  address: Dublin, Ireland
+  author:
+  - first: Annalena
+    full: Annalena Aicher
+    id: annalena-aicher
+    last: Aicher
+  - first: Wolfgang
+    full: Wolfgang Minker
+    id: wolfgang-minker
+    last: Minker
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  bibkey: aicher-etal-2022-approach
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4040'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: An Approach to Model Self-imposed Filter Bubbles
+  title_html: An Approach to Model Self-imposed Filter Bubbles
+  url: http://semdial.org/anthology/Z22-Aicher_semdial_0040.pdf
+  year: '2022'
+Z22-4041:
+  address: Dublin, Ireland
+  author:
+  - first: Vidya
+    full: Vidya Somashekarappa
+    id: vidya-somashekarappa
+    last: Somashekarappa
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Asad
+    full: Asad Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  bibkey: somashekarappa-etal-2022-mutual
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4041'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: 'Mutual gaze detection and estimation: towards human-robot interaction'
+  title_html: 'Mutual gaze detection and estimation: towards human-robot interaction'
+  url: http://semdial.org/anthology/Z22-Somashekarappa_semdial_0041.pdf
+  year: '2022'
+Z22-4042:
+  address: Dublin, Ireland
+  author:
+  - first: Maryam
+    full: Maryam Mohammadi
+    id: maryam-mohammadi
+    last: Mohammadi
+  bibkey: mohammadi-2022-stress
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4042'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: Which stress is on PRPs?
+  title_html: Which stress is on PRPs?
+  url: http://semdial.org/anthology/Z22-Mohammadi_semdial_0042.pdf
+  year: '2022'
+Z22-4043:
+  address: Dublin, Ireland
+  author:
+  - first: Palash
+    full: Palash Nandi
+    id: palash-nandi
+    last: Nandi
+  - first: Pinaki
+    full: Pinaki Karkun
+    id: pinaki-karkun
+    last: Karkun
+  - first: Chitra
+    full: Chitra Maji
+    id: chitra-maji
+    last: Maji
+  - first: Adrija
+    full: Adrija Karmakar
+    id: adrija-karmakar
+    last: Karmakar
+  - first: Protyush
+    full: Protyush Jana
+    id: protyush-jana
+    last: Jana
+  - first: Arunima
+    full: Arunima Roy
+    id: arunima-roy
+    last: Roy
+  - first: Dipankar
+    full: Dipankar Das
+    id: dipankar-das
+    last: Das
+  bibkey: nandi-etal-2022-developing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4043'
+  parent_volume_id: Z22-4
+  publisher: SEMDIAL
+  title: Developing a Dataset for Classifying Intents and Sentiments from Judicial
+    Conversations
+  title_html: Developing a Dataset for Classifying Intents and Sentiments from Judicial
+    Conversations
+  url: http://semdial.org/anthology/Z22-Nandi_semdial_0043.pdf
+  year: '2022'

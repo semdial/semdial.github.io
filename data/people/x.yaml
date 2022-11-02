@@ -129,7 +129,11 @@ xin-ying-qiu:
 xingkun-liu:
   coauthors:
   - - oliver-lemon
-    - 2
+    - 3
+  - - daniel-shapiro
+    - 1
+  - - carl-tollander
+    - 1
   - - srinivasan-janarthanam
     - 1
   - - phil-bartie
@@ -148,7 +152,7 @@ xingkun-liu:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - nina-dethlefs
     - 1
@@ -182,10 +186,11 @@ xingkun-liu:
   papers:
   - Z14-4031
   - Z12-4025
+  - Z06-4044
   slug: xingkun-liu
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 xinnian-mao:
   coauthors: []
   first: Xinnian

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="sandewall-etal-2005-integration">
+    <titleInfo>
+        <title>Integration of Live Video in a System for Natural Language Dialog with a Robot</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Erik</namePart>
+        <namePart type="family">Sandewall</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hannes</namePart>
+        <namePart type="family">Lindblom</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Björn</namePart>
+        <namePart type="family">Husberg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sandewall-etal-2005-integration</identifier>
+    <location>
+        <url>http://semdial.org/anthology/012_Sandewall_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+</modsCollection>

@@ -60,6 +60,20 @@ ichiro-umata:
     - 2
   - - seiichi-yamamoto
     - 2
+  - - sadanori-ito
+    - 1
+  - - shoichiro-iwasawa
+    - 1
+  - - noriko-suzuki
+    - 1
+  - - tomoji-toriyama
+    - 1
+  - - naomi-inoue
+    - 1
+  - - kiyoshi-kogure
+    - 1
+  - - kenji-mase
+    - 1
   - - tsuneo-kato
     - 1
   first: Ichiro
@@ -68,10 +82,11 @@ ichiro-umata:
   papers:
   - Z19-4030
   - Z17-4031
+  - Z06-4036
   slug: ichiro-umata
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 ido-dagan:
   coauthors: []
   first: Ido
@@ -679,11 +694,27 @@ ivana-kruijff-korbayova:
     - 2
   - - michael-brenner
     - 1
+  - - magdalena-wolska
+    - 1
   - - tatiana-anikina
     - 1
   - - ilaria-baroni
     - 1
   - - mattia-coti-zelati
+    - 1
+  - - nate-blaylock
+    - 1
+  - - ciprian-gerstenberger
+    - 1
+  - - verena-reiser
+    - 1
+  - - tilman-becker
+    - 1
+  - - michael-kaisser
+    - 1
+  - - peter-poller
+    - 1
+  - - jan-schehl
     - 1
   - - stefania-racioppa
     - 1
@@ -699,6 +730,8 @@ ivana-kruijff-korbayova:
   - Z14-3014
   - Z13-4036
   - Z08-3013
+  - Z06-3024
+  - Z05-4025
   slug: ivana-kruijff-korbayova
   variant_entries:
   - first: Ivana
@@ -706,7 +739,7 @@ ivana-kruijff-korbayova:
     last: Kruijff-Korbayova
   venues:
   - - SEMDIAL
-    - 4
+    - 6
 ivandre-paraboni:
   coauthors: []
   first: "Ivandr\xE9"
@@ -731,13 +764,13 @@ iwan-de-kok:
     - 3
   - - stefan-kopp
     - 3
+  - - cornelia-frank
+    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
     - 1
   - - mario-botsch
-    - 1
-  - - cornelia-frank
     - 1
   first: Iwan de
   full: Iwan de Kok

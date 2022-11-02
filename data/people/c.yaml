@@ -41,6 +41,25 @@ c-h-lee:
   papers: []
   slug: c-h-lee
   venues: []
+c-havard:
+  coauthors:
+  - - e-g-bard
+    - 1
+  - - a-h-anderson
+    - 1
+  - - y-chen
+    - 1
+  - - h-nicholsen
+    - 1
+  first: C.
+  full: C. Havard
+  last: Havard
+  papers:
+  - Z05-4018
+  slug: c-havard
+  venues:
+  - - SEMDIAL
+    - 1
 c-j-rupp:
   coauthors: []
   first: C.J.
@@ -160,44 +179,66 @@ carl-pollard:
   papers: []
   slug: carl-pollard
   venues: []
+carl-tollander:
+  coauthors:
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - daniel-shapiro
+    - 1
+  first: Carl
+  full: Carl Tollander
+  last: Tollander
+  papers:
+  - Z06-4044
+  slug: carl-tollander
+  venues:
+  - - SEMDIAL
+    - 1
 carl-vogel:
   coauthors:
   - - emer-gilmartin
     - 2
-  - - patrick-healey
-    - 1
-  - - arash-eshghi
-    - 1
   - - francesca-bonin
     - 1
   - - nick-campbell
+    - 1
+  - - zohreh-khosrobeigi
+    - 1
+  - - maria-koutsombogera
+    - 1
+  - - patrick-healey
+    - 1
+  - - arash-eshghi
     - 1
   first: Carl
   full: Carl Vogel
   last: Vogel
   papers:
+  - Z22-3019
   - Z19-4023
   - Z13-4028
   - Z07-3024
   slug: carl-vogel
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 carla-gordon:
   coauthors:
   - - david-traum
     - 3
   - - kallirroi-georgila
     - 2
+  - - hyungtak-choi
+    - 1
+  - - jill-boberg
+    - 1
   - - usman-sohail
     - 1
   - - ron-artstein
     - 1
   - - volodymyr-yanov
-    - 1
-  - - hyungtak-choi
-    - 1
-  - - jill-boberg
     - 1
   first: Carla
   full: Carla Gordon
@@ -431,30 +472,33 @@ casey-kennington:
     - 4
   - - daniele-moro
     - 2
-  - - soledad-lopez-gambino
-    - 2
   - - pierre-lison
     - 2
-  - - christine-howes
-    - 1
-  - - julian-hough
-    - 1
-  - - sina-zarriess
-    - 1
+  - - soledad-lopez-gambino
+    - 2
   - - gerardo-caracas
     - 1
   - - david-mcneill
     - 1
   - - daniel-kondratyuk
     - 1
-  - - ting-han
+  - - sina-zarriess
+    - 1
+  - - osama-natouf
+    - 1
+  - - christine-howes
+    - 1
+  - - julian-hough
     - 1
   - - spyros-kousidis
+    - 1
+  - - ting-han
     - 1
   first: Casey
   full: Casey Kennington
   last: Kennington
   papers:
+  - Z22-3010
   - Z20-3011
   - Z19-1000
   - Z18-3012
@@ -468,7 +512,7 @@ casey-kennington:
   slug: casey-kennington
   venues:
   - - SEMDIAL
-    - 10
+    - 11
 caspar-addyman:
   coauthors:
   - - chiara-mazzocconi
@@ -669,7 +713,7 @@ cedric-degremont:
     - 1
 cedric-degremont1:
   coauthors:
-  - - antoine-venant1
+  - - antoine-venant
     - 1
   - - nicholas-asher
     - 1
@@ -813,13 +857,22 @@ chao-jan-chen:
   slug: chao-jan-chen
   venues: []
 charles-b-callaway:
-  coauthors: []
+  coauthors:
+  - - myroslava-o-dzikovska
+    - 1
+  - - matthew-stone
+    - 1
+  - - harry-bunt
+    - 1
   first: Charles B.
   full: Charles B. Callaway
   last: Callaway
-  papers: []
+  papers:
+  - Z06-3003
   slug: charles-b-callaway
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 charles-c-lee:
   coauthors: []
   first: Charles C.
@@ -881,6 +934,19 @@ charles-t-hemphill:
   papers: []
   slug: charles-t-hemphill
   venues: []
+charles-threlkeld:
+  coauthors:
+  - - jp-de-ruiter
+    - 1
+  first: Charles
+  full: Charles Threlkeld
+  last: Threlkeld
+  papers:
+  - Z22-4035
+  slug: charles-threlkeld
+  venues:
+  - - SEMDIAL
+    - 1
 charles-yang:
   coauthors: []
   first: Charles
@@ -889,6 +955,23 @@ charles-yang:
   papers: []
   slug: charles-yang
   venues: []
+charlie-hallart:
+  coauthors:
+  - - morgane-peirolo
+    - 1
+  - - zihan-xu
+    - 1
+  - - abdellah-fourtassi
+    - 1
+  first: Charlie
+  full: Charlie Hallart
+  last: Hallart
+  papers:
+  - Z22-4039
+  slug: charlie-hallart
+  venues:
+  - - SEMDIAL
+    - 1
 chedi-bechikh-ali:
   coauthors: []
   first: Chedi
@@ -1113,19 +1196,19 @@ chiara-mazzocconi:
     - 2
   - - jonathan-ginzburg
     - 2
+  - - bill-noble
+    - 1
   - - arash-eshghi
     - 1
   - - julian-hough
-    - 1
-  - - bill-noble
-    - 1
-  - - ye-tian1
     - 1
   - - sam-green
     - 1
   - - ye-tian
     - 1
   - - caspar-addyman
+    - 1
+  - - ye-tian1
     - 1
   first: Chiara
   full: Chiara Mazzocconi
@@ -1196,6 +1279,29 @@ ching-yun-chang:
   papers: []
   slug: ching-yun-chang
   venues: []
+chitra-maji:
+  coauthors:
+  - - palash-nandi
+    - 1
+  - - pinaki-karkun
+    - 1
+  - - adrija-karmakar
+    - 1
+  - - protyush-jana
+    - 1
+  - - arunima-roy
+    - 1
+  - - dipankar-das
+    - 1
+  first: Chitra
+  full: Chitra Maji
+  last: Maji
+  papers:
+  - Z22-4043
+  slug: chitra-maji
+  venues:
+  - - SEMDIAL
+    - 1
 chitta-baral:
   coauthors: []
   first: Chitta
@@ -1232,11 +1338,11 @@ chloe-clavel:
   coauthors:
   - - tanvi-dinkar
     - 2
+  - - beatrice-biancardi
+    - 1
   - - ioana-vasilescu
     - 1
   - - catherine-pelachaud
-    - 1
-  - - beatrice-biancardi
     - 1
   first: "Chlo\xE9"
   full: "Chlo\xE9 Clavel"
@@ -1289,13 +1395,18 @@ chris-biemann:
   slug: chris-biemann
   venues: []
 chris-brew:
-  coauthors: []
+  coauthors:
+  - - crystal-nakatsu
+    - 1
   first: Chris
   full: Chris Brew
   last: Brew
-  papers: []
+  papers:
+  - Z06-4031
   slug: chris-brew
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 chris-buckley:
   coauthors: []
   first: Chris
@@ -1324,15 +1435,15 @@ chris-cummins:
   coauthors:
   - - hannah-rohde
     - 2
-  - - alexandra-lorson
-    - 1
-  - - j-p-de-ruiter
-    - 1
   - - ernisa-marzuki
     - 1
   - - gareth-clegg
     - 1
   - - holly-branigan
+    - 1
+  - - alexandra-lorson
+    - 1
+  - - j-p-de-ruiter
     - 1
   first: Chris
   full: Chris Cummins
@@ -1370,6 +1481,31 @@ chris-irwin-davis:
   papers: []
   slug: chris-irwin-davis
   venues: []
+chris-madge:
+  coauthors:
+  - - massimo-poesio
+    - 1
+  - - richard-bartle
+    - 1
+  - - jon-chamberlain
+    - 1
+  - - julian-hough
+    - 1
+  - - diego-perez-llebana
+    - 1
+  - - matt-purver
+    - 1
+  - - juntao-yu
+    - 1
+  first: Chris
+  full: Chris Madge
+  last: Madge
+  papers:
+  - Z22-4036
+  slug: chris-madge
+  venues:
+  - - SEMDIAL
+    - 1
 chris-mellish:
   coauthors: []
   first: Chris
@@ -1482,6 +1618,19 @@ christian-huyck:
   papers: []
   slug: christian-huyck
   venues: []
+christian-hying:
+  coauthors:
+  - - sunna-torge
+    - 1
+  first: Christian
+  full: Christian Hying
+  last: Hying
+  papers:
+  - Z04-4028
+  slug: christian-hying
+  venues:
+  - - SEMDIAL
+    - 1
 christian-jacquemin:
   coauthors: []
   first: Christian
@@ -1600,6 +1749,23 @@ christine-doran:
   papers: []
   slug: christine-doran
   venues: []
+christine-gunlogson:
+  coauthors:
+  - - sarah-brown-schmidt
+    - 1
+  - - duane-g-watson
+    - 1
+  - - michael-k-tanenhaus
+    - 1
+  first: Christine
+  full: Christine Gunlogson
+  last: Gunlogson
+  papers:
+  - Z06-4041
+  slug: christine-gunlogson
+  venues:
+  - - SEMDIAL
+    - 1
 christine-h-nakatani:
   coauthors: []
   first: Christine H.
@@ -1610,44 +1776,40 @@ christine-h-nakatani:
   venues: []
 christine-howes:
   coauthors:
-  - - julian-hough
-    - 5
   - - ellen-breitholtz
-    - 5
+    - 6
+  - - julian-hough
+    - 6
   - - eleni-gregoromichelaki
-    - 4
+    - 5
   - - arash-eshghi
-    - 3
+    - 4
   - - ruth-kempson
-    - 3
+    - 4
   - - matthew-purver
-    - 3
+    - 4
   - - vladislav-maraev
     - 3
-  - - staffan-larsson
+  - - andrew-gargett
     - 2
   - - mehrnoosh-sadrzadeh
     - 2
+  - - mary-lavelle
+    - 2
   - - chiara-mazzocconi
     - 2
-  - - andrew-gargett
+  - - patrick-healey
     - 2
-  - - mary-lavelle
+  - - vidya-somashekarappa
+    - 2
+  - - asad-sayeed
+    - 2
+  - - staffan-larsson
     - 2
   - - matt-purver
     - 2
   - - rose-mccabe
     - 2
-  - - casey-kennington
-    - 1
-  - - anastasia-bondarenko
-    - 1
-  - - gijs-wijnholds
-    - 1
-  - - vidya-somashekarappa
-    - 1
-  - - asad-sayeed
-    - 1
   - - yo-sato
     - 1
   - - stergios-chatzikyriakidis
@@ -1664,18 +1826,35 @@ christine-howes:
     - 1
   - - ebba-axelsson-nord
     - 1
-  - - greg-mills
+  - - jean-philippe-bernardy
     - 1
-  - - patrick-healey
+  - - julian-grove
+    - 1
+  - - gregory-mills
+    - 1
+  - - alexander-berman
+    - 1
+  - - casey-kennington
+    - 1
+  - - anastasia-bondarenko
+    - 1
+  - - gijs-wijnholds
     - 1
   - - simon-dobnik
     - 1
   - - john-kelleher
     - 1
+  - - greg-mills
+    - 1
   first: Christine
   full: Christine Howes
   last: Howes
   papers:
+  - Z22-3013
+  - Z22-3018
+  - Z22-4026
+  - Z22-4029
+  - Z22-4041
   - Z21-3009
   - Z21-3010
   - Z21-3015
@@ -1697,7 +1876,7 @@ christine-howes:
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 18
+    - 23
 christine-piatko:
   coauthors: []
   first: Christine
@@ -1740,9 +1919,12 @@ christoph-muller:
   first: Christoph
   full: "Christoph M\xFCller"
   last: "M\xFCller"
-  papers: []
+  papers:
+  - Z05-4024
   slug: christoph-muller
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 christoph-tillmann:
   coauthors: []
   first: Christoph
@@ -2107,8 +2289,35 @@ ciprian-bacalu:
   papers: []
   slug: ciprian-bacalu
   venues: []
+ciprian-gerstenberger:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - nate-blaylock
+    - 1
+  - - verena-reiser
+    - 1
+  - - tilman-becker
+    - 1
+  - - michael-kaisser
+    - 1
+  - - peter-poller
+    - 1
+  - - jan-schehl
+    - 1
+  first: Ciprian
+  full: Ciprian Gerstenberger
+  last: Gerstenberger
+  papers:
+  - Z05-4025
+  slug: ciprian-gerstenberger
+  venues:
+  - - SEMDIAL
+    - 1
 claire-beyssade:
   coauthors:
+  - - jean-marie-maradndin
+    - 1
   - - ye-tian
     - 1
   - - yannick-mathieu
@@ -2120,10 +2329,11 @@ claire-beyssade:
   last: Beyssade
   papers:
   - Z15-3020
+  - Z06-3007
   slug: claire-beyssade
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 claire-bonial:
   coauthors:
   - - stephanie-lukin
@@ -2166,6 +2376,8 @@ claire-francois:
   venues: []
 claire-gardent:
   coauthors:
+  - - bertrand-gaiffe
+    - 1
   - - lina-m-rojas-barahona
     - 1
   first: Claire
@@ -2173,10 +2385,11 @@ claire-gardent:
   last: Gardent
   papers:
   - Z12-4034
+  - Z05-1000
   slug: claire-gardent
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 claire-grover:
   coauthors: []
   first: Claire
@@ -2557,6 +2770,19 @@ cristina-sanchez-marco:
   papers: []
   slug: cristina-sanchez-marco
   venues: []
+crystal-nakatsu:
+  coauthors:
+  - - chris-brew
+    - 1
+  first: Crystal
+  full: Crystal Nakatsu
+  last: Nakatsu
+  papers:
+  - Z06-4031
+  slug: crystal-nakatsu
+  venues:
+  - - SEMDIAL
+    - 1
 curry-i-guinn:
   coauthors: []
   first: Curry I.
@@ -2567,7 +2793,7 @@ curry-i-guinn:
   venues: []
 cynthia-kersey:
   coauthors:
-  - - barbara-di-eugenio
+  - - barbara-di-eugenio1
     - 1
   - - pamela-jordan
     - 1

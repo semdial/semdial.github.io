@@ -533,6 +533,23 @@ daniel-sanchez-cisneros:
   papers: []
   slug: daniel-sanchez-cisneros
   venues: []
+daniel-shapiro:
+  coauthors:
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - carl-tollander
+    - 1
+  first: Daniel
+  full: Daniel Shapiro
+  last: Shapiro
+  papers:
+  - Z06-4044
+  slug: daniel-shapiro
+  venues:
+  - - SEMDIAL
+    - 1
 daniel-tapias:
   coauthors: []
   first: Daniel
@@ -895,9 +912,13 @@ david-day:
   venues: []
 david-devault:
   coauthors:
+  - - matthew-stone
+    - 2
   - - ron-artstein
     - 1
   - - mark-g-core
+    - 1
+  - - kallirroi-georgila
     - 1
   - - elsi-kaiser
     - 1
@@ -907,8 +928,6 @@ david-devault:
     - 1
   - - david-traum
     - 1
-  - - matthew-stone
-    - 1
   first: David
   full: David DeVault
   last: DeVault
@@ -916,10 +935,11 @@ david-devault:
   - Z11-1000
   - Z11-3012
   - Z07-3011
+  - Z06-3023
   slug: david-devault
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 david-devault1:
   coauthors:
   - - zhou-yu
@@ -1057,6 +1077,23 @@ david-hardcastle:
   papers:
   - Z07-2021
   slug: david-hardcastle
+  venues:
+  - - SEMDIAL
+    - 1
+david-hjelm:
+  coauthors:
+  - - ann-charlotte-forslund
+    - 1
+  - - staffan-larsson
+    - 1
+  - - andreas-wallentin
+    - 1
+  first: David
+  full: David Hjelm
+  last: Hjelm
+  papers:
+  - Z05-4026
+  slug: david-hjelm
   venues:
   - - SEMDIAL
     - 1
@@ -1203,13 +1240,18 @@ david-mcneill:
   - - SEMDIAL
     - 1
 david-milward:
-  coauthors: []
+  coauthors:
+  - - martin-beveridge
+    - 1
   first: David
   full: David Milward
   last: Milward
-  papers: []
+  papers:
+  - Z04-3013
   slug: david-milward
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 david-n-milne:
   coauthors: []
   first: David N.
@@ -1290,33 +1332,33 @@ david-schlangen:
     - 5
   - - casey-kennington
     - 4
-  - - nikolai-ilinykh
-    - 3
   - - ting-han
+    - 3
+  - - nikolai-ilinykh
     - 3
   - - iwan-de-kok
     - 3
   - - stefan-kopp
     - 3
-  - - soledad-lopez-gambino
-    - 2
   - - okko-buss
+    - 2
+  - - soledad-lopez-gambino
     - 2
   - - spyros-kousidis
     - 2
-  - - kazunori-komatani
-    - 1
-  - - tim-diekmann
+  - - raquel-fernandez
     - 1
   - - ellen-breitholtz
     - 1
   - - kallirroi-georgila
     - 1
-  - - felix-hulsmann
+  - - kazunori-komatani
     - 1
-  - - thomas-waltema
+  - - tim-diekmann
     - 1
-  - - mario-botsch
+  - - jana-gotze1
+    - 1
+  - - karla-friedrichs
     - 1
   - - cornelia-frank
     - 1
@@ -1324,10 +1366,21 @@ david-schlangen:
     - 1
   - - ye-tian
     - 1
+  - - felix-hulsmann
+    - 1
+  - - thomas-waltema
+    - 1
+  - - mario-botsch
+    - 1
+  - - kepa-joseba-rodriguez
+    - 1
+  - - mannfred-stede
+    - 1
   first: David
   full: David Schlangen
   last: Schlangen
   papers:
+  - Z22-3015
   - Z21-1000
   - Z20-3010
   - Z19-3006
@@ -1350,10 +1403,13 @@ david-schlangen:
   - Z10-3008
   - Z10-3009
   - Z09-3013
+  - Z06-1000
+  - Z04-3017
+  - Z04-3019
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 22
+    - 26
 david-stallard:
   coauthors: []
   first: David
@@ -1406,24 +1462,16 @@ david-traum:
     - 3
   - - ron-artstein
     - 3
+  - - antonio-roque1
+    - 2
+  - - hua-ai
+    - 2
   - - kallirroi-georgila
     - 2
   - - sudeep-gandhe
     - 2
   - - michael-rushforth
     - 2
-  - - usman-sohail
-    - 1
-  - - volodymyr-yanov
-    - 1
-  - - seyed-hossein-alavi
-    - 1
-  - - anton-leuski
-    - 1
-  - - hyungtak-choi
-    - 1
-  - - jill-boberg
-    - 1
   - - claire-bonial
     - 1
   - - mitchell-abrams
@@ -1438,15 +1486,31 @@ david-traum:
     - 1
   - - patricia-chaffey
     - 1
-  - - rieks-op-den-akker
-    - 1
   - - brian-pluss
     - 1
   - - david-devault
     - 1
+  - - hyungtak-choi
+    - 1
+  - - jill-boberg
+    - 1
+  - - usman-sohail
+    - 1
+  - - volodymyr-yanov
+    - 1
+  - - seyed-hossein-alavi
+    - 1
+  - - anton-leuski
+    - 1
   - - angela-nazarian
     - 1
   - - elnaz-nouri
+    - 1
+  - - jigish-patel
+    - 1
+  - - robert-parker
+    - 1
+  - - rieks-op-den-akker
     - 1
   first: David
   full: David Traum
@@ -1464,10 +1528,13 @@ david-traum:
   - Z09-4024
   - Z09-4019
   - Z08-2005
+  - Z06-4042
+  - Z06-4046
+  - Z04-4031
   slug: david-traum
   venues:
   - - SEMDIAL
-    - 12
+    - 15
 david-w-aha:
   coauthors: []
   first: David W.
@@ -1904,6 +1971,31 @@ diego-molla:
   papers: []
   slug: diego-molla
   venues: []
+diego-perez-llebana:
+  coauthors:
+  - - massimo-poesio
+    - 1
+  - - richard-bartle
+    - 1
+  - - jon-chamberlain
+    - 1
+  - - julian-hough
+    - 1
+  - - chris-madge
+    - 1
+  - - matt-purver
+    - 1
+  - - juntao-yu
+    - 1
+  first: Diego
+  full: Diego Perez-Llebana
+  last: Perez-Llebana
+  papers:
+  - Z22-4036
+  slug: diego-perez-llebana
+  venues:
+  - - SEMDIAL
+    - 1
 diego-raphael-amancio:
   coauthors: []
   first: Diego Raphael
@@ -2008,6 +2100,29 @@ dinh-dien:
   papers: []
   slug: dinh-dien
   venues: []
+dipankar-das:
+  coauthors:
+  - - palash-nandi
+    - 1
+  - - pinaki-karkun
+    - 1
+  - - chitra-maji
+    - 1
+  - - adrija-karmakar
+    - 1
+  - - protyush-jana
+    - 1
+  - - arunima-roy
+    - 1
+  first: Dipankar
+  full: Dipankar Das
+  last: Das
+  papers:
+  - Z22-4043
+  slug: dipankar-das
+  venues:
+  - - SEMDIAL
+    - 1
 dipendra-misra:
   coauthors: []
   first: Dipendra
@@ -2123,6 +2238,25 @@ dominic-r-jones:
   papers: []
   slug: dominic-r-jones
   venues: []
+dominic-widdows:
+  coauthors:
+  - - alexander-gruenstein
+    - 1
+  - - lawrence-cavedon
+    - 1
+  - - john-niekrasz
+    - 1
+  - - stanley-peters
+    - 1
+  first: Dominic
+  full: Dominic Widdows
+  last: Widdows
+  papers:
+  - Z04-4027
+  slug: dominic-widdows
+  venues:
+  - - SEMDIAL
+    - 1
 dominique-dutoit:
   coauthors: []
   first: Dominique
@@ -2381,6 +2515,23 @@ duane-e-olawsky:
   papers: []
   slug: duane-e-olawsky
   venues: []
+duane-g-watson:
+  coauthors:
+  - - sarah-brown-schmidt
+    - 1
+  - - christine-gunlogson
+    - 1
+  - - michael-k-tanenhaus
+    - 1
+  first: Duane G.
+  full: Duane G. Watson
+  last: Watson
+  papers:
+  - Z06-4041
+  slug: duane-g-watson
+  venues:
+  - - SEMDIAL
+    - 1
 duane-watson:
   coauthors:
   - - scott-fraundorf

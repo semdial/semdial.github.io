@@ -35,19 +35,20 @@ n-asher:
     - 1
 na-li:
   coauthors:
-  - - john-kelleher
-    - 1
   - - robert-ross
+    - 2
+  - - john-kelleher
     - 1
   first: Na
   full: Na Li
   last: Li
   papers:
+  - Z22-4037
   - Z21-3013
   slug: na-li
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 nadia-mana:
   coauthors: []
   first: Nadia
@@ -205,6 +206,19 @@ nanda-kambhatla:
   papers: []
   slug: nanda-kambhatla
   venues: []
+nanda-slabbers:
+  coauthors:
+  - - alistair-knott
+    - 1
+  first: Nanda
+  full: Nanda Slabbers
+  last: Slabbers
+  papers:
+  - Z05-3005
+  slug: nanda-slabbers
+  venues:
+  - - SEMDIAL
+    - 1
 nanette-veilleux:
   coauthors: []
   first: Nanette M.
@@ -245,6 +259,31 @@ naomi-feldman:
   papers: []
   slug: naomi-feldman
   venues: []
+naomi-inoue:
+  coauthors:
+  - - ichiro-umata
+    - 1
+  - - sadanori-ito
+    - 1
+  - - shoichiro-iwasawa
+    - 1
+  - - noriko-suzuki
+    - 1
+  - - tomoji-toriyama
+    - 1
+  - - kiyoshi-kogure
+    - 1
+  - - kenji-mase
+    - 1
+  first: Naomi
+  full: Naomi Inoue
+  last: Inoue
+  papers:
+  - Z06-4036
+  slug: naomi-inoue
+  venues:
+  - - SEMDIAL
+    - 1
 naomi-kamoen:
   coauthors:
   - - marie-postma-nilsenova
@@ -377,16 +416,31 @@ natalie-m-schrimpf:
   slug: natalie-m-schrimpf
   venues: []
 nate-blaylock:
-  coauthors: []
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - ciprian-gerstenberger
+    - 1
+  - - verena-reiser
+    - 1
+  - - tilman-becker
+    - 1
+  - - michael-kaisser
+    - 1
+  - - peter-poller
+    - 1
+  - - jan-schehl
+    - 1
   first: Nate
   full: Nate Blaylock
   last: Blaylock
   papers:
   - Z07-3017
+  - Z05-4025
   slug: nate-blaylock
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 nathalie-le-brun:
   coauthors: []
   first: Nathalie
@@ -626,17 +680,17 @@ nicholas-asher:
     - 1
   - - laure-vieu
     - 1
-  - - julian-j-schloder
-    - 1
   - - antoine-venant
+    - 1
+  - - cedric-degremont1
     - 1
   - - julie-hunter
     - 1
   - - eric-kow
     - 1
-  - - antoine-venant1
+  - - julian-j-schloder
     - 1
-  - - cedric-degremont1
+  - - antoine-venant1
     - 1
   first: Nicholas
   full: Nicholas Asher
@@ -747,13 +801,20 @@ nick-rizzolo:
   slug: nick-rizzolo
   venues: []
 nick-webb:
-  coauthors: []
+  coauthors:
+  - - mark-hepple
+    - 1
+  - - yorick-wilks
+    - 1
   first: Nick
   full: Nick Webb
   last: Webb
-  papers: []
+  papers:
+  - Z05-4015
   slug: nick-webb
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 nicola-plant:
   coauthors:
   - - patrick-healey
@@ -791,6 +852,21 @@ nicolas-masson:
   papers: []
   slug: nicolas-masson
   venues: []
+nicolas-maudet:
+  coauthors:
+  - - philippe-muller
+    - 1
+  - - laurent-prevot
+    - 1
+  first: Nicolas
+  full: Nicolas Maudet
+  last: Maudet
+  papers:
+  - Z04-4030
+  slug: nicolas-maudet
+  venues:
+  - - SEMDIAL
+    - 1
 nicolas-morales:
   coauthors: []
   first: "Nicol\xE1s"
@@ -876,7 +952,7 @@ nigel-flowers:
     - 1
   - - jillian-aurisano
     - 1
-  - - barbara-di-eugenio1
+  - - barbara-di-eugenio
     - 1
   - - andrew-johnson
     - 1
@@ -921,23 +997,28 @@ niklas-paulsson:
   venues: []
 nikolai-ilinykh:
   coauthors:
-  - - sina-zarriess
-    - 3
   - - david-schlangen
     - 3
+  - - sina-zarriess
+    - 3
   - - tim-diekmann
+    - 1
+  - - simon-dobnik
+    - 1
+  - - aram-karimi
     - 1
   first: Nikolai
   full: Nikolai Ilinykh
   last: Ilinykh
   papers:
+  - Z22-3017
   - Z19-3006
   - Z18-4036
   - Z18-4037
   slug: nikolai-ilinykh
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 nikolay-arefyev:
   coauthors: []
   first: Nikolay
@@ -972,7 +1053,7 @@ niladri-chatterjee:
   venues: []
 nina-dethlefs:
   coauthors:
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 2
   - - helen-hastie
     - 2
@@ -980,16 +1061,6 @@ nina-dethlefs:
     - 2
   - - oliver-lemon
     - 2
-  - - heriberto-cuayahuitl
-    - 1
-  - - kai
-    - 1
-  - - florian-richter
-    - 1
-  - - elena-andonova
-    - 1
-  - - john-bateman
-    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -1020,6 +1091,16 @@ nina-dethlefs:
     - 1
   - - yanchao-yu
     - 1
+  - - heriberto-cuayahuitl1
+    - 1
+  - - kai
+    - 1
+  - - florian-richter
+    - 1
+  - - elena-andonova
+    - 1
+  - - john-bateman
+    - 1
   first: Nina
   full: Nina Dethlefs
   last: Dethlefs
@@ -1031,6 +1112,21 @@ nina-dethlefs:
   venues:
   - - SEMDIAL
     - 3
+nina-suszczanska:
+  coauthors:
+  - - julia-romaniuk
+    - 1
+  - - przemyslaw-szmal
+    - 1
+  first: Nina
+  full: "Nina Suszcza\u0144ska"
+  last: "Suszcza\u0144ska"
+  papers:
+  - Z05-4023
+  slug: nina-suszczanska
+  venues:
+  - - SEMDIAL
+    - 1
 nishtha-malhotra:
   coauthors: []
   first: Nishtha
@@ -1156,6 +1252,31 @@ noriko-h-arai:
   papers: []
   slug: noriko-h-arai
   venues: []
+noriko-suzuki:
+  coauthors:
+  - - ichiro-umata
+    - 1
+  - - sadanori-ito
+    - 1
+  - - shoichiro-iwasawa
+    - 1
+  - - tomoji-toriyama
+    - 1
+  - - naomi-inoue
+    - 1
+  - - kiyoshi-kogure
+    - 1
+  - - kenji-mase
+    - 1
+  first: Noriko
+  full: Noriko Suzuki
+  last: Suzuki
+  papers:
+  - Z06-4036
+  slug: noriko-suzuki
+  venues:
+  - - SEMDIAL
+    - 1
 noriyuki-tamura:
   coauthors: []
   first: Noriyuki

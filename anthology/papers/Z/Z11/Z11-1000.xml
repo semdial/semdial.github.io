@@ -26,6 +26,13 @@
         </role>
     </name>
     <name type="personal">
+        <namePart type="given">Kallirroi</namePart>
+        <namePart type="family">Georgila</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
         <namePart type="given">Elsi</namePart>
         <namePart type="family">Kaiser</namePart>
         <role>

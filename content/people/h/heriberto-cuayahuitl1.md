@@ -1,5 +1,5 @@
 ---
-lastname: Cuayahuitl
+lastname: "Cuay\xE1huitl"
 name: heriberto-cuayahuitl1
-title: Heriberto Cuayahuitl
+title: "Heriberto Cuay\xE1huitl"
 ---

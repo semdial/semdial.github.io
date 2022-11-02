@@ -1,0 +1,891 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="bringert-etal-2005-multimodal">
+    <titleInfo>
+        <title>Multimodal Dialogue System Grammars</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Björn</namePart>
+        <namePart type="family">Bringert</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Peter</namePart>
+        <namePart type="family">Ljunglöf</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aarne</namePart>
+        <namePart type="family">Ranta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bringert-etal-2005-multimodal</identifier>
+    <location>
+        <url>http://semdial.org/anthology/010_Bringert_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="georgila-etal-2005-automatic">
+    <titleInfo>
+        <title>Automatic Annotation of COMMUNICATOR Dialogue Data for Learning Dialogue Strategies and User Simulations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kallirroi</namePart>
+        <namePart type="family">Georgila</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">James</namePart>
+        <namePart type="family">Henderson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">georgila-etal-2005-automatic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/011_Georgila_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="sandewall-etal-2005-integration">
+    <titleInfo>
+        <title>Integration of Live Video in a System for Natural Language Dialog with a Robot</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Erik</namePart>
+        <namePart type="family">Sandewall</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hannes</namePart>
+        <namePart type="family">Lindblom</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Björn</namePart>
+        <namePart type="family">Husberg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sandewall-etal-2005-integration</identifier>
+    <location>
+        <url>http://semdial.org/anthology/012_Sandewall_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="safarova-etal-2005-discourse">
+    <titleInfo>
+        <title>The Discourse Function of Final Rises in French Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marie</namePart>
+        <namePart type="family">Šafárová</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Philippe</namePart>
+        <namePart type="family">Muller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Laurent</namePart>
+        <namePart type="family">Prévot</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">safarova-etal-2005-discourse</identifier>
+    <location>
+        <url>http://semdial.org/anthology/013_Safarova_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="ginzburg-fernandez-2005-action">
+    <titleInfo>
+        <title>Action at a Distance: The Difference Between Dialogue and Multilogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ginzburg-fernandez-2005-action</identifier>
+    <location>
+        <url>http://semdial.org/anthology/014_Ginzburg_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="webb-etal-2005-empirical">
+    <titleInfo>
+        <title>Empirical Determination of Thresholds for Optimal Dialogue Act Classification</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nick</namePart>
+        <namePart type="family">Webb</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mark</namePart>
+        <namePart type="family">Hepple</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yorick</namePart>
+        <namePart type="family">Wilks</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">webb-etal-2005-empirical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/015_Webb_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="romanelli-etal-2005-plurals">
+    <titleInfo>
+        <title>On Plurals and Overlay</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Massimo</namePart>
+        <namePart type="family">Romanelli</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tilman</namePart>
+        <namePart type="family">Becker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jan</namePart>
+        <namePart type="family">Alexandersson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">romanelli-etal-2005-plurals</identifier>
+    <location>
+        <url>http://semdial.org/anthology/016_Romanelli_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="zeevat-2005-conditional">
+    <titleInfo>
+        <title>Conditional Anaphora</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Henk</namePart>
+        <namePart type="family">Zeevat</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">zeevat-2005-conditional</identifier>
+    <location>
+        <url>http://semdial.org/anthology/017_Zeevat_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="bard-etal-2005-enquiries">
+    <titleInfo>
+        <title>Let’s You Do That: Enquiries into the Cognitive Burdens of Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">E</namePart>
+        <namePart type="given">G</namePart>
+        <namePart type="family">Bard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">A</namePart>
+        <namePart type="given">H</namePart>
+        <namePart type="family">Anderson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Y</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">H</namePart>
+        <namePart type="family">Nicholsen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">C</namePart>
+        <namePart type="family">Havard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bard-etal-2005-enquiries</identifier>
+    <location>
+        <url>http://semdial.org/anthology/018_Bard_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="michel-lehuen-2005-robust">
+    <titleInfo>
+        <title>Robust Semantic Interpretation and Dialog Management in the Contect of a CALL Application</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Johan</namePart>
+        <namePart type="family">Michel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jérôme</namePart>
+        <namePart type="family">Lehuen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">michel-lehuen-2005-robust</identifier>
+    <location>
+        <url>http://semdial.org/anthology/019_Michel_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="portillo-etal-2005-woz">
+    <titleInfo>
+        <title>WOZ Experiments in Multimodal Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Pilar</namePart>
+        <namePart type="given">Manchón</namePart>
+        <namePart type="family">Portillo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Guillermo</namePart>
+        <namePart type="given">Pérez</namePart>
+        <namePart type="family">Garcia</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gabriel</namePart>
+        <namePart type="given">de</namePart>
+        <namePart type="given">Amores</namePart>
+        <namePart type="family">Carredano</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">portillo-etal-2005-woz</identifier>
+    <location>
+        <url>http://semdial.org/anthology/020_Portillo_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="morante-bunt-2005-micro">
+    <titleInfo>
+        <title>Micro-analysis of the Belief Transfer in Information Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Roser</namePart>
+        <namePart type="family">Morante</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harry</namePart>
+        <namePart type="family">Bunt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">morante-bunt-2005-micro</identifier>
+    <location>
+        <url>http://semdial.org/anthology/022_Morante_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="lesch-etal-2005-new">
+    <titleInfo>
+        <title>A New Metric for the Evaluation of Dialog Act Classification</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Stephan</namePart>
+        <namePart type="family">Lesch</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Thomas</namePart>
+        <namePart type="family">Kleinbauer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jan</namePart>
+        <namePart type="family">Alexanderson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lesch-etal-2005-new</identifier>
+    <location>
+        <url>http://semdial.org/anthology/022_Lesch_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="suszczanska-etal-2005-automatic">
+    <titleInfo>
+        <title>Automatic Analysis of Elliptic Sentences in the Thetos System</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nina</namePart>
+        <namePart type="family">Suszczańska</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julia</namePart>
+        <namePart type="family">Romaniuk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Przemyslaw</namePart>
+        <namePart type="family">Szmal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">suszczanska-etal-2005-automatic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/023_Suszczanska_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="muller-2005-simplified">
+    <titleInfo>
+        <title>Simplified MMAXQL: An Intuitive Query Language for Corpora with Annotations on Multiple Levels</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christoph</namePart>
+        <namePart type="family">Müller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">muller-2005-simplified</identifier>
+    <location>
+        <url>http://semdial.org/anthology/024_Mueller_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="kruijff-korbayova-etal-2005-presentation">
+    <titleInfo>
+        <title>Presentation Strategies for Flexible Multimodal Interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ivana</namePart>
+        <namePart type="family">Kruijff-Korbayová</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nate</namePart>
+        <namePart type="family">Blaylock</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ciprian</namePart>
+        <namePart type="family">Gerstenberger</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Verena</namePart>
+        <namePart type="family">Reiser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tilman</namePart>
+        <namePart type="family">Becker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Kaißer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Peter</namePart>
+        <namePart type="family">Poller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jan</namePart>
+        <namePart type="family">Schehl</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kruijff-korbayova-etal-2005-presentation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/025_KruijffKorbayova_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="hjelm-etal-2005-dj">
+    <titleInfo>
+        <title>Dj GoDiS: Multimodal Menu-based Dialogue in an Asychronous Information State Update System</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Hjelm</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ann-Charlotte</namePart>
+        <namePart type="family">Forslund</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andreas</namePart>
+        <namePart type="family">Wallentin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hjelm-etal-2005-dj</identifier>
+    <location>
+        <url>http://semdial.org/anthology/026_Hjelm_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+<mods ID="loos-porzel-2005-towards">
+    <titleInfo>
+        <title>Towards Ontology-based Pragmatic Analysis</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Berenike</namePart>
+        <namePart type="family">Loos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="family">Porzel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">loos-porzel-2005-towards</identifier>
+    <location>
+        <url>http://semdial.org/anthology/027_Loos_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+</modsCollection>

@@ -44,6 +44,21 @@ gabriel-amores:
   venues:
   - - SEMDIAL
     - 2
+gabriel-de-amores-carredano:
+  coauthors:
+  - - pilar-manchon-portillo
+    - 1
+  - - guillermo-perez-garcia
+    - 1
+  first: Gabriel de Amores
+  full: Gabriel de Amores Carredano
+  last: Carredano
+  papers:
+  - Z05-4020
+  slug: gabriel-de-amores-carredano
+  venues:
+  - - SEMDIAL
+    - 1
 gabriel-g-bes:
   coauthors: []
   first: Gabriel G.
@@ -93,13 +108,13 @@ gabriel-skantze:
   coauthors:
   - - joakim-gustafson
     - 2
-  - - jens-edlund
-    - 1
-  - - anna-hjalmarsson
-    - 1
   - - martin-johansson
     - 1
   - - gustafson
+    - 1
+  - - jens-edlund
+    - 1
+  - - anna-hjalmarsson
     - 1
   first: Gabriel
   full: Gabriel Skantze
@@ -282,12 +297,15 @@ geert-adriaens:
   slug: geert-adriaens
   venues: []
 geert-jan-m-kruijff:
-  coauthors: []
+  coauthors:
+  - - john-kelleher
+    - 1
   first: Geert-Jan M.
   full: Geert-Jan M. Kruijff
   last: Kruijff
   papers:
   - Z12-2003
+  - Z06-2014
   slug: geert-jan-m-kruijff
   variant_entries:
   - first: Geert-Jan
@@ -295,7 +313,7 @@ geert-jan-m-kruijff:
     last: Kruijff
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 gema-ramirez-sanchez:
   coauthors: []
   first: Gema
@@ -574,6 +592,19 @@ gerard-veillon:
   papers: []
   slug: gerard-veillon
   venues: []
+gerard-vreeswijk:
+  coauthors:
+  - - joris-hulstijn
+    - 1
+  first: Gerard
+  full: Gerard Vreeswijk
+  last: Vreeswijk
+  papers:
+  - Z04-3022
+  slug: gerard-vreeswijk
+  venues:
+  - - SEMDIAL
+    - 1
 gerardo-caracas:
   coauthors:
   - - daniele-moro
@@ -1392,14 +1423,40 @@ gregory-finley:
   papers: []
   slug: gregory-finley
   venues: []
+gregory-j-mills:
+  coauthors:
+  - - patrick-healey
+    - 1
+  first: Gregory J.
+  full: Gregory J. Mills
+  last: Mills
+  papers:
+  - Z06-3020
+  slug: gregory-j-mills
+  venues:
+  - - SEMDIAL
+    - 1
 gregory-mills:
   coauthors:
   - - eleni-gregoromichelaki
+    - 2
+  - - arash-eshghi
+    - 1
+  - - christine-howes
+    - 1
+  - - ruth-kempson
+    - 1
+  - - julian-hough
+    - 1
+  - - patrick-healey
+    - 1
+  - - matthew-purver
     - 1
   first: Gregory
   full: Gregory Mills
   last: Mills
   papers:
+  - Z22-3018
   - Z13-4040
   - Z12-4032
   - Z11-4043
@@ -1407,7 +1464,7 @@ gregory-mills:
   slug: gregory-mills
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 gregory-roulet-guiot:
   coauthors: []
   first: "Gr\xE9gory"
@@ -1482,6 +1539,23 @@ guanchun-wang:
   papers:
   - Z14-4033
   slug: guanchun-wang
+  venues:
+  - - SEMDIAL
+    - 1
+guanyu-huang:
+  coauthors:
+  - - teresa-rodriguez-munoz
+    - 1
+  - - emily-ip
+    - 1
+  - - roger-k-moore
+    - 1
+  first: Guanyu
+  full: Guanyu Huang
+  last: Huang
+  papers:
+  - Z22-4038
+  slug: guanyu-huang
   venues:
   - - SEMDIAL
     - 1
@@ -1580,6 +1654,21 @@ guillermo-perez:
   venues:
   - - SEMDIAL
     - 2
+guillermo-perez-garcia:
+  coauthors:
+  - - pilar-manchon-portillo
+    - 1
+  - - gabriel-de-amores-carredano
+    - 1
+  first: "Guillermo P\xE9rez"
+  full: "Guillermo P\xE9rez Garcia"
+  last: Garcia
+  papers:
+  - Z05-4020
+  slug: guillermo-perez-garcia
+  venues:
+  - - SEMDIAL
+    - 1
 guiping-zhang:
   coauthors: []
   first: Guiping
@@ -1636,6 +1725,23 @@ gunnel-kallgren:
   papers: []
   slug: gunnel-kallgren
   venues: []
+gunnvald-svensden:
+  coauthors:
+  - - bente-evjemo
+    - 1
+  - - jan-a-k-johnsen
+    - 1
+  - - svein-bergvik
+    - 1
+  first: Gunnvald
+  full: Gunnvald Svensden
+  last: Svensden
+  papers:
+  - Z04-3020
+  slug: gunnvald-svensden
+  venues:
+  - - SEMDIAL
+    - 1
 gunta-nespore:
   coauthors: []
   first: Gunta

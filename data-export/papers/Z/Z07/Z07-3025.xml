@@ -55,7 +55,7 @@
         </role>
     </name>
     <originInfo>
-        <dateIssued>2007-may-jun</dateIssued>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
     </originInfo>
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
@@ -75,7 +75,7 @@
         <url>http://semdial.org/anthology/Z07-Aist_semdial_0025.pdf</url>
     </location>
     <part>
-        <date>2007-may-jun</date>
+        <date>2007-may&quot;-&quot;jun</date>
     </part>
 </mods>
 </modsCollection>

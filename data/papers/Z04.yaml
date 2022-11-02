@@ -1,0 +1,804 @@
+Z04-1000:
+  address: Barcelona, Spain
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Enric
+    full: "Enric Vallduv\xED"
+    id: enric-vallduvi
+    last: "Vallduv\xED"
+  bibkey: semdial-2004-semantics
+  bibtype: proceedings
+  month: July 19-21
+  paper_id: '1000'
+  parent_volume_id: Z04-1
+  publisher: SEMDIAL
+  title: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  url: http://semdial.org/anthology/000_FrontMatter_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-2001:
+  address: Barcelona, Spain
+  author:
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  bibkey: cooper-2004-type
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July 19-21
+  paper_id: '2001'
+  parent_volume_id: Z04-2
+  publisher: SEMDIAL
+  title: Type theoretic approach to information state update in issue based dialogue
+    management
+  title_html: Type theoretic approach to information state update in issue based dialogue
+    management
+  url: http://semdial.org/anthology/001_Cooper_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-2002:
+  address: Barcelona, Spain
+  author:
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  bibkey: poesio-2004-completions
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July 19-21
+  paper_id: '2002'
+  parent_volume_id: Z04-2
+  publisher: SEMDIAL
+  title: 'Completions and continuations in dialogue: Preliminary observations'
+  title_html: 'Completions and continuations in dialogue: Preliminary observations'
+  url: http://semdial.org/anthology/002_Poesio_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-2003:
+  address: Barcelona, Spain
+  author:
+  - first: Alex
+    full: Alex Rudnicky
+    id: alexander-rudnicky
+    last: Rudnicky
+  bibkey: rudnicky-2004-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July 19-21
+  paper_id: '2003'
+  parent_volume_id: Z04-2
+  publisher: SEMDIAL
+  title: Learning to talk by listening
+  title_html: Learning to talk by listening
+  url: http://semdial.org/anthology/003_Rudnicky_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-2033:
+  address: Barcelona, Spain
+  author:
+  - first: Michael
+    full: Michael Tanenhaus
+    id: michael-tanenhaus
+    last: Tanenhaus
+  - first: Sarah
+    full: Sarah Brown-Schmidt
+    id: sarah-brown-schmidt
+    last: Brown-Schmidt
+  bibkey: tanenhaus-brown-schmidt-2004-real
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July 19-21
+  paper_id: '2033'
+  parent_volume_id: Z04-2
+  publisher: SEMDIAL
+  title: Real-time studies of comprehension and production in dialogue:Insights from
+    eye movements
+  title_html: Real-time studies of comprehension and production in dialogue:Insights
+    from eye movements
+  url: http://semdial.org/anthology/0033_Rudnicky_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3005:
+  address: Barcelona, Spain
+  author:
+  - first: Johan
+    full: Johan Boye
+    id: johan-boye
+    last: Boye
+  - first: Mats
+    full: "Mats Wir\xE9n"
+    id: mats-wiren
+    last: "Wir\xE9n"
+  - first: Joakim
+    full: Joakim Gustafson
+    id: joakim-gustafson
+    last: Gustafson
+  bibkey: boye-etal-2004-contextual
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3005'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: 'Contextual reasoning in multimodal dialogue systems: Two case studies'
+  title_html: 'Contextual reasoning in multimodal dialogue systems: Two case studies'
+  url: http://semdial.org/anthology/004_Boye_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3006:
+  address: Barcelona, Spain
+  author:
+  - first: Stina
+    full: Stina Ericsson
+    id: stina-ericsson
+    last: Ericsson
+  bibkey: ericsson-2004-dynamic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3006'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Dynamic optimisation of information enrichment in dialogue
+  title_html: Dynamic optimisation of information enrichment in dialogue
+  url: http://semdial.org/anthology/005_Ericsson_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3007:
+  address: Barcelona, Spain
+  author:
+  - first: Petra
+    full: Petra Gieselmann
+    id: petra-gieselmann
+    last: Gieselmann
+  bibkey: gieselmann-2004-reference
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3007'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Reference resolution mechanisms in dialogue management
+  title_html: Reference resolution mechanisms in dialogue management
+  url: http://semdial.org/anthology/007_Gieselmann_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3008:
+  address: Barcelona, Spain
+  author:
+  - first: Kirsten
+    full: Kirsten Hadelich
+    id: kirsten-hadelich
+    last: Hadelich
+  - first: Holly
+    full: Holly Branigan
+    id: holly-branigan
+    last: Branigan
+  - first: Martin
+    full: Martin Pickering
+    id: martin-pickering
+    last: Pickering
+  - first: Matthew
+    full: Matthew Crocker
+    id: matthew-crocker
+    last: Crocker
+  bibkey: hadelich-etal-2004-alignment
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3008'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: 'Alignment in dialogue: Effects of visual versus verbal-feedback'
+  title_html: 'Alignment in dialogue: Effects of visual versus verbal-feedback'
+  url: http://semdial.org/anthology/008_Hadelich_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3009:
+  address: Barcelona, Spain
+  author:
+  - first: "Fr\xE9d\xE9ric"
+    full: "Fr\xE9d\xE9ric Landragin"
+    id: frederic-landragin1
+    last: Landragin
+  - first: Laurent
+    full: Laurent Romary
+    id: laurent-romary
+    last: Romary
+  bibkey: landragin-romary-2004-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3009'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Dialogue history modelling for multimodal human-computer interaction
+  title_html: Dialogue history modelling for multimodal human-computer interaction
+  url: http://semdial.org/anthology/009_Landragin_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3010:
+  address: Barcelona, Spain
+  author:
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: lemon-2004-context
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3010'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: 'Context-sensitive speech recognition in Information-State Update dialogue
+    systems: results for the "grammar switching" approach'
+  title_html: 'Context-sensitive speech recognition in Information-State Update dialogue
+    systems: results for the "grammar switching" approach'
+  url: http://semdial.org/anthology/010_Lemon_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3011:
+  address: Barcelona, Spain
+  author:
+  - first: Andy
+    full: Andy Luecking
+    id: andy-luecking
+    last: Luecking
+  - first: Hannes
+    full: Hannes Reiser
+    id: hannes-reiser
+    last: Reiser
+  - first: Jens
+    full: Jens Stegmann
+    id: jens-stegmann
+    last: Stegmann
+  bibkey: luecking-etal-2004-statistical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3011'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: 'Statistical support for the study of structures in multimodal dialogue:
+    inter-rater agreement and synchronisation'
+  title_html: 'Statistical support for the study of structures in multimodal dialogue:
+    inter-rater agreement and synchronisation'
+  url: http://semdial.org/anthology/011_Luecking_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3012:
+  address: Barcelona, Spain
+  author:
+  - first: William
+    full: William Mann
+    id: william-c-mann
+    last: Mann
+  - first: "J\xF6rn"
+    full: "J\xF6rn Kreutel"
+    id: jorn-kreutel
+    last: Kreutel
+  bibkey: mann-kreutel-2004-speech
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3012'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Speech acts and recognition of insincerity
+  title_html: Speech acts and recognition of insincerity
+  url: http://semdial.org/anthology/012_Mann_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3013:
+  address: Barcelona, Spain
+  author:
+  - first: David
+    full: David Milward
+    id: david-milward
+    last: Milward
+  - first: Martin
+    full: Martin Beveridge
+    id: martin-beveridge
+    last: Beveridge
+  bibkey: milward-beveridge-2004-ontologies
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3013'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Ontologies and the structure of dialogue
+  title_html: Ontologies and the structure of dialogue
+  url: http://semdial.org/anthology/013_Milward_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3014:
+  address: Barcelona, Spain
+  author:
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: purver-2004-clarie
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3014'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: 'CLARIE: The Clarification Engine'
+  title_html: 'CLARIE: The Clarification Engine'
+  url: http://semdial.org/anthology/014_Purver_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3015:
+  address: Barcelona, Spain
+  author:
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  bibkey: purver-kempson-2004-incrementality
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3015'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Incrementality, alignment and shared utterances
+  title_html: Incrementality, alignment and shared utterances
+  url: http://semdial.org/anthology/015_Purver_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3016:
+  address: Barcelona, Spain
+  author:
+  - first: Hannes
+    full: Hannes Reiser
+    id: hannes-reiser
+    last: Reiser
+  bibkey: reiser-2004-pointing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3016'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Pointing in Dialogue
+  title_html: Pointing in Dialogue
+  url: http://semdial.org/anthology/016_Rieser_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3017:
+  address: Barcelona, Spain
+  author:
+  - first: Kepa Joseba
+    full: "Kepa Joseba Rodr\xEDguez"
+    id: kepa-joseba-rodriguez
+    last: "Rodr\xEDguez"
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: rodriguez-schlangen-2004-form
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3017'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Form, intonation and function of clarification requests in German task-oriented
+    spoken dialogues
+  title_html: Form, intonation and function of clarification requests in German task-oriented
+    spoken dialogues
+  url: http://semdial.org/anthology/017_Rodriguez_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3018:
+  address: Barcelona, Spain
+  author:
+  - first: Satoko
+    full: Satoko Shiga
+    id: satoko-shiga
+    last: Shiga
+  - first: Seishi
+    full: Seishi Okamoto
+    id: seishi-okamoto
+    last: Okamoto
+  bibkey: shiga-okamoto-2004-case
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3018'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Case-based natural language dialogue system using facial expressions
+  title_html: Case-based natural language dialogue system using facial expressions
+  url: http://semdial.org/anthology/018_Shiga_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3019:
+  address: Barcelona, Spain
+  author:
+  - first: Mannfred
+    full: Mannfred Stede
+    id: mannfred-stede
+    last: Stede
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: stede-schlangen-2004-information
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3019'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: 'Information-seeking chat: Dialogues driven by topic structure'
+  title_html: 'Information-seeking chat: Dialogues driven by topic structure'
+  url: http://semdial.org/anthology/019_Stede_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3020:
+  address: Barcelona, Spain
+  author:
+  - first: Gunnvald
+    full: Gunnvald Svensden
+    id: gunnvald-svensden
+    last: Svensden
+  - first: Bente
+    full: Bente Evjemo
+    id: bente-evjemo
+    last: Evjemo
+  - first: Jan A. K.
+    full: Jan A. K. Johnsen
+    id: jan-a-k-johnsen
+    last: Johnsen
+  - first: Svein
+    full: Svein Bergvik
+    id: svein-bergvik
+    last: Bergvik
+  bibkey: svensden-etal-2004-listener
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3020'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Listener reaction to referential form
+  title_html: Listener reaction to referential form
+  url: http://semdial.org/anthology/020_Svendsen_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3021:
+  address: Barcelona, Spain
+  author:
+  - first: Joel
+    full: Joel Tetrealt
+    id: joel-tetrealt
+    last: Tetrealt
+  - first: James
+    full: James Allen
+    id: james-allen
+    last: Allen
+  bibkey: tetrealt-allen-2004-semantics
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3021'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: Semantics, dialogue, and reference resolution
+  title_html: Semantics, dialogue, and reference resolution
+  url: http://semdial.org/anthology/021_Tetreault_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3022:
+  address: Barcelona, Spain
+  author:
+  - first: Gerard
+    full: Gerard Vreeswijk
+    id: gerard-vreeswijk
+    last: Vreeswijk
+  - first: Joris
+    full: Joris Hulstijn
+    id: joris-hulstijn
+    last: Hulstijn
+  bibkey: vreeswijk-hulstijn-2004-free
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3022'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: A free-format dialogue protocol for multi-party inquiry
+  title_html: A free-format dialogue protocol for multi-party inquiry
+  url: http://semdial.org/anthology/022_Vreeswijk_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-3067:
+  address: Barcelona, Spain
+  author:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: fernandez-purver-2004-information
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July 19-21
+  paper_id: '3067'
+  parent_volume_id: Z04-3
+  publisher: SEMDIAL
+  title: 'Information state update: Semantics or pragmatics?'
+  title_html: 'Information state update: Semantics or pragmatics?'
+  url: http://semdial.org/anthology/006_Fernandez_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4023:
+  address: Barcelona, Spain
+  author:
+  - first: Yafa
+    full: Yafa al-Raheb
+    id: yafa-al-raheb
+    last: al-Raheb
+  bibkey: al-raheb-2004-presupposition
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4023'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: 'Presupposition and belief in DRT: Towards a new implementation'
+  title_html: 'Presupposition and belief in DRT: Towards a new implementation'
+  url: http://semdial.org/anthology/023_Al-Raheb_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4024:
+  address: Barcelona, Spain
+  author:
+  - first: Anton
+    full: Anton Benz
+    id: anton-benz
+    last: Benz
+  bibkey: benz-2004-shared
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4024'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: Shared scoreboards and common information
+  title_html: Shared scoreboards and common information
+  url: http://semdial.org/anthology/024_Benz_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4025:
+  address: Barcelona, Spain
+  author:
+  - first: Fransesca
+    full: Fransesca Carota
+    id: fransesca-carota
+    last: Carota
+  bibkey: carota-2004-effects
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4025'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: On some effects of lexical contrast in information-seeking dialogues
+  title_html: On some effects of lexical contrast in information-seeking dialogues
+  url: http://semdial.org/anthology/025_Carota_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4026:
+  address: Barcelona, Spain
+  author:
+  - first: Olga
+    full: Olga Gerassimenko
+    id: olga-gerassimenko
+    last: Gerassimenko
+  - first: Tiit
+    full: Tiit Hennoste
+    id: tiit-hennoste
+    last: Hennoste
+  - first: Mare
+    full: Mare Koit
+    id: mare-koit
+    last: Koit
+  - first: Andriela
+    full: "Andriela R\xE4\xE4bis"
+    id: andriela-raabis
+    last: "R\xE4\xE4bis"
+  - first: Maret
+    full: Maret Valdisoo
+    id: maret-valdisoo
+    last: Valdisoo
+  bibkey: gerassimenko-etal-2004-developing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4026'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: 'Developing a typology of dialogue acts: Question-answer adjacency pairs
+    in Estonian information dialogues'
+  title_html: 'Developing a typology of dialogue acts: Question-answer adjacency pairs
+    in Estonian information dialogues'
+  url: http://semdial.org/anthology/026_Gerassimenko_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4027:
+  address: Barcelona, Spain
+  author:
+  - first: Alexander
+    full: Alexander Gruenstein
+    id: alexander-gruenstein
+    last: Gruenstein
+  - first: Lawrence
+    full: Lawrence Cavedon
+    id: lawrence-cavedon
+    last: Cavedon
+  - first: John
+    full: John Niekrasz
+    id: john-niekrasz
+    last: Niekrasz
+  - first: Dominic
+    full: Dominic Widdows
+    id: dominic-widdows
+    last: Widdows
+  - first: Stanley
+    full: Stanley Peters
+    id: stanley-peters
+    last: Peters
+  bibkey: gruenstein-etal-2004-managing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4027'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: Managing uncertainty in dialogue information state for real time understanding
+    of multi-human meeting dialogues
+  title_html: Managing uncertainty in dialogue information state for real time understanding
+    of multi-human meeting dialogues
+  url: http://semdial.org/anthology/027_Gruenstein_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4028:
+  address: Barcelona, Spain
+  author:
+  - first: Christian
+    full: Christian Hying
+    id: christian-hying
+    last: Hying
+  - first: Sunna
+    full: Sunna Torge
+    id: sunna-torge
+    last: Torge
+  bibkey: hying-torge-2004-using
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4028'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: Using discourse structure in a dialogue system to search in databases
+  title_html: Using discourse structure in a dialogue system to search in databases
+  url: http://semdial.org/anthology/028_Hying_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4029:
+  address: Barcelona, Spain
+  author:
+  - first: Emar
+    full: Emar Maier
+    id: emar-maier
+    last: Maier
+  - first: Jennifer
+    full: Jennifer Spenadere
+    id: jennifer-spenadere
+    last: Spenadere
+  bibkey: maier-spenadere-2004-unifying
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4029'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: Unifying contrast and denial
+  title_html: Unifying contrast and denial
+  url: http://semdial.org/anthology/029_Maier_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4030:
+  address: Barcelona, Spain
+  author:
+  - first: Nicolas
+    full: Nicolas Maudet
+    id: nicolas-maudet
+    last: Maudet
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  bibkey: maudet-etal-2004-conversational
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4030'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: Conversational gameboard and discourse structure
+  title_html: Conversational gameboard and discourse structure
+  url: http://semdial.org/anthology/030_Maudet_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4031:
+  address: Barcelona, Spain
+  author:
+  - first: Jigish
+    full: Jigish Patel
+    id: jigish-patel
+    last: Patel
+  - first: Robert
+    full: Robert Parker
+    id: robert-parker
+    last: Parker
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: patel-etal-2004-small
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4031'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: Small group discussion simulation for middle level of detail crowds
+  title_html: Small group discussion simulation for middle level of detail crowds
+  url: http://semdial.org/anthology/031_Patel_semdial2004_catalog_proceedings.pdf
+  year: '2004'
+Z04-4032:
+  address: Barcelona, Spain
+  author:
+  - first: Botund
+    full: Botund Pakucs
+    id: botund-pakucs
+    last: Pakucs
+  bibkey: pakucs-2004-employing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July 19-21
+  paper_id: '4032'
+  parent_volume_id: Z04-4
+  publisher: SEMDIAL
+  title: Employing context of use in dialogue processing
+  title_html: Employing context of use in dialogue processing
+  url: http://semdial.org/anthology/032_Pakucs_semdial2004_catalog_proceedings.pdf
+  year: '2004'

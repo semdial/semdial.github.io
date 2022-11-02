@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="cassell-2005-making">
+    <titleInfo>
+        <title>Making (Virtual) Friends and Influencing (Virtual) People</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Justine</namePart>
+        <namePart type="family">Cassell</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun&quot; 9-11&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cassell-2005-making</identifier>
+    <location>
+        <url>http://semdial.org/anthology/001_Cassell_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun&quot; 9-11&quot;</date>
+    </part>
+</mods>
+</modsCollection>

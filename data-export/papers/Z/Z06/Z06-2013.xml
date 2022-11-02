@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="andre-2006-engaging">
+    <titleInfo>
+        <title>Engaging in a Multimodal Dialogue with Embodied Conversational Agents along the Virtuality Continuum</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Elisabeth</namePart>
+        <namePart type="family">André</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2006-sep&quot; 11-13&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">andre-2006-engaging</identifier>
+    <location>
+        <url>http://semdial.org/anthology/013_Andre_semdial2006_brandial_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2006-sep&quot; 11-13&quot;</date>
+    </part>
+</mods>
+</modsCollection>

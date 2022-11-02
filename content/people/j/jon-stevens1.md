@@ -1,5 +1,5 @@
 ---
-lastname: Stevens
+lastname: Stevens,
 name: jon-stevens1
-title: Jon Stevens
+title: Jon Stevens,
 ---

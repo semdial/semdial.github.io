@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="ericsson-2004-dynamic">
+    <titleInfo>
+        <title>Dynamic optimisation of information enrichment in dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Stina</namePart>
+        <namePart type="family">Ericsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul&quot; 19-21&quot;</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ericsson-2004-dynamic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/005_Ericsson_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul&quot; 19-21&quot;</date>
+    </part>
+</mods>
+</modsCollection>

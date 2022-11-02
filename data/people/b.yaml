@@ -107,26 +107,6 @@ barbara-bullock:
   venues: []
 barbara-di-eugenio:
   coauthors:
-  - - cynthia-kersey
-    - 1
-  - - pamela-jordan
-    - 1
-  - - sandra-katz
-    - 1
-  - - rajen-subba
-    - 1
-  first: Barbara
-  full: Barbara Di Eugenio
-  last: Di Eugenio
-  papers:
-  - Z07-4032
-  - Z07-4039
-  slug: barbara-di-eugenio
-  venues:
-  - - SEMDIAL
-    - 2
-barbara-di-eugenio1:
-  coauthors:
   - - abhinav-kumar
     - 1
   - - jillian-aurisano
@@ -146,10 +126,30 @@ barbara-di-eugenio1:
   last: Eugenio
   papers:
   - Z17-3008
-  slug: barbara-di-eugenio1
+  slug: barbara-di-eugenio
   venues:
   - - SEMDIAL
     - 1
+barbara-di-eugenio1:
+  coauthors:
+  - - cynthia-kersey
+    - 1
+  - - pamela-jordan
+    - 1
+  - - sandra-katz
+    - 1
+  - - rajen-subba
+    - 1
+  first: Barbara
+  full: Barbara Di Eugenio
+  last: Di Eugenio
+  papers:
+  - Z07-4032
+  - Z07-4039
+  slug: barbara-di-eugenio1
+  venues:
+  - - SEMDIAL
+    - 2
 barbara-gawronska:
   coauthors: []
   first: Barbara
@@ -507,13 +507,13 @@ benoit-favre:
   coauthors:
   - - simone-fuscone
     - 2
+  - - laurent-prvot
+    - 1
   - - laurent-prevot
     - 1
   - - magalie-ochs
     - 1
   - - laurent-pr-evot
-    - 1
-  - - laurent-prvot
     - 1
   first: Benoit
   full: Benoit Favre
@@ -570,6 +570,23 @@ benoit-sagot:
   papers: []
   slug: benoit-sagot
   venues: []
+bente-evjemo:
+  coauthors:
+  - - gunnvald-svensden
+    - 1
+  - - jan-a-k-johnsen
+    - 1
+  - - svein-bergvik
+    - 1
+  first: Bente
+  full: Bente Evjemo
+  last: Evjemo
+  papers:
+  - Z04-3020
+  slug: bente-evjemo
+  venues:
+  - - SEMDIAL
+    - 1
 bente-maegaard:
   coauthors: []
   first: Bente
@@ -586,6 +603,19 @@ bento-carlos-dias-da-silva:
   papers: []
   slug: bento-carlos-dias-da-silva
   venues: []
+berenike-loos:
+  coauthors:
+  - - robert-porzel
+    - 1
+  first: Berenike
+  full: Berenike Loos
+  last: Loos
+  papers:
+  - Z05-4027
+  slug: berenike-loos
+  venues:
+  - - SEMDIAL
+    - 1
 berfin-aktas:
   coauthors: []
   first: Berfin
@@ -755,6 +785,19 @@ bert-le-bruyn:
   venues:
   - - SEMDIAL
     - 1
+bertrand-gaiffe:
+  coauthors:
+  - - claire-gardent
+    - 1
+  first: Bertrand
+  full: Bertrand Gaiffe
+  last: Gaiffe
+  papers:
+  - Z05-1000
+  slug: bertrand-gaiffe
+  venues:
+  - - SEMDIAL
+    - 1
 beth-ann-hockey:
   coauthors: []
   first: Beth Ann
@@ -829,9 +872,9 @@ biljana-drndarevic:
   venues: []
 bill-noble:
   coauthors:
-  - - asad-sayeed
-    - 2
   - - staffan-larsson
+    - 3
+  - - asad-sayeed
     - 2
   - - vladislav-maraev
     - 1
@@ -841,10 +884,16 @@ bill-noble:
     - 1
   - - kate-viloria
     - 1
+  - - robin-cooper
+    - 1
+  - - fahima-ayub-khan
+    - 1
   first: Bill
   full: Bill Noble
   last: Noble
   papers:
+  - Z22-3020
+  - Z22-4033
   - Z21-3015
   - Z21-3016
   - Z19-4038
@@ -852,7 +901,7 @@ bill-noble:
   slug: bill-noble
   venues:
   - - SEMDIAL
-    - 4
+    - 6
 bill-yuchen-lin:
   coauthors: []
   first: Bill Yuchen
@@ -901,6 +950,21 @@ birte-lonneker:
   papers: []
   slug: birte-lonneker
   venues: []
+bjorn-bringert:
+  coauthors:
+  - - peter-ljunglof
+    - 1
+  - - aarne-ranta
+    - 1
+  first: "Bj\xF6rn"
+  full: "Bj\xF6rn Bringert"
+  last: Bringert
+  papers:
+  - Z05-4010
+  slug: bjorn-bringert
+  venues:
+  - - SEMDIAL
+    - 1
 bjorn-gamback:
   coauthors: []
   first: "Bj\xF6rn"
@@ -909,6 +973,21 @@ bjorn-gamback:
   papers: []
   slug: bjorn-gamback
   venues: []
+bjorn-husberg:
+  coauthors:
+  - - erik-sandewall
+    - 1
+  - - hannes-lindblom
+    - 1
+  first: "Bj\xF6rn"
+  full: "Bj\xF6rn Husberg"
+  last: Husberg
+  papers:
+  - Z05-4012
+  slug: bjorn-husberg
+  venues:
+  - - SEMDIAL
+    - 1
 bjorn-rudzewitz:
   coauthors: []
   first: "Bj\xF6rn"
@@ -1056,7 +1135,7 @@ boris-villazon-terrazas:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - nina-dethlefs
     - 1
@@ -1103,6 +1182,17 @@ borja-navarro:
   papers: []
   slug: borja-navarro
   venues: []
+botund-pakucs:
+  coauthors: []
+  first: Botund
+  full: Botund Pakucs
+  last: Pakucs
+  papers:
+  - Z04-4032
+  slug: botund-pakucs
+  venues:
+  - - SEMDIAL
+    - 1
 boubaker-meddeb-hamrouni:
   coauthors: []
   first: Boubaker

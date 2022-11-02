@@ -88,6 +88,19 @@ lalit-r-bahl:
   papers: []
   slug: lalit-r-bahl
   venues: []
+lalitha-balachandran:
+  coauthors:
+  - - john-duff
+    - 1
+  first: Lalitha
+  full: Lalitha Balachandran
+  last: Balachandran
+  papers:
+  - Z22-3008
+  slug: lalitha-balachandran
+  venues:
+  - - SEMDIAL
+    - 1
 lama-nachman:
   coauthors:
   - - saurav-sahay
@@ -292,8 +305,6 @@ laura-pecchia:
   venues: []
 laure-vieu:
   coauthors:
-  - - ron-artstein
-    - 1
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -321,6 +332,8 @@ laure-vieu:
   - - vladimir-popescu
     - 1
   - - verena-rieser
+    - 1
+  - - ron-artstein
     - 1
   first: Laure
   full: Laure Vieu
@@ -431,6 +444,8 @@ laurent-pr-evot:
     - 1
 laurent-prevot:
   coauthors:
+  - - philippe-muller
+    - 2
   - - roxane-bertrand
     - 2
   - - philippe-blache
@@ -438,6 +453,8 @@ laurent-prevot:
   - - magalie-ochs
     - 1
   - - benoit-favre
+    - 1
+  - - marie-safarova
     - 1
   - - helen-k-y-chen
     - 1
@@ -455,6 +472,8 @@ laurent-prevot:
     - 1
   - - kam-yiu-joe-chan
     - 1
+  - - nicolas-maudet
+    - 1
   first: Laurent
   full: "Laurent Pr\xE9vot"
   last: "Pr\xE9vot"
@@ -464,6 +483,8 @@ laurent-prevot:
   - Z13-4042
   - Z12-4020
   - Z12-4036
+  - Z05-4013
+  - Z04-4030
   slug: laurent-prevot
   variant_entries:
   - first: Laurent
@@ -471,7 +492,7 @@ laurent-prevot:
     last: Prevot
   venues:
   - - SEMDIAL
-    - 5
+    - 7
 laurent-prvot:
   coauthors:
   - - simone-fuscone
@@ -488,13 +509,18 @@ laurent-prvot:
   - - SEMDIAL
     - 1
 laurent-romary:
-  coauthors: []
+  coauthors:
+  - - frederic-landragin1
+    - 1
   first: Laurent
   full: Laurent Romary
   last: Romary
-  papers: []
+  papers:
+  - Z04-3009
   slug: laurent-romary
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 laurent-schmitt:
   coauthors: []
   first: Laurent
@@ -519,6 +545,25 @@ laurie-damianos:
   papers: []
   slug: laurie-damianos
   venues: []
+lawrence-cavedon:
+  coauthors:
+  - - alexander-gruenstein
+    - 1
+  - - john-niekrasz
+    - 1
+  - - dominic-widdows
+    - 1
+  - - stanley-peters
+    - 1
+  first: Lawrence
+  full: Lawrence Cavedon
+  last: Cavedon
+  papers:
+  - Z04-4027
+  slug: lawrence-cavedon
+  venues:
+  - - SEMDIAL
+    - 1
 lawrence-hunter:
   coauthors: []
   first: Lawrence
@@ -806,6 +851,17 @@ liesbeth-degand:
   papers: []
   slug: liesbeth-degand
   venues: []
+lilia-mironovschi:
+  coauthors: []
+  first: Lilia
+  full: Lilia Mironovschi,
+  last: Mironovschi,
+  papers:
+  - Z06-4037
+  slug: lilia-mironovschi
+  venues:
+  - - SEMDIAL
+    - 1
 liliana-mamani-sanchez:
   coauthors: []
   first: Liliana
@@ -855,11 +911,11 @@ lina-m-rojas-barahona:
   - Z07-4038
   slug: lina-m-rojas-barahona
   variant_entries:
-  - first: Lina Maria
-    full: Lina Maria Rojas-Barahona
-    last: Rojas-Barahona
   - first: Lina M.
     full: Lina M. Rojas-Barahona
+    last: Rojas-Barahona
+  - first: Lina Maria
+    full: Lina Maria Rojas-Barahona
     last: Rojas-Barahona
   venues:
   - - SEMDIAL

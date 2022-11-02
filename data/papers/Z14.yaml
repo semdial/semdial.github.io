@@ -490,7 +490,7 @@ Z14-3020:
   author:
   - first: Jon
     full: Jon Stevens
-    id: jon-stevens1
+    id: jon-stevens
     last: Stevens
   - first: Anton
     full: Anton Benz
@@ -525,7 +525,7 @@ Z14-3021:
   author:
   - first: Antoine
     full: Antoine Venant
-    id: antoine-venant1
+    id: antoine-venant
     last: Venant
   - first: Nicholas
     full: Nicholas Asher
@@ -650,7 +650,7 @@ Z14-4024:
     last: Dethlefs
   - first: Heriberto
     full: Heriberto Cuayahuitl
-    id: heriberto-cuayahuitl1
+    id: heriberto-cuayahuitl
     last: Cuayahuitl
   - first: Helen
     full: Helen Hastie
@@ -856,7 +856,7 @@ Z14-4031:
     last: Bouchard
   - first: Heriberto
     full: Heriberto Cuayahuitl
-    id: heriberto-cuayahuitl1
+    id: heriberto-cuayahuitl
     last: Cuayahuitl
   - first: Nina
     full: Nina Dethlefs

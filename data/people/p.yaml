@@ -108,6 +108,29 @@ pablo-gervas:
   papers: []
   slug: pablo-gervas
   venues: []
+palash-nandi:
+  coauthors:
+  - - pinaki-karkun
+    - 1
+  - - chitra-maji
+    - 1
+  - - adrija-karmakar
+    - 1
+  - - protyush-jana
+    - 1
+  - - arunima-roy
+    - 1
+  - - dipankar-das
+    - 1
+  first: Palash
+  full: Palash Nandi
+  last: Nandi
+  papers:
+  - Z22-4043
+  slug: palash-nandi
+  venues:
+  - - SEMDIAL
+    - 1
 paloma-moreda-pozo:
   coauthors: []
   first: Paloma
@@ -134,7 +157,7 @@ pamela-jordan:
     - 1
   - - cynthia-kersey
     - 1
-  - - barbara-di-eugenio
+  - - barbara-di-eugenio1
     - 1
   first: Pamela
   full: Pamela Jordan
@@ -162,7 +185,7 @@ panos-alexopoulos:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - nina-dethlefs
     - 1
@@ -457,23 +480,32 @@ patrick-caudal:
   venues: []
 patrick-ehlen:
   coauthors:
+  - - stanley-peters
+    - 2
   - - matthew-frampton
     - 1
   - - raquel-fernandez
     - 1
   - - anish-adukuzhiyil
     - 1
-  - - stanley-peters
+  - - stephane-laidebeure
+    - 1
+  - - john-niekrasz
+    - 1
+  - - matthew-purver
+    - 1
+  - - john-dowding
     - 1
   first: Patrick
   full: Patrick Ehlen
   last: Ehlen
   papers:
   - Z08-3019
+  - Z06-4039
   slug: patrick-ehlen
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 patrick-g-t:
   coauthors:
   - - t-healey
@@ -490,30 +522,36 @@ patrick-g-t:
 patrick-healey:
   coauthors:
   - - matthew-purver
+    - 4
+  - - julian-hough
     - 3
   - - tom-gurion
     - 2
-  - - julian-hough
+  - - arash-eshghi
+    - 2
+  - - christine-howes
     - 2
   - - shauna-concannon
     - 2
-  - - sophie-skach
-    - 1
-  - - leshao-zhang
-    - 1
   - - jonathan-ginzburg
     - 1
   - - yo-sato
     - 1
-  - - carl-vogel
+  - - gregory-j-mills
     - 1
-  - - arash-eshghi
+  - - eleni-gregoromichelaki
+    - 1
+  - - gregory-mills
+    - 1
+  - - ruth-kempson
+    - 1
+  - - sophie-skach
+    - 1
+  - - leshao-zhang
     - 1
   - - saul-albert
     - 1
   - - nicola-plant
-    - 1
-  - - christine-howes
     - 1
   - - matt-purver
     - 1
@@ -521,10 +559,13 @@ patrick-healey:
     - 1
   - - mary-lavelle
     - 1
+  - - carl-vogel
+    - 1
   first: Patrick
   full: Patrick Healey
   last: Healey
   papers:
+  - Z22-3018
   - Z20-3013
   - Z19-3008
   - Z19-3017
@@ -538,20 +579,21 @@ patrick-healey:
   - Z11-2004
   - Z08-1000
   - Z07-3024
+  - Z06-3020
   slug: patrick-healey
   variant_entries:
-  - first: Patrick G. T.
-    full: Patrick G. T. Healey
-    last: Healey
   - first: Pat
     full: Pat Healey
     last: Healey
   - first: Patrick G.T.
     full: Patrick G.T. Healey
     last: Healey
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    last: Healey
   venues:
   - - SEMDIAL
-    - 13
+    - 15
 patrick-l-lange:
   coauthors:
   - - david-suendermann-oeft
@@ -1089,7 +1131,11 @@ peter-kummel:
   slug: peter-kummel
   venues: []
 peter-ljunglof:
-  coauthors: []
+  coauthors:
+  - - bjorn-bringert
+    - 1
+  - - aarne-ranta
+    - 1
   first: Peter
   full: "Peter Ljungl\xF6f"
   last: "Ljungl\xF6f"
@@ -1097,10 +1143,11 @@ peter-ljunglof:
   - Z09-3017
   - Z09-4022
   - Z08-4031
+  - Z05-4010
   slug: peter-ljunglof
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 peter-machonis:
   coauthors: []
   first: Peter
@@ -1134,7 +1181,7 @@ peter-mika:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - nina-dethlefs
     - 1
@@ -1181,6 +1228,31 @@ peter-pal-boda:
   papers: []
   slug: peter-pal-boda
   venues: []
+peter-poller:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - nate-blaylock
+    - 1
+  - - ciprian-gerstenberger
+    - 1
+  - - verena-reiser
+    - 1
+  - - tilman-becker
+    - 1
+  - - michael-kaisser
+    - 1
+  - - jan-schehl
+    - 1
+  first: Peter
+  full: Peter Poller
+  last: Poller
+  papers:
+  - Z05-4025
+  slug: peter-poller
+  venues:
+  - - SEMDIAL
+    - 1
 peter-rossen-skadhauge:
   coauthors: []
   first: Peter
@@ -1221,6 +1293,19 @@ peter-v-desouza:
   papers: []
   slug: peter-v-desouza
   venues: []
+peter-vlugter:
+  coauthors:
+  - - alistair-knott
+    - 1
+  first: Peter
+  full: Peter Vlugter
+  last: Vlugter
+  papers:
+  - Z06-3004
+  slug: peter-vlugter
+  venues:
+  - - SEMDIAL
+    - 1
 peter-waiganjo-wagacha:
   coauthors: []
   first: Peter Waiganjo
@@ -1315,6 +1400,20 @@ petra-barancikova:
   papers: []
   slug: petra-barancikova
   venues: []
+petra-gieselmann:
+  coauthors:
+  - - alex-waibel
+    - 1
+  first: Petra
+  full: Petra Gieselmann
+  last: Gieselmann
+  papers:
+  - Z05-3006
+  - Z04-3007
+  slug: petra-gieselmann
+  venues:
+  - - SEMDIAL
+    - 2
 petra-maria-strauss:
   coauthors:
   - - simon-friedmann
@@ -1396,6 +1495,17 @@ phil-harrison:
   papers: []
   slug: phil-harrison
   venues: []
+philip-diderichsen:
+  coauthors: []
+  first: Philip
+  full: Philip Diderichsen
+  last: Diderichsen
+  papers:
+  - Z06-3017
+  slug: philip-diderichsen
+  venues:
+  - - SEMDIAL
+    - 1
 philip-edmonds:
   coauthors: []
   first: Philip
@@ -1507,8 +1617,12 @@ philippe-langlais:
   venues: []
 philippe-muller:
   coauthors:
+  - - laurent-prevot
+    - 2
   - - verena-rieser
     - 2
+  - - marie-safarova
+    - 1
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -1535,16 +1649,20 @@ philippe-muller:
     - 1
   - - laure-vieu
     - 1
+  - - nicolas-maudet
+    - 1
   first: Philippe
   full: Philippe Muller
   last: Muller
   papers:
   - Z14-1000
   - Z12-4029
+  - Z05-4013
+  - Z04-4030
   slug: philippe-muller
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 phuong-le-hong:
   coauthors: []
   first: Phuong
@@ -1571,6 +1689,8 @@ pi-chuan-chang:
   venues: []
 pia-knoeferle:
   coauthors:
+  - - monica-rodriguez
+    - 1
   - - dato-abashidze
     - 1
   - - maria-nella-carminati
@@ -1580,10 +1700,11 @@ pia-knoeferle:
   last: Knoeferle
   papers:
   - Z13-4021
+  - Z06-4040
   slug: pia-knoeferle
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 piercarlo-rossi:
   coauthors: []
   first: Piercarlo
@@ -1712,6 +1833,44 @@ pilar-manchon:
   venues:
   - - SEMDIAL
     - 2
+pilar-manchon-portillo:
+  coauthors:
+  - - guillermo-perez-garcia
+    - 1
+  - - gabriel-de-amores-carredano
+    - 1
+  first: "Pilar Manch\xF3n"
+  full: "Pilar Manch\xF3n Portillo"
+  last: Portillo
+  papers:
+  - Z05-4020
+  slug: pilar-manchon-portillo
+  venues:
+  - - SEMDIAL
+    - 1
+pinaki-karkun:
+  coauthors:
+  - - palash-nandi
+    - 1
+  - - chitra-maji
+    - 1
+  - - adrija-karmakar
+    - 1
+  - - protyush-jana
+    - 1
+  - - arunima-roy
+    - 1
+  - - dipankar-das
+    - 1
+  first: Pinaki
+  full: Pinaki Karkun
+  last: Karkun
+  papers:
+  - Z22-4043
+  slug: pinaki-karkun
+  venues:
+  - - SEMDIAL
+    - 1
 pinar-oezden-wennerberg:
   coauthors: []
   first: Pinar
@@ -1761,7 +1920,7 @@ pirros-tsiakoulis:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - nina-dethlefs
     - 1
@@ -2003,3 +2162,41 @@ primoz-jakopin:
   papers: []
   slug: primoz-jakopin
   venues: []
+protyush-jana:
+  coauthors:
+  - - palash-nandi
+    - 1
+  - - pinaki-karkun
+    - 1
+  - - chitra-maji
+    - 1
+  - - adrija-karmakar
+    - 1
+  - - arunima-roy
+    - 1
+  - - dipankar-das
+    - 1
+  first: Protyush
+  full: Protyush Jana
+  last: Jana
+  papers:
+  - Z22-4043
+  slug: protyush-jana
+  venues:
+  - - SEMDIAL
+    - 1
+przemyslaw-szmal:
+  coauthors:
+  - - nina-suszczanska
+    - 1
+  - - julia-romaniuk
+    - 1
+  first: Przemyslaw
+  full: Przemyslaw Szmal
+  last: Szmal
+  papers:
+  - Z05-4023
+  slug: przemyslaw-szmal
+  venues:
+  - - SEMDIAL
+    - 1

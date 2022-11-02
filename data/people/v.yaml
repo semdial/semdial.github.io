@@ -183,6 +183,31 @@ vera-silfversparre:
   venues:
   - - SEMDIAL
     - 1
+verena-reiser:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - nate-blaylock
+    - 1
+  - - ciprian-gerstenberger
+    - 1
+  - - tilman-becker
+    - 1
+  - - michael-kaisser
+    - 1
+  - - peter-poller
+    - 1
+  - - jan-schehl
+    - 1
+  first: Verena
+  full: Verena Reiser
+  last: Reiser
+  papers:
+  - Z05-4025
+  slug: verena-reiser
+  venues:
+  - - SEMDIAL
+    - 1
 verena-rieser:
   coauthors:
   - - oliver-lemon
@@ -197,7 +222,7 @@ verena-rieser:
     - 2
   - - nina-dethlefs
     - 2
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 2
   - - helen-hastie
     - 2
@@ -479,18 +504,19 @@ vidas-daudaravicius:
 vidya-somashekarappa:
   coauthors:
   - - christine-howes
-    - 1
+    - 2
   - - asad-sayeed
-    - 1
+    - 2
   first: Vidya
   full: Vidya Somashekarappa
   last: Somashekarappa
   papers:
+  - Z22-4041
   - Z19-4041
   slug: vidya-somashekarappa
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 viet-cuong-nguyen:
   coauthors: []
   first: Viet Cuong
@@ -730,8 +756,6 @@ vladimir-petkevic:
   venues: []
 vladimir-popescu:
   coauthors:
-  - - jean-caelen
-    - 1
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -760,6 +784,8 @@ vladimir-popescu:
     - 1
   - - laure-vieu
     - 1
+  - - jean-caelen
+    - 1
   first: Vladimir
   full: Vladimir Popescu
   last: Popescu
@@ -780,32 +806,35 @@ vladislav-kubon:
   venues: []
 vladislav-maraev:
   coauthors:
-  - - christine-howes
+  - - jonathan-ginzburg
     - 3
   - - chiara-mazzocconi
     - 3
-  - - jonathan-ginzburg
+  - - christine-howes
     - 3
-  - - ellen-breitholtz
-    - 2
   - - jean-philippe-bernardy
     - 2
-  - - arash-eshghi
-    - 1
-  - - julian-hough
-    - 1
+  - - ellen-breitholtz
+    - 2
   - - staffan-larsson
-    - 1
-  - - ye-tian
-    - 1
+    - 2
   - - bill-noble
     - 1
   - - ebba-axelsson-nord
+    - 1
+  - - ye-tian
+    - 1
+  - - andrea-carrion-del-fresno
+    - 1
+  - - arash-eshghi
+    - 1
+  - - julian-hough
     - 1
   first: Vladislav
   full: Vladislav Maraev
   last: Maraev
   papers:
+  - Z22-3006
   - Z21-3015
   - Z21-4020
   - Z20-4030
@@ -816,7 +845,7 @@ vladislav-maraev:
   slug: vladislav-maraev
   venues:
   - - SEMDIAL
-    - 7
+    - 8
 vlado-keselj:
   coauthors: []
   first: Vlado
@@ -839,11 +868,11 @@ volha-petukhova:
     - 6
   - - andrei-malchanau
     - 3
-  - - marcin-wlodarczak
-    - 1
   - - ye-tian
     - 1
   - - ramkumar-aruchamy
+    - 1
+  - - marcin-wlodarczak
     - 1
   first: Volha
   full: Volha Petukhova

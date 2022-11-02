@@ -297,6 +297,8 @@ james-allen:
     - 2
   - - mary-swift
     - 2
+  - - joel-tetrealt
+    - 1
   - - william-de-beaumont
     - 1
   - - sergio-coria
@@ -318,12 +320,18 @@ james-allen:
   papers:
   - Z07-3015
   - Z07-3025
+  - Z06-2001
+  - Z04-3021
   similar:
   - james-allan
   slug: james-allen
+  variant_entries:
+  - first: James F.
+    full: James F. Allen
+    last: Allen
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 james-baker:
   coauthors: []
   first: James
@@ -366,6 +374,10 @@ james-h-martin:
   venues: []
 james-henderson:
   coauthors:
+  - - oliver-lemon
+    - 2
+  - - kallirroi-georgila
+    - 1
   - - helen-hastie
     - 1
   - - marie-aude-aufaure
@@ -374,15 +386,13 @@ james-henderson:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - nina-dethlefs
     - 1
   - - milica-gasic
     - 1
   - - almudena-gonzalez-guimerans
-    - 1
-  - - oliver-lemon
     - 1
   - - xingkun-liu
     - 1
@@ -409,10 +419,11 @@ james-henderson:
   last: Henderson
   papers:
   - Z14-4031
+  - Z05-4011
   slug: james-henderson
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 james-hendler:
   coauthors: []
   first: James
@@ -522,6 +533,54 @@ jamie-kiros:
   papers: []
   slug: jamie-kiros
   venues: []
+jan-a-k-johnsen:
+  coauthors:
+  - - gunnvald-svensden
+    - 1
+  - - bente-evjemo
+    - 1
+  - - svein-bergvik
+    - 1
+  first: Jan A. K.
+  full: Jan A. K. Johnsen
+  last: Johnsen
+  papers:
+  - Z04-3020
+  slug: jan-a-k-johnsen
+  venues:
+  - - SEMDIAL
+    - 1
+jan-alexanderson:
+  coauthors:
+  - - stephan-lesch
+    - 1
+  - - thomas-kleinbauer
+    - 1
+  first: Jan
+  full: Jan Alexanderson
+  last: Alexanderson
+  papers:
+  - Z05-4022
+  slug: jan-alexanderson
+  venues:
+  - - SEMDIAL
+    - 1
+jan-alexandersson:
+  coauthors:
+  - - massimo-romanelli
+    - 1
+  - - tilman-becker
+    - 1
+  first: Jan
+  full: Jan Alexandersson
+  last: Alexandersson
+  papers:
+  - Z06-3002
+  - Z05-4016
+  slug: jan-alexandersson
+  venues:
+  - - SEMDIAL
+    - 2
 jan-curin:
   coauthors: []
   first: Jan
@@ -633,6 +692,31 @@ jan-ptacek:
   papers: []
   slug: jan-ptacek
   venues: []
+jan-schehl:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - nate-blaylock
+    - 1
+  - - ciprian-gerstenberger
+    - 1
+  - - verena-reiser
+    - 1
+  - - tilman-becker
+    - 1
+  - - michael-kaisser
+    - 1
+  - - peter-poller
+    - 1
+  first: Jan
+  full: Jan Schehl
+  last: Schehl
+  papers:
+  - Z05-4025
+  slug: jan-schehl
+  venues:
+  - - SEMDIAL
+    - 1
 jan-tore-lonning:
   coauthors: []
   first: Jan Tore
@@ -683,6 +767,21 @@ jana-gotze:
   venues:
   - - SEMDIAL
     - 2
+jana-gotze1:
+  coauthors:
+  - - karla-friedrichs
+    - 1
+  - - david-schlangen
+    - 1
+  first: Jana
+  full: "Jana Go\u0308tze"
+  last: "Go\u0308tze"
+  papers:
+  - Z22-3015
+  slug: jana-gotze1
+  venues:
+  - - SEMDIAL
+    - 1
 jana-holsanova:
   coauthors:
   - - richard-andersson
@@ -780,11 +879,11 @@ janne-bondi-johannessen:
   venues: []
 janosch-haber:
   coauthors:
+  - - massimo-poesio
+    - 1
   - - elia-bruni
     - 1
   - - raquel-fernandez
-    - 1
-  - - massimo-poesio
     - 1
   first: Janosch
   full: Janosch Haber
@@ -871,7 +970,7 @@ jason-leigh:
     - 1
   - - jillian-aurisano
     - 1
-  - - barbara-di-eugenio1
+  - - barbara-di-eugenio
     - 1
   - - andrew-johnson
     - 1
@@ -1039,6 +1138,19 @@ jean-marie-lancel:
   papers: []
   slug: jean-marie-lancel
   venues: []
+jean-marie-maradndin:
+  coauthors:
+  - - claire-beyssade
+    - 1
+  first: Jean-Marie
+  full: Jean-Marie Maradndin
+  last: Maradndin
+  papers:
+  - Z06-3007
+  slug: jean-marie-maradndin
+  venues:
+  - - SEMDIAL
+    - 1
 jean-mark-gawron:
   coauthors: []
   first: Jean Mark
@@ -1057,16 +1169,21 @@ jean-philippe-bernardy:
     - 1
   - - ye-tian
     - 1
+  - - julian-grove
+    - 1
+  - - christine-howes
+    - 1
   first: Jean-Philippe
   full: Jean-Philippe Bernardy
   last: Bernardy
   papers:
+  - Z22-3013
   - Z20-4030
   - Z18-3011
   slug: jean-philippe-bernardy
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 jean-philippe-guilbaud:
   coauthors: []
   first: Jean-Philippe
@@ -1257,6 +1374,19 @@ jennifer-hay:
   papers: []
   slug: jennifer-hay
   venues: []
+jennifer-spenadere:
+  coauthors:
+  - - emar-maier
+    - 1
+  first: Jennifer
+  full: Jennifer Spenadere
+  last: Spenadere
+  papers:
+  - Z04-4029
+  slug: jennifer-spenadere
+  venues:
+  - - SEMDIAL
+    - 1
 jennifer-stromer-galley:
   coauthors: []
   first: Jennifer
@@ -1338,6 +1468,21 @@ jens-erik-fenstad:
   papers: []
   slug: jens-erik-fenstad
   venues: []
+jens-stegmann:
+  coauthors:
+  - - andy-luecking
+    - 1
+  - - hannes-reiser
+    - 1
+  first: Jens
+  full: Jens Stegmann
+  last: Stegmann
+  papers:
+  - Z04-3011
+  slug: jens-stegmann
+  venues:
+  - - SEMDIAL
+    - 1
 jeong-won-cha:
   coauthors: []
   first: Jeong-Won
@@ -1388,15 +1533,15 @@ jeremy-leixa:
   venues: []
 jeremy-perret:
   coauthors:
-  - - nicholas-asher
-    - 2
   - - stergos-afantenos
     - 2
+  - - nicholas-asher
+    - 2
+  - - alex-lascarides
+    - 1
   - - julie-hunter
     - 1
   - - eric-kow
-    - 1
-  - - alex-lascarides
     - 1
   first: "J\xE9r\xE9my"
   full: "J\xE9r\xE9my Perret"
@@ -1454,6 +1599,19 @@ jerome-goulian:
   papers: []
   slug: jerome-goulian
   venues: []
+jerome-lehuen:
+  coauthors:
+  - - johan-michel
+    - 1
+  first: "J\xE9r\xF4me"
+  full: "J\xE9r\xF4me Lehuen"
+  last: Lehuen
+  papers:
+  - Z05-4019
+  slug: jerome-lehuen
+  venues:
+  - - SEMDIAL
+    - 1
 jerome-vapillon:
   coauthors: []
   first: Jerome
@@ -1502,9 +1660,9 @@ jessica-moszkowicz:
   venues: []
 jessica-villing:
   coauthors:
-  - - ellen-breitholtz
-    - 1
   - - staffan-larsson
+    - 2
+  - - ellen-breitholtz
     - 1
   - - kristina-lundholm-fors
     - 1
@@ -1515,10 +1673,11 @@ jessica-villing:
   - Z11-3011
   - Z09-4023
   - Z08-3018
+  - Z06-4029
   slug: jessica-villing
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 jesus-e-diaz-verdejo:
   coauthors: []
   first: "Jes\xFAs E."
@@ -1723,6 +1882,21 @@ jieun-kiaer:
   venues:
   - - SEMDIAL
     - 1
+jigish-patel:
+  coauthors:
+  - - robert-parker
+    - 1
+  - - david-traum
+    - 1
+  first: Jigish
+  full: Jigish Patel
+  last: Patel
+  papers:
+  - Z04-4031
+  slug: jigish-patel
+  venues:
+  - - SEMDIAL
+    - 1
 jill-boberg:
   coauthors:
   - - carla-gordon
@@ -1754,7 +1928,7 @@ jillian-aurisano:
   coauthors:
   - - abhinav-kumar
     - 1
-  - - barbara-di-eugenio1
+  - - barbara-di-eugenio
     - 1
   - - andrew-johnson
     - 1
@@ -1977,6 +2151,10 @@ joakim-gustafson:
   coauthors:
   - - gabriel-skantze
     - 2
+  - - johan-boye
+    - 1
+  - - mats-wiren
+    - 1
   - - jens-edlund
     - 1
   - - anna-hjalmarsson
@@ -1987,10 +2165,11 @@ joakim-gustafson:
   papers:
   - Z09-1000
   - Z09-4025
+  - Z04-3005
   slug: joakim-gustafson
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 joan-andreu-sanchez:
   coauthors: []
   first: Joan-Andreu
@@ -2072,6 +2251,17 @@ joanna-mrozinski:
   papers: []
   slug: joanna-mrozinski
   venues: []
+joanna-raczaszek-leonardi:
+  coauthors: []
+  first: Joanna
+  full: "Joanna Ra\u0328czaszek-Leonardi"
+  last: "Ra\u0328czaszek-Leonardi"
+  papers:
+  - Z22-2001
+  slug: joanna-raczaszek-leonardi
+  venues:
+  - - SEMDIAL
+    - 1
 joanna-szwabe:
   coauthors: []
   first: Joanna
@@ -2243,6 +2433,19 @@ joel-priestley:
   papers: []
   slug: joel-priestley
   venues: []
+joel-tetrealt:
+  coauthors:
+  - - james-allen
+    - 1
+  first: Joel
+  full: Joel Tetrealt
+  last: Tetrealt
+  papers:
+  - Z04-3021
+  slug: joel-tetrealt
+  venues:
+  - - SEMDIAL
+    - 1
 joel-tetreault:
   coauthors: []
   first: Joel
@@ -2275,15 +2478,20 @@ johan-boye:
     - 1
   - - jurgen-konigsmann
     - 1
+  - - mats-wiren
+    - 1
+  - - joakim-gustafson
+    - 1
   first: Johan
   full: Johan Boye
   last: Boye
   papers:
   - Z13-4029
+  - Z04-3005
   slug: johan-boye
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 johan-jeuring:
   coauthors:
   - - raja-lala
@@ -2310,6 +2518,19 @@ johan-jeuring:
   papers:
   - Z18-4031
   slug: johan-jeuring
+  venues:
+  - - SEMDIAL
+    - 1
+johan-michel:
+  coauthors:
+  - - jerome-lehuen
+    - 1
+  first: Johan
+  full: Johan Michel
+  last: Michel
+  papers:
+  - Z05-4019
+  slug: johan-michel
   venues:
   - - SEMDIAL
     - 1
@@ -2388,7 +2609,7 @@ john-bateman:
     - 1
   - - nina-dethlefs
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - kai
     - 1
@@ -2469,7 +2690,7 @@ john-d-kelleher:
   coauthors:
   - - anh-duong-trinh
     - 1
-  - - robert-j-ross
+  - - robert-j-ross1
     - 1
   first: John D
   full: John D Kelleher
@@ -2481,13 +2702,26 @@ john-d-kelleher:
   - - SEMDIAL
     - 1
 john-dowding:
-  coauthors: []
+  coauthors:
+  - - patrick-ehlen
+    - 1
+  - - stephane-laidebeure
+    - 1
+  - - john-niekrasz
+    - 1
+  - - matthew-purver
+    - 1
+  - - stanley-peters
+    - 1
   first: John
   full: John Dowding
   last: Dowding
-  papers: []
+  papers:
+  - Z06-4039
   slug: john-dowding
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 john-dubois:
   coauthors: []
   first: John
@@ -2496,6 +2730,19 @@ john-dubois:
   papers:
   - Z19-4022
   slug: john-dubois
+  venues:
+  - - SEMDIAL
+    - 1
+john-duff:
+  coauthors:
+  - - lalitha-balachandran
+    - 1
+  first: John
+  full: John Duff
+  last: Duff
+  papers:
+  - Z22-3008
+  slug: john-duff
   venues:
   - - SEMDIAL
     - 1
@@ -2600,20 +2847,27 @@ john-kelleher:
     - 2
   - - christos-koniaris
     - 2
+  - - geert-jan-m-kruijff
+    - 1
+  - - robert-j-ross
+    - 1
   - - na-li
     - 1
-  - - robert-j-ross1
+  - - eleni-gregoromichelaki
     - 1
-  - - christine-howes
+  - - julian-hough
     - 1
   - - niels-schuette
     - 1
   - - brian-mac-namee
     - 1
+  - - christine-howes
+    - 1
   first: John
   full: John Kelleher
   last: Kelleher
   papers:
+  - Z22-1000
   - Z21-3013
   - Z19-4032
   - Z19-4033
@@ -2623,6 +2877,7 @@ john-kelleher:
   - Z14-3009
   - Z14-4049
   - Z13-4025
+  - Z06-2014
   slug: john-kelleher
   variant_entries:
   - first: John D.
@@ -2630,7 +2885,7 @@ john-kelleher:
     last: Kelleher
   venues:
   - - SEMDIAL
-    - 9
+    - 11
 john-l-beaven:
   coauthors: []
   first: John L.
@@ -2671,6 +2926,34 @@ john-miller:
   papers: []
   slug: john-miller
   venues: []
+john-niekrasz:
+  coauthors:
+  - - stanley-peters
+    - 2
+  - - patrick-ehlen
+    - 1
+  - - stephane-laidebeure
+    - 1
+  - - matthew-purver
+    - 1
+  - - john-dowding
+    - 1
+  - - alexander-gruenstein
+    - 1
+  - - lawrence-cavedon
+    - 1
+  - - dominic-widdows
+    - 1
+  first: John
+  full: John Niekrasz
+  last: Niekrasz
+  papers:
+  - Z06-4039
+  - Z04-4027
+  slug: john-niekrasz
+  venues:
+  - - SEMDIAL
+    - 2
 john-pestian:
   coauthors: []
   first: John
@@ -2799,6 +3082,31 @@ johnathan-ginzburg:
   venues:
   - - SEMDIAL
     - 1
+jon-chamberlain:
+  coauthors:
+  - - massimo-poesio
+    - 1
+  - - richard-bartle
+    - 1
+  - - julian-hough
+    - 1
+  - - chris-madge
+    - 1
+  - - diego-perez-llebana
+    - 1
+  - - matt-purver
+    - 1
+  - - juntao-yu
+    - 1
+  first: Jon
+  full: Jon Chamberlain
+  last: Chamberlain
+  papers:
+  - Z22-4036
+  slug: jon-chamberlain
+  venues:
+  - - SEMDIAL
+    - 1
 jon-gratch:
   coauthors:
   - - zhou-yu
@@ -2832,13 +3140,13 @@ jon-m-slack:
   venues: []
 jon-oberlander:
   coauthors:
-  - - matthew-henderson
-    - 1
-  - - colin-matheson
-    - 1
   - - arabella-sinclair
     - 1
   - - dragan-gasevic
+    - 1
+  - - matthew-henderson
+    - 1
+  - - colin-matheson
     - 1
   first: Jon
   full: Jon Oberlander
@@ -2880,23 +3188,6 @@ jon-sanchez:
   venues: []
 jon-stevens:
   coauthors:
-  - - sebastian-reusse
-    - 1
-  - - ralf-klabunde
-    - 1
-  - - anton-benz
-    - 1
-  first: Jon
-  full: Jon Stevens,
-  last: Stevens,
-  papers:
-  - Z16-4019
-  slug: jon-stevens
-  venues:
-  - - SEMDIAL
-    - 1
-jon-stevens1:
-  coauthors:
   - - anton-benz
     - 1
   - - sebastian-reusse
@@ -2910,6 +3201,23 @@ jon-stevens1:
   last: Stevens
   papers:
   - Z14-3020
+  slug: jon-stevens
+  venues:
+  - - SEMDIAL
+    - 1
+jon-stevens1:
+  coauthors:
+  - - sebastian-reusse
+    - 1
+  - - ralf-klabunde
+    - 1
+  - - anton-benz
+    - 1
+  first: Jon
+  full: Jon Stevens,
+  last: Stevens,
+  papers:
+  - Z16-4019
   slug: jon-stevens1
   venues:
   - - SEMDIAL
@@ -2953,24 +3261,24 @@ jonathan-g-fiscus:
   venues: []
 jonathan-ginzburg:
   coauthors:
+  - - andy-lucking
+    - 4
   - - vladislav-maraev
     - 3
   - - ye-tian
     - 3
+  - - jean-philippe-bernardy
+    - 2
+  - - alafate-abulimiti
+    - 2
+  - - sara-moradlou
+    - 2
   - - chiara-mazzocconi
     - 2
   - - staffan-larsson
     - 2
-  - - jean-philippe-bernardy
-    - 2
   - - kwong-cheong-wong
     - 2
-  - - andy-lucking
-    - 2
-  - - sara-moradlou
-    - 2
-  - - christopher-cash
-    - 1
   - - patrick-healey
     - 1
   - - yo-sato
@@ -2979,28 +3287,39 @@ jonathan-ginzburg:
     - 1
   - - james-pustejovsky
     - 1
-  - - alafate-abulimiti
+  - - zoran-macura
     - 1
   - - justine-cassell
     - 1
   - - robin-cooper
     - 1
+  - - zulipiye-yusupujiang
+    - 1
+  - - raquel-fernandez
+    - 1
+  - - christopher-cash
+    - 1
   - - sarah-brown-schmidt
-    - 1
-  - - ye-tian1
-    - 1
-  - - claire-beyssade
-    - 1
-  - - yannick-mathieu
     - 1
   - - david-schlangen
     - 1
   - - julian-hough
     - 1
+  - - claire-beyssade
+    - 1
+  - - yannick-mathieu
+    - 1
+  - - enric-vallduvi
+    - 1
+  - - ye-tian1
+    - 1
   first: Jonathan
   full: Jonathan Ginzburg
   last: Ginzburg
   papers:
+  - Z22-3004
+  - Z22-3007
+  - Z22-3009
   - Z21-3004
   - Z20-1000
   - Z20-3008
@@ -3021,10 +3340,13 @@ jonathan-ginzburg:
   - Z10-2002
   - Z08-1000
   - Z07-3012
+  - Z06-3019
+  - Z05-4014
+  - Z04-1000
   slug: jonathan-ginzburg
   venues:
   - - SEMDIAL
-    - 20
+    - 26
 jonathan-h-clark:
   coauthors: []
   first: Jonathan H.
@@ -3235,6 +3557,33 @@ jorgen-villadsen:
   papers: []
   slug: jorgen-villadsen
   venues: []
+joris-hulstijn:
+  coauthors:
+  - - gerard-vreeswijk
+    - 1
+  first: Joris
+  full: Joris Hulstijn
+  last: Hulstijn
+  papers:
+  - Z06-4030
+  - Z04-3022
+  slug: joris-hulstijn
+  venues:
+  - - SEMDIAL
+    - 2
+jorn-kreutel:
+  coauthors:
+  - - william-c-mann
+    - 1
+  first: "J\xF6rn"
+  full: "J\xF6rn Kreutel"
+  last: Kreutel
+  papers:
+  - Z04-3012
+  slug: jorn-kreutel
+  venues:
+  - - SEMDIAL
+    - 1
 jort-florent-gemmeke:
   coauthors: []
   first: Jort Florent
@@ -3632,6 +3981,19 @@ jozef-juhar:
   papers: []
   slug: jozef-juhar
   venues: []
+jp-de-ruiter:
+  coauthors:
+  - - charles-threlkeld
+    - 1
+  first: JP de
+  full: JP de Ruiter
+  last: Ruiter
+  papers:
+  - Z22-4035
+  slug: jp-de-ruiter
+  venues:
+  - - SEMDIAL
+    - 1
 ju-yeon-ryu:
   coauthors: []
   first: Ju-yeon
@@ -3792,6 +4154,8 @@ judith-fischer:
     - 1
 judith-holler:
   coauthors:
+  - - rachel-stevens
+    - 1
   - - paul-homke
     - 1
   - - stephen-c-levinson
@@ -3802,10 +4166,11 @@ judith-holler:
   papers:
   - Z18-2001
   - Z15-4032
+  - Z06-4034
   slug: judith-holler
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 judith-l-klavans:
   coauthors: []
   first: Judith L.
@@ -3890,17 +4255,51 @@ julia-peltason:
   venues:
   - - SEMDIAL
     - 1
+julia-romaniuk:
+  coauthors:
+  - - nina-suszczanska
+    - 1
+  - - przemyslaw-szmal
+    - 1
+  first: Julia
+  full: Julia Romaniuk
+  last: Romaniuk
+  papers:
+  - Z05-4023
+  slug: julia-romaniuk
+  venues:
+  - - SEMDIAL
+    - 1
+julian-grove:
+  coauthors:
+  - - jean-philippe-bernardy
+    - 1
+  - - christine-howes
+    - 1
+  first: Julian
+  full: Julian Grove
+  last: Grove
+  papers:
+  - Z22-3013
+  slug: julian-grove
+  venues:
+  - - SEMDIAL
+    - 1
 julian-hough:
   coauthors:
   - - matthew-purver
-    - 8
+    - 9
   - - christine-howes
-    - 5
+    - 6
   - - david-schlangen
     - 5
+  - - eleni-gregoromichelaki
+    - 4
   - - arash-eshghi
-    - 3
+    - 4
   - - ruth-kempson
+    - 4
+  - - patrick-healey
     - 3
   - - mehrnoosh-sadrzadeh
     - 3
@@ -3908,24 +4307,8 @@ julian-hough:
     - 3
   - - stefan-kopp
     - 3
-  - - eleni-gregoromichelaki
-    - 2
   - - tom-gurion
     - 2
-  - - patrick-healey
-    - 2
-  - - casey-kennington
-    - 1
-  - - shamila-nasreen
-    - 1
-  - - gijs-wijnholds
-    - 1
-  - - vladislav-maraev
-    - 1
-  - - chiara-mazzocconi
-    - 1
-  - - andrew-lewis-smith
-    - 1
   - - jorge-del-bosque-trevino
     - 1
   - - stergios-chatzikyriakidis
@@ -3938,11 +4321,35 @@ julian-hough:
     - 1
   - - md-mabrur-husan-dihyat
     - 1
-  - - felix-hulsmann
+  - - john-kelleher
     - 1
-  - - thomas-waltema
+  - - gregory-mills
     - 1
-  - - mario-botsch
+  - - massimo-poesio
+    - 1
+  - - richard-bartle
+    - 1
+  - - jon-chamberlain
+    - 1
+  - - chris-madge
+    - 1
+  - - diego-perez-llebana
+    - 1
+  - - matt-purver
+    - 1
+  - - juntao-yu
+    - 1
+  - - casey-kennington
+    - 1
+  - - shamila-nasreen
+    - 1
+  - - gijs-wijnholds
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - andrew-lewis-smith
     - 1
   - - rose-mccabe
     - 1
@@ -3952,10 +4359,19 @@ julian-hough:
     - 1
   - - ye-tian
     - 1
+  - - felix-hulsmann
+    - 1
+  - - thomas-waltema
+    - 1
+  - - mario-botsch
+    - 1
   first: Julian
   full: Julian Hough
   last: Hough
   papers:
+  - Z22-1000
+  - Z22-3018
+  - Z22-4036
   - Z21-4023
   - Z20-3005
   - Z20-3013
@@ -3979,7 +4395,7 @@ julian-hough:
   slug: julian-hough
   venues:
   - - SEMDIAL
-    - 20
+    - 23
 julian-j-odell:
   coauthors: []
   first: Julian J.
@@ -3992,13 +4408,13 @@ julian-j-schloder:
   coauthors:
   - - raquel-fernandez
     - 3
+  - - alex-lascarides
+    - 1
   - - ellen-breitholtz
     - 1
-  - - antoine-venant
+  - - antoine-venant1
     - 1
   - - nicholas-asher
-    - 1
-  - - alex-lascarides
     - 1
   first: Julian J.
   full: "Julian J. Schl\xF6der"
@@ -4088,10 +4504,6 @@ julie-e-boland:
   venues: []
 julie-hunter:
   coauthors:
-  - - mandy-simmons
-    - 1
-  - - matthew-stone
-    - 1
   - - nicholas-asher
     - 1
   - - eric-kow
@@ -4099,6 +4511,10 @@ julie-hunter:
   - - jeremy-perret
     - 1
   - - stergos-afantenos
+    - 1
+  - - mandy-simmons
+    - 1
+  - - matthew-stone
     - 1
   first: Julie
   full: Julie Hunter
@@ -4246,6 +4662,31 @@ junping-gong:
   papers: []
   slug: junping-gong
   venues: []
+juntao-yu:
+  coauthors:
+  - - massimo-poesio
+    - 1
+  - - richard-bartle
+    - 1
+  - - jon-chamberlain
+    - 1
+  - - julian-hough
+    - 1
+  - - chris-madge
+    - 1
+  - - diego-perez-llebana
+    - 1
+  - - matt-purver
+    - 1
+  first: Juntao
+  full: Juntao Yu
+  last: Yu
+  papers:
+  - Z22-4036
+  slug: juntao-yu
+  venues:
+  - - SEMDIAL
+    - 1
 junya-tsutsumi:
   coauthors: []
   first: Junya
@@ -4335,10 +4776,12 @@ justine-cassell:
   papers:
   - Z21-3004
   - Z13-3020
+  - Z05-2001
+  - Z05-2002
   slug: justine-cassell
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 justus-c-roux:
   coauthors: []
   first: Justus C.

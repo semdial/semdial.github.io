@@ -1,0 +1,685 @@
+Z05-1000:
+  address: Nancy, France
+  author:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Bertrand
+    full: Bertrand Gaiffe
+    id: bertrand-gaiffe
+    last: Gaiffe
+  bibkey: semdial-2005-semantics
+  bibtype: proceedings
+  month: June 9-11
+  paper_id: '1000'
+  parent_volume_id: Z05-1
+  publisher: SEMDIAL
+  title: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  url: http://semdial.org/anthology/semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-2001:
+  address: Nancy, France
+  author:
+  - first: Justine
+    full: Justine Cassell
+    id: justine-cassell
+    last: Cassell
+  bibkey: cassell-2005-making
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June 9-11
+  paper_id: '2001'
+  parent_volume_id: Z05-2
+  publisher: SEMDIAL
+  title: Making (Virtual) Friends and Influencing (Virtual) People
+  title_html: Making (Virtual) Friends and Influencing (Virtual) People
+  url: http://semdial.org/anthology/001_Cassell_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-2002:
+  address: Nancy, France
+  author:
+  - first: Justine
+    full: Justine Cassell
+    id: justine-cassell
+    last: Cassell
+  bibkey: cassell-2005-making-virtual
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June 9-11
+  paper_id: '2002'
+  parent_volume_id: Z05-2
+  publisher: SEMDIAL
+  title: Making (Virtual) Friends and Influencing (Virtual) People
+  title_html: Making (Virtual) Friends and Influencing (Virtual) People
+  url: http://semdial.org/anthology/002_Jaeger_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-3004:
+  address: Nancy, France
+  author:
+  - first: Maria
+    full: Maria Aloni
+    id: maria-aloni
+    last: Aloni
+  bibkey: aloni-2005-utility
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June 9-11
+  paper_id: '3004'
+  parent_volume_id: Z05-3
+  publisher: SEMDIAL
+  title: Utility and Implicatures of Imperatives
+  title_html: Utility and Implicatures of Imperatives
+  url: http://semdial.org/anthology/004_Aloni_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-3005:
+  address: Nancy, France
+  author:
+  - first: Nanda
+    full: Nanda Slabbers
+    id: nanda-slabbers
+    last: Slabbers
+  - first: Alistair
+    full: Alistair Knott
+    id: alistair-knott
+    last: Knott
+  bibkey: slabbers-knott-2005-system
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June 9-11
+  paper_id: '3005'
+  parent_volume_id: Z05-3
+  publisher: SEMDIAL
+  title: A System for Generating Teaching Initiatives in a Computer Aided Language
+    Learning Dialogue
+  title_html: A System for Generating Teaching Initiatives in a Computer Aided Language
+    Learning Dialogue
+  url: http://semdial.org/anthology/005_Slabbers_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-3006:
+  address: Nancy, France
+  author:
+  - first: Petra
+    full: Petra Gieselmann
+    id: petra-gieselmann
+    last: Gieselmann
+  - first: Alex
+    full: Alex Waibel
+    id: alex-waibel
+    last: Waibel
+  bibkey: gieselmann-waibel-2005-makes
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June 9-11
+  paper_id: '3006'
+  parent_volume_id: Z05-3
+  publisher: SEMDIAL
+  title: What Makes Human-Robot Dialogues Struggle?
+  title_html: What Makes Human-Robot Dialogues Struggle?
+  url: http://semdial.org/anthology/006_Gieselmann_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-3007:
+  address: Nancy, France
+  author:
+  - first: Karolina
+    full: Karolina Eliasson
+    id: karolina-eliasson
+    last: Eliasson
+  bibkey: eliasson-2005-integrating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June 9-11
+  paper_id: '3007'
+  parent_volume_id: Z05-3
+  publisher: SEMDIAL
+  title: Integrating a Discourse Model with a Learning Case-Based Reasoning System
+  title_html: Integrating a Discourse Model with a Learning Case-Based Reasoning System
+  url: http://semdial.org/anthology/007_Eliasson_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-3008:
+  address: Nancy, France
+  author:
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  - first: Yann
+    full: Yann Girard
+    id: yann-girard
+    last: Girard
+  bibkey: bunt-girard-2005-designing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June 9-11
+  paper_id: '3008'
+  parent_volume_id: Z05-3
+  publisher: SEMDIAL
+  title: Designing an Open Multidimensional Dialogue Act Taxonomy
+  title_html: Designing an Open Multidimensional Dialogue Act Taxonomy
+  url: http://semdial.org/anthology/008_Bunt_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-3009:
+  address: Nancy, France
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: larsson-2005-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: June 9-11
+  paper_id: '3009'
+  parent_volume_id: Z05-3
+  publisher: SEMDIAL
+  title: 'Dialogue Systems: Simulations or Interfaces?'
+  title_html: 'Dialogue Systems: Simulations or Interfaces?'
+  url: http://semdial.org/anthology/009_Larsson_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4010:
+  address: Nancy, France
+  author:
+  - first: "Bj\xF6rn"
+    full: "Bj\xF6rn Bringert"
+    id: bjorn-bringert
+    last: Bringert
+  - first: Peter
+    full: "Peter Ljungl\xF6f"
+    id: peter-ljunglof
+    last: "Ljungl\xF6f"
+  - first: Aarne
+    full: Aarne Ranta
+    id: aarne-ranta
+    last: Ranta
+  bibkey: bringert-etal-2005-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4010'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Multimodal Dialogue System Grammars
+  title_html: Multimodal Dialogue System Grammars
+  url: http://semdial.org/anthology/010_Bringert_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4011:
+  address: Nancy, France
+  author:
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  bibkey: georgila-etal-2005-automatic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4011'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Automatic Annotation of COMMUNICATOR Dialogue Data for Learning Dialogue
+    Strategies and User Simulations
+  title_html: Automatic Annotation of COMMUNICATOR Dialogue Data for Learning Dialogue
+    Strategies and User Simulations
+  url: http://semdial.org/anthology/011_Georgila_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4012:
+  address: Nancy, France
+  author:
+  - first: Erik
+    full: Erik Sandewall
+    id: erik-sandewall
+    last: Sandewall
+  - first: Hannes
+    full: Hannes Lindblom
+    id: hannes-lindblom
+    last: Lindblom
+  - first: "Bj\xF6rn"
+    full: "Bj\xF6rn Husberg"
+    id: bjorn-husberg
+    last: Husberg
+  bibkey: sandewall-etal-2005-integration
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4012'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Integration of Live Video in a System for Natural Language Dialog with a
+    Robot
+  title_html: Integration of Live Video in a System for Natural Language Dialog with
+    a Robot
+  url: http://semdial.org/anthology/012_Sandewall_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4013:
+  address: Nancy, France
+  author:
+  - first: Marie
+    full: "Marie \u0160af\xE1rov\xE1"
+    id: marie-safarova
+    last: "\u0160af\xE1rov\xE1"
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  bibkey: safarova-etal-2005-discourse
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4013'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: The Discourse Function of Final Rises in French Dialogues
+  title_html: The Discourse Function of Final Rises in French Dialogues
+  url: http://semdial.org/anthology/013_Safarova_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4014:
+  address: Nancy, France
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: ginzburg-fernandez-2005-action
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4014'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: 'Action at a Distance: The Difference Between Dialogue and Multilogue'
+  title_html: 'Action at a Distance: The Difference Between Dialogue and Multilogue'
+  url: http://semdial.org/anthology/014_Ginzburg_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4015:
+  address: Nancy, France
+  author:
+  - first: Nick
+    full: Nick Webb
+    id: nick-webb
+    last: Webb
+  - first: Mark
+    full: Mark Hepple
+    id: mark-hepple
+    last: Hepple
+  - first: Yorick
+    full: Yorick Wilks
+    id: yorick-wilks
+    last: Wilks
+  bibkey: webb-etal-2005-empirical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4015'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Empirical Determination of Thresholds for Optimal Dialogue Act Classification
+  title_html: Empirical Determination of Thresholds for Optimal Dialogue Act Classification
+  url: http://semdial.org/anthology/015_Webb_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4016:
+  address: Nancy, France
+  author:
+  - first: Massimo
+    full: Massimo Romanelli
+    id: massimo-romanelli
+    last: Romanelli
+  - first: Tilman
+    full: Tilman Becker
+    id: tilman-becker
+    last: Becker
+  - first: Jan
+    full: Jan Alexandersson
+    id: jan-alexandersson
+    last: Alexandersson
+  bibkey: romanelli-etal-2005-plurals
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4016'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: On Plurals and Overlay
+  title_html: On Plurals and Overlay
+  url: http://semdial.org/anthology/016_Romanelli_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4017:
+  address: Nancy, France
+  author:
+  - first: Henk
+    full: Henk Zeevat
+    id: henk-zeevat
+    last: Zeevat
+  bibkey: zeevat-2005-conditional
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4017'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Conditional Anaphora
+  title_html: Conditional Anaphora
+  url: http://semdial.org/anthology/017_Zeevat_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4018:
+  address: Nancy, France
+  author:
+  - first: E. G.
+    full: E. G. Bard
+    id: e-g-bard
+    last: Bard
+  - first: A. H.
+    full: A. H. Anderson
+    id: a-h-anderson
+    last: Anderson
+  - first: Y.
+    full: Y. Chen
+    id: y-chen
+    last: Chen
+  - first: H.
+    full: H. Nicholsen
+    id: h-nicholsen
+    last: Nicholsen
+  - first: C.
+    full: C. Havard
+    id: c-havard
+    last: Havard
+  bibkey: bard-etal-2005-enquiries
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4018'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: 'Let''s You Do That: Enquiries into the Cognitive Burdens of Dialogue'
+  title_html: 'Let''s You Do That: Enquiries into the Cognitive Burdens of Dialogue'
+  url: http://semdial.org/anthology/018_Bard_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4019:
+  address: Nancy, France
+  author:
+  - first: Johan
+    full: Johan Michel
+    id: johan-michel
+    last: Michel
+  - first: "J\xE9r\xF4me"
+    full: "J\xE9r\xF4me Lehuen"
+    id: jerome-lehuen
+    last: Lehuen
+  bibkey: michel-lehuen-2005-robust
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4019'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Robust Semantic Interpretation and Dialog Management in the Contect of a
+    CALL Application
+  title_html: Robust Semantic Interpretation and Dialog Management in the Contect
+    of a CALL Application
+  url: http://semdial.org/anthology/019_Michel_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4020:
+  address: Nancy, France
+  author:
+  - first: "Pilar Manch\xF3n"
+    full: "Pilar Manch\xF3n Portillo"
+    id: pilar-manchon-portillo
+    last: Portillo
+  - first: "Guillermo P\xE9rez"
+    full: "Guillermo P\xE9rez Garcia"
+    id: guillermo-perez-garcia
+    last: Garcia
+  - first: Gabriel de Amores
+    full: Gabriel de Amores Carredano
+    id: gabriel-de-amores-carredano
+    last: Carredano
+  bibkey: portillo-etal-2005-woz
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4020'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: WOZ Experiments in Multimodal Dialogue Systems
+  title_html: WOZ Experiments in Multimodal Dialogue Systems
+  url: http://semdial.org/anthology/020_Portillo_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4021:
+  address: Nancy, France
+  author:
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  bibkey: morante-bunt-2005-micro
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4021'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Micro-analysis of the Belief Transfer in Information Dialogues
+  title_html: Micro-analysis of the Belief Transfer in Information Dialogues
+  url: http://semdial.org/anthology/022_Morante_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4022:
+  address: Nancy, France
+  author:
+  - first: Stephan
+    full: Stephan Lesch
+    id: stephan-lesch
+    last: Lesch
+  - first: Thomas
+    full: Thomas Kleinbauer
+    id: thomas-kleinbauer
+    last: Kleinbauer
+  - first: Jan
+    full: Jan Alexanderson
+    id: jan-alexanderson
+    last: Alexanderson
+  bibkey: lesch-etal-2005-new
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4022'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: A New Metric for the Evaluation of Dialog Act Classification
+  title_html: A New Metric for the Evaluation of Dialog Act Classification
+  url: http://semdial.org/anthology/022_Lesch_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4023:
+  address: Nancy, France
+  author:
+  - first: Nina
+    full: "Nina Suszcza\u0144ska"
+    id: nina-suszczanska
+    last: "Suszcza\u0144ska"
+  - first: Julia
+    full: Julia Romaniuk
+    id: julia-romaniuk
+    last: Romaniuk
+  - first: Przemyslaw
+    full: Przemyslaw Szmal
+    id: przemyslaw-szmal
+    last: Szmal
+  bibkey: suszczanska-etal-2005-automatic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4023'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Automatic Analysis of Elliptic Sentences in the Thetos System
+  title_html: Automatic Analysis of Elliptic Sentences in the Thetos System
+  url: http://semdial.org/anthology/023_Suszczanska_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4024:
+  address: Nancy, France
+  author:
+  - first: Christoph
+    full: "Christoph M\xFCller"
+    id: christoph-muller
+    last: "M\xFCller"
+  bibkey: muller-2005-simplified
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4024'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: 'Simplified MMAXQL: An Intuitive Query Language for Corpora with Annotations
+    on Multiple Levels'
+  title_html: 'Simplified MMAXQL: An Intuitive Query Language for Corpora with Annotations
+    on Multiple Levels'
+  url: http://semdial.org/anthology/024_Mueller_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4025:
+  address: Nancy, France
+  author:
+  - first: Ivana
+    full: "Ivana Kruijff-Korbayov\xE1"
+    id: ivana-kruijff-korbayova
+    last: "Kruijff-Korbayov\xE1"
+  - first: Nate
+    full: Nate Blaylock
+    id: nate-blaylock
+    last: Blaylock
+  - first: Ciprian
+    full: Ciprian Gerstenberger
+    id: ciprian-gerstenberger
+    last: Gerstenberger
+  - first: Verena
+    full: Verena Reiser
+    id: verena-reiser
+    last: Reiser
+  - first: Tilman
+    full: Tilman Becker
+    id: tilman-becker
+    last: Becker
+  - first: Michael
+    full: "Michael Kai\xDFer"
+    id: michael-kaisser
+    last: "Kai\xDFer"
+  - first: Peter
+    full: Peter Poller
+    id: peter-poller
+    last: Poller
+  - first: Jan
+    full: Jan Schehl
+    id: jan-schehl
+    last: Schehl
+  bibkey: kruijff-korbayova-etal-2005-presentation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4025'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Presentation Strategies for Flexible Multimodal Interaction
+  title_html: Presentation Strategies for Flexible Multimodal Interaction
+  url: http://semdial.org/anthology/025_KruijffKorbayova_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4026:
+  address: Nancy, France
+  author:
+  - first: David
+    full: David Hjelm
+    id: david-hjelm
+    last: Hjelm
+  - first: Ann-Charlotte
+    full: Ann-Charlotte Forslund
+    id: ann-charlotte-forslund
+    last: Forslund
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Andreas
+    full: Andreas Wallentin
+    id: andreas-wallentin
+    last: Wallentin
+  bibkey: hjelm-etal-2005-dj
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4026'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: 'Dj GoDiS: Multimodal Menu-based Dialogue in an Asychronous Information State
+    Update System'
+  title_html: 'Dj GoDiS: Multimodal Menu-based Dialogue in an Asychronous Information
+    State Update System'
+  url: http://semdial.org/anthology/026_Hjelm_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-4027:
+  address: Nancy, France
+  author:
+  - first: Berenike
+    full: Berenike Loos
+    id: berenike-loos
+    last: Loos
+  - first: Robert
+    full: Robert Porzel
+    id: robert-porzel
+    last: Porzel
+  bibkey: loos-porzel-2005-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: June 9-11
+  paper_id: '4027'
+  parent_volume_id: Z05-4
+  publisher: SEMDIAL
+  title: Towards Ontology-based Pragmatic Analysis
+  title_html: Towards Ontology-based Pragmatic Analysis
+  url: http://semdial.org/anthology/027_Loos_semdial2005_dialor_proceedings.pdf
+  year: '2005'

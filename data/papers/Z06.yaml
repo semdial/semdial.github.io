@@ -1,0 +1,1148 @@
+Z06-1000:
+  address: Potsdam, Germany
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: semdial-2006-semantics
+  bibtype: proceedings
+  month: September 11-13
+  paper_id: '1000'
+  parent_volume_id: Z06-1
+  publisher: SEMDIAL
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2006_brandial_front_matter.pdf
+  year: '2006'
+Z06-2001:
+  address: Potsdam, Germany
+  author:
+  - first: James F.
+    full: James F. Allen
+    id: james-allen
+    last: Allen
+  bibkey: allen-2006-robust
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September 11-13
+  paper_id: '2001'
+  parent_volume_id: Z06-2
+  publisher: SEMDIAL
+  title: A Robust Dialogue Agent for Collaborative Problem Solving
+  title_html: A Robust Dialogue Agent for Collaborative Problem Solving
+  url: http://semdial.org/anthology/001_Allen_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-2009:
+  address: Potsdam, Germany
+  author:
+  - first: Manfred
+    full: Manfred Krifka
+    id: manfred-krifka
+    last: Krifka
+  bibkey: krifka-2006-question
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September 11-13
+  paper_id: '2009'
+  parent_volume_id: Z06-2
+  publisher: SEMDIAL
+  title: Question-Answer Congruence and the Proper Representation of Focus
+  title_html: Question-Answer Congruence and the Proper Representation of Focus
+  url: http://semdial.org/anthology/009_Krifke_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-2013:
+  address: Potsdam, Germany
+  author:
+  - first: Elisabeth
+    full: "Elisabeth Andr\xE9"
+    id: elisabeth-andre
+    last: "Andr\xE9"
+  bibkey: andre-2006-engaging
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September 11-13
+  paper_id: '2013'
+  parent_volume_id: Z06-2
+  publisher: SEMDIAL
+  title: Engaging in a Multimodal Dialogue with Embodied Conversational Agents along
+    the Virtuality Continuum
+  title_html: Engaging in a Multimodal Dialogue with Embodied Conversational Agents
+    along the Virtuality Continuum
+  url: http://semdial.org/anthology/013_Andre_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-2014:
+  address: Potsdam, Germany
+  author:
+  - first: Geert-Jan M.
+    full: Geert-Jan M. Kruijff
+    id: geert-jan-m-kruijff
+    last: Kruijff
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  bibkey: kruijff-kelleher-2006-handling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September 11-13
+  paper_id: '2014'
+  parent_volume_id: Z06-2
+  publisher: SEMDIAL
+  title: Handling Spatial Reference in Visually-Situated Dialogs
+  title_html: Handling Spatial Reference in Visually-Situated Dialogs
+  url: http://semdial.org/anthology/014_Kruijff_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-2021:
+  address: Potsdam, Germany
+  author:
+  - first: Emanuel
+    full: Emanuel Schegloff
+    id: emanuel-schegloff
+    last: Schegloff
+  bibkey: schegloff-2006-uh
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September 11-13
+  paper_id: '2021'
+  parent_volume_id: Z06-2
+  publisher: SEMDIAL
+  title: On "Uh" and "Uhm" and some of the Things They are Used to Do
+  title_html: On "Uh" and "Uhm" and some of the Things They are Used to Do
+  url: http://semdial.org/anthology/021_Schegloff_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3002:
+  address: Potsdam, Germany
+  author:
+  - first: Jan
+    full: Jan Alexandersson
+    id: jan-alexandersson
+    last: Alexandersson
+  bibkey: alexandersson-2006-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3002'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Towards Resolving Referring Expressions by Implicitly Activated Referents
+    in Practical Dialogue Systems
+  title_html: Towards Resolving Referring Expressions by Implicitly Activated Referents
+    in Practical Dialogue Systems
+  url: http://semdial.org/anthology/002_Pfleger_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3003:
+  address: Potsdam, Germany
+  author:
+  - first: Myroslava O.
+    full: Myroslava O. Dzikovska
+    id: myroslava-o-dzikovska
+    last: Dzikovska
+  - first: Charles B.
+    full: Charles B. Callaway
+    id: charles-b-callaway
+    last: Callaway
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  bibkey: dzikovska-etal-2006-understanding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3003'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Understanding student input for tutorial dialogue in procedural domains
+  title_html: Understanding student input for tutorial dialogue in procedural domains
+  url: http://semdial.org/anthology/003_Dzikovska_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3004:
+  address: Potsdam, Germany
+  author:
+  - first: Peter
+    full: Peter Vlugter
+    id: peter-vlugter
+    last: Vlugter
+  - first: Alistair
+    full: Alistair Knott
+    id: alistair-knott
+    last: Knott
+  bibkey: vlugter-knott-2006-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3004'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: A multi-speaker dialogue system for computer-aided language learning
+  title_html: A multi-speaker dialogue system for computer-aided language learning
+  url: http://semdial.org/anthology/004_Vlugter_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3005:
+  address: Potsdam, Germany
+  author:
+  - first: Elena
+    full: Elena Karagjosova
+    id: elena-karagjosova
+    last: Karagjosova
+  bibkey: karagjosova-2006-correction
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3005'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Correction and acceptance by contrastive focus
+  title_html: Correction and acceptance by contrastive focus
+  url: http://semdial.org/anthology/005_Karagjosova_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3006:
+  address: Potsdam, Germany
+  author:
+  - first: Kavita E.
+    full: Kavita E. Thomas
+    id: kavita-e-thomas
+    last: Thomas
+  bibkey: thomas-2006-modelling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3006'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Modelling Correction Signalled by "But" in Dialogue
+  title_html: Modelling Correction Signalled by "But" in Dialogue
+  url: http://semdial.org/anthology/006_Thomas_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3007:
+  address: Potsdam, Germany
+  author:
+  - first: Claire
+    full: Claire Beyssade
+    id: claire-beyssade
+    last: Beyssade
+  - first: Jean-Marie
+    full: Jean-Marie Maradndin
+    id: jean-marie-maradndin
+    last: Maradndin
+  bibkey: beyssade-maradndin-2006-complex
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3007'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: 'From Complex to Simple Speech Acts: a Bidimensional Analysis of Illocutionary
+    Forces'
+  title_html: 'From Complex to Simple Speech Acts: a Bidimensional Analysis of Illocutionary
+    Forces'
+  url: http://semdial.org/anthology/007_Beyssade_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3008:
+  address: Potsdam, Germany
+  author:
+  - first: Yurie
+    full: Yurie Hara
+    id: yurie-hara
+    last: Hara
+  bibkey: hara-2006-question
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3008'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Question Intonation and Lexicalized Bias Expression
+  title_html: Question Intonation and Lexicalized Bias Expression
+  url: http://semdial.org/anthology/008_Hara_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3010:
+  address: Potsdam, Germany
+  author:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  bibkey: artstein-poesio-2006-identifying
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3010'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Identifying reference to abstract objects in dialogue
+  title_html: Identifying reference to abstract objects in dialogue
+  url: http://semdial.org/anthology/010_Artstein_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3011:
+  address: Potsdam, Germany
+  author:
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  bibkey: lascarides-stone-2006-formal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3011'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Formal Semantics for Iconic Gesture
+  title_html: Formal Semantics for Iconic Gesture
+  url: http://semdial.org/anthology/011_Lascarides_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3012:
+  address: Potsdam, Germany
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  - first: Marc
+    full: Marc Staudacher
+    id: marc-staudacher
+    last: Staudacher
+  bibkey: lucking-etal-2006-understanding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3012'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Understanding student input for tutorial dialogue in procedural domains
+  title_html: Understanding student input for tutorial dialogue in procedural domains
+  url: http://semdial.org/anthology/012_Luecking_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3015:
+  address: Potsdam, Germany
+  author:
+  - first: Alfred
+    full: Alfred Kranstedt
+    id: alfred-kranstedt
+    last: Kranstedt
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Thies
+    full: Thies Thies
+    id: thies-thies
+    last: Thies
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  - first: Marc
+    full: Marc Staudacher
+    id: marc-staudacher
+    last: Staudacher
+  bibkey: kranstedt-etal-2006-measuring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3015'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Measuring and Reconstructing Pointing in Visual Contexts
+  title_html: Measuring and Reconstructing Pointing in Visual Contexts
+  url: http://semdial.org/anthology/015_Kranstedt_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3016:
+  address: Potsdam, Germany
+  author:
+  - first: Kirsten
+    full: Kirsten Bergmann
+    id: kirsten-bergmann
+    last: Bergmann
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: bergmann-kopp-2006-verbal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3016'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Verbal or visual? How information is distributed across speech and gesture
+    in spatial dialog
+  title_html: Verbal or visual? How information is distributed across speech and gesture
+    in spatial dialog
+  url: http://semdial.org/anthology/016_Bergmann_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3017:
+  address: Potsdam, Germany
+  author:
+  - first: Philip
+    full: Philip Diderichsen
+    id: philip-diderichsen
+    last: Diderichsen
+  bibkey: diderichsen-2006-cross
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3017'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Cross Recurrence Quantification Analysis of indefinite anaphora in Swedish
+    dialog. An eye-tracking pilot experiment
+  title_html: Cross Recurrence Quantification Analysis of indefinite anaphora in Swedish
+    dialog. An eye-tracking pilot experiment
+  url: http://semdial.org/anthology/017_Diderichsen_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3018:
+  address: Potsdam, Germany
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  - first: Marc
+    full: Marc Staudacher
+    id: marc-staudacher
+    last: Staudacher
+  bibkey: lucking-etal-2006-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3018'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Multi-modal Integration for Gesture and Speech
+  title_html: Multi-modal Integration for Gesture and Speech
+  url: http://semdial.org/anthology/018_Luecking_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3019:
+  address: Potsdam, Germany
+  author:
+  - first: Zoran
+    full: Zoran Macura
+    id: zoran-macura
+    last: Macura
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: macura-ginzburg-2006-acquiring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3019'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: 'Acquiring words across generations: introspectively or interactively?'
+  title_html: 'Acquiring words across generations: introspectively or interactively?'
+  url: http://semdial.org/anthology/019_Macura_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3020:
+  address: Potsdam, Germany
+  author:
+  - first: Gregory J.
+    full: Gregory J. Mills
+    id: gregory-j-mills
+    last: Mills
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    id: patrick-healey
+    last: Healey
+  bibkey: mills-healey-2006-clarifying
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3020'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: 'Clarifying spatial descriptions: Local and global effects on semantic co-ordination'
+  title_html: 'Clarifying spatial descriptions: Local and global effects on semantic
+    co-ordination'
+  url: http://semdial.org/anthology/020_Mills_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3022:
+  address: Potsdam, Germany
+  author:
+  - first: Sylvie
+    full: Sylvie Saget
+    id: sylvie-saget
+    last: Saget
+  - first: Marc
+    full: Marc Guyomard
+    id: marc-guyomard
+    last: Guyomard
+  bibkey: saget-guyomard-2006-goal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3022'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Goal-oriented Dialog as a Collaborative Subordinated Activity involving Collective
+    Acceptance
+  title_html: Goal-oriented Dialog as a Collaborative Subordinated Activity involving
+    Collective Acceptance
+  url: http://semdial.org/anthology/022_Saget_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3023:
+  address: Potsdam, Germany
+  author:
+  - first: David
+    full: David DeVault
+    id: david-devault
+    last: DeVault
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  bibkey: devault-stone-2006-scorekeeping
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3023'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Scorekeeping in an Uncertain Language Game
+  title_html: Scorekeeping in an Uncertain Language Game
+  url: http://semdial.org/anthology/023_DeVault_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3024:
+  address: Potsdam, Germany
+  author:
+  - first: Magdalena
+    full: Magdalena Wolska
+    id: magdalena-wolska
+    last: Wolska
+  - first: Ivana
+    full: "Ivana Kruijff-Korbayov\xE1"
+    id: ivana-kruijff-korbayova
+    last: "Kruijff-Korbayov\xE1"
+  bibkey: wolska-kruijff-korbayova-2006-modeling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3024'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Modeling anaphora in informal mathematical dialogue
+  title_html: Modeling anaphora in informal mathematical dialogue
+  url: http://semdial.org/anthology/024_Wolska_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-3025:
+  address: Potsdam, Germany
+  author:
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  - first: Ronnie
+    full: Ronnie Cann
+    id: ronnie-cann
+    last: Cann
+  bibkey: kempson-cann-2006-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September 11-13
+  paper_id: '3025'
+  parent_volume_id: Z06-3
+  publisher: SEMDIAL
+  title: Dialogue pressures and Syntactic Change
+  title_html: Dialogue pressures and Syntactic Change
+  url: http://semdial.org/anthology/025_Kempson_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4026:
+  address: Potsdam, Germany
+  author:
+  - first: Thora
+    full: Thora Tenbrink
+    id: thora-tenbrink
+    last: Tenbrink
+  - first: Shi
+    full: Shi Hui
+    id: shi-hui
+    last: Hui
+  - first: Kerstin
+    full: Kerstin Fischer
+    id: kerstin-fischer
+    last: Fischer
+  bibkey: tenbrink-etal-2006-route
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4026'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Route instruction dialogues with a robotic wheelchair
+  title_html: Route instruction dialogues with a robotic wheelchair
+  url: http://semdial.org/anthology/026_Tenbrink_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4027:
+  address: Potsdam, Germany
+  author:
+  - first: Stephanie
+    full: Stephanie Becker
+    id: stephanie-becker
+    last: Becker
+  - first: Thomas
+    full: Thomas Kleinbauer
+    id: thomas-kleinbauer
+    last: Kleinbauer
+  - first: Stephan
+    full: Stephan Lesch
+    id: stephan-lesch
+    last: Lesch
+  bibkey: becker-etal-2006-visa
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4027'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: VISA - Corpus Annotation with OWL
+  title_html: VISA - Corpus Annotation with OWL
+  url: http://semdial.org/anthology/027_Becker_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4028:
+  address: Potsdam, Germany
+  author:
+  - first: Markus
+    full: Markus Guhe
+    id: markus-guhe
+    last: Guhe
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  - first: Ellen Gurman
+    full: Ellen Gurman Bard
+    id: ellen-gurman-bard
+    last: Bard
+  - first: Max M.
+    full: Max M. Louwerse
+    id: max-m-louwerse
+    last: Louwerse
+  bibkey: guhe-etal-2006-prosodic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4028'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Prosodic marking of contrasts in information structure
+  title_html: Prosodic marking of contrasts in information structure
+  url: http://semdial.org/anthology/028_Guhe_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4029:
+  address: Potsdam, Germany
+  author:
+  - first: Jessica
+    full: Jessica Villing
+    id: jessica-villing
+    last: Villing
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: villing-larsson-2006-dico
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4029'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: 'Dico: A Multimodal Menu-based In-vehicle Dialogue System'
+  title_html: 'Dico: A Multimodal Menu-based In-vehicle Dialogue System'
+  url: http://semdial.org/anthology/029_Villing_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4030:
+  address: Potsdam, Germany
+  author:
+  - first: Joris
+    full: Joris Hulstijn
+    id: joris-hulstijn
+    last: Hulstijn
+  bibkey: hulstijn-2006-accommodating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4030'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Accommodating Social Relationships
+  title_html: Accommodating Social Relationships
+  url: http://semdial.org/anthology/030_Hulstijn_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4031:
+  address: Potsdam, Germany
+  author:
+  - first: Crystal
+    full: Crystal Nakatsu
+    id: crystal-nakatsu
+    last: Nakatsu
+  - first: Chris
+    full: Chris Brew
+    id: chris-brew
+    last: Brew
+  bibkey: nakatsu-brew-2006-effect
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4031'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: The Effect of Multiple Modalities in Dialogue Act Annotation
+  title_html: The Effect of Multiple Modalities in Dialogue Act Annotation
+  url: http://semdial.org/anthology/031_Nakatsu_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4032:
+  address: Potsdam, Germany
+  author:
+  - first: Manuel
+    full: Manuel Kirschner
+    id: manuel-kirschner
+    last: Kirschner
+  bibkey: kirschner-2006-building
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4032'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Building a Multi-Lingual Interactive Question-Answering System for the Library
+    Domain
+  title_html: Building a Multi-Lingual Interactive Question-Answering System for the
+    Library Domain
+  url: http://semdial.org/anthology/033_Yoshida_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4033:
+  address: Potsdam, Germany
+  author:
+  - first: Etsuko
+    full: Etsuko Yoshida
+    id: etsuko-yoshida
+    last: Yoshida
+  bibkey: yoshida-2006-referring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4033'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Referring Expressions and the Local Coherence of Discourse in a Parallel
+    Corpus of English and Japanese Map Task Dialogues
+  title_html: Referring Expressions and the Local Coherence of Discourse in a Parallel
+    Corpus of English and Japanese Map Task Dialogues
+  url: http://semdial.org/anthology/033_Yoshida_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4034:
+  address: Potsdam, Germany
+  author:
+  - first: Judith
+    full: Judith Holler
+    id: judith-holler
+    last: Holler
+  - first: Rachel
+    full: Rachel Stevens
+    id: rachel-stevens
+    last: Stevens
+  bibkey: holler-stevens-2006-speakers
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4034'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: How speakers represent size information in referential communication for
+    knowing and unknowing recipients
+  title_html: How speakers represent size information in referential communication
+    for knowing and unknowing recipients
+  url: http://semdial.org/anthology/034_Holler_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4035:
+  address: Potsdam, Germany
+  author:
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: georgila-lemon-2006-programming
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4035'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: 'Programming by Voice: enhancing adaptivity and robustness of spoken dialogue
+    systems'
+  title_html: 'Programming by Voice: enhancing adaptivity and robustness of spoken
+    dialogue systems'
+  url: http://semdial.org/anthology/035_Georgila_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4036:
+  address: Potsdam, Germany
+  author:
+  - first: Ichiro
+    full: Ichiro Umata
+    id: ichiro-umata
+    last: Umata
+  - first: Sadanori
+    full: Sadanori Ito
+    id: sadanori-ito
+    last: Ito
+  - first: Shoichiro
+    full: Shoichiro Iwasawa
+    id: shoichiro-iwasawa
+    last: Iwasawa
+  - first: Noriko
+    full: Noriko Suzuki
+    id: noriko-suzuki
+    last: Suzuki
+  - first: Tomoji
+    full: Tomoji Toriyama
+    id: tomoji-toriyama
+    last: Toriyama
+  - first: Naomi
+    full: Naomi Inoue
+    id: naomi-inoue
+    last: Inoue
+  - first: Kiyoshi
+    full: Kiyoshi Kogure
+    id: kiyoshi-kogure
+    last: Kogure
+  - first: Kenji
+    full: Kenji Mase
+    id: kenji-mase
+    last: Mase
+  bibkey: umata-etal-2006-non
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4036'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: 'Non-verbal Information in Communication: A Study of Interaction in a Tourist-information
+    Setting'
+  title_html: 'Non-verbal Information in Communication: A Study of Interaction in
+    a Tourist-information Setting'
+  url: http://semdial.org/anthology/036_Umata_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4037:
+  address: Potsdam, Germany
+  author:
+  - first: Lilia
+    full: Lilia Mironovschi,
+    id: lilia-mironovschi
+    last: Mironovschi,
+  bibkey: mironovschi-2006-compliments
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4037'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Compliments in virtual dialogs
+  title_html: Compliments in virtual dialogs
+  url: http://semdial.org/anthology/037_Mironovschi_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4038:
+  address: Potsdam, Germany
+  author:
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Simon
+    full: Simon Keizer
+    id: simon-keizer
+    last: Keizer
+  bibkey: morante-keizer-2006-discus
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4038'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: 'DISCUS: a dialogue simulation and context update system'
+  title_html: 'DISCUS: a dialogue simulation and context update system'
+  url: http://semdial.org/anthology/038_Morante_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4039:
+  address: Potsdam, Germany
+  author:
+  - first: Patrick
+    full: Patrick Ehlen
+    id: patrick-ehlen
+    last: Ehlen
+  - first: Stephane
+    full: Stephane Laidebeure
+    id: stephane-laidebeure
+    last: Laidebeure
+  - first: John
+    full: John Niekrasz
+    id: john-niekrasz
+    last: Niekrasz
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: John
+    full: John Dowding
+    id: john-dowding
+    last: Dowding
+  - first: Stanley
+    full: Stanley Peters
+    id: stanley-peters
+    last: Peters
+  bibkey: ehlen-etal-2006-browsing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4039'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: 'Browsing Meetings: Automatic Understanding, Presentation and Feedback for
+    Multi-Party Conversations'
+  title_html: 'Browsing Meetings: Automatic Understanding, Presentation and Feedback
+    for Multi-Party Conversations'
+  url: http://semdial.org/anthology/039_Ehlen_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4040:
+  address: Potsdam, Germany
+  author:
+  - first: Pia
+    full: Pia Knoeferle
+    id: pia-knoeferle
+    last: Knoeferle
+  - first: Monica
+    full: Monica Rodriguez
+    id: monica-rodriguez
+    last: Rodriguez
+  bibkey: knoeferle-rodriguez-2006-scene
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4040'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: 'Scene-Sentence Integration: Incremental Effects of Mismatch and Scene Complexity'
+  title_html: 'Scene-Sentence Integration: Incremental Effects of Mismatch and Scene
+    Complexity'
+  url: http://semdial.org/anthology/040_Knoeferle_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4041:
+  address: Potsdam, Germany
+  author:
+  - first: Sarah
+    full: Sarah Brown-Schmidt
+    id: sarah-brown-schmidt
+    last: Brown-Schmidt
+  - first: Christine
+    full: Christine Gunlogson
+    id: christine-gunlogson
+    last: Gunlogson
+  - first: Duane G.
+    full: Duane G. Watson
+    id: duane-g-watson
+    last: Watson
+  - first: Michael K.
+    full: Michael K. Tanenhaus
+    id: michael-k-tanenhaus
+    last: Tanenhaus
+  bibkey: brown-schmidt-etal-2006-perspective
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4041'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Perspective guides interpretation of questions, declarative questions and
+    statements in unscripted conversation
+  title_html: Perspective guides interpretation of questions, declarative questions
+    and statements in unscripted conversation
+  url: http://semdial.org/anthology/041_Brown-Schmidt_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4042:
+  address: Potsdam, Germany
+  author:
+  - first: Antonio
+    full: Antonio Roque,
+    id: antonio-roque1
+    last: Roque,
+  - first: Hua
+    full: Hua Ai
+    id: hua-ai
+    last: Ai
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: roque-etal-2006-evaluation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4042'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Evaluation of an Information State-Based Dialogue Manager
+  title_html: Evaluation of an Information State-Based Dialogue Manager
+  url: http://semdial.org/anthology/042_Roque_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4044:
+  address: Potsdam, Germany
+  author:
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Xingkun
+    full: Xingkun Liu
+    id: xingkun-liu
+    last: Liu
+  - first: Daniel
+    full: Daniel Shapiro
+    id: daniel-shapiro
+    last: Shapiro
+  - first: Carl
+    full: Carl Tollander
+    id: carl-tollander
+    last: Tollander
+  bibkey: lemon-etal-2006-hierarchical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4044'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: 'Hierarchical Reinforcement Learning of Dialogue Policies in a development
+    environment for dialogue systems: REALL-DUDE'
+  title_html: 'Hierarchical Reinforcement Learning of Dialogue Policies in a development
+    environment for dialogue systems: REALL-DUDE'
+  url: http://semdial.org/anthology/044_Lemon_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4045:
+  address: Potsdam, Germany
+  author:
+  - first: Stephanie
+    full: Stephanie Becker
+    id: stephanie-becker
+    last: Becker
+  - first: Thomas
+    full: Thomas Kleinbauer
+    id: thomas-kleinbauer
+    last: Kleinbauer
+  - first: Stephan
+    full: Stephan Lesch
+    id: stephan-lesch
+    last: Lesch
+  bibkey: becker-etal-2006-visa-corpus
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4045'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: VISA - Corpus Annotation with OWL
+  title_html: VISA - Corpus Annotation with OWL
+  url: http://semdial.org/anthology/045_Becker_semdial2006_brandial_proceedings.pdf
+  year: '2006'
+Z06-4046:
+  address: Potsdam, Germany
+  author:
+  - first: Antonio
+    full: Antonio Roque,
+    id: antonio-roque1
+    last: Roque,
+  - first: Hua
+    full: Hua Ai
+    id: hua-ai
+    last: Ai
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: roque-etal-2006-evaluation-information
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September 11-13
+  paper_id: '4046'
+  parent_volume_id: Z06-4
+  publisher: SEMDIAL
+  title: Evaluation of an Information State-Based Dialogue Manager
+  title_html: Evaluation of an Information State-Based Dialogue Manager
+  url: http://semdial.org/anthology/046_Roque_semdial2006_brandial_proceedings.pdf
+  year: '2006'

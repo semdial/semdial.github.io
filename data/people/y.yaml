@@ -6,6 +6,25 @@ y-albert-park:
   papers: []
   slug: y-albert-park
   venues: []
+y-chen:
+  coauthors:
+  - - e-g-bard
+    - 1
+  - - a-h-anderson
+    - 1
+  - - h-nicholsen
+    - 1
+  - - c-havard
+    - 1
+  first: Y.
+  full: Y. Chen
+  last: Chen
+  papers:
+  - Z05-4018
+  slug: y-chen
+  venues:
+  - - SEMDIAL
+    - 1
 ya-ting-lin:
   coauthors: []
   first: Ya-Ting
@@ -46,6 +65,17 @@ yael-ravin:
   papers: []
   slug: yael-ravin
   venues: []
+yafa-al-raheb:
+  coauthors: []
+  first: Yafa
+  full: Yafa al-Raheb
+  last: al-Raheb
+  papers:
+  - Z04-4023
+  slug: yafa-al-raheb
+  venues:
+  - - SEMDIAL
+    - 1
 yajuan-lu:
   coauthors: []
   first: Yajuan
@@ -66,12 +96,10 @@ yanchao-yu:
   coauthors:
   - - oliver-lemon
     - 5
-  - - arash-eshghi
-    - 2
   - - verena-rieser
     - 2
-  - - arash-eshghi1
-    - 1
+  - - arash-eshghi
+    - 2
   - - helen-hastie
     - 1
   - - marie-aude-aufaure
@@ -80,7 +108,7 @@ yanchao-yu:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - nina-dethlefs
     - 1
@@ -109,6 +137,8 @@ yanchao-yu:
   - - srinivasan-janarthanam
     - 1
   - - andy-taylor
+    - 1
+  - - arash-eshghi1
     - 1
   first: Yanchao
   full: Yanchao Yu
@@ -196,6 +226,19 @@ yanjiao-li:
   papers:
   - Z13-4038
   slug: yanjiao-li
+  venues:
+  - - SEMDIAL
+    - 1
+yann-girard:
+  coauthors:
+  - - harry-bunt
+    - 1
+  first: Yann
+  full: Yann Girard
+  last: Girard
+  papers:
+  - Z05-3008
+  slug: yann-girard
   venues:
   - - SEMDIAL
     - 1
@@ -357,13 +400,13 @@ yasuhiro-katagiri:
     - 7
 yasunari-harada:
   coauthors:
+  - - miwa-morishita
+    - 1
   - - mayumi-kawamura
     - 1
   - - daisuke-yokomori
     - 1
   - - tomoko-endo
-    - 1
-  - - miwa-morishita
     - 1
   first: Yasunari
   full: Yasunari Harada
@@ -391,21 +434,37 @@ yau-tarng-juang:
   papers: []
   slug: yau-tarng-juang
   venues: []
+ye-liu:
+  coauthors:
+  - - wolfgang-maier
+    - 2
+  - - wolfgang-minker
+    - 2
+  - - stefan-ultes
+    - 2
+  - - yung-ching-yang
+    - 1
+  first: Ye
+  full: Ye Liu
+  last: Liu
+  papers:
+  - Z22-4024
+  - Z22-4034
+  slug: ye-liu
+  venues:
+  - - SEMDIAL
+    - 2
 ye-tian:
   coauthors:
   - - jonathan-ginzburg
     - 3
+  - - volha-petukhova
+    - 1
   - - vladislav-maraev
     - 1
   - - staffan-larsson
     - 1
   - - jean-philippe-bernardy
-    - 1
-  - - volha-petukhova
-    - 1
-  - - claire-beyssade
-    - 1
-  - - yannick-mathieu
     - 1
   - - david-schlangen
     - 1
@@ -416,6 +475,10 @@ ye-tian:
   - - sam-green
     - 1
   - - caspar-addyman
+    - 1
+  - - claire-beyssade
+    - 1
+  - - yannick-mathieu
     - 1
   first: Ye
   full: Ye Tian
@@ -655,13 +718,20 @@ yoong-keok-lee:
   slug: yoong-keok-lee
   venues: []
 yorick-wilks:
-  coauthors: []
+  coauthors:
+  - - nick-webb
+    - 1
+  - - mark-hepple
+    - 1
   first: Yorick
   full: Yorick Wilks
   last: Wilks
-  papers: []
+  papers:
+  - Z05-4015
   slug: yorick-wilks
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 yoshihide-kato:
   coauthors: []
   first: Yoshihide
@@ -1034,6 +1104,25 @@ yun-qian-qu:
   papers: []
   slug: yun-qian-qu
   venues: []
+yung-ching-yang:
+  coauthors:
+  - - ye-liu
+    - 1
+  - - wolfgang-maier
+    - 1
+  - - wolfgang-minker
+    - 1
+  - - stefan-ultes
+    - 1
+  first: Yung-Ching
+  full: Yung-Ching Yang
+  last: Yang
+  papers:
+  - Z22-4034
+  slug: yung-ching-yang
+  venues:
+  - - SEMDIAL
+    - 1
 yung-taek-kim:
   coauthors: []
   first: Yung Taek
@@ -1050,6 +1139,17 @@ yuqing-guo:
   papers: []
   slug: yuqing-guo
   venues: []
+yurie-hara:
+  coauthors: []
+  first: Yurie
+  full: Yurie Hara
+  last: Hara
+  papers:
+  - Z06-3008
+  slug: yurie-hara
+  venues:
+  - - SEMDIAL
+    - 1
 yurii-kuratov:
   coauthors: []
   first: Yurii
@@ -1140,7 +1240,7 @@ yves-vanrompay:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - nina-dethlefs
     - 1
@@ -1176,6 +1276,17 @@ yves-vanrompay:
   papers:
   - Z14-4031
   slug: yves-vanrompay
+  venues:
+  - - SEMDIAL
+    - 1
+yvette-graham:
+  coauthors: []
+  first: Yvette
+  full: Yvette Graham
+  last: Graham
+  papers:
+  - Z22-2003
+  slug: yvette-graham
   venues:
   - - SEMDIAL
     - 1

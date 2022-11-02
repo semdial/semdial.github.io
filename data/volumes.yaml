@@ -1,3 +1,398 @@
+Z04-1:
+  address: Barcelona, Spain
+  editor:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Enric
+    full: "Enric Vallduv\xED"
+    id: enric-vallduvi
+    last: "Vallduv\xED"
+  has_abstracts: false
+  meta_date: '2004'
+  month: July 19-21
+  papers:
+  - Z04-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2004'
+Z04-2:
+  address: Barcelona, Spain
+  editor:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Enric
+    full: "Enric Vallduv\xED"
+    id: enric-vallduvi
+    last: "Vallduv\xED"
+  has_abstracts: false
+  meta_date: '2004'
+  month: July 19-21
+  papers:
+  - Z04-2001
+  - Z04-2002
+  - Z04-2003
+  - Z04-2033
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2004'
+Z04-3:
+  address: Barcelona, Spain
+  editor:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Enric
+    full: "Enric Vallduv\xED"
+    id: enric-vallduvi
+    last: "Vallduv\xED"
+  has_abstracts: false
+  meta_date: '2004'
+  month: July 19-21
+  papers:
+  - Z04-3005
+  - Z04-3006
+  - Z04-3067
+  - Z04-3007
+  - Z04-3008
+  - Z04-3009
+  - Z04-3010
+  - Z04-3011
+  - Z04-3012
+  - Z04-3013
+  - Z04-3014
+  - Z04-3015
+  - Z04-3016
+  - Z04-3017
+  - Z04-3018
+  - Z04-3019
+  - Z04-3020
+  - Z04-3021
+  - Z04-3022
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2004'
+Z04-4:
+  address: Barcelona, Spain
+  editor:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Enric
+    full: "Enric Vallduv\xED"
+    id: enric-vallduvi
+    last: "Vallduv\xED"
+  has_abstracts: false
+  meta_date: '2004'
+  month: July 19-21
+  papers:
+  - Z04-4023
+  - Z04-4024
+  - Z04-4025
+  - Z04-4026
+  - Z04-4027
+  - Z04-4028
+  - Z04-4029
+  - Z04-4030
+  - Z04-4031
+  - Z04-4032
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2004'
+Z05-1:
+  address: Nancy, France
+  editor:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Bertrand
+    full: Bertrand Gaiffe
+    id: bertrand-gaiffe
+    last: Gaiffe
+  has_abstracts: false
+  meta_date: '2005'
+  month: June 9-11
+  papers:
+  - Z05-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2005'
+Z05-2:
+  address: Nancy, France
+  editor:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Bertrand
+    full: Bertrand Gaiffe
+    id: bertrand-gaiffe
+    last: Gaiffe
+  has_abstracts: false
+  meta_date: '2005'
+  month: June 9-11
+  papers:
+  - Z05-2001
+  - Z05-2002
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2005'
+Z05-3:
+  address: Nancy, France
+  editor:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Bertrand
+    full: Bertrand Gaiffe
+    id: bertrand-gaiffe
+    last: Gaiffe
+  has_abstracts: false
+  meta_date: '2005'
+  month: June 9-11
+  papers:
+  - Z05-3004
+  - Z05-3005
+  - Z05-3006
+  - Z05-3007
+  - Z05-3008
+  - Z05-3009
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2005'
+Z05-4:
+  address: Nancy, France
+  editor:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Bertrand
+    full: Bertrand Gaiffe
+    id: bertrand-gaiffe
+    last: Gaiffe
+  has_abstracts: false
+  meta_date: '2005'
+  month: June 9-11
+  papers:
+  - Z05-4010
+  - Z05-4011
+  - Z05-4012
+  - Z05-4013
+  - Z05-4014
+  - Z05-4015
+  - Z05-4016
+  - Z05-4017
+  - Z05-4018
+  - Z05-4019
+  - Z05-4020
+  - Z05-4021
+  - Z05-4022
+  - Z05-4023
+  - Z05-4024
+  - Z05-4025
+  - Z05-4026
+  - Z05-4027
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2005'
+Z06-1:
+  address: Potsdam, Germany
+  editor:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  has_abstracts: false
+  meta_date: '2006'
+  month: September 11-13
+  papers:
+  - Z06-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2006'
+Z06-2:
+  address: Potsdam, Germany
+  editor:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  has_abstracts: false
+  meta_date: '2006'
+  month: September 11-13
+  papers:
+  - Z06-2001
+  - Z06-2009
+  - Z06-2013
+  - Z06-2014
+  - Z06-2021
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2006'
+Z06-3:
+  address: Potsdam, Germany
+  editor:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  has_abstracts: false
+  meta_date: '2006'
+  month: September 11-13
+  papers:
+  - Z06-3002
+  - Z06-3003
+  - Z06-3004
+  - Z06-3005
+  - Z06-3006
+  - Z06-3007
+  - Z06-3008
+  - Z06-3010
+  - Z06-3011
+  - Z06-3012
+  - Z06-3015
+  - Z06-3016
+  - Z06-3017
+  - Z06-3018
+  - Z06-3019
+  - Z06-3020
+  - Z06-3022
+  - Z06-3023
+  - Z06-3024
+  - Z06-3025
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2006'
+Z06-4:
+  address: Potsdam, Germany
+  editor:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  has_abstracts: false
+  meta_date: '2006'
+  month: September 11-13
+  papers:
+  - Z06-4026
+  - Z06-4027
+  - Z06-4028
+  - Z06-4029
+  - Z06-4030
+  - Z06-4031
+  - Z06-4032
+  - Z06-4033
+  - Z06-4034
+  - Z06-4035
+  - Z06-4036
+  - Z06-4037
+  - Z06-4038
+  - Z06-4039
+  - Z06-4040
+  - Z06-4041
+  - Z06-4042
+  - Z06-4044
+  - Z06-4045
+  - Z06-4046
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2006'
 Z07-1:
   address: Roverto, Italy
   editor:
@@ -573,6 +968,10 @@ Z11-1:
     full: David DeVault
     id: david-devault
     last: DeVault
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
   - first: Elsi
     full: Elsi Kaiser
     id: elsi-kaiser
@@ -2190,3 +2589,159 @@ Z21-4:
   venues:
   - SEMDIAL
   year: '2021'
+Z22-1:
+  address: Dublin, Ireland
+  editor:
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  has_abstracts: false
+  meta_date: 2022/8
+  month: August
+  papers:
+  - Z22-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2022'
+Z22-2:
+  address: Dublin, Ireland
+  editor:
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  has_abstracts: false
+  meta_date: 2022/8
+  month: August
+  papers:
+  - Z22-2001
+  - Z22-2002
+  - Z22-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2022'
+Z22-3:
+  address: Dublin, Ireland
+  editor:
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  has_abstracts: false
+  meta_date: 2022/8
+  month: August
+  papers:
+  - Z22-3004
+  - Z22-3005
+  - Z22-3006
+  - Z22-3007
+  - Z22-3008
+  - Z22-3009
+  - Z22-3010
+  - Z22-3011
+  - Z22-3012
+  - Z22-3013
+  - Z22-3014
+  - Z22-3015
+  - Z22-3016
+  - Z22-3017
+  - Z22-3018
+  - Z22-3019
+  - Z22-3020
+  - Z22-3021
+  - Z22-3022
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2022'
+Z22-4:
+  address: Dublin, Ireland
+  editor:
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  has_abstracts: false
+  meta_date: 2022/8
+  month: August
+  papers:
+  - Z22-4023
+  - Z22-4024
+  - Z22-4025
+  - Z22-4026
+  - Z22-4027
+  - Z22-4028
+  - Z22-4029
+  - Z22-4030
+  - Z22-4031
+  - Z22-4032
+  - Z22-4033
+  - Z22-4034
+  - Z22-4035
+  - Z22-4036
+  - Z22-4037
+  - Z22-4038
+  - Z22-4039
+  - Z22-4040
+  - Z22-4041
+  - Z22-4042
+  - Z22-4043
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 26th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2022'

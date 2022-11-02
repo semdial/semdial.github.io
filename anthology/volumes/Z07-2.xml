@@ -12,7 +12,7 @@
         </role>
     </name>
     <originInfo>
-        <dateIssued>2007-may-jun</dateIssued>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
     </originInfo>
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
@@ -32,7 +32,7 @@
         <url>http://semdial.org/anthology/Z07-Bara_semdial_0005.pdf</url>
     </location>
     <part>
-        <date>2007-may-jun</date>
+        <date>2007-may&quot;-&quot;jun</date>
     </part>
 </mods>
 <mods ID="wachsmuth-2007-embodied">
@@ -47,7 +47,7 @@
         </role>
     </name>
     <originInfo>
-        <dateIssued>2007-may-jun</dateIssued>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
     </originInfo>
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
@@ -67,7 +67,7 @@
         <url>http://semdial.org/anthology/Z07-Wachsmuth_semdial_0014.pdf</url>
     </location>
     <part>
-        <date>2007-may-jun</date>
+        <date>2007-may&quot;-&quot;jun</date>
     </part>
 </mods>
 <mods ID="de-mori-2007-recent">
@@ -82,7 +82,7 @@
         </role>
     </name>
     <originInfo>
-        <dateIssued>2007-may-jun</dateIssued>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
     </originInfo>
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
@@ -102,7 +102,7 @@
         <url>http://semdial.org/anthology/Z07-deMori_semdial_0019.pdf</url>
     </location>
     <part>
-        <date>2007-may-jun</date>
+        <date>2007-may&quot;-&quot;jun</date>
     </part>
 </mods>
 <mods ID="piwek-etal-2007-dialogue">
@@ -131,7 +131,7 @@
         </role>
     </name>
     <originInfo>
-        <dateIssued>2007-may-jun</dateIssued>
+        <dateIssued>2007-may&quot;-&quot;jun</dateIssued>
     </originInfo>
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
@@ -151,7 +151,7 @@
         <url>http://semdial.org/anthology/Z07-Piwek_semdial_0021.pdf</url>
     </location>
     <part>
-        <date>2007-may-jun</date>
+        <date>2007-may&quot;-&quot;jun</date>
     </part>
 </mods>
 </modsCollection>
