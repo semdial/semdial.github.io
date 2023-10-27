@@ -174,6 +174,27 @@ lance-ramshaw:
   papers: []
   slug: lance-ramshaw
   venues: []
+lara-bezarra:
+  coauthors:
+  - - mark-higger
+    - 1
+  - - polina-rygina
+    - 1
+  - - logan-daigler
+    - 1
+  - - zhao-han
+    - 1
+  - - tom-williams
+    - 1
+  first: Lara
+  full: Lara Bezarra
+  last: Bezarra
+  papers:
+  - Z23-3015
+  slug: lara-bezarra
+  venues:
+  - - SEMDIAL
+    - 1
 larry-h-reeker:
   coauthors: []
   first: Larry H.
@@ -450,11 +471,9 @@ laurent-prevot:
     - 2
   - - philippe-blache
     - 2
-  - - magalie-ochs
-    - 1
-  - - benoit-favre
-    - 1
   - - marie-safarova
+    - 1
+  - - nicolas-maudet
     - 1
   - - helen-k-y-chen
     - 1
@@ -464,6 +483,10 @@ laurent-prevot:
     - 1
   - - stephane-rauzy
     - 1
+  - - magalie-ochs
+    - 1
+  - - benoit-favre
+    - 1
   - - yao-yao
     - 1
   - - arnaud-gingold
@@ -471,8 +494,6 @@ laurent-prevot:
   - - bernard-bel
     - 1
   - - kam-yiu-joe-chan
-    - 1
-  - - nicolas-maudet
     - 1
   first: Laurent
   full: "Laurent Pr\xE9vot"
@@ -510,7 +531,7 @@ laurent-prvot:
     - 1
 laurent-romary:
   coauthors:
-  - - frederic-landragin1
+  - - frederic-landragin
     - 1
   first: Laurent
   full: Laurent Romary
@@ -848,9 +869,12 @@ liesbeth-degand:
   first: Liesbeth
   full: Liesbeth Degand
   last: Degand
-  papers: []
+  papers:
+  - Z23-2002
   slug: liesbeth-degand
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 lilia-mironovschi:
   coauthors: []
   first: Lilia
@@ -911,15 +935,28 @@ lina-m-rojas-barahona:
   - Z07-4038
   slug: lina-m-rojas-barahona
   variant_entries:
-  - first: Lina M.
-    full: Lina M. Rojas-Barahona
-    last: Rojas-Barahona
   - first: Lina Maria
     full: Lina Maria Rojas-Barahona
+    last: Rojas-Barahona
+  - first: Lina M.
+    full: Lina M. Rojas-Barahona
     last: Rojas-Barahona
   venues:
   - - SEMDIAL
     - 2
+lina-mavrina:
+  coauthors:
+  - - stefan-kopp
+    - 1
+  first: Lina
+  full: Lina Mavrina
+  last: Mavrina
+  papers:
+  - Z23-3008
+  slug: lina-mavrina
+  venues:
+  - - SEMDIAL
+    - 1
 linda-fineman:
   coauthors: []
   first: Linda
@@ -1104,6 +1141,27 @@ lluis-padro:
   papers: []
   slug: lluis-padro
   venues: []
+logan-daigler:
+  coauthors:
+  - - mark-higger
+    - 1
+  - - polina-rygina
+    - 1
+  - - lara-bezarra
+    - 1
+  - - zhao-han
+    - 1
+  - - tom-williams
+    - 1
+  first: Logan
+  full: Logan Daigler
+  last: Daigler
+  papers:
+  - Z23-3015
+  slug: logan-daigler
+  venues:
+  - - SEMDIAL
+    - 1
 loic-boizou:
   coauthors: []
   first: Loic
@@ -1253,19 +1311,19 @@ louis-des-tombe:
   venues: []
 louis-philippe-morency:
   coauthors:
-  - - congkai-sun
-    - 1
   - - zhou-yu
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - jon-gratch
     - 1
   - - giota-stratou
     - 1
   - - justine-cassell
+    - 1
+  - - congkai-sun
     - 1
   first: Louis-Philippe
   full: Louis-Philippe Morency
@@ -1334,6 +1392,23 @@ louisette-emirkanian:
   papers: []
   slug: louisette-emirkanian
   venues: []
+lu-liu:
+  coauthors:
+  - - ryan-ka-yau-lai
+    - 1
+  - - haoran-yan
+    - 1
+  - - john-w-dubois
+    - 1
+  first: Lu
+  full: Lu Liu
+  last: Liu
+  papers:
+  - Z23-4018
+  slug: lu-liu
+  venues:
+  - - SEMDIAL
+    - 1
 luana-fagarasan:
   coauthors: []
   first: Luana
@@ -1447,7 +1522,7 @@ luciana-benotti:
   coauthors:
   - - alexandra-vorobyova
     - 1
-  - - frederic-landragin
+  - - frederic-landragin1
     - 1
   first: Luciana
   full: Luciana Benotti

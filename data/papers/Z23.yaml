@@ -1,0 +1,747 @@
+Z23-1000:
+  address: Maribor, Slovenia
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Darinka.
+    full: Darinka. Verdonik
+    id: darinka-verdonik
+    last: Verdonik
+  bibkey: semdial-2023-semantics
+  bibtype: proceedings
+  month: August
+  paper_id: '1000'
+  parent_volume_id: Z23-1
+  publisher: SEMDIAL
+  title: Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2023_marilogue_front_matter.pdf
+  year: '2023'
+Z23-2001:
+  address: Maribor, Slovenia
+  author:
+  - first: Philippe
+    full: Philippe Blache
+    id: philippe-blache
+    last: Blache
+  bibkey: blache-2023-deep
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2001'
+  parent_volume_id: Z23-2
+  publisher: SEMDIAL
+  title: 'Deep and compositional, or shallow and direct: two routes and one loop for
+    a new approach to language understanding in conversation'
+  title_html: 'Deep and compositional, or shallow and direct: two routes and one loop
+    for a new approach to language understanding in conversation'
+  url: http://semdial.org/anthology/Z23-Blache_semdial_0001.pdf
+  year: '2023'
+Z23-2002:
+  address: Maribor, Slovenia
+  author:
+  - first: Liesbeth
+    full: Liesbeth Degand
+    id: liesbeth-degand
+    last: Degand
+  bibkey: degand-2023-discourse
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2002'
+  parent_volume_id: Z23-2
+  publisher: SEMDIAL
+  title: 'Discourse markers in interaction: distribution and functions'
+  title_html: 'Discourse markers in interaction: distribution and functions'
+  url: http://semdial.org/anthology/Z23-Degand_semdial_0002.pdf
+  year: '2023'
+Z23-2003:
+  address: Maribor, Slovenia
+  author:
+  - first: Marko
+    full: "Marko Robnik-\u0160ikonja"
+    id: marko-robnik-sikonja
+    last: "Robnik-\u0160ikonja"
+  bibkey: robnik-sikonja-2023-challenges
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2003'
+  parent_volume_id: Z23-2
+  publisher: SEMDIAL
+  title: Challenges in explaining machine learning models for text
+  title_html: Challenges in explaining machine learning models for text
+  url: http://semdial.org/anthology/Z23-Robnik-Sikonja_semdial_0003.pdf
+  year: '2023'
+Z23-3004:
+  address: Maribor, Slovenia
+  author:
+  - first: Joanna
+    full: Joanna Kruyt
+    id: joanna-kruyt
+    last: Kruyt
+  - first: "Katar\xEDna"
+    full: "Katar\xEDna Pol\xF3nyiov\xE1"
+    id: katarina-polonyiova
+    last: "Pol\xF3nyiov\xE1"
+  - first: Daniela
+    full: "Daniela Ostatn\xEDkov\xE1"
+    id: daniela-ostatnikova
+    last: "Ostatn\xEDkov\xE1"
+  - first: Stefan
+    full: Stefan Benus
+    id: stefan-benus
+    last: Benus
+  bibkey: kruyt-etal-2023-lexical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3004'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Lexical entrainment on target words during task-oriented interaction in children
+    with and without autism spectrum disorder
+  title_html: Lexical entrainment on target words during task-oriented interaction
+    in children with and without autism spectrum disorder
+  url: http://semdial.org/anthology/Z23-Kruyt_semdial_0004.pdf
+  year: '2023'
+Z23-3005:
+  address: Maribor, Slovenia
+  author:
+  - first: Carol
+    full: Carol Figueroa
+    id: carol-figueroa
+    last: Figueroa
+  - first: Magalie
+    full: Magalie Ochs
+    id: magalie-ochs
+    last: Ochs
+  - first: Gabriel
+    full: Gabriel Skantze
+    id: gabriel-skantze
+    last: Skantze
+  bibkey: figueroa-etal-2023-classification
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3005'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Classification of Feedback Functions in Spoken Dialog Using Large Language
+    Models and Prosodic Features
+  title_html: Classification of Feedback Functions in Spoken Dialog Using Large Language
+    Models and Prosodic Features
+  url: http://semdial.org/anthology/Z23-Figueroa_semdial_0005.pdf
+  year: '2023'
+Z23-3006:
+  address: Maribor, Slovenia
+  author:
+  - first: Ahmad
+    full: Ahmad Jabbar
+    id: ahmad-jabbar
+    last: Jabbar
+  - first: Veda
+    full: Veda Kanamarlapudi
+    id: veda-kanamarlapudi
+    last: Kanamarlapudi
+  bibkey: jabbar-kanamarlapudi-2023-grounding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3006'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Grounding with particles
+  title_html: Grounding with particles
+  url: http://semdial.org/anthology/Z23-Jabbar_semdial_0006.pdf
+  year: '2023'
+Z23-3007:
+  address: Maribor, Slovenia
+  author:
+  - first: Josephine B.
+    full: Josephine B. Fisher
+    id: josephine-b-fisher
+    last: Fisher
+  - first: Amelie S.
+    full: Amelie S. Robrecht
+    id: amelie-s-robrecht
+    last: Robrecht
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  - first: Katharina J.
+    full: Katharina J. Rohlfing
+    id: katharina-j-rohlfing
+    last: Rohlfing
+  bibkey: fisher-etal-2023-exploring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3007'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Exploring the Semantic Dialogue Patterns of Explanations -- a Case Study
+    of Game Explanations
+  title_html: Exploring the Semantic Dialogue Patterns of Explanations -- a Case Study
+    of Game Explanations
+  url: http://semdial.org/anthology/Z23-Fisher_semdial_0007.pdf
+  year: '2023'
+Z23-3008:
+  address: Maribor, Slovenia
+  author:
+  - first: Lina
+    full: Lina Mavrina
+    id: lina-mavrina
+    last: Mavrina
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: mavrina-kopp-2023-predicting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3008'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Predicting grounding state for adaptive explanation generation in analogical
+    problem-solving
+  title_html: Predicting grounding state for adaptive explanation generation in analogical
+    problem-solving
+  url: http://semdial.org/anthology/Z23-Mavrina_semdial_0008.pdf
+  year: '2023'
+Z23-3009:
+  address: Maribor, Slovenia
+  author:
+  - first: Jana
+    full: "Jana G\xF6tze"
+    id: jana-gotze
+    last: "G\xF6tze"
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: gotze-schlangen-2023-say
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3009'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: '``Why Do You Say So?'''' Dialogical Classification Explanations in the Wild
+    and Elicited Through Classification Games'
+  title_html: '``Why Do You Say So?'''' Dialogical Classification Explanations in
+    the Wild and Elicited Through Classification Games'
+  url: http://semdial.org/anthology/Z23-Gotze_semdial_0009.pdf
+  year: '2023'
+Z23-3010:
+  address: Maribor, Slovenia
+  author:
+  - first: Yikai
+    full: Yikai Tseng
+    id: yikai-tseng
+    last: Tseng
+  - first: Takenobu
+    full: Takenobu Tokunaga
+    id: takenobu-tokunaga
+    last: Tokunaga
+  - first: Hikaru
+    full: Hikaru Yokono
+    id: hikaru-yokono
+    last: Yokono
+  bibkey: tseng-etal-2023-lexical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3010'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Lexical Level Alignment in Dialogue
+  title_html: Lexical Level Alignment in Dialogue
+  url: http://semdial.org/anthology/Z23-Tseng_semdial_0010.pdf
+  year: '2023'
+Z23-3011:
+  address: Maribor, Slovenia
+  author:
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  - first: Arash
+    full: Arash Ashrafzadeh
+    id: arash-ashrafzadeh
+    last: Ashrafzadeh
+  bibkey: eshghi-ashrafzadeh-2023-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3011'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Learning to generate and \texttt{corr}- uh I mean \textit{repair} language
+    in real-time
+  title_html: Learning to generate and \texttt{corr}- uh I mean \textit{repair} language
+    in real-time
+  url: http://semdial.org/anthology/Z23-Eshghi_semdial_0011.pdf
+  year: '2023'
+Z23-3012:
+  address: Maribor, Slovenia
+  author:
+  - first: Ryan
+    full: Ryan Whetten
+    id: ryan-whetten
+    last: Whetten
+  - first: Enoch
+    full: Enoch Levandovsky
+    id: enoch-levandovsky
+    last: Levandovsky
+  - first: Mir Tahsin
+    full: Mir Tahsin Imtiaz
+    id: mir-tahsin-imtiaz
+    last: Imtiaz
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  bibkey: whetten-etal-2023-evaluating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3012'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Evaluating Automatic Speech Recognition and Natural Language Understanding
+    in an Incremental Setting
+  title_html: Evaluating Automatic Speech Recognition and Natural Language Understanding
+    in an Incremental Setting
+  url: http://semdial.org/anthology/Z23-Whetten_semdial_0012.pdf
+  year: '2023'
+Z23-3013:
+  address: Maribor, Slovenia
+  author:
+  - first: Mathias
+    full: Mathias Barthel
+    id: mathias-barthel
+    last: Barthel
+  - first: Henrike
+    full: Henrike Helmer
+    id: henrike-helmer
+    last: Helmer
+  - first: Silke
+    full: Silke Reineke
+    id: silke-reineke
+    last: Reineke
+  bibkey: barthel-etal-2023-first
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3013'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: 'First users'' interactions with voice-controlled virtual assistants: A micro-longitudinal
+    corpus study'
+  title_html: 'First users'' interactions with voice-controlled virtual assistants:
+    A micro-longitudinal corpus study'
+  url: http://semdial.org/anthology/Z23-Barthel_semdial_0013.pdf
+  year: '2023'
+Z23-3014:
+  address: Maribor, Slovenia
+  author:
+  - first: Nicholas
+    full: Nicholas Walker
+    id: nicholas-walker
+    last: Walker
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  - first: Pierre
+    full: Pierre Lison
+    id: pierre-lison
+    last: Lison
+  bibkey: walker-etal-2023-retrieval
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3014'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: Retrieval-Augmented Neural Response Generation Using Logical Reasoning and
+    Relevance Scoring
+  title_html: Retrieval-Augmented Neural Response Generation Using Logical Reasoning
+    and Relevance Scoring
+  url: http://semdial.org/anthology/Z23-Walker_semdial_0014.pdf
+  year: '2023'
+Z23-3015:
+  address: Maribor, Slovenia
+  author:
+  - first: Mark
+    full: Mark Higger
+    id: mark-higger
+    last: Higger
+  - first: Polina
+    full: Polina Rygina
+    id: polina-rygina
+    last: Rygina
+  - first: Logan
+    full: Logan Daigler
+    id: logan-daigler
+    last: Daigler
+  - first: Lara
+    full: Lara Bezarra
+    id: lara-bezarra
+    last: Bezarra
+  - first: Zhao
+    full: Zhao Han
+    id: zhao-han
+    last: Han
+  - first: Tom
+    full: Tom Williams
+    id: tom-williams
+    last: Williams
+  bibkey: higger-etal-2023-toward
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3015'
+  parent_volume_id: Z23-3
+  publisher: SEMDIAL
+  title: 'Toward Open-World Human-Robot Interaction: What Types of Gestures Are Used
+    in Task-Based Open-World Referential Communication?'
+  title_html: 'Toward Open-World Human-Robot Interaction: What Types of Gestures Are
+    Used in Task-Based Open-World Referential Communication?'
+  url: http://semdial.org/anthology/Z23-Higger_semdial_0015.pdf
+  year: '2023'
+Z23-4016:
+  address: Maribor, Slovenia
+  author:
+  - first: Amandine
+    full: Amandine Decker
+    id: amandine-decker
+    last: Decker
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: decker-etal-2023-topic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4016'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: Topic and genre in dialogue
+  title_html: Topic and genre in dialogue
+  url: http://semdial.org/anthology/Z23-Decker_semdial_0016.pdf
+  year: '2023'
+Z23-4017:
+  address: Maribor, Slovenia
+  author:
+  - first: Dan
+    full: Dan Green
+    id: dan-green
+    last: Green
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  bibkey: green-eshghi-2023-one
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4017'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: One Signer at a Time? A Corpus Study of Turn-Taking Patterns in Signed Dialogue
+  title_html: One Signer at a Time? A Corpus Study of Turn-Taking Patterns in Signed
+    Dialogue
+  url: http://semdial.org/anthology/Z23-Green_semdial_0017.pdf
+  year: '2023'
+Z23-4018:
+  address: Maribor, Slovenia
+  author:
+  - first: Ryan Ka Yau
+    full: Ryan Ka Yau Lai
+    id: ryan-ka-yau-lai
+    last: Lai
+  - first: Lu
+    full: Lu Liu
+    id: lu-liu
+    last: Liu
+  - first: Haoran
+    full: Haoran Yan
+    id: haoran-yan
+    last: Yan
+  - first: John W.
+    full: John W. Dubois
+    id: john-w-dubois
+    last: Dubois
+  bibkey: lai-etal-2023-position
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4018'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: 'From position to function: Exploring word distributions within intonation
+    units in American English conversation'
+  title_html: 'From position to function: Exploring word distributions within intonation
+    units in American English conversation'
+  url: http://semdial.org/anthology/Z23-Lai_semdial_0018.pdf
+  year: '2023'
+Z23-4019:
+  address: Maribor, Slovenia
+  author:
+  - first: Claire
+    full: Claire To
+    id: claire-to
+    last: To
+  - first: Setareh Nasihati
+    full: Setareh Nasihati Gilani
+    id: setareh-nasihati-gilani
+    last: Gilani
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: to-etal-2023-common
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4019'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: Common Strategy Patterns of Persuasion in a Mission Critical and Time Sensitive
+    Task
+  title_html: Common Strategy Patterns of Persuasion in a Mission Critical and Time
+    Sensitive Task
+  url: http://semdial.org/anthology/Z23-To_semdial_0019.pdf
+  year: '2023'
+Z23-4020:
+  address: Maribor, Slovenia
+  author:
+  - first: Dominik
+    full: "Dominik K\xFCnkele"
+    id: dominik-kunkele
+    last: "K\xFCnkele"
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  bibkey: kunkele-dobnik-2023-referring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4020'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: 'Referring as a collaborative process: learning to ground language through
+    language games'
+  title_html: 'Referring as a collaborative process: learning to ground language through
+    language games'
+  url: http://semdial.org/anthology/Z23-Kunkele_semdial_0020.pdf
+  year: '2023'
+Z23-4021:
+  address: Maribor, Slovenia
+  author:
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: "B\xE9atrice"
+    full: "B\xE9atrice Priego-Valverde"
+    id: beatrice-priego-valverde1
+    last: Priego-Valverde
+  bibkey: mazzocconi-priego-valverde-2023-humour
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4021'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: 'Humour in early interaction: what it can tell us about the child neuro-psychological,
+    reasoning and linguistic development'
+  title_html: 'Humour in early interaction: what it can tell us about the child neuro-psychological,
+    reasoning and linguistic development'
+  url: http://semdial.org/anthology/Z23-Mazzocconi_semdial_0021.pdf
+  year: '2023'
+Z23-4022:
+  address: Maribor, Slovenia
+  author:
+  - first: Alex
+    full: "Alex L\u01B0u"
+    id: alex-luu
+    last: "L\u01B0u"
+  bibkey: luu-2023-characterization
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4022'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: Characterization of Discourse Salience in English Social Dialogs and its
+    Application to Assessing Interactional Competence of Social Dialog Systems
+  title_html: Characterization of Discourse Salience in English Social Dialogs and
+    its Application to Assessing Interactional Competence of Social Dialog Systems
+  url: http://semdial.org/anthology/Z23-Luu_semdial_0022.pdf
+  year: '2023'
+Z23-4023:
+  address: Maribor, Slovenia
+  author:
+  - first: Ryan Ka Yau
+    full: Ryan Ka Yau Lai
+    id: ryan-ka-yau-lai
+    last: Lai
+  bibkey: lai-2023-rezonater
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4023'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: 'rezonateR: An R package for analysing coherence in conversation'
+  title_html: 'rezonateR: An R package for analysing coherence in conversation'
+  url: http://semdial.org/anthology/Z23-Lai_semdial_0023.pdf
+  year: '2023'
+Z23-4024:
+  address: Maribor, Slovenia
+  author:
+  - first: Na
+    full: Na Li
+    id: na-li
+    last: Li
+  - first: Robert
+    full: Robert Ross
+    id: robert-ross
+    last: Ross
+  bibkey: li-ross-2023-framework
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4024'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: A Framework for Confusion Mitigation in Task-Oriented Interactions
+  title_html: A Framework for Confusion Mitigation in Task-Oriented Interactions
+  url: http://semdial.org/anthology/Z23-Li_semdial_0024.pdf
+  year: '2023'
+Z23-4025:
+  address: Maribor, Slovenia
+  author:
+  - first: Brielen
+    full: Brielen Madureira
+    id: brielen-madureira
+    last: Madureira
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: madureira-schlangen-2023-telling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4025'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: '``Are you telling me to put glasses on the dog?'''' Content-Grounded Annotation
+    of Instruction Clarification Requests in the CoDraw Dataset'
+  title_html: '``Are you telling me to put glasses on the dog?'''' Content-Grounded
+    Annotation of Instruction Clarification Requests in the CoDraw Dataset'
+  url: http://semdial.org/anthology/Z23-Madureira_semdial_0025.pdf
+  year: '2023'
+Z23-4026:
+  address: Maribor, Slovenia
+  author:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  bibkey: howes-etal-2023-menstruating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4026'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: 'Menstruating vampires: What talk about taboos can tell us about dialogue'
+  title_html: 'Menstruating vampires: What talk about taboos can tell us about dialogue'
+  url: http://semdial.org/anthology/Z23-Howes_semdial_0026.pdf
+  year: '2023'
+Z23-4027:
+  address: Maribor, Slovenia
+  author:
+  - first: Darinka
+    full: Darinka Verdonik
+    id: darinka-verdonik1
+    last: Verdonik
+  - first: Simona
+    full: "Simona Majheni\u010D"
+    id: simona-majhenic
+    last: "Majheni\u010D"
+  - first: Andreja
+    full: Andreja Bizjak
+    id: andreja-bizjak
+    last: Bizjak
+  bibkey: verdonik-etal-2023-metadiscourse
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4027'
+  parent_volume_id: Z23-4
+  publisher: SEMDIAL
+  title: Are metadiscourse dialogue acts a category on their own?
+  title_html: Are metadiscourse dialogue acts a category on their own?
+  url: http://semdial.org/anthology/Z23-Verdonik_semdial_0027.pdf
+  year: '2023'

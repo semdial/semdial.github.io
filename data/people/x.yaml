@@ -130,10 +130,6 @@ xingkun-liu:
   coauthors:
   - - oliver-lemon
     - 3
-  - - daniel-shapiro
-    - 1
-  - - carl-tollander
-    - 1
   - - srinivasan-janarthanam
     - 1
   - - phil-bartie
@@ -152,7 +148,7 @@ xingkun-liu:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -179,6 +175,10 @@ xingkun-liu:
   - - steve-young
     - 1
   - - yanchao-yu
+    - 1
+  - - daniel-shapiro
+    - 1
+  - - carl-tollander
     - 1
   first: Xingkun
   full: Xingkun Liu

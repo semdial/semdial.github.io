@@ -185,7 +185,7 @@ panos-alexopoulos:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -525,30 +525,14 @@ patrick-healey:
     - 4
   - - julian-hough
     - 3
+  - - christine-howes
+    - 2
   - - tom-gurion
     - 2
   - - arash-eshghi
     - 2
-  - - christine-howes
-    - 2
   - - shauna-concannon
     - 2
-  - - jonathan-ginzburg
-    - 1
-  - - yo-sato
-    - 1
-  - - gregory-j-mills
-    - 1
-  - - eleni-gregoromichelaki
-    - 1
-  - - gregory-mills
-    - 1
-  - - ruth-kempson
-    - 1
-  - - sophie-skach
-    - 1
-  - - leshao-zhang
-    - 1
   - - saul-albert
     - 1
   - - nicola-plant
@@ -558,6 +542,22 @@ patrick-healey:
   - - rose-mccabe
     - 1
   - - mary-lavelle
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  - - yo-sato
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - gregory-mills
+    - 1
+  - - ruth-kempson
+    - 1
+  - - gregory-j-mills
+    - 1
+  - - sophie-skach
+    - 1
+  - - leshao-zhang
     - 1
   - - carl-vogel
     - 1
@@ -1181,7 +1181,7 @@ peter-mika:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -1576,10 +1576,6 @@ philippe-blache:
     - 2
   - - roxane-bertrand
     - 2
-  - - magalie-ochs
-    - 1
-  - - gregoire-montcheuil
-    - 1
   - - helen-k-y-chen
     - 1
   - - beatrice-priego-valverde
@@ -1588,17 +1584,22 @@ philippe-blache:
     - 1
   - - stephane-rauzy
     - 1
+  - - magalie-ochs
+    - 1
+  - - gregoire-montcheuil
+    - 1
   first: Philippe
   full: Philippe Blache
   last: Blache
   papers:
+  - Z23-2001
   - Z18-4035
   - Z12-4020
   - Z12-4036
   slug: philippe-blache
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 philippe-boula-de-mareuil:
   coauthors: []
   first: Philippe
@@ -1622,6 +1623,8 @@ philippe-muller:
   - - verena-rieser
     - 2
   - - marie-safarova
+    - 1
+  - - nicolas-maudet
     - 1
   - - stergos-afantenos
     - 1
@@ -1648,8 +1651,6 @@ philippe-muller:
   - - vladimir-popescu
     - 1
   - - laure-vieu
-    - 1
-  - - nicolas-maudet
     - 1
   first: Philippe
   full: Philippe Muller
@@ -1689,11 +1690,11 @@ pi-chuan-chang:
   venues: []
 pia-knoeferle:
   coauthors:
-  - - monica-rodriguez
-    - 1
   - - dato-abashidze
     - 1
   - - maria-nella-carminati
+    - 1
+  - - monica-rodriguez
     - 1
   first: Pia
   full: Pia Knoeferle
@@ -1759,10 +1760,15 @@ pierre-lison:
     - 2
   - - paolo-dragone
     - 1
+  - - nicholas-walker
+    - 1
+  - - stefan-ultes
+    - 1
   first: Pierre
   full: Pierre Lison
   last: Lison
   papers:
+  - Z23-3014
   - Z17-4023
   - Z15-4027
   - Z15-4039
@@ -1770,7 +1776,7 @@ pierre-lison:
   slug: pierre-lison
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 pierre-zweigenbaum:
   coauthors: []
   first: Pierre
@@ -1920,7 +1926,7 @@ pirros-tsiakoulis:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -1991,6 +1997,27 @@ po-yu-liang:
   papers: []
   slug: po-yu-liang
   venues: []
+polina-rygina:
+  coauthors:
+  - - mark-higger
+    - 1
+  - - logan-daigler
+    - 1
+  - - lara-bezarra
+    - 1
+  - - zhao-han
+    - 1
+  - - tom-williams
+    - 1
+  first: Polina
+  full: Polina Rygina
+  last: Rygina
+  papers:
+  - Z23-3015
+  slug: polina-rygina
+  venues:
+  - - SEMDIAL
+    - 1
 pontus-warnestal:
   coauthors:
   - - fredrik-kronlid

@@ -159,6 +159,19 @@ dan-gillick:
   papers: []
   slug: dan-gillick
   venues: []
+dan-green:
+  coauthors:
+  - - arash-eshghi
+    - 1
+  first: Dan
+  full: Dan Green
+  last: Green
+  papers:
+  - Z23-4017
+  slug: dan-green
+  venues:
+  - - SEMDIAL
+    - 1
 dan-hunter:
   coauthors: []
   first: Dan
@@ -606,6 +619,23 @@ daniela-oliveira-f-do-amaral:
   papers: []
   slug: daniela-oliveira-f-do-amaral
   venues: []
+daniela-ostatnikova:
+  coauthors:
+  - - joanna-kruyt
+    - 1
+  - - katarina-polonyiova
+    - 1
+  - - stefan-benus
+    - 1
+  first: Daniela
+  full: "Daniela Ostatn\xEDkov\xE1"
+  last: "Ostatn\xEDkov\xE1"
+  papers:
+  - Z23-3004
+  slug: daniela-ostatnikova
+  venues:
+  - - SEMDIAL
+    - 1
 daniela-stier:
   coauthors:
   - - wolfgang-minker
@@ -734,6 +764,36 @@ daria-bahtina:
   papers:
   - Z11-3020
   slug: daria-bahtina
+  venues:
+  - - SEMDIAL
+    - 1
+darinka-verdonik:
+  coauthors:
+  - - andy-lucking
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  first: Darinka.
+  full: Darinka. Verdonik
+  last: Verdonik
+  papers:
+  - Z23-1000
+  slug: darinka-verdonik
+  venues:
+  - - SEMDIAL
+    - 1
+darinka-verdonik1:
+  coauthors:
+  - - simona-majhenic
+    - 1
+  - - andreja-bizjak
+    - 1
+  first: Darinka
+  full: Darinka Verdonik
+  last: Verdonik
+  papers:
+  - Z23-4027
+  slug: darinka-verdonik1
   venues:
   - - SEMDIAL
     - 1
@@ -912,6 +972,34 @@ david-day:
   venues: []
 david-devault:
   coauthors:
+  - - zhou-yu
+    - 1
+  - - stefan-scherer
+    - 1
+  - - jon-gratch
+    - 1
+  - - giota-stratou
+    - 1
+  - - louis-philippe-morency
+    - 1
+  - - justine-cassell
+    - 1
+  - - ramesh-manuvinakurike
+    - 1
+  - - maike-paetzel
+    - 1
+  first: David
+  full: David Devault
+  last: Devault
+  papers:
+  - Z15-3016
+  - Z13-3020
+  slug: david-devault
+  venues:
+  - - SEMDIAL
+    - 2
+david-devault1:
+  coauthors:
   - - matthew-stone
     - 2
   - - ron-artstein
@@ -936,38 +1024,10 @@ david-devault:
   - Z11-3012
   - Z07-3011
   - Z06-3023
-  slug: david-devault
-  venues:
-  - - SEMDIAL
-    - 4
-david-devault1:
-  coauthors:
-  - - zhou-yu
-    - 1
-  - - stefan-scherer
-    - 1
-  - - jon-gratch
-    - 1
-  - - giota-stratou
-    - 1
-  - - louis-philippe-morency
-    - 1
-  - - justine-cassell
-    - 1
-  - - ramesh-manuvinakurike
-    - 1
-  - - maike-paetzel
-    - 1
-  first: David
-  full: David Devault
-  last: Devault
-  papers:
-  - Z15-3016
-  - Z13-3020
   slug: david-devault1
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 david-e-johnson:
   coauthors: []
   first: David E.
@@ -1346,11 +1406,13 @@ david-schlangen:
     - 2
   - - spyros-kousidis
     - 2
-  - - raquel-fernandez
-    - 1
   - - ellen-breitholtz
     - 1
   - - kallirroi-georgila
+    - 1
+  - - kepa-joseba-rodriguez
+    - 1
+  - - mannfred-stede
     - 1
   - - kazunori-komatani
     - 1
@@ -1360,26 +1422,30 @@ david-schlangen:
     - 1
   - - karla-friedrichs
     - 1
-  - - cornelia-frank
-    - 1
-  - - jonathan-ginzburg
-    - 1
-  - - ye-tian
-    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
     - 1
   - - mario-botsch
     - 1
-  - - kepa-joseba-rodriguez
+  - - cornelia-frank
     - 1
-  - - mannfred-stede
+  - - jonathan-ginzburg
+    - 1
+  - - ye-tian
+    - 1
+  - - raquel-fernandez
+    - 1
+  - - jana-gotze
+    - 1
+  - - brielen-madureira
     - 1
   first: David
   full: David Schlangen
   last: Schlangen
   papers:
+  - Z23-3009
+  - Z23-4025
   - Z22-3015
   - Z21-1000
   - Z20-3010
@@ -1409,7 +1475,7 @@ david-schlangen:
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 26
+    - 28
 david-stallard:
   coauthors: []
   first: David
@@ -1462,11 +1528,11 @@ david-traum:
     - 3
   - - ron-artstein
     - 3
+  - - kallirroi-georgila
+    - 2
   - - antonio-roque1
     - 2
   - - hua-ai
-    - 2
-  - - kallirroi-georgila
     - 2
   - - sudeep-gandhe
     - 2
@@ -1486,13 +1552,23 @@ david-traum:
     - 1
   - - patricia-chaffey
     - 1
+  - - jigish-patel
+    - 1
+  - - robert-parker
+    - 1
   - - brian-pluss
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   - - hyungtak-choi
     - 1
   - - jill-boberg
+    - 1
+  - - angela-nazarian
+    - 1
+  - - elnaz-nouri
+    - 1
+  - - rieks-op-den-akker
     - 1
   - - usman-sohail
     - 1
@@ -1502,20 +1578,15 @@ david-traum:
     - 1
   - - anton-leuski
     - 1
-  - - angela-nazarian
+  - - claire-to
     - 1
-  - - elnaz-nouri
-    - 1
-  - - jigish-patel
-    - 1
-  - - robert-parker
-    - 1
-  - - rieks-op-den-akker
+  - - setareh-nasihati-gilani
     - 1
   first: David
   full: David Traum
   last: Traum
   papers:
+  - Z23-4019
   - Z21-3006
   - Z21-4022
   - Z19-3018
@@ -1534,7 +1605,7 @@ david-traum:
   slug: david-traum
   venues:
   - - SEMDIAL
-    - 15
+    - 16
 david-w-aha:
   coauthors: []
   first: David W.
@@ -2254,6 +2325,19 @@ dominic-widdows:
   papers:
   - Z04-4027
   slug: dominic-widdows
+  venues:
+  - - SEMDIAL
+    - 1
+dominik-kunkele:
+  coauthors:
+  - - simon-dobnik
+    - 1
+  first: Dominik
+  full: "Dominik K\xFCnkele"
+  last: "K\xFCnkele"
+  papers:
+  - Z23-4020
+  slug: dominik-kunkele
   venues:
   - - SEMDIAL
     - 1

@@ -36,19 +36,20 @@ n-asher:
 na-li:
   coauthors:
   - - robert-ross
-    - 2
+    - 3
   - - john-kelleher
     - 1
   first: Na
   full: Na Li
   last: Li
   papers:
+  - Z23-4024
   - Z22-4037
   - Z21-3013
   slug: na-li
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 nadia-mana:
   coauthors: []
   first: Nadia
@@ -680,13 +681,13 @@ nicholas-asher:
     - 1
   - - laure-vieu
     - 1
-  - - antoine-venant
-    - 1
-  - - cedric-degremont1
-    - 1
   - - julie-hunter
     - 1
   - - eric-kow
+    - 1
+  - - antoine-venant
+    - 1
+  - - cedric-degremont1
     - 1
   - - julian-j-schloder
     - 1
@@ -736,6 +737,21 @@ nicholas-kushmerick:
   papers: []
   slug: nicholas-kushmerick
   venues: []
+nicholas-walker:
+  coauthors:
+  - - stefan-ultes
+    - 1
+  - - pierre-lison
+    - 1
+  first: Nicholas
+  full: Nicholas Walker
+  last: Walker
+  papers:
+  - Z23-3014
+  slug: nicholas-walker
+  venues:
+  - - SEMDIAL
+    - 1
 nick-campbell:
   coauthors:
   - - emer-gilmartin
@@ -1053,7 +1069,7 @@ niladri-chatterjee:
   venues: []
 nina-dethlefs:
   coauthors:
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 2
   - - helen-hastie
     - 2
@@ -1061,6 +1077,16 @@ nina-dethlefs:
     - 2
   - - oliver-lemon
     - 2
+  - - heriberto-cuayahuitl
+    - 1
+  - - kai
+    - 1
+  - - florian-richter
+    - 1
+  - - elena-andonova
+    - 1
+  - - john-bateman
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -1090,16 +1116,6 @@ nina-dethlefs:
   - - steve-young
     - 1
   - - yanchao-yu
-    - 1
-  - - heriberto-cuayahuitl1
-    - 1
-  - - kai
-    - 1
-  - - florian-richter
-    - 1
-  - - elena-andonova
-    - 1
-  - - john-bateman
     - 1
   first: Nina
   full: Nina Dethlefs

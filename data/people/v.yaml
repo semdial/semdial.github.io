@@ -162,6 +162,19 @@ vassilios-digalakis:
   papers: []
   slug: vassilios-digalakis
   venues: []
+veda-kanamarlapudi:
+  coauthors:
+  - - ahmad-jabbar
+    - 1
+  first: Veda
+  full: Veda Kanamarlapudi
+  last: Kanamarlapudi
+  papers:
+  - Z23-3006
+  slug: veda-kanamarlapudi
+  venues:
+  - - SEMDIAL
+    - 1
 vera-lucia-strube-de-lima:
   coauthors: []
   first: Vera Lucia Strube
@@ -222,7 +235,7 @@ verena-rieser:
     - 2
   - - nina-dethlefs
     - 2
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 2
   - - helen-hastie
     - 2
@@ -806,17 +819,17 @@ vladislav-kubon:
   venues: []
 vladislav-maraev:
   coauthors:
-  - - jonathan-ginzburg
-    - 3
+  - - christine-howes
+    - 4
   - - chiara-mazzocconi
     - 3
-  - - christine-howes
-    - 3
-  - - jean-philippe-bernardy
-    - 2
   - - ellen-breitholtz
-    - 2
+    - 3
+  - - jonathan-ginzburg
+    - 3
   - - staffan-larsson
+    - 2
+  - - jean-philippe-bernardy
     - 2
   - - bill-noble
     - 1
@@ -834,6 +847,7 @@ vladislav-maraev:
   full: Vladislav Maraev
   last: Maraev
   papers:
+  - Z23-4026
   - Z22-3006
   - Z21-3015
   - Z21-4020
@@ -845,7 +859,7 @@ vladislav-maraev:
   slug: vladislav-maraev
   venues:
   - - SEMDIAL
-    - 8
+    - 9
 vlado-keselj:
   coauthors: []
   first: Vlado
@@ -868,11 +882,11 @@ volha-petukhova:
     - 6
   - - andrei-malchanau
     - 3
-  - - ye-tian
+  - - marcin-wlodarczak
     - 1
   - - ramkumar-aruchamy
     - 1
-  - - marcin-wlodarczak
+  - - ye-tian
     - 1
   first: Volha
   full: Volha Petukhova

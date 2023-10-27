@@ -96,9 +96,9 @@ yanchao-yu:
   coauthors:
   - - oliver-lemon
     - 5
-  - - verena-rieser
-    - 2
   - - arash-eshghi
+    - 2
+  - - verena-rieser
     - 2
   - - helen-hastie
     - 1
@@ -108,7 +108,7 @@ yanchao-yu:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -351,9 +351,9 @@ yasuharu-den:
     - 6
   - - mika-enomoto
     - 6
-  - - yosuke-matsusaka
-    - 2
   - - shogo-okada
+    - 2
+  - - yosuke-matsusaka
     - 2
   first: Yasuharu
   full: Yasuharu Den
@@ -379,9 +379,9 @@ yasuhiro-katagiri:
     - 6
   - - yasuharu-den
     - 6
-  - - yosuke-matsusaka
-    - 2
   - - shogo-okada
+    - 2
+  - - yosuke-matsusaka
     - 2
   first: Yasuhiro
   full: Yasuhiro Katagiri
@@ -400,13 +400,13 @@ yasuhiro-katagiri:
     - 7
 yasunari-harada:
   coauthors:
-  - - miwa-morishita
-    - 1
   - - mayumi-kawamura
     - 1
   - - daisuke-yokomori
     - 1
   - - tomoko-endo
+    - 1
+  - - miwa-morishita
     - 1
   first: Yasunari
   full: Yasunari Harada
@@ -458,13 +458,15 @@ ye-tian:
   coauthors:
   - - jonathan-ginzburg
     - 3
-  - - volha-petukhova
-    - 1
   - - vladislav-maraev
     - 1
   - - staffan-larsson
     - 1
   - - jean-philippe-bernardy
+    - 1
+  - - claire-beyssade
+    - 1
+  - - yannick-mathieu
     - 1
   - - david-schlangen
     - 1
@@ -476,9 +478,7 @@ ye-tian:
     - 1
   - - caspar-addyman
     - 1
-  - - claire-beyssade
-    - 1
-  - - yannick-mathieu
+  - - volha-petukhova
     - 1
   first: Ye
   full: Ye Tian
@@ -599,6 +599,21 @@ yih-ru-wang:
   papers: []
   slug: yih-ru-wang
   venues: []
+yikai-tseng:
+  coauthors:
+  - - takenobu-tokunaga
+    - 1
+  - - hikaru-yokono
+    - 1
+  first: Yikai
+  full: Yikai Tseng
+  last: Tseng
+  papers:
+  - Z23-3010
+  slug: yikai-tseng
+  venues:
+  - - SEMDIAL
+    - 1
 yiming-yang:
   coauthors: []
   first: Yiming
@@ -760,6 +775,12 @@ yoshihiro-matsuo:
   coauthors:
   - - ryuichiro-higashinaka
     - 2
+  - - toru-hirano
+    - 1
+  - - nozomi-kobayashi
+    - 1
+  - - toshiro-makino
+    - 1
   - - kazuki-sakai
     - 1
   - - hiroaki-sugiyama
@@ -779,12 +800,6 @@ yoshihiro-matsuo:
   - - yuichiro-yoshikawa
     - 1
   - - hiroshi-ishiguro
-    - 1
-  - - toru-hirano
-    - 1
-  - - nozomi-kobayashi
-    - 1
-  - - toshiro-makino
     - 1
   first: Yoshihiro
   full: Yoshihiro Matsuo
@@ -839,13 +854,13 @@ yosuke-matsusaka:
   coauthors:
   - - yasuhiro-katagiri
     - 2
-  - - katsuya-takanashi
-    - 2
   - - masato-ishizaki
     - 2
-  - - mika-enomoto
-    - 2
   - - yasuharu-den
+    - 2
+  - - katsuya-takanashi
+    - 2
+  - - mika-enomoto
     - 2
   first: Yosuke
   full: Yosuke Matsusaka
@@ -1240,7 +1255,7 @@ yves-vanrompay:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1

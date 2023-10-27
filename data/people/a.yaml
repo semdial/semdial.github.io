@@ -516,6 +516,19 @@ agustin-gravano:
   papers: []
   slug: agustin-gravano
   venues: []
+ahmad-jabbar:
+  coauthors:
+  - - veda-kanamarlapudi
+    - 1
+  first: Ahmad
+  full: Ahmad Jabbar
+  last: Jabbar
+  papers:
+  - Z23-3006
+  slug: ahmad-jabbar
+  venues:
+  - - SEMDIAL
+    - 1
 ahmed-aburaed:
   coauthors: []
   first: Ahmed
@@ -983,15 +996,13 @@ alex-lascarides:
     - 4
   - - markus-guhe
     - 3
-  - - matthew-stone
-    - 2
   - - verena-rieser
     - 2
   - - stergos-afantenos
     - 2
+  - - matthew-stone
+    - 2
   - - kevin-o-connor
-    - 1
-  - - mattias-appelgren
     - 1
   - - farah-benamara
     - 1
@@ -1013,9 +1024,11 @@ alex-lascarides:
     - 1
   - - laure-vieu
     - 1
+  - - julian-j-schloder
+    - 1
   - - jeremy-perret
     - 1
-  - - julian-j-schloder
+  - - mattias-appelgren
     - 1
   first: Alex
   full: Alex Lascarides
@@ -1049,11 +1062,12 @@ alex-luu:
   full: "Alex L\u01B0u"
   last: "L\u01B0u"
   papers:
+  - Z23-4022
   - Z22-4031
   slug: alex-luu
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 alex-moruz:
   coauthors: []
   first: Alex
@@ -1321,7 +1335,7 @@ alexandra-vorobyova:
   coauthors:
   - - luciana-benotti
     - 1
-  - - frederic-landragin
+  - - frederic-landragin1
     - 1
   first: Alexandra
   full: Alexandra Vorobyova
@@ -1572,9 +1586,9 @@ alison-k-huettner:
   venues: []
 alistair-knott:
   coauthors:
-  - - peter-vlugter
-    - 1
   - - nanda-slabbers
+    - 1
+  - - peter-vlugter
     - 1
   first: Alistair
   full: Alistair Knott
@@ -1620,7 +1634,7 @@ almudena-gonzalez-guimerans:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -1758,7 +1772,7 @@ amanda-stent:
     - 1
   - - mark-g-core
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   - - kallirroi-georgila
     - 1
@@ -1770,6 +1784,23 @@ amanda-stent:
   papers:
   - Z11-1000
   slug: amanda-stent
+  venues:
+  - - SEMDIAL
+    - 1
+amandine-decker:
+  coauthors:
+  - - ellen-breitholtz
+    - 1
+  - - christine-howes
+    - 1
+  - - staffan-larsson
+    - 1
+  first: Amandine
+  full: Amandine Decker
+  last: Decker
+  papers:
+  - Z23-4016
+  slug: amandine-decker
   venues:
   - - SEMDIAL
     - 1
@@ -1810,6 +1841,23 @@ amelie-astbom:
   venues:
   - - SEMDIAL
     - 1
+amelie-s-robrecht:
+  coauthors:
+  - - josephine-b-fisher
+    - 1
+  - - stefan-kopp
+    - 1
+  - - katharina-j-rohlfing
+    - 1
+  first: Amelie S.
+  full: Amelie S. Robrecht
+  last: Robrecht
+  papers:
+  - Z23-3007
+  slug: amelie-s-robrecht
+  venues:
+  - - SEMDIAL
+    - 1
 aminul-islam:
   coauthors: []
   first: Aminul
@@ -1841,13 +1889,13 @@ amita-misra:
     - 1
 amol-deshmukh:
   coauthors:
-  - - mary-ellen-foster
-    - 2
   - - srinivasan-janarthanam
     - 2
   - - helen-hastie
     - 2
   - - ruth-aylett
+    - 2
+  - - mary-ellen-foster
     - 2
   - - mei-yii-lim
     - 1
@@ -2303,6 +2351,21 @@ andrej-ljolje:
   papers: []
   slug: andrej-ljolje
   venues: []
+andreja-bizjak:
+  coauthors:
+  - - darinka-verdonik1
+    - 1
+  - - simona-majhenic
+    - 1
+  first: Andreja
+  full: Andreja Bizjak
+  last: Bizjak
+  papers:
+  - Z23-4027
+  slug: andreja-bizjak
+  venues:
+  - - SEMDIAL
+    - 1
 andrejs-vasiljevs:
   coauthors: []
   first: Andrejs
@@ -2387,15 +2450,15 @@ andrew-gargett:
     - 2
   - - ruth-kempson
     - 2
+  - - alexander-koller
+    - 1
+  - - konstantina-garoufi
+    - 1
   - - yo-sato
     - 1
   - - matt-purver
     - 1
   - - greg-mills
-    - 1
-  - - alexander-koller
-    - 1
-  - - konstantina-garoufi
     - 1
   first: Andrew
   full: Andrew Gargett
@@ -2642,10 +2705,15 @@ andy-lucking:
     - 1
   - - thies-thies
     - 1
+  - - chiara-mazzocconi
+    - 1
+  - - darinka-verdonik
+    - 1
   first: Andy
   full: "Andy L\xFCcking"
   last: "L\xFCcking"
   papers:
+  - Z23-1000
   - Z22-3004
   - Z22-3007
   - Z20-3008
@@ -2658,7 +2726,7 @@ andy-lucking:
   slug: andy-lucking
   venues:
   - - SEMDIAL
-    - 9
+    - 10
 andy-luecking:
   coauthors:
   - - hannes-reiser
@@ -2792,9 +2860,9 @@ anh-duong-trinh:
     - 2
   - - robert-j-ross
     - 1
-  - - robert-j-ross1
-    - 1
   - - john-d-kelleher
+    - 1
+  - - robert-j-ross1
     - 1
   - - robert-ross
     - 1
@@ -3534,7 +3602,7 @@ antonio-moreno-sandoval:
   venues: []
 antonio-origlia:
   coauthors:
-  - - maria-di-maro1
+  - - maria-di-maro
     - 1
   - - francesco-cutugno
     - 1
@@ -3665,11 +3733,11 @@ aparna-nurani-venkitasubramanian:
   venues: []
 arabella-sinclair:
   coauthors:
+  - - raquel-fernandez
+    - 1
   - - jon-oberlander
     - 1
   - - dragan-gasevic
-    - 1
-  - - raquel-fernandez
     - 1
   first: Arabella
   full: Arabella Sinclair
@@ -3713,13 +3781,26 @@ arantza-diaz-de-ilarraza:
   papers: []
   slug: arantza-diaz-de-ilarraza
   venues: []
+arash-ashrafzadeh:
+  coauthors:
+  - - arash-eshghi
+    - 1
+  first: Arash
+  full: Arash Ashrafzadeh
+  last: Ashrafzadeh
+  papers:
+  - Z23-3011
+  slug: arash-ashrafzadeh
+  venues:
+  - - SEMDIAL
+    - 1
 arash-eshghi:
   coauthors:
   - - oliver-lemon
     - 5
-  - - julian-hough
-    - 4
   - - christine-howes
+    - 4
+  - - julian-hough
     - 4
   - - eleni-gregoromichelaki
     - 3
@@ -3727,20 +3808,14 @@ arash-eshghi:
     - 3
   - - matthew-purver
     - 3
-  - - mehrnoosh-sadrzadeh
-    - 2
   - - igor-shalyminov
     - 2
   - - patrick-healey
     - 2
   - - yanchao-yu
     - 2
-  - - stergios-chatzikyriakidis
-    - 1
-  - - jieun-kiaer
-    - 1
-  - - graham-white
-    - 1
+  - - mehrnoosh-sadrzadeh
+    - 2
   - - gregory-mills
     - 1
   - - gijs-wijnholds
@@ -3749,12 +3824,24 @@ arash-eshghi:
     - 1
   - - chiara-mazzocconi
     - 1
+  - - arash-ashrafzadeh
+    - 1
+  - - dan-green
+    - 1
   - - carl-vogel
+    - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - jieun-kiaer
+    - 1
+  - - graham-white
     - 1
   first: Arash
   full: Arash Eshghi
   last: Eshghi
   papers:
+  - Z23-3011
+  - Z23-4017
   - Z22-3018
   - Z20-3022
   - Z19-4025
@@ -3769,7 +3856,7 @@ arash-eshghi:
   slug: arash-eshghi
   venues:
   - - SEMDIAL
-    - 11
+    - 13
 arash-eshghi1:
   coauthors:
   - - yanchao-yu

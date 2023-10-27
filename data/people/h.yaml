@@ -203,14 +203,6 @@ hannah-rohde:
   coauthors:
   - - chris-cummins
     - 2
-  - - ernisa-marzuki
-    - 1
-  - - gareth-clegg
-    - 1
-  - - holly-branigan
-    - 1
-  - - alexandra-lorson
-    - 1
   - - scott-seyfarth
     - 1
   - - brady-clark
@@ -220,6 +212,14 @@ hannah-rohde:
   - - stefan-kaufmann
     - 1
   - - hodgdon-stevens
+    - 1
+  - - ernisa-marzuki
+    - 1
+  - - gareth-clegg
+    - 1
+  - - holly-branigan
+    - 1
+  - - alexandra-lorson
     - 1
   first: Hannah
   full: Hannah Rohde
@@ -290,10 +290,6 @@ hannes-rieser:
     - 3
   - - insa-lawler
     - 2
-  - - alfred-kranstedt
-    - 1
-  - - thies-thies
-    - 1
   - - udo-klein
     - 1
   - - julia-peltason
@@ -301,6 +297,10 @@ hannes-rieser:
   - - sven-wachsmuth
     - 1
   - - britta-wrede
+    - 1
+  - - alfred-kranstedt
+    - 1
+  - - thies-thies
     - 1
   - - massimo-poesio
     - 1
@@ -422,6 +422,23 @@ haoliang-qi:
   papers: []
   slug: haoliang-qi
   venues: []
+haoran-yan:
+  coauthors:
+  - - ryan-ka-yau-lai
+    - 1
+  - - lu-liu
+    - 1
+  - - john-w-dubois
+    - 1
+  first: Haoran
+  full: Haoran Yan
+  last: Yan
+  papers:
+  - Z23-4018
+  slug: haoran-yan
+  venues:
+  - - SEMDIAL
+    - 1
 harald-baayen:
   coauthors: []
   first: Harald
@@ -534,19 +551,19 @@ harry-bunt:
     - 3
   - - roser-morante
     - 2
+  - - yann-girard
+    - 1
+  - - marcin-wlodarczak
+    - 1
+  - - ramkumar-aruchamy
+    - 1
   - - myroslava-o-dzikovska
     - 1
   - - charles-b-callaway
     - 1
   - - matthew-stone
     - 1
-  - - yann-girard
-    - 1
-  - - ramkumar-aruchamy
-    - 1
   - - simon-keizer
-    - 1
-  - - marcin-wlodarczak
     - 1
   first: Harry
   full: Harry Bunt
@@ -747,21 +764,21 @@ heinz-j-weber:
   venues: []
 helen-hastie:
   coauthors:
-  - - nina-dethlefs
-    - 2
-  - - heriberto-cuayahuitl
-    - 2
-  - - verena-rieser
-    - 2
-  - - oliver-lemon
-    - 2
-  - - mary-ellen-foster
-    - 2
   - - srinivasan-janarthanam
     - 2
   - - amol-deshmukh
     - 2
   - - ruth-aylett
+    - 2
+  - - mary-ellen-foster
+    - 2
+  - - nina-dethlefs
+    - 2
+  - - heriberto-cuayahuitl1
+    - 2
+  - - verena-rieser
+    - 2
+  - - oliver-lemon
     - 2
   - - jose-david-lopes
     - 1
@@ -1043,6 +1060,21 @@ henriette-de-swart:
   venues:
   - - SEMDIAL
     - 1
+henrike-helmer:
+  coauthors:
+  - - mathias-barthel
+    - 1
+  - - silke-reineke
+    - 1
+  first: Henrike
+  full: Henrike Helmer
+  last: Helmer
+  papers:
+  - Z23-3013
+  slug: henrike-helmer
+  venues:
+  - - SEMDIAL
+    - 1
 henry-prakken:
   coauthors: []
   first: Henry
@@ -1090,6 +1122,32 @@ herbert-gish:
 heriberto-cuayahuitl:
   coauthors:
   - - nina-dethlefs
+    - 1
+  - - kai
+    - 1
+  - - florian-richter
+    - 1
+  - - elena-andonova
+    - 1
+  - - john-bateman
+    - 1
+  - - simon-keizer
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Heriberto
+  full: "Heriberto Cuay\xE1huitl"
+  last: "Cuay\xE1huitl"
+  papers:
+  - Z15-3015
+  - Z10-4024
+  slug: heriberto-cuayahuitl
+  venues:
+  - - SEMDIAL
+    - 2
+heriberto-cuayahuitl1:
+  coauthors:
+  - - nina-dethlefs
     - 2
   - - helen-hastie
     - 2
@@ -1133,32 +1191,6 @@ heriberto-cuayahuitl:
   papers:
   - Z14-4024
   - Z14-4031
-  slug: heriberto-cuayahuitl
-  venues:
-  - - SEMDIAL
-    - 2
-heriberto-cuayahuitl1:
-  coauthors:
-  - - simon-keizer
-    - 1
-  - - oliver-lemon
-    - 1
-  - - nina-dethlefs
-    - 1
-  - - kai
-    - 1
-  - - florian-richter
-    - 1
-  - - elena-andonova
-    - 1
-  - - john-bateman
-    - 1
-  first: Heriberto
-  full: "Heriberto Cuay\xE1huitl"
-  last: "Cuay\xE1huitl"
-  papers:
-  - Z15-3015
-  - Z10-4024
   slug: heriberto-cuayahuitl1
   venues:
   - - SEMDIAL
@@ -1283,6 +1315,21 @@ hikari-konishi:
   papers: []
   slug: hikari-konishi
   venues: []
+hikaru-yokono:
+  coauthors:
+  - - yikai-tseng
+    - 1
+  - - takenobu-tokunaga
+    - 1
+  first: Hikaru
+  full: Hikaru Yokono
+  last: Yokono
+  papers:
+  - Z23-3010
+  slug: hikaru-yokono
+  venues:
+  - - SEMDIAL
+    - 1
 himani-chaudhry:
   coauthors: []
   first: Himani
@@ -1665,6 +1712,16 @@ holger-hoffmann:
   venues: []
 holly-branigan:
   coauthors:
+  - - kirsten-hadelich
+    - 1
+  - - martin-pickering
+    - 1
+  - - matthew-crocker
+    - 1
+  - - lucia-castillo
+    - 1
+  - - kenny-smith
+    - 1
   - - ernisa-marzuki
     - 1
   - - hannah-rohde
@@ -1672,16 +1729,6 @@ holly-branigan:
   - - chris-cummins
     - 1
   - - gareth-clegg
-    - 1
-  - - lucia-castillo
-    - 1
-  - - kenny-smith
-    - 1
-  - - kirsten-hadelich
-    - 1
-  - - martin-pickering
-    - 1
-  - - matthew-crocker
     - 1
   first: Holly
   full: Holly Branigan
@@ -1974,7 +2021,7 @@ hugues-bouchard:
     - 1
   - - panos-alexopoulos
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1

@@ -407,17 +407,17 @@ elena-andonova:
     - 3
   - - gesa-schole
     - 2
-  - - kenny-r-coventry
-    - 1
   - - nina-dethlefs
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - kai
     - 1
   - - florian-richter
     - 1
   - - john-bateman
+    - 1
+  - - kenny-r-coventry
     - 1
   first: Elena
   full: Elena Andonova
@@ -523,39 +523,39 @@ eleni-gregoromichelaki:
     - 5
   - - ruth-kempson
     - 5
-  - - julian-hough
-    - 4
   - - matthew-purver
+    - 4
+  - - julian-hough
     - 4
   - - andrew-gargett
     - 3
   - - arash-eshghi
     - 3
-  - - mehrnoosh-sadrzadeh
-    - 2
   - - gregory-mills
     - 2
+  - - mehrnoosh-sadrzadeh
+    - 2
+  - - wilfried-meyer-viol
+    - 1
+  - - ronnie-cann
+    - 1
   - - yo-sato
+    - 1
+  - - john-kelleher
+    - 1
+  - - patrick-healey
+    - 1
+  - - matt-purver
+    - 1
+  - - greg-mills
+    - 1
+  - - gijs-wijnholds
     - 1
   - - stergios-chatzikyriakidis
     - 1
   - - jieun-kiaer
     - 1
   - - graham-white
-    - 1
-  - - john-kelleher
-    - 1
-  - - patrick-healey
-    - 1
-  - - gijs-wijnholds
-    - 1
-  - - matt-purver
-    - 1
-  - - greg-mills
-    - 1
-  - - wilfried-meyer-viol
-    - 1
-  - - ronnie-cann
     - 1
   first: Eleni
   full: Eleni Gregoromichelaki
@@ -860,13 +860,11 @@ ellen-bard:
 ellen-breitholtz:
   coauthors:
   - - christine-howes
-    - 6
+    - 8
   - - robin-cooper
     - 3
   - - vladislav-maraev
-    - 2
-  - - jessica-villing
-    - 1
+    - 3
   - - kallirroi-georgila
     - 1
   - - david-schlangen
@@ -877,16 +875,24 @@ ellen-breitholtz:
     - 1
   - - ebba-axelsson-nord
     - 1
+  - - jessica-villing
+    - 1
   - - julian-j-schloder
     - 1
   - - raquel-fernandez
     - 1
   - - kristina-lundholm-fors
     - 1
+  - - amandine-decker
+    - 1
+  - - staffan-larsson
+    - 1
   first: Ellen
   full: Ellen Breitholtz
   last: Breitholtz
   papers:
+  - Z23-4016
+  - Z23-4026
   - Z22-4026
   - Z21-1000
   - Z21-3009
@@ -904,7 +910,7 @@ ellen-breitholtz:
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
-    - 14
+    - 16
 ellen-campana:
   coauthors:
   - - gregory-aist
@@ -1003,9 +1009,9 @@ elma-hilbrink:
   coauthors:
   - - marisa-casillas
     - 1
-  - - susan-c-bobb1
+  - - susan-c-bobb
     - 1
-  - - eve-v-clark1
+  - - eve-v-clark
     - 1
   - - merideth-gattis
     - 1
@@ -1064,7 +1070,7 @@ elsi-kaiser:
     - 1
   - - mark-g-core
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   - - kallirroi-georgila
     - 1
@@ -1141,9 +1147,9 @@ emer-gilmartin:
     - 2
   - - nick-campbell
     - 2
-  - - marcin-wlodarczak
-    - 1
   - - francesca-bonin
+    - 1
+  - - marcin-wlodarczak
     - 1
   - - marcin-wlodarczak1
     - 1
@@ -1335,6 +1341,23 @@ eneldo-loza-mencia:
   papers: []
   slug: eneldo-loza-mencia
   venues: []
+enoch-levandovsky:
+  coauthors:
+  - - ryan-whetten
+    - 1
+  - - mir-tahsin-imtiaz
+    - 1
+  - - casey-kennington
+    - 1
+  first: Enoch
+  full: Enoch Levandovsky
+  last: Levandovsky
+  papers:
+  - Z23-3012
+  slug: enoch-levandovsky
+  venues:
+  - - SEMDIAL
+    - 1
 enric-vallduvi:
   coauthors:
   - - jonathan-ginzburg
@@ -1938,27 +1961,11 @@ evandro-b-fonseca:
   venues: []
 eve-v-clark:
   coauthors:
-  - - marisa-tice
-    - 1
-  - - susan-c-bobb
-    - 1
-  first: Eve V.
-  full: Eve V. Clark
-  last: Clark
-  papers:
-  - Z12-2002
-  - Z11-4039
-  slug: eve-v-clark
-  venues:
-  - - SEMDIAL
-    - 2
-eve-v-clark1:
-  coauthors:
   - - marisa-casillas
     - 1
   - - elma-hilbrink
     - 1
-  - - susan-c-bobb1
+  - - susan-c-bobb
     - 1
   - - merideth-gattis
     - 1
@@ -1969,10 +1976,26 @@ eve-v-clark1:
   last: V.~Clark
   papers:
   - Z13-4023
-  slug: eve-v-clark1
+  slug: eve-v-clark
   venues:
   - - SEMDIAL
     - 1
+eve-v-clark1:
+  coauthors:
+  - - marisa-tice
+    - 1
+  - - susan-c-bobb1
+    - 1
+  first: Eve V.
+  full: Eve V. Clark
+  last: Clark
+  papers:
+  - Z12-2002
+  - Z11-4039
+  slug: eve-v-clark1
+  venues:
+  - - SEMDIAL
+    - 2
 evelyne-tzoukermann:
   coauthors: []
   first: Evelyne

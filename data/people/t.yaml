@@ -195,18 +195,23 @@ takenobu-tokunaga:
     - 1
   - - ryu-iida
     - 1
+  - - yikai-tseng
+    - 1
+  - - hikaru-yokono
+    - 1
   - - hiroshi-ichikawa
     - 1
   first: Takenobu
   full: Takenobu Tokunaga
   last: Tokunaga
   papers:
+  - Z23-3010
   - Z12-4023
   - Z07-4031
   slug: takenobu-tokunaga
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 takeo-honda:
   coauthors: []
   first: Takeo
@@ -912,7 +917,7 @@ ti-potter:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -1216,9 +1221,9 @@ ting-han:
     - 1
   - - kazunori-komatani
     - 1
-  - - spyros-kousidis
-    - 1
   - - casey-kennington
+    - 1
+  - - spyros-kousidis
     - 1
   first: Ting
   full: Ting Han
@@ -1357,6 +1362,27 @@ tom-mitchell:
   papers: []
   slug: tom-mitchell
   venues: []
+tom-williams:
+  coauthors:
+  - - mark-higger
+    - 1
+  - - polina-rygina
+    - 1
+  - - logan-daigler
+    - 1
+  - - lara-bezarra
+    - 1
+  - - zhao-han
+    - 1
+  first: Tom
+  full: Tom Williams
+  last: Williams
+  papers:
+  - Z23-3015
+  slug: tom-williams
+  venues:
+  - - SEMDIAL
+    - 1
 tomas-holan:
   coauthors: []
   first: "Tom\xE1\u0161"

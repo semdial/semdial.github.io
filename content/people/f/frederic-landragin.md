@@ -1,5 +1,5 @@
 ---
 lastname: Landragin
 name: frederic-landragin
-title: Frederic Landragin
+title: "Fr\xE9d\xE9ric Landragin"
 ---

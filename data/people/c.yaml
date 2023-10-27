@@ -379,6 +379,21 @@ carmen-garcia-mateo:
   papers: []
   slug: carmen-garcia-mateo
   venues: []
+carol-figueroa:
+  coauthors:
+  - - magalie-ochs
+    - 1
+  - - gabriel-skantze
+    - 1
+  first: Carol
+  full: Carol Figueroa
+  last: Figueroa
+  papers:
+  - Z23-3005
+  slug: carol-figueroa
+  venues:
+  - - SEMDIAL
+    - 1
 carol-friedman:
   coauthors: []
   first: Carol
@@ -472,32 +487,39 @@ casey-kennington:
     - 4
   - - daniele-moro
     - 2
-  - - pierre-lison
-    - 2
   - - soledad-lopez-gambino
     - 2
-  - - gerardo-caracas
-    - 1
-  - - david-mcneill
-    - 1
-  - - daniel-kondratyuk
-    - 1
+  - - pierre-lison
+    - 2
   - - sina-zarriess
     - 1
   - - osama-natouf
+    - 1
+  - - ting-han
+    - 1
+  - - spyros-kousidis
+    - 1
+  - - daniel-kondratyuk
     - 1
   - - christine-howes
     - 1
   - - julian-hough
     - 1
-  - - spyros-kousidis
+  - - ryan-whetten
     - 1
-  - - ting-han
+  - - enoch-levandovsky
+    - 1
+  - - mir-tahsin-imtiaz
+    - 1
+  - - gerardo-caracas
+    - 1
+  - - david-mcneill
     - 1
   first: Casey
   full: Casey Kennington
   last: Kennington
   papers:
+  - Z23-3012
   - Z22-3010
   - Z20-3011
   - Z19-1000
@@ -512,7 +534,7 @@ casey-kennington:
   slug: casey-kennington
   venues:
   - - SEMDIAL
-    - 11
+    - 12
 caspar-addyman:
   coauthors:
   - - chiara-mazzocconi
@@ -1198,10 +1220,6 @@ chiara-mazzocconi:
     - 2
   - - bill-noble
     - 1
-  - - arash-eshghi
-    - 1
-  - - julian-hough
-    - 1
   - - sam-green
     - 1
   - - ye-tian
@@ -1210,10 +1228,22 @@ chiara-mazzocconi:
     - 1
   - - ye-tian1
     - 1
+  - - arash-eshghi
+    - 1
+  - - julian-hough
+    - 1
+  - - andy-lucking
+    - 1
+  - - darinka-verdonik
+    - 1
+  - - beatrice-priego-valverde1
+    - 1
   first: Chiara
   full: Chiara Mazzocconi
   last: Mazzocconi
   papers:
+  - Z23-1000
+  - Z23-4021
   - Z21-3015
   - Z19-4034
   - Z18-3005
@@ -1222,7 +1252,7 @@ chiara-mazzocconi:
   slug: chiara-mazzocconi
   venues:
   - - SEMDIAL
-    - 5
+    - 7
 chih-lung-lin:
   coauthors: []
   first: Chih-Lung
@@ -1435,6 +1465,8 @@ chris-cummins:
   coauthors:
   - - hannah-rohde
     - 2
+  - - j-p-de-ruiter
+    - 1
   - - ernisa-marzuki
     - 1
   - - gareth-clegg
@@ -1442,8 +1474,6 @@ chris-cummins:
   - - holly-branigan
     - 1
   - - alexandra-lorson
-    - 1
-  - - j-p-de-ruiter
     - 1
   first: Chris
   full: Chris Cummins
@@ -1777,47 +1807,39 @@ christine-h-nakatani:
 christine-howes:
   coauthors:
   - - ellen-breitholtz
-    - 6
+    - 8
   - - julian-hough
     - 6
   - - eleni-gregoromichelaki
     - 5
+  - - vladislav-maraev
+    - 4
   - - arash-eshghi
     - 4
   - - ruth-kempson
     - 4
   - - matthew-purver
     - 4
-  - - vladislav-maraev
+  - - staffan-larsson
     - 3
-  - - andrew-gargett
-    - 2
-  - - mehrnoosh-sadrzadeh
-    - 2
   - - mary-lavelle
     - 2
   - - chiara-mazzocconi
-    - 2
-  - - patrick-healey
-    - 2
-  - - vidya-somashekarappa
-    - 2
-  - - asad-sayeed
-    - 2
-  - - staffan-larsson
     - 2
   - - matt-purver
     - 2
   - - rose-mccabe
     - 2
-  - - yo-sato
-    - 1
-  - - stergios-chatzikyriakidis
-    - 1
-  - - jieun-kiaer
-    - 1
-  - - graham-white
-    - 1
+  - - patrick-healey
+    - 2
+  - - andrew-gargett
+    - 2
+  - - vidya-somashekarappa
+    - 2
+  - - asad-sayeed
+    - 2
+  - - mehrnoosh-sadrzadeh
+    - 2
   - - robin-cooper
     - 1
   - - denis-ioussef
@@ -1825,6 +1847,8 @@ christine-howes:
   - - bill-noble
     - 1
   - - ebba-axelsson-nord
+    - 1
+  - - yo-sato
     - 1
   - - jean-philippe-bernardy
     - 1
@@ -1834,22 +1858,32 @@ christine-howes:
     - 1
   - - alexander-berman
     - 1
-  - - casey-kennington
-    - 1
-  - - anastasia-bondarenko
-    - 1
-  - - gijs-wijnholds
-    - 1
   - - simon-dobnik
     - 1
   - - john-kelleher
     - 1
   - - greg-mills
     - 1
+  - - casey-kennington
+    - 1
+  - - anastasia-bondarenko
+    - 1
+  - - gijs-wijnholds
+    - 1
+  - - amandine-decker
+    - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - jieun-kiaer
+    - 1
+  - - graham-white
+    - 1
   first: Christine
   full: Christine Howes
   last: Howes
   papers:
+  - Z23-4016
+  - Z23-4026
   - Z22-3013
   - Z22-3018
   - Z22-4026
@@ -1876,7 +1910,7 @@ christine-howes:
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 23
+    - 25
 christine-piatko:
   coauthors: []
   first: Christine
@@ -2316,13 +2350,13 @@ ciprian-gerstenberger:
     - 1
 claire-beyssade:
   coauthors:
-  - - jean-marie-maradndin
-    - 1
   - - ye-tian
     - 1
   - - yannick-mathieu
     - 1
   - - jonathan-ginzburg
+    - 1
+  - - jean-marie-maradndin
     - 1
   first: Claire
   full: Claire Beyssade
@@ -2406,6 +2440,21 @@ claire-nedellec:
   papers: []
   slug: claire-nedellec
   venues: []
+claire-to:
+  coauthors:
+  - - setareh-nasihati-gilani
+    - 1
+  - - david-traum
+    - 1
+  first: Claire
+  full: Claire To
+  last: To
+  papers:
+  - Z23-4019
+  slug: claire-to
+  venues:
+  - - SEMDIAL
+    - 1
 clara-pozzi:
   coauthors:
   - - ivana-kruijff-korbayova
@@ -2567,13 +2616,13 @@ colin-de-la-higuera:
   venues: []
 colin-matheson:
   coauthors:
-  - - mary-ellen-foster
-    - 1
   - - matthew-henderson
     - 1
   - - jon-oberlander
     - 1
   - - amy-isard
+    - 1
+  - - mary-ellen-foster
     - 1
   first: Colin
   full: Colin Matheson

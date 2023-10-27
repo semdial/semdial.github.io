@@ -1,5 +1,5 @@
 ---
-lastname: V.~Clark
+lastname: Clark
 name: eve-v-clark1
-title: Eve V.~Clark
+title: Eve V. Clark
 ---

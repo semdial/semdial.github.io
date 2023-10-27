@@ -386,7 +386,7 @@ james-henderson:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -489,15 +489,15 @@ james-pickett:
     - 1
 james-pustejovsky:
   coauthors:
-  - - sophia-malamud
-    - 1
-  - - jonathan-ginzburg
-    - 1
   - - kenneth-lai
     - 1
   - - richard-brutti
     - 1
   - - lucia-donatelli
+    - 1
+  - - sophia-malamud
+    - 1
+  - - jonathan-ginzburg
     - 1
   first: James
   full: James Pustejovsky
@@ -753,10 +753,13 @@ jana-gotze:
     - 1
   - - tiphaine-dalmas
     - 1
+  - - david-schlangen
+    - 1
   first: Jana
   full: "Jana G\xF6tze"
   last: "G\xF6tze"
   papers:
+  - Z23-3009
   - Z13-4029
   - Z12-4025
   slug: jana-gotze
@@ -766,7 +769,7 @@ jana-gotze:
     last: Goetze
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 jana-gotze1:
   coauthors:
   - - karla-friedrichs
@@ -879,11 +882,11 @@ janne-bondi-johannessen:
   venues: []
 janosch-haber:
   coauthors:
-  - - massimo-poesio
-    - 1
   - - elia-bruni
     - 1
   - - raquel-fernandez
+    - 1
+  - - massimo-poesio
     - 1
   first: Janosch
   full: Janosch Haber
@@ -1533,15 +1536,15 @@ jeremy-leixa:
   venues: []
 jeremy-perret:
   coauthors:
-  - - stergos-afantenos
-    - 2
   - - nicholas-asher
     - 2
-  - - alex-lascarides
-    - 1
+  - - stergos-afantenos
+    - 2
   - - julie-hunter
     - 1
   - - eric-kow
+    - 1
+  - - alex-lascarides
     - 1
   first: "J\xE9r\xE9my"
   full: "J\xE9r\xE9my Perret"
@@ -2243,6 +2246,23 @@ joana-pardal:
   venues:
   - - SEMDIAL
     - 1
+joanna-kruyt:
+  coauthors:
+  - - katarina-polonyiova
+    - 1
+  - - daniela-ostatnikova
+    - 1
+  - - stefan-benus
+    - 1
+  first: Joanna
+  full: Joanna Kruyt
+  last: Kruyt
+  papers:
+  - Z23-3004
+  slug: joanna-kruyt
+  venues:
+  - - SEMDIAL
+    - 1
 joanna-mrozinski:
   coauthors: []
   first: Joanna
@@ -2605,17 +2625,17 @@ john-barnden:
   venues: []
 john-bateman:
   coauthors:
-  - - robert-ross
-    - 1
   - - nina-dethlefs
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - kai
     - 1
   - - florian-richter
     - 1
   - - elena-andonova
+    - 1
+  - - robert-ross
     - 1
   first: John
   full: John Bateman
@@ -2690,7 +2710,7 @@ john-d-kelleher:
   coauthors:
   - - anh-duong-trinh
     - 1
-  - - robert-j-ross1
+  - - robert-j-ross
     - 1
   first: John D
   full: John D Kelleher
@@ -2841,27 +2861,27 @@ john-kelleher:
   coauthors:
   - - simon-dobnik
     - 5
-  - - anh-duong-trinh
+  - - christos-koniaris
     - 2
   - - robert-ross
     - 2
-  - - christos-koniaris
+  - - anh-duong-trinh
     - 2
-  - - geert-jan-m-kruijff
-    - 1
-  - - robert-j-ross
-    - 1
   - - na-li
     - 1
   - - eleni-gregoromichelaki
     - 1
   - - julian-hough
     - 1
+  - - christine-howes
+    - 1
   - - niels-schuette
     - 1
   - - brian-mac-namee
     - 1
-  - - christine-howes
+  - - robert-j-ross1
+    - 1
+  - - geert-jan-m-kruijff
     - 1
   first: John
   full: John Kelleher
@@ -2930,6 +2950,12 @@ john-niekrasz:
   coauthors:
   - - stanley-peters
     - 2
+  - - alexander-gruenstein
+    - 1
+  - - lawrence-cavedon
+    - 1
+  - - dominic-widdows
+    - 1
   - - patrick-ehlen
     - 1
   - - stephane-laidebeure
@@ -2937,12 +2963,6 @@ john-niekrasz:
   - - matthew-purver
     - 1
   - - john-dowding
-    - 1
-  - - alexander-gruenstein
-    - 1
-  - - lawrence-cavedon
-    - 1
-  - - dominic-widdows
     - 1
   first: John
   full: John Niekrasz
@@ -3063,6 +3083,23 @@ john-w-du-bois:
   venues:
   - - SEMDIAL
     - 1
+john-w-dubois:
+  coauthors:
+  - - ryan-ka-yau-lai
+    - 1
+  - - lu-liu
+    - 1
+  - - haoran-yan
+    - 1
+  first: John W.
+  full: John W. Dubois
+  last: Dubois
+  papers:
+  - Z23-4018
+  slug: john-w-dubois
+  venues:
+  - - SEMDIAL
+    - 1
 john-wilkerson:
   coauthors: []
   first: John
@@ -3113,7 +3150,7 @@ jon-gratch:
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - giota-stratou
     - 1
@@ -3140,13 +3177,13 @@ jon-m-slack:
   venues: []
 jon-oberlander:
   coauthors:
-  - - arabella-sinclair
-    - 1
-  - - dragan-gasevic
-    - 1
   - - matthew-henderson
     - 1
   - - colin-matheson
+    - 1
+  - - arabella-sinclair
+    - 1
+  - - dragan-gasevic
     - 1
   first: Jon
   full: Jon Oberlander
@@ -3267,51 +3304,51 @@ jonathan-ginzburg:
     - 3
   - - ye-tian
     - 3
-  - - jean-philippe-bernardy
+  - - sara-moradlou
     - 2
   - - alafate-abulimiti
     - 2
-  - - sara-moradlou
+  - - staffan-larsson
     - 2
   - - chiara-mazzocconi
     - 2
-  - - staffan-larsson
+  - - jean-philippe-bernardy
     - 2
   - - kwong-cheong-wong
     - 2
+  - - raquel-fernandez
+    - 1
+  - - justine-cassell
+    - 1
+  - - enric-vallduvi
+    - 1
+  - - sarah-brown-schmidt
+    - 1
   - - patrick-healey
     - 1
   - - yo-sato
-    - 1
-  - - sophia-malamud
-    - 1
-  - - james-pustejovsky
-    - 1
-  - - zoran-macura
-    - 1
-  - - justine-cassell
     - 1
   - - robin-cooper
     - 1
   - - zulipiye-yusupujiang
     - 1
-  - - raquel-fernandez
+  - - claire-beyssade
     - 1
-  - - christopher-cash
-    - 1
-  - - sarah-brown-schmidt
+  - - yannick-mathieu
     - 1
   - - david-schlangen
     - 1
   - - julian-hough
     - 1
-  - - claire-beyssade
-    - 1
-  - - yannick-mathieu
-    - 1
-  - - enric-vallduvi
+  - - zoran-macura
     - 1
   - - ye-tian1
+    - 1
+  - - christopher-cash
+    - 1
+  - - sophia-malamud
+    - 1
+  - - james-pustejovsky
     - 1
   first: Jonathan
   full: Jonathan Ginzburg
@@ -3941,6 +3978,23 @@ joseph-z-chang:
   papers: []
   slug: joseph-z-chang
   venues: []
+josephine-b-fisher:
+  coauthors:
+  - - amelie-s-robrecht
+    - 1
+  - - stefan-kopp
+    - 1
+  - - katharina-j-rohlfing
+    - 1
+  first: Josephine B.
+  full: Josephine B. Fisher
+  last: Fisher
+  papers:
+  - Z23-3007
+  slug: josephine-b-fisher
+  venues:
+  - - SEMDIAL
+    - 1
 joshua-b-gordon:
   coauthors: []
   first: Joshua B.
@@ -4154,11 +4208,11 @@ judith-fischer:
     - 1
 judith-holler:
   coauthors:
-  - - rachel-stevens
-    - 1
   - - paul-homke
     - 1
   - - stephen-c-levinson
+    - 1
+  - - rachel-stevens
     - 1
   first: Judith
   full: Judith Holler
@@ -4293,15 +4347,15 @@ julian-hough:
     - 6
   - - david-schlangen
     - 5
+  - - ruth-kempson
+    - 4
   - - eleni-gregoromichelaki
     - 4
   - - arash-eshghi
     - 4
-  - - ruth-kempson
-    - 4
-  - - patrick-healey
-    - 3
   - - mehrnoosh-sadrzadeh
+    - 3
+  - - patrick-healey
     - 3
   - - iwan-de-kok
     - 3
@@ -4309,16 +4363,6 @@ julian-hough:
     - 3
   - - tom-gurion
     - 2
-  - - jorge-del-bosque-trevino
-    - 1
-  - - stergios-chatzikyriakidis
-    - 1
-  - - jieun-kiaer
-    - 1
-  - - graham-white
-    - 1
-  - - david-hopes
-    - 1
   - - md-mabrur-husan-dihyat
     - 1
   - - john-kelleher
@@ -4339,6 +4383,20 @@ julian-hough:
     - 1
   - - juntao-yu
     - 1
+  - - felix-hulsmann
+    - 1
+  - - thomas-waltema
+    - 1
+  - - mario-botsch
+    - 1
+  - - rose-mccabe
+    - 1
+  - - cornelia-frank
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  - - ye-tian
+    - 1
   - - casey-kennington
     - 1
   - - shamila-nasreen
@@ -4351,19 +4409,15 @@ julian-hough:
     - 1
   - - andrew-lewis-smith
     - 1
-  - - rose-mccabe
+  - - jorge-del-bosque-trevino
     - 1
-  - - cornelia-frank
+  - - stergios-chatzikyriakidis
     - 1
-  - - jonathan-ginzburg
+  - - jieun-kiaer
     - 1
-  - - ye-tian
+  - - graham-white
     - 1
-  - - felix-hulsmann
-    - 1
-  - - thomas-waltema
-    - 1
-  - - mario-botsch
+  - - david-hopes
     - 1
   first: Julian
   full: Julian Hough
@@ -4754,21 +4808,21 @@ justin-h-gross:
   venues: []
 justine-cassell:
   coauthors:
-  - - alafate-abulimiti
-    - 1
-  - - jonathan-ginzburg
-    - 1
   - - zhou-yu
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - jon-gratch
     - 1
   - - giota-stratou
     - 1
   - - louis-philippe-morency
+    - 1
+  - - alafate-abulimiti
+    - 1
+  - - jonathan-ginzburg
     - 1
   first: Justine
   full: Justine Cassell

@@ -107,6 +107,27 @@ zeynep-orhan:
   papers: []
   slug: zeynep-orhan
   venues: []
+zhao-han:
+  coauthors:
+  - - mark-higger
+    - 1
+  - - polina-rygina
+    - 1
+  - - logan-daigler
+    - 1
+  - - lara-bezarra
+    - 1
+  - - tom-williams
+    - 1
+  first: Zhao
+  full: Zhao Han
+  last: Han
+  papers:
+  - Z23-3015
+  slug: zhao-han
+  venues:
+  - - SEMDIAL
+    - 1
 zhao-ming-gao:
   coauthors: []
   first: Zhao Ming
@@ -175,7 +196,7 @@ zhou-yu:
   coauthors:
   - - stefan-scherer
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - jon-gratch
     - 1

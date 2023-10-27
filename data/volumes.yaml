@@ -966,7 +966,7 @@ Z11-1:
     last: Core
   - first: David
     full: David DeVault
-    id: david-devault
+    id: david-devault1
     last: DeVault
   - first: Kallirroi
     full: Kallirroi Georgila
@@ -1007,7 +1007,7 @@ Z11-2:
     last: Core
   - first: David
     full: David DeVault
-    id: david-devault
+    id: david-devault1
     last: DeVault
   - first: Elsi
     full: Elsi Kaiser
@@ -1047,7 +1047,7 @@ Z11-3:
     last: Core
   - first: David
     full: David DeVault
-    id: david-devault
+    id: david-devault1
     last: DeVault
   - first: Elsi
     full: Elsi Kaiser
@@ -1102,7 +1102,7 @@ Z11-4:
     last: Core
   - first: David
     full: David DeVault
-    id: david-devault
+    id: david-devault1
     last: DeVault
   - first: Elsi
     full: Elsi Kaiser
@@ -2745,3 +2745,143 @@ Z22-4:
   venues:
   - SEMDIAL
   year: '2022'
+Z23-1:
+  address: Maribor, Slovenia
+  editor:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Darinka.
+    full: Darinka. Verdonik
+    id: darinka-verdonik
+    last: Verdonik
+  has_abstracts: false
+  meta_date: 2023/8
+  month: August
+  papers:
+  - Z23-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2023'
+Z23-2:
+  address: Maribor, Slovenia
+  editor:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Darinka.
+    full: Darinka. Verdonik
+    id: darinka-verdonik
+    last: Verdonik
+  has_abstracts: false
+  meta_date: 2023/8
+  month: August
+  papers:
+  - Z23-2001
+  - Z23-2002
+  - Z23-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2023'
+Z23-3:
+  address: Maribor, Slovenia
+  editor:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Darinka.
+    full: Darinka. Verdonik
+    id: darinka-verdonik
+    last: Verdonik
+  has_abstracts: false
+  meta_date: 2023/8
+  month: August
+  papers:
+  - Z23-3004
+  - Z23-3005
+  - Z23-3006
+  - Z23-3007
+  - Z23-3008
+  - Z23-3009
+  - Z23-3010
+  - Z23-3011
+  - Z23-3012
+  - Z23-3013
+  - Z23-3014
+  - Z23-3015
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2023'
+Z23-4:
+  address: Maribor, Slovenia
+  editor:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Darinka.
+    full: Darinka. Verdonik
+    id: darinka-verdonik
+    last: Verdonik
+  has_abstracts: false
+  meta_date: 2023/8
+  month: August
+  papers:
+  - Z23-4016
+  - Z23-4017
+  - Z23-4018
+  - Z23-4019
+  - Z23-4020
+  - Z23-4021
+  - Z23-4022
+  - Z23-4023
+  - Z23-4024
+  - Z23-4025
+  - Z23-4026
+  - Z23-4027
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2023'

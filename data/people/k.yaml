@@ -74,7 +74,7 @@ kai:
   coauthors:
   - - nina-dethlefs
     - 1
-  - - heriberto-cuayahuitl1
+  - - heriberto-cuayahuitl
     - 1
   - - florian-richter
     - 1
@@ -158,6 +158,8 @@ kallirroi-georgila:
     - 2
   - - david-traum
     - 2
+  - - james-henderson
+    - 1
   - - ellen-breitholtz
     - 1
   - - david-schlangen
@@ -166,7 +168,7 @@ kallirroi-georgila:
     - 1
   - - mark-g-core
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   - - elsi-kaiser
     - 1
@@ -175,8 +177,6 @@ kallirroi-georgila:
   - - hyungtak-choi
     - 1
   - - jill-boberg
-    - 1
-  - - james-henderson
     - 1
   - - volodymyr-yanov
     - 1
@@ -445,6 +445,23 @@ katarina-heimann-muhlenbock:
   papers: []
   slug: katarina-heimann-muhlenbock
   venues: []
+katarina-polonyiova:
+  coauthors:
+  - - joanna-kruyt
+    - 1
+  - - daniela-ostatnikova
+    - 1
+  - - stefan-benus
+    - 1
+  first: "Katar\xEDna"
+  full: "Katar\xEDna Pol\xF3nyiov\xE1"
+  last: "Pol\xF3nyiov\xE1"
+  papers:
+  - Z23-3004
+  slug: katarina-polonyiova
+  venues:
+  - - SEMDIAL
+    - 1
 katarzyna-budzynska:
   coauthors:
   - - kamila-debowska
@@ -517,15 +534,22 @@ katharina-j-rohlfing:
     - 1
   - - angelo-cangelosi
     - 1
+  - - josephine-b-fisher
+    - 1
+  - - amelie-s-robrecht
+    - 1
+  - - stefan-kopp
+    - 1
   first: Katharina J.
   full: Katharina J. Rohlfing
   last: Rohlfing
   papers:
+  - Z23-3007
   - Z13-4046
   slug: katharina-j-rohlfing
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 katharina-rohlfing:
   coauthors:
   - - juana-salas-poblete
@@ -657,9 +681,9 @@ katsuya-takanashi:
     - 6
   - - yasuharu-den
     - 6
-  - - yosuke-matsusaka
-    - 2
   - - shogo-okada
+    - 2
+  - - yosuke-matsusaka
     - 2
   first: Katsuya
   full: Katsuya Takanashi

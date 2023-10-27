@@ -116,10 +116,15 @@ gabriel-skantze:
     - 1
   - - anna-hjalmarsson
     - 1
+  - - carol-figueroa
+    - 1
+  - - magalie-ochs
+    - 1
   first: Gabriel
   full: Gabriel Skantze
   last: Skantze
   papers:
+  - Z23-3005
   - Z11-3007
   - Z11-4034
   - Z09-1000
@@ -127,7 +132,7 @@ gabriel-skantze:
   slug: gabriel-skantze
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 gabriela-cavaglia:
   coauthors: []
   first: Gabriela
@@ -937,7 +942,7 @@ giota-stratou:
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - jon-gratch
     - 1
@@ -1259,6 +1264,10 @@ graham-russell:
   venues: []
 graham-white:
   coauthors:
+  - - gibson-ikoro
+    - 1
+  - - raul-mondragon
+    - 1
   - - eleni-gregoromichelaki
     - 1
   - - stergios-chatzikyriakidis
@@ -1276,10 +1285,6 @@ graham-white:
   - - matthew-purver
     - 1
   - - mehrnoosh-sadrzadeh
-    - 1
-  - - gibson-ikoro
-    - 1
-  - - raul-mondragon
     - 1
   first: Graham
   full: Graham White

@@ -196,26 +196,18 @@ oliver-lemon:
     - 3
   - - kallirroi-georgila
     - 2
-  - - igor-shalyminov
-    - 2
   - - james-henderson
     - 2
-  - - nina-dethlefs
-    - 2
-  - - heriberto-cuayahuitl
-    - 2
-  - - helen-hastie
+  - - igor-shalyminov
     - 2
   - - ioannis-efstathiou
     - 2
-  - - ivan-v-meza-ruiz
-    - 1
-  - - sebastian-riedel
-    - 1
-  - - daniel-shapiro
-    - 1
-  - - carl-tollander
-    - 1
+  - - nina-dethlefs
+    - 2
+  - - heriberto-cuayahuitl1
+    - 2
+  - - helen-hastie
+    - 2
   - - phil-bartie
     - 1
   - - william-mackaness
@@ -248,6 +240,12 @@ oliver-lemon:
     - 1
   - - laure-vieu
     - 1
+  - - ivan-v-meza-ruiz
+    - 1
+  - - sebastian-riedel
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -278,7 +276,9 @@ oliver-lemon:
     - 1
   - - zhuoran-wang
     - 1
-  - - heriberto-cuayahuitl1
+  - - daniel-shapiro
+    - 1
+  - - carl-tollander
     - 1
   - - arash-eshghi1
     - 1

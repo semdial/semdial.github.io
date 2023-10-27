@@ -368,6 +368,19 @@ beatrice-priego-valverde:
   venues:
   - - SEMDIAL
     - 1
+beatrice-priego-valverde1:
+  coauthors:
+  - - chiara-mazzocconi
+    - 1
+  first: "B\xE9atrice"
+  full: "B\xE9atrice Priego-Valverde"
+  last: Priego-Valverde
+  papers:
+  - Z23-4021
+  slug: beatrice-priego-valverde1
+  venues:
+  - - SEMDIAL
+    - 1
 beatrice-santorini:
   coauthors: []
   first: Beatrice
@@ -507,13 +520,13 @@ benoit-favre:
   coauthors:
   - - simone-fuscone
     - 2
-  - - laurent-prvot
-    - 1
   - - laurent-prevot
     - 1
   - - magalie-ochs
     - 1
   - - laurent-pr-evot
+    - 1
+  - - laurent-prvot
     - 1
   first: Benoit
   full: Benoit Favre
@@ -1135,7 +1148,7 @@ boris-villazon-terrazas:
     - 1
   - - hugues-bouchard
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - nina-dethlefs
     - 1
@@ -1336,13 +1349,13 @@ brian-mcmahan:
   coauthors:
   - - matthew-stone
     - 2
+  - - timothy-meo
+    - 1
   - - baber-khalid
     - 1
   - - malihe-alikhani
     - 1
   - - michael-fellner
-    - 1
-  - - timothy-meo
     - 1
   first: Brian
   full: Brian McMahan
@@ -1364,7 +1377,7 @@ brian-mitchell:
   venues: []
 brian-pluss:
   coauthors:
-  - - david-devault
+  - - david-devault1
     - 1
   - - david-traum
     - 1
@@ -1398,6 +1411,19 @@ bridget-mcinnes:
   papers: []
   slug: bridget-mcinnes
   venues: []
+brielen-madureira:
+  coauthors:
+  - - david-schlangen
+    - 1
+  first: Brielen
+  full: Brielen Madureira
+  last: Madureira
+  papers:
+  - Z23-4025
+  slug: brielen-madureira
+  venues:
+  - - SEMDIAL
+    - 1
 brigitte-grau:
   coauthors: []
   first: Brigitte

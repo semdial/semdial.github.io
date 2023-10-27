@@ -390,7 +390,7 @@ Z15-3015:
     last: Keizer
   - first: Heriberto
     full: "Heriberto Cuay\xE1huitl"
-    id: heriberto-cuayahuitl1
+    id: heriberto-cuayahuitl
     last: "Cuay\xE1huitl"
   - first: Oliver
     full: Oliver Lemon
@@ -421,7 +421,7 @@ Z15-3016:
     last: Paetzel
   - first: David
     full: David Devault
-    id: david-devault1
+    id: david-devault
     last: Devault
   bibkey: manuvinakurike-etal-2015-reducing
   bibtype: inproceedings

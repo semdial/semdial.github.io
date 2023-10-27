@@ -692,12 +692,6 @@ ivana-kruijff-korbayova:
   coauthors:
   - - bernd-kiefer
     - 2
-  - - michael-brenner
-    - 1
-  - - magdalena-wolska
-    - 1
-  - - tatiana-anikina
-    - 1
   - - ilaria-baroni
     - 1
   - - mattia-coti-zelati
@@ -716,11 +710,17 @@ ivana-kruijff-korbayova:
     - 1
   - - jan-schehl
     - 1
+  - - tatiana-anikina
+    - 1
+  - - michael-brenner
+    - 1
   - - stefania-racioppa
     - 1
   - - elettra-oleari
     - 1
   - - clara-pozzi
+    - 1
+  - - magdalena-wolska
     - 1
   first: Ivana
   full: "Ivana Kruijff-Korbayov\xE1"
@@ -764,13 +764,13 @@ iwan-de-kok:
     - 3
   - - stefan-kopp
     - 3
-  - - cornelia-frank
-    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
     - 1
   - - mario-botsch
+    - 1
+  - - cornelia-frank
     - 1
   first: Iwan de
   full: Iwan de Kok
