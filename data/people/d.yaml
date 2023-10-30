@@ -773,17 +773,6 @@ darinka-verdonik:
     - 1
   - - chiara-mazzocconi
     - 1
-  first: Darinka.
-  full: Darinka. Verdonik
-  last: Verdonik
-  papers:
-  - Z23-1000
-  slug: darinka-verdonik
-  venues:
-  - - SEMDIAL
-    - 1
-darinka-verdonik1:
-  coauthors:
   - - simona-majhenic
     - 1
   - - andreja-bizjak
@@ -792,11 +781,12 @@ darinka-verdonik1:
   full: Darinka Verdonik
   last: Verdonik
   papers:
+  - Z23-1000
   - Z23-4027
-  slug: darinka-verdonik1
+  slug: darinka-verdonik
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 darla-magdalene-shockley:
   coauthors: []
   first: Darla Magdalene

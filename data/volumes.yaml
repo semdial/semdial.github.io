@@ -2756,8 +2756,8 @@ Z23-1:
     full: Chiara Mazzocconi
     id: chiara-mazzocconi
     last: Mazzocconi
-  - first: Darinka.
-    full: Darinka. Verdonik
+  - first: Darinka
+    full: Darinka Verdonik
     id: darinka-verdonik
     last: Verdonik
   has_abstracts: false
@@ -2785,8 +2785,8 @@ Z23-2:
     full: Chiara Mazzocconi
     id: chiara-mazzocconi
     last: Mazzocconi
-  - first: Darinka.
-    full: Darinka. Verdonik
+  - first: Darinka
+    full: Darinka Verdonik
     id: darinka-verdonik
     last: Verdonik
   has_abstracts: false
@@ -2816,8 +2816,8 @@ Z23-3:
     full: Chiara Mazzocconi
     id: chiara-mazzocconi
     last: Mazzocconi
-  - first: Darinka.
-    full: Darinka. Verdonik
+  - first: Darinka
+    full: Darinka Verdonik
     id: darinka-verdonik
     last: Verdonik
   has_abstracts: false
@@ -2856,8 +2856,8 @@ Z23-4:
     full: Chiara Mazzocconi
     id: chiara-mazzocconi
     last: Mazzocconi
-  - first: Darinka.
-    full: Darinka. Verdonik
+  - first: Darinka
+    full: Darinka Verdonik
     id: darinka-verdonik
     last: Verdonik
   has_abstracts: false

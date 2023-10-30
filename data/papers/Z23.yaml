@@ -9,8 +9,8 @@ Z23-1000:
     full: Chiara Mazzocconi
     id: chiara-mazzocconi
     last: Mazzocconi
-  - first: Darinka.
-    full: Darinka. Verdonik
+  - first: Darinka
+    full: Darinka Verdonik
     id: darinka-verdonik
     last: Verdonik
   bibkey: semdial-2023-semantics
@@ -723,7 +723,7 @@ Z23-4027:
   author:
   - first: Darinka
     full: Darinka Verdonik
-    id: darinka-verdonik1
+    id: darinka-verdonik
     last: Verdonik
   - first: Simona
     full: "Simona Majheni\u010D"
