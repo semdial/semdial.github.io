@@ -1,5 +1,5 @@
 ---
-lastname: Devault
+lastname: DeVault
 name: david-devault
-title: David Devault
+title: David DeVault
 ---

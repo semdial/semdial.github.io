@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="gotze-etal-2022-interactive">
+    <titleInfo>
+        <title>Interactive and Cooperative Delivery of Referring Expressions: A Comparison of Three Algorithms</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jana</namePart>
+        <namePart type="family">Götze</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Karla</namePart>
+        <namePart type="family">Friedrichs</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gotze-etal-2022-interactive</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Gotze_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+</modsCollection>

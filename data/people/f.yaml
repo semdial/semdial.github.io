@@ -327,6 +327,19 @@ fauren-faust:
   venues:
   - - SEMDIAL
     - 1
+federica-iurescia:
+  coauthors:
+  - - giovanni-moretti
+    - 1
+  first: Federica
+  full: Federica Iurescia
+  last: Iurescia
+  papers:
+  - Z24-4039
+  slug: federica-iurescia
+  venues:
+  - - SEMDIAL
+    - 1
 federico-prat:
   coauthors: []
   first: Federico
@@ -730,7 +743,7 @@ francesca-foppolo:
     - 1
 francesco-cutugno:
   coauthors:
-  - - maria-di-maro
+  - - maria-di-maro1
     - 1
   - - antonio-origlia
     - 1
@@ -869,7 +882,7 @@ franco-cutugno:
   coauthors:
   - - marco-valentino
     - 1
-  - - maria-di-maro1
+  - - maria-di-maro
     - 1
   first: Franco
   full: Franco Cutugno
@@ -947,6 +960,25 @@ frank-f-xu:
   papers: []
   slug: frank-f-xu
   venues: []
+frank-foerster:
+  coauthors:
+  - - julian-hough
+    - 1
+  - - carlos-baptista-de-lima
+    - 1
+  - - patrick-holthaus
+    - 1
+  - - yongjun-zheng
+    - 1
+  first: Frank
+  full: Frank Foerster
+  last: Foerster
+  papers:
+  - Z24-4044
+  slug: frank-foerster
+  venues:
+  - - SEMDIAL
+    - 1
 frank-henrik-muller:
   coauthors: []
   first: Frank Henrik
@@ -1146,13 +1178,13 @@ fredrik-kronlid:
   coauthors:
   - - staffan-larsson
     - 2
+  - - torbjorn-lager
+    - 1
   - - pontus-warnestal
     - 1
   - - sebastian-berlin
     - 1
   - - anders-eliasson
-    - 1
-  - - torbjorn-lager
     - 1
   first: Fredrik
   full: Fredrik Kronlid

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="gerassimenko-etal-2004-developing">
+    <titleInfo>
+        <title>Developing a typology of dialogue acts: Question-answer adjacency pairs in Estonian information dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Olga</namePart>
+        <namePart type="family">Gerassimenko</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tiit</namePart>
+        <namePart type="family">Hennoste</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mare</namePart>
+        <namePart type="family">Koit</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andriela</namePart>
+        <namePart type="family">Rääbis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maret</namePart>
+        <namePart type="family">Valdisoo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gerassimenko-etal-2004-developing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/026_Gerassimenko_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+</modsCollection>

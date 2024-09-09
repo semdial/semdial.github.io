@@ -57,6 +57,23 @@ valentin-i-spitkovsky:
   papers: []
   slug: valentin-i-spitkovsky
   venues: []
+valentin-tinarrage:
+  coauthors:
+  - - marie-boscaro
+    - 1
+  - - anastasia-giannakidou
+    - 1
+  - - alda-mari
+    - 1
+  first: Valentin
+  full: Valentin Tinarrage
+  last: Tinarrage
+  papers:
+  - Z24-4040
+  slug: valentin-tinarrage
+  venues:
+  - - SEMDIAL
+    - 1
 valentin-vogelmann:
   coauthors:
   - - laura-aina
@@ -82,6 +99,29 @@ valentina-bartalesi-lenzi:
   papers: []
   slug: valentina-bartalesi-lenzi
   venues: []
+valentyn-piskovskyi:
+  coauthors:
+  - - sabrina-patania
+    - 1
+  - - emanuele-masiero
+    - 1
+  - - luca-brini
+    - 1
+  - - gregor-donabauer
+    - 1
+  - - udo-kruschwitz
+    - 1
+  - - dimitri-ognibene
+    - 1
+  first: Valentyn
+  full: Valentyn Piskovskyi
+  last: Piskovskyi
+  papers:
+  - Z24-3006
+  slug: valentyn-piskovskyi
+  venues:
+  - - SEMDIAL
+    - 1
 valeria-de-paiva:
   coauthors: []
   first: Valeria
@@ -138,6 +178,30 @@ van-minh-nguyen:
   papers: []
   slug: van-minh-nguyen
   venues: []
+vanessa-vanzan:
+  coauthors:
+  - - chara-soupiona
+    - 2
+  - - christine-howes
+    - 2
+  - - amy-han-qiu
+    - 1
+  - - amy-han
+    - 1
+  - - qiu-fahima
+    - 1
+  - - ayub-khan
+    - 1
+  first: Vanessa
+  full: Vanessa Vanzan
+  last: Vanzan
+  papers:
+  - Z24-3013
+  - Z24-4038
+  slug: vanessa-vanzan
+  venues:
+  - - SEMDIAL
+    - 2
 vania-dimitrova:
   coauthors: []
   first: Vania
@@ -243,8 +307,6 @@ verena-rieser:
     - 2
   - - zhuoran-wang
     - 2
-  - - kevin-o-connor
-    - 1
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -304,6 +366,8 @@ verena-rieser:
   - - aimilios-vourliotakis
     - 1
   - - ioannis-efstathiou
+    - 1
+  - - kevin-o-connor
     - 1
   first: Verena
   full: Verena Rieser
@@ -517,19 +581,20 @@ vidas-daudaravicius:
 vidya-somashekarappa:
   coauthors:
   - - christine-howes
-    - 2
+    - 3
   - - asad-sayeed
     - 2
   first: Vidya
   full: Vidya Somashekarappa
   last: Somashekarappa
   papers:
+  - Z24-4037
   - Z22-4041
   - Z19-4041
   slug: vidya-somashekarappa
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 viet-cuong-nguyen:
   coauthors: []
   first: Viet Cuong
@@ -631,6 +696,23 @@ vincent-j-della-pietra:
   papers: []
   slug: vincent-j-della-pietra
   venues: []
+vincent-tourneur:
+  coauthors:
+  - - amandine-decker
+    - 1
+  - - maxime-amblard
+    - 1
+  - - ellen-breitholtz
+    - 1
+  first: Vincent
+  full: Vincent Tourneur
+  last: Tourneur
+  papers:
+  - Z24-4041
+  slug: vincent-tourneur
+  venues:
+  - - SEMDIAL
+    - 1
 vineet-gupta:
   coauthors: []
   first: Vineet
@@ -721,17 +803,17 @@ vivian-k-lee:
   venues: []
 vivien-mast:
   coauthors:
-  - - christina-freihorst
-    - 1
-  - - simon-algorta
-    - 1
-  - - robert-porzel
-    - 1
   - - daniel-couto-vale1
     - 1
   - - zoe-falomir
     - 1
   - - mohammad-fazleh-elahi
+    - 1
+  - - christina-freihorst
+    - 1
+  - - simon-algorta
+    - 1
+  - - robert-porzel
     - 1
   first: Vivien
   full: Vivien Mast
@@ -820,24 +902,42 @@ vladislav-kubon:
 vladislav-maraev:
   coauthors:
   - - christine-howes
-    - 4
-  - - chiara-mazzocconi
-    - 3
+    - 5
   - - ellen-breitholtz
     - 3
   - - jonathan-ginzburg
     - 3
+  - - chiara-mazzocconi
+    - 3
   - - staffan-larsson
-    - 2
+    - 3
   - - jean-philippe-bernardy
     - 2
   - - bill-noble
-    - 1
-  - - ebba-axelsson-nord
-    - 1
+    - 2
   - - ye-tian
     - 1
   - - andrea-carrion-del-fresno
+    - 1
+  - - adam-ek
+    - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - robin-cooper
+    - 1
+  - - simon-dobnik
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - gregory-mills
+    - 1
+  - - gijs-wijnholds
+    - 1
+  - - sara-amido
+    - 1
+  - - robert-ross
+    - 1
+  - - ebba-axelsson-nord
     - 1
   - - arash-eshghi
     - 1
@@ -847,6 +947,8 @@ vladislav-maraev:
   full: Vladislav Maraev
   last: Maraev
   papers:
+  - Z24-3010
+  - Z24-4026
   - Z23-4026
   - Z22-3006
   - Z21-3015
@@ -859,7 +961,7 @@ vladislav-maraev:
   slug: vladislav-maraev
   venues:
   - - SEMDIAL
-    - 9
+    - 11
 vlado-keselj:
   coauthors: []
   first: Vlado
@@ -884,9 +986,9 @@ volha-petukhova:
     - 3
   - - marcin-wlodarczak
     - 1
-  - - ramkumar-aruchamy
-    - 1
   - - ye-tian
+    - 1
+  - - ramkumar-aruchamy
     - 1
   first: Volha
   full: Volha Petukhova

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="tarighat-etal-2022-understanding">
+    <titleInfo>
+        <title>Understanding Fillers May Facilitate Automatic Sarcasm Comprehension: A Structural Analysis of Twitter Data and a Participant Study</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Fatemeh</namePart>
+        <namePart type="given">Samadzadeh</namePart>
+        <namePart type="family">Tarighat</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Walid</namePart>
+        <namePart type="family">Magdy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Martin</namePart>
+        <namePart type="family">Corley</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">tarighat-etal-2022-understanding</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Tarighat_semdial_0023.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+</modsCollection>

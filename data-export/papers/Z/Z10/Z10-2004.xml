@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="groenendijk-2010-radical">
+    <titleInfo>
+        <title>Radical Inquisitive Semantics</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jeroen</namePart>
+        <namePart type="family">Groenendijk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">groenendijk-2010-radical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Groenendijk_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+</modsCollection>

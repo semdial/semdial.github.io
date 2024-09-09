@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="janarthanam-lemon-2008-user">
+    <titleInfo>
+        <title>User Simulations for Online Adaptation and Knowledge-alignment in Troubleshooting Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Srinivasan</namePart>
+        <namePart type="family">Janarthanam</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-06</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">janarthanam-lemon-2008-user</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Janarthanam_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2008-06</date>
+    </part>
+</mods>
+</modsCollection>

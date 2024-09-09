@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="kruyt-etal-2023-lexical">
+    <titleInfo>
+        <title>Lexical entrainment on target words during task-oriented interaction in children with and without autism spectrum disorder</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Joanna</namePart>
+        <namePart type="family">Kruyt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Katarína</namePart>
+        <namePart type="family">Polónyiová</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daniela</namePart>
+        <namePart type="family">Ostatníková</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefan</namePart>
+        <namePart type="family">Benus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2023-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Maribor, Slovenia</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kruyt-etal-2023-lexical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z23-Kruyt_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2023-08</date>
+    </part>
+</mods>
+</modsCollection>

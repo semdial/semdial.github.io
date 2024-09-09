@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="sebastiano-etal-2024-network">
+    <titleInfo>
+        <title>Network science highlights the emotional structure of counselling conversations simulated by Large Language Models and humans</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Edoardo</namePart>
+        <namePart type="family">Sebastiano</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">De</namePart>
+        <namePart type="family">Duro</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Riccardo</namePart>
+        <namePart type="family">Improta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Massimo</namePart>
+        <namePart type="family">Stella</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2024-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Trento, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sebastiano-etal-2024-network</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z24-DeDuro_semdial_0034.pdf</url>
+    </location>
+    <part>
+        <date>2024-09</date>
+    </part>
+</mods>
+</modsCollection>

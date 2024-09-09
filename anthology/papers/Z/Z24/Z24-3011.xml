@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="park-2024-towards">
+    <titleInfo>
+        <title>Towards A Formal Semantics of Silence: An Analysis Based on the KoS Framework</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Haseon</namePart>
+        <namePart type="family">Park</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2024-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Trento, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">park-2024-towards</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z24-Park_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2024-09</date>
+    </part>
+</mods>
+</modsCollection>

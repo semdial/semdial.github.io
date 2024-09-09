@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="pluss-etal-2011-modelling">
+    <titleInfo>
+        <title>Modelling Non-Cooperative Dialogue: the Role of Conversational Games and Discourse Obligations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Brian</namePart>
+        <namePart type="family">Plüss</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Paul</namePart>
+        <namePart type="family">Piwek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Richard</namePart>
+        <namePart type="family">Power</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">pluss-etal-2011-modelling</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Pluss_semdial_0044.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+</modsCollection>

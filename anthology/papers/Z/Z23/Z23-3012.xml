@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="whetten-etal-2023-evaluating">
+    <titleInfo>
+        <title>Evaluating Automatic Speech Recognition and Natural Language Understanding in an Incremental Setting</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ryan</namePart>
+        <namePart type="family">Whetten</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Enoch</namePart>
+        <namePart type="family">Levandovsky</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mir</namePart>
+        <namePart type="given">Tahsin</namePart>
+        <namePart type="family">Imtiaz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Casey</namePart>
+        <namePart type="family">Kennington</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2023-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Maribor, Slovenia</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">whetten-etal-2023-evaluating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z23-Whetten_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2023-08</date>
+    </part>
+</mods>
+</modsCollection>

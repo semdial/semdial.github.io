@@ -152,31 +152,31 @@ kalliopi-zervanou:
   venues: []
 kallirroi-georgila:
   coauthors:
-  - - oliver-lemon
-    - 2
   - - carla-gordon
     - 2
   - - david-traum
     - 2
+  - - oliver-lemon
+    - 2
+  - - hyungtak-choi
+    - 1
+  - - jill-boberg
+    - 1
   - - james-henderson
-    - 1
-  - - ellen-breitholtz
-    - 1
-  - - david-schlangen
     - 1
   - - ron-artstein
     - 1
   - - mark-g-core
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - elsi-kaiser
     - 1
   - - amanda-stent
     - 1
-  - - hyungtak-choi
+  - - ellen-breitholtz
     - 1
-  - - jill-boberg
+  - - david-schlangen
     - 1
   - - volodymyr-yanov
     - 1
@@ -526,6 +526,12 @@ katharina-boesefeldt:
   venues: []
 katharina-j-rohlfing:
   coauthors:
+  - - josephine-b-fisher
+    - 1
+  - - amelie-s-robrecht
+    - 1
+  - - stefan-kopp
+    - 1
   - - anna-lisa-vollmer
     - 1
   - - manuel-muhlig
@@ -533,12 +539,6 @@ katharina-j-rohlfing:
   - - britta-wrede
     - 1
   - - angelo-cangelosi
-    - 1
-  - - josephine-b-fisher
-    - 1
-  - - amelie-s-robrecht
-    - 1
-  - - stefan-kopp
     - 1
   first: Katharina J.
   full: Katharina J. Rohlfing
@@ -677,13 +677,13 @@ katsuya-takanashi:
     - 7
   - - masato-ishizaki
     - 6
-  - - mika-enomoto
-    - 6
   - - yasuharu-den
     - 6
-  - - shogo-okada
-    - 2
+  - - mika-enomoto
+    - 6
   - - yosuke-matsusaka
+    - 2
+  - - shogo-okada
     - 2
   first: Katsuya
   full: Katsuya Takanashi
@@ -1759,9 +1759,9 @@ kristina-lundholm:
     - 1
 kristina-lundholm-fors:
   coauthors:
-  - - jessica-villing
-    - 1
   - - ellen-breitholtz
+    - 1
+  - - jessica-villing
     - 1
   first: Kristina Lundholm
   full: Kristina Lundholm Fors

@@ -189,17 +189,17 @@ takehito-utsuro:
   venues: []
 takenobu-tokunaga:
   coauthors:
-  - - kotaro-funakoshi
-    - 1
-  - - mikio-nakano
-    - 1
-  - - ryu-iida
-    - 1
   - - yikai-tseng
     - 1
   - - hikaru-yokono
     - 1
   - - hiroshi-ichikawa
+    - 1
+  - - kotaro-funakoshi
+    - 1
+  - - mikio-nakano
+    - 1
+  - - ryu-iida
     - 1
   first: Takenobu
   full: Takenobu Tokunaga
@@ -349,11 +349,11 @@ tanvi-dinkar:
   coauthors:
   - - chloe-clavel
     - 2
-  - - beatrice-biancardi
-    - 1
   - - ioana-vasilescu
     - 1
   - - catherine-pelachaud
+    - 1
+  - - beatrice-biancardi
     - 1
   first: Tanvi
   full: Tanvi Dinkar

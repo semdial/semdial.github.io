@@ -1,5 +1,5 @@
 ---
 lastname: Priego-Valverde
 name: beatrice-priego-valverde
-title: Beatrice Priego-Valverde
+title: "B\xE9atrice Priego-Valverde"
 ---

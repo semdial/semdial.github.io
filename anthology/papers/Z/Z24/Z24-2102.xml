@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="ruggeri-2024-emergence">
+    <titleInfo>
+        <title>Emergence and Developmental trajectory of Ecological Active Learning</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Azzurra</namePart>
+        <namePart type="family">Ruggeri</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2024-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Trento, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ruggeri-2024-emergence</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z24-Ruggeri_semdial_0002a.pdf</url>
+    </location>
+    <part>
+        <date>2024-09</date>
+    </part>
+</mods>
+</modsCollection>

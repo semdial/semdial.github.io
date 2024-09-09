@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="fernandez-purver-2004-information">
+    <titleInfo>
+        <title>Information state update: Semantics or pragmatics?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fernandez-purver-2004-information</identifier>
+    <location>
+        <url>http://semdial.org/anthology/006_Fernandez_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+</modsCollection>

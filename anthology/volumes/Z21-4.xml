@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="anikina-kruijff-korbayova-2021-annotating">
+    <titleInfo>
+        <title>Annotating events and entities in dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tatiana</namePart>
+        <namePart type="family">Anikina</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ivana</namePart>
+        <namePart type="family">Kruijff-Korbayová</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">anikina-kruijff-korbayova-2021-annotating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Anikina_semdial_0019.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="axelsson-nord-etal-2021-mean">
+    <titleInfo>
+        <title>What do you mean? Eliciting enthymemes in text-based dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ebba</namePart>
+        <namePart type="family">Axelsson Nord</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vladislav</namePart>
+        <namePart type="family">Maraev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Breitholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">axelsson-nord-etal-2021-mean</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Nord_semdial_0020.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="buch-2021-deictic">
+    <titleInfo>
+        <title>The deictic nature of speech act reference</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Friederike</namePart>
+        <namePart type="family">Buch</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">buch-2021-deictic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Buch_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="chaffey-traum-2021-identity">
+    <titleInfo>
+        <title>Identity models for role-play dialogue characters</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Patricia</namePart>
+        <namePart type="family">Chaffey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Traum</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">chaffey-traum-2021-identity</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Chaffey_semdial_0022.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="dihyat-hough-2021-rule">
+    <titleInfo>
+        <title>Can rule-based chatbots outperform neural models without pre-training in small data situations?: A preliminary comparison of AIML and Seq2Seq</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Md</namePart>
+        <namePart type="given">Mabrur</namePart>
+        <namePart type="given">Husan</namePart>
+        <namePart type="family">Dihyat</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dihyat-hough-2021-rule</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Dihyat_semdial_0023.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="dinkar-etal-2021-local">
+    <titleInfo>
+        <title>From local hesitations to global impressions of a speaker’s feeling of knowing</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tanvi</namePart>
+        <namePart type="family">Dinkar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Beatrice</namePart>
+        <namePart type="family">Biancardi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chloé</namePart>
+        <namePart type="family">Clavel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dinkar-etal-2021-local</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Dinkar_semdial_0024.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="dobbriner-etal-2021-exploring">
+    <titleInfo>
+        <title>Exploring the personality of virtual tutors in conversational foreign language practice</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Johanna</namePart>
+        <namePart type="family">Dobbriner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Cathy</namePart>
+        <namePart type="family">Ennis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="family">Ross</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dobbriner-etal-2021-exploring</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Dobbriner_semdial_0025.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="gilmartin-wlodarczak-2021-getting">
+    <titleInfo>
+        <title>Getting from A to B: Exploring floor state transitions in conversation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Emer</namePart>
+        <namePart type="family">Gilmartin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marcin</namePart>
+        <namePart type="family">Włodarczak</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gilmartin-wlodarczak-2021-getting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Gilmartin_semdial_0026.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="hernandez-artstein-2021-annotating">
+    <titleInfo>
+        <title>Annotating low-confidence questions improves classifier performance</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Stephanie</namePart>
+        <namePart type="family">Hernandez</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ron</namePart>
+        <namePart type="family">Artstein</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hernandez-artstein-2021-annotating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Hernandez_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="lai-etal-2021-situated">
+    <titleInfo>
+        <title>Situated UMR for multimodal interactions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kenneth</namePart>
+        <namePart type="family">Lai</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Richard</namePart>
+        <namePart type="family">Brutti</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lucia</namePart>
+        <namePart type="family">Donatelli</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">James</namePart>
+        <namePart type="family">Pustejovsky</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lai-etal-2021-situated</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Lai_semdial_0028.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="maier-ultes-2021-challenges">
+    <titleInfo>
+        <title>Challenges for the conversational entity dialog model</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Wolfgang</namePart>
+        <namePart type="family">Maier</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefan</namePart>
+        <namePart type="family">Ultes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">maier-ultes-2021-challenges</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Maier_semdial_0029.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+<mods ID="di-maro-etal-2021-conflict">
+    <titleInfo>
+        <title>Conflict search graph for common ground consistency checks in dialogue systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Maria</namePart>
+        <namePart type="family">Di Maro</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Antonio</namePart>
+        <namePart type="family">Origlia</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Francesco</namePart>
+        <namePart type="family">Cutugno</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">di-maro-etal-2021-conflict</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z21-Maro_semdial_0030.pdf</url>
+    </location>
+    <part>
+        <date>2021-09</date>
+    </part>
+</mods>
+</modsCollection>

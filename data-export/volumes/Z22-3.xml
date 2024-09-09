@@ -1,0 +1,857 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="ginzburg-lucking-2022-integrated">
+    <titleInfo>
+        <title>The Integrated Model of Memory: a dialogical perspective</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andy</namePart>
+        <namePart type="family">Lücking</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ginzburg-lucking-2022-integrated</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Ginzburg_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="misiek-fourtassi-2022-caregivers">
+    <titleInfo>
+        <title>Caregivers Exaggerate Their Lexical Alignment to Young Children Across Several Cultures</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Thomas</namePart>
+        <namePart type="family">Misiek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Abdellah</namePart>
+        <namePart type="family">Fourtassi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">misiek-fourtassi-2022-caregivers</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Misiek_semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="carrion-del-fresno-etal-2022-dialogue">
+    <titleInfo>
+        <title>Dialogue strategies for... cómo se dice entrenamiento de vocabulario?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Andrea</namePart>
+        <namePart type="family">Carrión Del Fresno</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vladislav</namePart>
+        <namePart type="family">Maraev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">carrion-del-fresno-etal-2022-dialogue</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Carrion-Del-Fresno_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="lucking-ginzburg-2022-repair">
+    <titleInfo>
+        <title>How to repair a slip of the tongue?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Andy</namePart>
+        <namePart type="family">Lücking</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lucking-ginzburg-2022-repair</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Lücking_semdial_0007.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="duff-balachandran-2022-participants">
+    <titleInfo>
+        <title>Participants seek shared outlooks in non-canonical disagreements: Evidence from a corpus of dyadic conversation in English</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">John</namePart>
+        <namePart type="family">Duff</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lalitha</namePart>
+        <namePart type="family">Balachandran</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">duff-balachandran-2022-participants</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Duff_semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="yusupujiang-etal-2022-classifying">
+    <titleInfo>
+        <title>Classifying the Response Space of Questions: A Machine Learning Approach</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Zulipiye</namePart>
+        <namePart type="family">Yusupujiang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alafate</namePart>
+        <namePart type="family">Abulimiti</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">yusupujiang-etal-2022-classifying</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Yusupujiang_semdial_0009.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="kennington-natouf-2022-symbol">
+    <titleInfo>
+        <title>The Symbol Grounding Problem Re-framed as Concreteness-Abstractness Learned through Spoken Interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Casey</namePart>
+        <namePart type="family">Kennington</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Osama</namePart>
+        <namePart type="family">Natouf</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kennington-natouf-2022-symbol</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Kennington_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="georgila-2022-comparing">
+    <titleInfo>
+        <title>Comparing Regression Methods for Dialogue System Evaluation on a Richly Annotated Corpus</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kallirroi</namePart>
+        <namePart type="family">Georgila</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">georgila-2022-comparing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Georgila_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="krifka-2022-adjacency">
+    <titleInfo>
+        <title>Adjacency Pairs in Common Ground Update: Assertions, Questions, Greetings, Offers, Commands</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Manfred</namePart>
+        <namePart type="family">Krifka</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">krifka-2022-adjacency</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Krifka_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="bernardy-etal-2022-rational">
+    <titleInfo>
+        <title>Rational Speech Act models are utterance-independent updates of world priors</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jean-Philippe</namePart>
+        <namePart type="family">Bernardy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Grove</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bernardy-etal-2022-rational</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Bernardy_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="zachrau-2022-relationality">
+    <titleInfo>
+        <title>Relationality is Not Enough: The Organization of Dynamic Structures</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Maximilian</namePart>
+        <namePart type="family">Zachrau</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">zachrau-2022-relationality</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Zachrau_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="gotze-etal-2022-interactive">
+    <titleInfo>
+        <title>Interactive and Cooperative Delivery of Referring Expressions: A Comparison of Three Algorithms</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jana</namePart>
+        <namePart type="family">Götze</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Karla</namePart>
+        <namePart type="family">Friedrichs</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gotze-etal-2022-interactive</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Gotze_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="inan-alikhani-2022-grounding">
+    <titleInfo>
+        <title>Grounding Novel Utterances in Visual Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mert</namePart>
+        <namePart type="family">Inan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Malihe</namePart>
+        <namePart type="family">Alikhani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">inan-alikhani-2022-grounding</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Inan_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="dobnik-etal-2022-refer">
+    <titleInfo>
+        <title>What to refer to and when? Reference and re-reference in two language-and-vision tasks</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nikolai</namePart>
+        <namePart type="family">Ilinykh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aram</namePart>
+        <namePart type="family">Karimi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dobnik-etal-2022-refer</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Dobnik_semdial_0017.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="gregoromichelaki-etal-2022-language">
+    <titleInfo>
+        <title>Language and Cognition as Distributed Process and Interactions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Eleni</namePart>
+        <namePart type="family">Gregoromichelaki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Arash</namePart>
+        <namePart type="family">Eshghi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gregory</namePart>
+        <namePart type="family">Mills</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ruth</namePart>
+        <namePart type="family">Kempson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Patrick</namePart>
+        <namePart type="family">Healey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gregoromichelaki-etal-2022-language</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Gregoromichelaki_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="khosrobeigi-etal-2022-gesture">
+    <titleInfo>
+        <title>Gesture and Part-of-Speech Alignment in Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Zohreh</namePart>
+        <namePart type="family">Khosrobeigi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maria</namePart>
+        <namePart type="family">Koutsombogera</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Carl</namePart>
+        <namePart type="family">Vogel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">khosrobeigi-etal-2022-gesture</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Khosrobeigi_semdial_0019.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="noble-etal-2022-coordinating">
+    <titleInfo>
+        <title>Coordinating taxonomical and observational meaning: The case of genus-differentia definitions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Bill</namePart>
+        <namePart type="family">Noble</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robin</namePart>
+        <namePart type="family">Cooper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">noble-etal-2022-coordinating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Noble_semdial_0020.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="balogh-2022-focus">
+    <titleInfo>
+        <title>Focus negation in formal grammar</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kata</namePart>
+        <namePart type="family">Balogh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">balogh-2022-focus</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Balogh_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+<mods ID="marques-2022-conversation">
+    <titleInfo>
+        <title>Conversation and mood in European Portuguese</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Rui</namePart>
+        <namePart type="family">Marques</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">marques-2022-conversation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Marques_semdial_0022.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+</modsCollection>

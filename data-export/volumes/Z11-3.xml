@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="rieser-2011-gestures">
+    <titleInfo>
+        <title>Gestures Indicating Dialogue Structure</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hannes</namePart>
+        <namePart type="family">Rieser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">rieser-2011-gestures</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Rieser_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="johansson-etal-2011-understanding">
+    <titleInfo>
+        <title>Understanding Route Directions in Human-Robot Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Martin</namePart>
+        <namePart type="family">Johansson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gabriel</namePart>
+        <namePart type="family">Skantze</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gustafson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">johansson-etal-2011-understanding</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Johansson_semdial_0007.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="ward-2011-temporal">
+    <titleInfo>
+        <title>Temporal Distributional Analysis</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nigel</namePart>
+        <namePart type="given">G</namePart>
+        <namePart type="family">Ward</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ward-2011-temporal</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-G._semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="benz-etal-2011-decision">
+    <titleInfo>
+        <title>A decision-theoretic approach to finding optimal responses to over-constrained queries in a conceptual search space</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Anton</namePart>
+        <namePart type="family">Benz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Núria</namePart>
+        <namePart type="family">Bertomeu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alexandra</namePart>
+        <namePart type="family">Strekalova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">benz-etal-2011-decision</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Benz_semdial_0009.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="buss-schlangen-2011-dium">
+    <titleInfo>
+        <title>DIUM – An Incremental Dialogue Manager</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Okko</namePart>
+        <namePart type="family">Buß</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">buss-schlangen-2011-dium</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Buss_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="fors-villing-2011-reducing">
+    <titleInfo>
+        <title>Reducing cognitive load in in-vehicle dialogue system interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kristina</namePart>
+        <namePart type="given">Lundholm</namePart>
+        <namePart type="family">Fors</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jessica</namePart>
+        <namePart type="family">Villing</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fors-villing-2011-reducing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Lundholm_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="pluss-etal-2011-toward">
+    <titleInfo>
+        <title>Toward Rapid Development of Multi-Party</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Brian</namePart>
+        <namePart type="family">Plüss</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">DeVault</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Traum</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">pluss-etal-2011-toward</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Pluss_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="malamud-stephenson-2011-three">
+    <titleInfo>
+        <title>Three Ways to Avoid Commitments: Declarative Force Modifiers in the Conversational Scoreboard</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sophia</namePart>
+        <namePart type="family">Malamud</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tamina</namePart>
+        <namePart type="family">Stephenson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">malamud-stephenson-2011-three</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Malamud_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="crespo-fernandez-2011-expressing">
+    <titleInfo>
+        <title>Expressing Taste in Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Inés</namePart>
+        <namePart type="family">Crespo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">crespo-fernandez-2011-expressing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Crespo_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="byram-etal-2011-focus">
+    <titleInfo>
+        <title>Focus Facilitation and Non-Associative Sets</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mary</namePart>
+        <namePart type="family">Byram</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Washburn</namePart>
+        <namePart type="family">Elsi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kaiser</namePart>
+        <namePart type="family">Maria</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Luisa</namePart>
+        <namePart type="family">Zubizarreta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">byram-etal-2011-focus</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Byram_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="t-healey-2011-structural">
+    <titleInfo>
+        <title>Structural Divergence in Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Patrick</namePart>
+        <namePart type="given">G</namePart>
+        <namePart type="family">T.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">T</namePart>
+        <namePart type="family">Healey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">t-healey-2011-structural</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-G._semdial_0017.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="chukharev-hudilainen-2011-local">
+    <titleInfo>
+        <title>Local Discourse Structure of Chat Dialogues: Evidence from Keystroke Logging</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Evgeny</namePart>
+        <namePart type="family">Chukharev-Hudilainen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">chukharev-hudilainen-2011-local</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Chukharev-Hudilainen_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="kunert-etal-2011-adaptation">
+    <titleInfo>
+        <title>Adaptation in Child Directed Speech: Evidence from Corpora</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Richard</namePart>
+        <namePart type="family">Kunert</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Willem</namePart>
+        <namePart type="family">Zuidema</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kunert-etal-2011-adaptation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Kunert_semdial_0019.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="bahtina-2011-lingua">
+    <titleInfo>
+        <title>Lingua Receptiva: Explicit Alignment in Estonian-Russian Communication</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daria</namePart>
+        <namePart type="family">Bahtina</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bahtina-2011-lingua</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Bahtina_semdial_0020.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="cooper-ginzburg-2011-negation">
+    <titleInfo>
+        <title>Negation in dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Robin</namePart>
+        <namePart type="family">Cooper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cooper-ginzburg-2011-negation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Cooper_semdial_0022.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="larsson-2011-ttr">
+    <titleInfo>
+        <title>The TTR perceptron: Dynamic perceptual meanings and semantic coordination</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">larsson-2011-ttr</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Larsson_semdial_0023.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="breitholtz-cooper-2011-enthymemes">
+    <titleInfo>
+        <title>Enthymemes as Rhetorical Resources</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Breitholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robin</namePart>
+        <namePart type="family">Cooper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">breitholtz-cooper-2011-enthymemes</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Breitholtz_semdial_0024.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="witt-2011-global">
+    <titleInfo>
+        <title>A GLOBAL EXPERIENCE METRIC FOR DIALOG MANAGEMENT IN SPOKEN DIALOG SYSTEMS</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Silke</namePart>
+        <namePart type="family">Witt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">witt-2011-global</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Witt_semdial_0025.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+<mods ID="katz-etal-2011-dialogue">
+    <titleInfo>
+        <title>Dialogue Analysis to Inform the Development of a Natural-language Tutoring System for Physics</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sandra</namePart>
+        <namePart type="family">Katz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Patricia</namePart>
+        <namePart type="family">Albacete</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pamela</namePart>
+        <namePart type="family">Jordan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Diane</namePart>
+        <namePart type="family">Litman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">katz-etal-2011-dialogue</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Katz_semdial_0026.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="op-den-akker-traum-2009-comparison">
+    <titleInfo>
+        <title>A comparison of addressee detection methods for multiparty conversations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Rieks</namePart>
+        <namePart type="family">op den Akker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Traum</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2009-06</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Stockholm, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">op-den-akker-traum-2009-comparison</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z09-opdenAkker_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2009-06</date>
+    </part>
+</mods>
+</modsCollection>

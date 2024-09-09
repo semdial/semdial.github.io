@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="li-ross-2023-framework">
+    <titleInfo>
+        <title>A Framework for Confusion Mitigation in Task-Oriented Interactions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Na</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="family">Ross</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2023-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Maribor, Slovenia</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">li-ross-2023-framework</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z23-Li_semdial_0024.pdf</url>
+    </location>
+    <part>
+        <date>2023-08</date>
+    </part>
+</mods>
+</modsCollection>

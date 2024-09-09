@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="guhe-etal-2006-prosodic">
+    <titleInfo>
+        <title>Prosodic marking of contrasts in information structure</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Markus</namePart>
+        <namePart type="family">Guhe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mark</namePart>
+        <namePart type="family">Steedman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="given">Gurman</namePart>
+        <namePart type="family">Bard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Max</namePart>
+        <namePart type="given">M</namePart>
+        <namePart type="family">Louwerse</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2006-sep 11-13</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">guhe-etal-2006-prosodic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/028_Guhe_semdial2006_brandial_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2006-sep 11-13</date>
+    </part>
+</mods>
+</modsCollection>

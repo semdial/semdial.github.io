@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="mazzaccara-etal-2024-boosting">
+    <titleInfo>
+        <title>Boosting Questions’ Effectiveness in Medical Interviews</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Davide</namePart>
+        <namePart type="family">Mazzaccara</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alberto</namePart>
+        <namePart type="family">Testoni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raffaella</namePart>
+        <namePart type="family">Bernardi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2024-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Trento, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">mazzaccara-etal-2024-boosting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z24-Mazzaccara_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2024-09</date>
+    </part>
+</mods>
+</modsCollection>

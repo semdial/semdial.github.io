@@ -966,7 +966,7 @@ Z11-1:
     last: Core
   - first: David
     full: David DeVault
-    id: david-devault1
+    id: david-devault
     last: DeVault
   - first: Kallirroi
     full: Kallirroi Georgila
@@ -1007,7 +1007,7 @@ Z11-2:
     last: Core
   - first: David
     full: David DeVault
-    id: david-devault1
+    id: david-devault
     last: DeVault
   - first: Elsi
     full: Elsi Kaiser
@@ -1047,7 +1047,7 @@ Z11-3:
     last: Core
   - first: David
     full: David DeVault
-    id: david-devault1
+    id: david-devault
     last: DeVault
   - first: Elsi
     full: Elsi Kaiser
@@ -1102,7 +1102,7 @@ Z11-4:
     last: Core
   - first: David
     full: David DeVault
-    id: david-devault1
+    id: david-devault
     last: DeVault
   - first: Elsi
     full: Elsi Kaiser
@@ -2885,3 +2885,163 @@ Z23-4:
   venues:
   - SEMDIAL
   year: '2023'
+Z24-1:
+  address: Trento, Italy
+  editor:
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  has_abstracts: false
+  meta_date: 2024/9
+  month: September
+  papers:
+  - Z24-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2024'
+Z24-2:
+  address: Trento, Italy
+  editor:
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  has_abstracts: false
+  meta_date: 2024/9
+  month: September
+  papers:
+  - Z24-2101
+  - Z24-2102
+  - Z24-2103
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2024'
+Z24-3:
+  address: Trento, Italy
+  editor:
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  has_abstracts: false
+  meta_date: 2024/9
+  month: September
+  papers:
+  - Z24-3001
+  - Z24-3002
+  - Z24-3003
+  - Z24-3004
+  - Z24-3005
+  - Z24-3006
+  - Z24-3007
+  - Z24-3008
+  - Z24-3009
+  - Z24-3010
+  - Z24-3011
+  - Z24-3012
+  - Z24-3013
+  - Z24-3014
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2024'
+Z24-4:
+  address: Trento, Italy
+  editor:
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  has_abstracts: false
+  meta_date: 2024/9
+  month: September
+  papers:
+  - Z24-4016
+  - Z24-4017
+  - Z24-4018
+  - Z24-4019
+  - Z24-4020
+  - Z24-4021
+  - Z24-4022
+  - Z24-4023
+  - Z24-4024
+  - Z24-4025
+  - Z24-4026
+  - Z24-4028
+  - Z24-4030
+  - Z24-4031
+  - Z24-4032
+  - Z24-4033
+  - Z24-4034
+  - Z24-4035
+  - Z24-4036
+  - Z24-4037
+  - Z24-4038
+  - Z24-4039
+  - Z24-4040
+  - Z24-4041
+  - Z24-4042
+  - Z24-4043
+  - Z24-4044
+  - Z24-4045
+  - Z24-4046
+  - Z24-4047
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2024'

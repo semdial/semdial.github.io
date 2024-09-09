@@ -6,6 +6,21 @@ qi-quan-huang:
   papers: []
   slug: qi-quan-huang
   venues: []
+qiang-xia:
+  coauthors:
+  - - emer-gilmartin
+    - 1
+  - - marcin-wlodarczak
+    - 1
+  first: Qiang
+  full: Qiang Xia
+  last: Xia
+  papers:
+  - Z24-3014
+  slug: qiang-xia
+  venues:
+  - - SEMDIAL
+    - 1
 qiaoming-zhu:
   coauthors: []
   first: Qiaoming
@@ -38,6 +53,27 @@ qingqing-cai:
   papers: []
   slug: qingqing-cai
   venues: []
+qiu-fahima:
+  coauthors:
+  - - vanessa-vanzan
+    - 1
+  - - amy-han
+    - 1
+  - - ayub-khan
+    - 1
+  - - chara-soupiona
+    - 1
+  - - christine-howes
+    - 1
+  first: Qiu
+  full: Qiu Fahima
+  last: Fahima
+  papers:
+  - Z24-4038
+  slug: qiu-fahima
+  venues:
+  - - SEMDIAL
+    - 1
 quan-hung-tran:
   coauthors: []
   first: Quan Hung

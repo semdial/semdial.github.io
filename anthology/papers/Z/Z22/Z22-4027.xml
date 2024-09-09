@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="dobnik-karimi-2022-chat">
+    <titleInfo>
+        <title>Chat-o-matic: an online chat tool for collecting conversations of situated dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aram</namePart>
+        <namePart type="family">Karimi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dobnik-karimi-2022-chat</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Dobnik_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+</modsCollection>

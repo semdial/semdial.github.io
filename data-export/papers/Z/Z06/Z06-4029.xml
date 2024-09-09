@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="villing-larsson-2006-dico">
+    <titleInfo>
+        <title>Dico: A Multimodal Menu-based In-vehicle Dialogue System</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jessica</namePart>
+        <namePart type="family">Villing</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2006-sep 11-13</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">villing-larsson-2006-dico</identifier>
+    <location>
+        <url>http://semdial.org/anthology/029_Villing_semdial2006_brandial_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2006-sep 11-13</date>
+    </part>
+</mods>
+</modsCollection>

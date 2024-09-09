@@ -211,13 +211,13 @@ hannah-rohde:
     - 1
   - - stefan-kaufmann
     - 1
-  - - hodgdon-stevens
-    - 1
   - - ernisa-marzuki
     - 1
   - - gareth-clegg
     - 1
   - - holly-branigan
+    - 1
+  - - hodgdon-stevens
     - 1
   - - alexandra-lorson
     - 1
@@ -290,8 +290,6 @@ hannes-rieser:
     - 3
   - - insa-lawler
     - 2
-  - - udo-klein
-    - 1
   - - julia-peltason
     - 1
   - - sven-wachsmuth
@@ -303,6 +301,8 @@ hannes-rieser:
   - - thies-thies
     - 1
   - - massimo-poesio
+    - 1
+  - - udo-klein
     - 1
   first: Hannes
   full: Hannes Rieser
@@ -535,6 +535,35 @@ harris-papageorgiou:
   papers: []
   slug: harris-papageorgiou
   venues: []
+harry-addlessee:
+  coauthors:
+  - - mark-monaghan
+    - 1
+  - - jose-rodriguez-assalone
+    - 1
+  - - sandra-gregoire
+    - 1
+  - - buhari-bashir
+    - 1
+  - - ross-nelson
+    - 1
+  - - mahad-mahad
+    - 1
+  - - javier-sanchez-castro
+    - 1
+  - - elissa-westerheim
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Harry
+  full: Harry Addlessee
+  last: Addlessee
+  papers:
+  - Z24-4035
+  slug: harry-addlessee
+  venues:
+  - - SEMDIAL
+    - 1
 harry-bratt:
   coauthors: []
   first: Harry
@@ -551,11 +580,9 @@ harry-bunt:
     - 3
   - - roser-morante
     - 2
-  - - yann-girard
-    - 1
   - - marcin-wlodarczak
     - 1
-  - - ramkumar-aruchamy
+  - - simon-keizer
     - 1
   - - myroslava-o-dzikovska
     - 1
@@ -563,7 +590,9 @@ harry-bunt:
     - 1
   - - matthew-stone
     - 1
-  - - simon-keizer
+  - - ramkumar-aruchamy
+    - 1
+  - - yann-girard
     - 1
   first: Harry
   full: Harry Bunt
@@ -621,6 +650,17 @@ harshawardhan-madhukar-wabgaonkar:
   papers:
   - Z18-3006
   slug: harshawardhan-madhukar-wabgaonkar
+  venues:
+  - - SEMDIAL
+    - 1
+haseon-park:
+  coauthors: []
+  first: Haseon
+  full: Haseon Park
+  last: Park
+  papers:
+  - Z24-3011
+  slug: haseon-park
   venues:
   - - SEMDIAL
     - 1
@@ -746,6 +786,21 @@ heidi-fox:
   papers: []
   slug: heidi-fox
   venues: []
+heike-buhl:
+  coauthors:
+  - - amelie-robrecht
+    - 1
+  - - stefan-kopp
+    - 1
+  first: Heike
+  full: Heike Buhl
+  last: Buhl
+  papers:
+  - Z24-4019
+  slug: heike-buhl
+  venues:
+  - - SEMDIAL
+    - 1
 heiki-jaan-kaalep:
   coauthors: []
   first: Heiki-Jaan
@@ -780,8 +835,6 @@ helen-hastie:
     - 2
   - - oliver-lemon
     - 2
-  - - jose-david-lopes
-    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -814,6 +867,8 @@ helen-hastie:
     - 1
   - - mei-yii-lim
     - 1
+  - - jose-david-lopes
+    - 1
   first: Helen
   full: Helen Hastie
   last: Hastie
@@ -833,7 +888,7 @@ helen-k-y-chen:
     - 1
   - - roxane-bertrand
     - 1
-  - - beatrice-priego-valverde
+  - - beatrice-priego-valverde1
     - 1
   - - philippe-blache
     - 1
@@ -970,17 +1025,29 @@ hendrik-buschmeier:
   coauthors:
   - - stefan-kopp
     - 3
+  - - petra-wagner
+    - 1
+  - - marcin-wlodarczak
+    - 1
+  - - olcay-turk
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - milena-belosevic
+    - 1
   first: Hendrik
   full: Hendrik Buschmeier
   last: Buschmeier
   papers:
+  - Z24-3001
+  - Z24-4020
   - Z14-3006
   - Z12-3005
   - Z11-4028
   slug: hendrik-buschmeier
   venues:
   - - SEMDIAL
-    - 3
+    - 5
 hendrik-harkema:
   coauthors:
   - - jiaying-shen
@@ -1718,10 +1785,6 @@ holly-branigan:
     - 1
   - - matthew-crocker
     - 1
-  - - lucia-castillo
-    - 1
-  - - kenny-smith
-    - 1
   - - ernisa-marzuki
     - 1
   - - hannah-rohde
@@ -1729,6 +1792,10 @@ holly-branigan:
   - - chris-cummins
     - 1
   - - gareth-clegg
+    - 1
+  - - lucia-castillo
+    - 1
+  - - kenny-smith
     - 1
   first: Holly
   full: Holly Branigan

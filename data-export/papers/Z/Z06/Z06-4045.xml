@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="becker-etal-2006-visa-corpus">
+    <titleInfo>
+        <title>VISA - Corpus Annotation with OWL</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Stephanie</namePart>
+        <namePart type="family">Becker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Thomas</namePart>
+        <namePart type="family">Kleinbauer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stephan</namePart>
+        <namePart type="family">Lesch</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2006-sep 11-13</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">becker-etal-2006-visa-corpus</identifier>
+    <location>
+        <url>http://semdial.org/anthology/045_Becker_semdial2006_brandial_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2006-sep 11-13</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="katz-etal-2011-dialogue">
+    <titleInfo>
+        <title>Dialogue Analysis to Inform the Development of a Natural-language Tutoring System for Physics</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sandra</namePart>
+        <namePart type="family">Katz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Patricia</namePart>
+        <namePart type="family">Albacete</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pamela</namePart>
+        <namePart type="family">Jordan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Diane</namePart>
+        <namePart type="family">Litman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">katz-etal-2011-dialogue</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Katz_semdial_0026.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+</modsCollection>

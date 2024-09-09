@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="tice-henetz-2011-eye">
+    <titleInfo>
+        <title>The eye gaze of 3rd party observers reflects turn-end boundary projection</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marisa</namePart>
+        <namePart type="family">Tice</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tania</namePart>
+        <namePart type="family">Henetz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">tice-henetz-2011-eye</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Tice_semdial_0040.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+</modsCollection>

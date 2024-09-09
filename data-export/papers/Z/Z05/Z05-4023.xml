@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="suszczanska-etal-2005-automatic">
+    <titleInfo>
+        <title>Automatic Analysis of Elliptic Sentences in the Thetos System</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nina</namePart>
+        <namePart type="family">Suszczańska</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julia</namePart>
+        <namePart type="family">Romaniuk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Przemyslaw</namePart>
+        <namePart type="family">Szmal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">suszczanska-etal-2005-automatic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/023_Suszczanska_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+</modsCollection>

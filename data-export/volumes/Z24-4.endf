@@ -1,0 +1,400 @@
+﻿%0 Conference Proceedings
+%T A Multi-party Dialogue Dataset for Dialogue Goal Tracking in a Hospital Setting and How It Can Be Used in LLM Prompt Engineering Experiments
+%A Sieińska, Weronika
+%A Addlessee, Angus
+%A Hernández, Daniel
+%A Nancie, García
+%A Marta, Gunson
+%A Dondrup, Romeo Christian
+%A Lemon, Oliver
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F sieinska-etal-2024-multi
+%U http://semdial.org/anthology/Z24-Sieinska_semdial_0016.pdf
+
+%0 Conference Proceedings
+%T Using LLMs to generate training data for dialogue system NLUs
+%A Laszlo, Bogdan
+%A Larsson, Staffan
+%A Sayeed, Asad
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F laszlo-etal-2024-using
+%U http://semdial.org/anthology/Z24-Laszlo_semdial_0017.pdf
+
+%0 Conference Proceedings
+%T Boosting Questions’ Effectiveness in Medical Interviews
+%A Mazzaccara, Davide
+%A Testoni, Alberto
+%A Bernardi, Raffaella
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F mazzaccara-etal-2024-boosting
+%U http://semdial.org/anthology/Z24-Mazzaccara_semdial_0018.pdf
+
+%0 Conference Proceedings
+%T Inferring Partner Models for Adaptive Explanation Generation
+%A Robrecht, Amelie
+%A Buhl, Heike
+%A Kopp, Stefan
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F robrecht-etal-2024-inferring
+%U http://semdial.org/anthology/Z24-Robrecht_semdial_0019.pdf
+
+%0 Conference Proceedings
+%T Modeling the Use-Mention Distinction in LLM-Generated Grounding Acts
+%A Belosevic, Milena
+%A Buschmeier, Hendrik
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F belosevic-buschmeier-2024-modeling
+%U http://semdial.org/anthology/Z24-Belosevic_semdial_0020.pdf
+
+%0 Conference Proceedings
+%T Machine-to-Machine Generation of Explanatory Dialogues for Medical QA: an Exploratory Study
+%A Zaninello, Andrea
+%A Magnini, Bernardo
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F zaninello-magnini-2024-machine
+%U http://semdial.org/anthology/Z24-Zaninello_semdial_0021.pdf
+
+%0 Conference Proceedings
+%T Are conversational large language models speakers?
+%A Piwek, Paul
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F piwek-2024-conversational
+%U http://semdial.org/anthology/Z24-Piwek_semdial_0022.pdf
+
+%0 Conference Proceedings
+%T Pre-Generative Conversational AI
+%A Larsson, Staffan
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F larsson-2024-pre
+%U http://semdial.org/anthology/Z24-Larsson_semdial_0023.pdf
+
+%0 Conference Proceedings
+%T It is difficult, but not impossible: Measuring Scalar Activation in Language Models
+%A Arps, David
+%A Zinova, Yulia
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F arps-zinova-2024-difficult
+%U http://semdial.org/anthology/Z24-Arps_semdial_0024.pdf
+
+%0 Conference Proceedings
+%T Getting to the point: Contrasting Directness and Warmth in Motivational Embodied Conversational Agents
+%A O’Mahony, Michael
+%A Ennis, Cathy
+%A Ross, Robert
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F o-mahony-etal-2024-getting
+%U http://semdial.org/anthology/Z24-OMahony_semdial_0025.pdf
+
+%0 Conference Proceedings
+%T “No, you listen!” A pilot experiment into escalation devices in confrontational conversation
+%A Amido, Sara
+%A Maraev, Vladislav
+%A Ross, Robert
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F amido-etal-2024-listen
+%U http://semdial.org/anthology/Z24-Amido_semdial_0026.pdf
+
+%0 Conference Proceedings
+%T To Your Left: A Dataset and a Task of Spatial Perspective Coordination
+%A Appelgren, Mattias
+%A Dobnik, Simon
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F appelgren-dobnik-2024-left
+%U http://semdial.org/anthology/Z24-Appelgren_semdial_0028.pdf
+
+%0 Conference Proceedings
+%T Discourse Markers for Topic Change
+%A Herreño Castañeda, Paola
+%A Ginzburg, Jonathan
+%A Dargnat, Mathilde
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F herreno-castaneda-etal-2024-discourse
+%U http://semdial.org/anthology/Z24-Castaneda_semdial_0030.pdf
+
+%0 Conference Proceedings
+%T The Linguistic Interpretation of Non-emblematic Gestures Must be agreed in Dialogue: Combining Perceptual Classifiers and Grounding/Clarification Mechanisms
+%A Lücking, Andy
+%A Mehler, Alexander
+%A Henlein, Alexander
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F lucking-etal-2024-linguistic
+%U http://semdial.org/anthology/Z24-Lucking_semdial_0031.pdf
+
+%0 Conference Proceedings
+%T Every quantifier scope ambiguity is enabled by a context
+%A Pagmar, David
+%A Sayeed, Asad
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F pagmar-sayeed-2024-every
+%U http://semdial.org/anthology/Z24-Pagmar_semdial_0032.pdf
+
+%0 Conference Proceedings
+%T Annotation Needs for Referring Expressions in Pair-Programming Dialogue
+%A Domingo, Cecilia
+%A Piwek, Paul
+%A Wermelinger, Michel
+%A Stoyanchev, Svetlana
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F domingo-etal-2024-annotation
+%U http://semdial.org/anthology/Z24-Domingo_semdial_0033.pdf
+
+%0 Conference Proceedings
+%T Network science highlights the emotional structure of counselling conversations simulated by Large Language Models and humans
+%A Sebastiano, Edoardo
+%A Duro, De
+%A Improta, Riccardo
+%A Stella, Massimo
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F sebastiano-etal-2024-network
+%U http://semdial.org/anthology/Z24-DeDuro_semdial_0034.pdf
+
+%0 Conference Proceedings
+%T Red-teaming LLMs for patient safety in healthcare settings: the HPQ dataset and evaluation
+%A Monaghan, Mark
+%A Addlessee, Harry
+%A Rodriguez Assalone, Jose
+%A Gregoire, Sandra
+%A Bashir, Buhari
+%A Nelson, Ross
+%A Mahad, Mahad
+%A Castro, Javier Sanchez
+%A Westerheim, Elissa
+%A Lemon, Oliver
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F monaghan-etal-2024-red
+%U http://semdial.org/anthology/Z24-Monaghan_semdial_0035.pdf
+
+%0 Conference Proceedings
+%T A LLM Benchmark based on the Minecraft Builder Dialog Agent Task
+%A Madge, Chris
+%A Poesio, Massimo
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F madge-poesio-2024-llm
+%U http://semdial.org/anthology/Z24-Madge_semdial_0036.pdf
+
+%0 Conference Proceedings
+%T Influence of Robot-Gaze Aversion on Human-Behavioral Dynamics and Perceptual Cognition
+%A Somashekarappa, Vidya
+%A Howes, Christine
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F somashekarappa-howes-2024-influence
+%U http://semdial.org/anthology/Z24-Somashekarappa_semdial_0037.pdf
+
+%0 Conference Proceedings
+%T Emoji-Text Mismatches: Stirring the Pot of Online Conversations
+%A Vanzan, Vanessa
+%A Han, Amy
+%A Fahima, Qiu
+%A Khan, Ayub
+%A Soupiona, Chara
+%A Howes, Christine
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F vanzan-etal-2024-emoji
+%U http://semdial.org/anthology/Z24-Vanzan_semdial_0038.pdf
+
+%0 Conference Proceedings
+%T Treebank for Dialogue: a case study from Roman Tragedy
+%A Iurescia, Federica
+%A Moretti, Giovanni
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F iurescia-moretti-2024-treebank
+%U http://semdial.org/anthology/Z24-Iurescia_semdial_0039.pdf
+
+%0 Conference Proceedings
+%T Assertion, cooperativity and evidence on X
+%A Boscaro, Marie
+%A Giannakidou, Anastasia
+%A Mari, Alda
+%A Tinarrage, Valentin
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F boscaro-etal-2024-assertion
+%U http://semdial.org/anthology/Z24-Boscaro_semdial_0040.pdf
+
+%0 Conference Proceedings
+%T “Wait, did you mean the doctor?”: Collecting a Dialogue Corpus for Topical Analysis
+%A Decker, Amandine
+%A Tourneur, Vincent
+%A Amblard, Maxime
+%A Breitholtz, Ellen
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F decker-etal-2024-wait
+%U http://semdial.org/anthology/Z24-Decker_semdial_0041.pdf
+
+%0 Conference Proceedings
+%T “If a foid wanted me I’d probably go mgtow”: How ideology and identity are displayed in dialogues on an incelforum
+%A Petrén, Daphne
+%A Breitholtz, Ellen
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F petren-breitholtz-2024-foid
+%U http://semdial.org/anthology/Z24-Petren_semdial_0042.pdf
+
+%0 Conference Proceedings
+%T Analysis of the Transitions of Spatial-Temporal Scenes in Everyday Conversation
+%A Kawabata, Yoshiko
+%A Nakano, Mikio
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F kawabata-nakano-2024-analysis
+%U http://semdial.org/anthology/Z24-Kawabata_semdial_0043.pdf
+
+%0 Conference Proceedings
+%T FLUIDITY: Defining, measuring and improving fluidity in human-robot dialogue in virtual and real-worldsettings
+%A Hough, Julian
+%A De Lima, Carlos Baptista
+%A Foerster, Frank
+%A Holthaus, Patrick
+%A Zheng, Yongjun
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F hough-etal-2024-fluidity
+%U http://semdial.org/anthology/Z24-Hough_semdial_0044.pdf
+
+%0 Conference Proceedings
+%T VON NEUMIDAS: Enhanced Annotation Schema for Human-LLM Interactions Combining MIDAS with Von Neumann InspiredSemantics
+%A Martinenghi, Andrea
+%A Koyuturk, Cansu
+%A Amenta, Simona
+%A Ruskov, Martin
+%A Donabauer, Gregor
+%A Kruschwitz, Udo
+%A Ognibene, Dimitri
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F martinenghi-etal-2024-von
+%U http://semdial.org/anthology/Z24-Martinenghi_semdial_0045.pdf
+
+%0 Conference Proceedings
+%T Dialogue with LLaVA: does it “understand” the pragmatics of the MeetUp task?
+%A Ilinykh, Nikolai
+%A Dobnik, Simon
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F ilinykh-dobnik-2024-dialogue
+%U http://semdial.org/anthology/Z24-Ilinykh_semdial_0046.pdf
+
+%0 Conference Proceedings
+%T Accounting for comment-questions
+%A Fliessbach, Jan
+%A Tovena, Lucia M.
+%A Fleury, Damien
+%A Lion, Yoan
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F fliessbach-etal-2024-accounting
+%U http://semdial.org/anthology/Z24-Fliessbach_semdial_0047.pdf
+

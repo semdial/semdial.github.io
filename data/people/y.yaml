@@ -100,6 +100,8 @@ yanchao-yu:
     - 2
   - - verena-rieser
     - 2
+  - - arash-eshghi1
+    - 1
   - - helen-hastie
     - 1
   - - marie-aude-aufaure
@@ -137,8 +139,6 @@ yanchao-yu:
   - - srinivasan-janarthanam
     - 1
   - - andy-taylor
-    - 1
-  - - arash-eshghi1
     - 1
   first: Yanchao
   full: Yanchao Yu
@@ -345,15 +345,15 @@ yasuharu-den:
   coauthors:
   - - yasuhiro-katagiri
     - 6
-  - - katsuya-takanashi
-    - 6
   - - masato-ishizaki
+    - 6
+  - - katsuya-takanashi
     - 6
   - - mika-enomoto
     - 6
-  - - shogo-okada
-    - 2
   - - yosuke-matsusaka
+    - 2
+  - - shogo-okada
     - 2
   first: Yasuharu
   full: Yasuharu Den
@@ -375,13 +375,13 @@ yasuhiro-katagiri:
     - 7
   - - masato-ishizaki
     - 6
-  - - mika-enomoto
-    - 6
   - - yasuharu-den
     - 6
-  - - shogo-okada
-    - 2
+  - - mika-enomoto
+    - 6
   - - yosuke-matsusaka
+    - 2
+  - - shogo-okada
     - 2
   first: Yasuhiro
   full: Yasuhiro Katagiri
@@ -400,13 +400,13 @@ yasuhiro-katagiri:
     - 7
 yasunari-harada:
   coauthors:
+  - - miwa-morishita
+    - 1
   - - mayumi-kawamura
     - 1
   - - daisuke-yokomori
     - 1
   - - tomoko-endo
-    - 1
-  - - miwa-morishita
     - 1
   first: Yasunari
   full: Yasunari Harada
@@ -464,6 +464,8 @@ ye-tian:
     - 1
   - - jean-philippe-bernardy
     - 1
+  - - volha-petukhova
+    - 1
   - - claire-beyssade
     - 1
   - - yannick-mathieu
@@ -477,8 +479,6 @@ ye-tian:
   - - sam-green
     - 1
   - - caspar-addyman
-    - 1
-  - - volha-petukhova
     - 1
   first: Ye
   full: Ye Tian
@@ -654,6 +654,29 @@ yingju-xia:
   papers: []
   slug: yingju-xia
   venues: []
+yingqin-hu:
+  coauthors:
+  - - brillet-capucine
+    - 1
+  - - bosko-rajkovic
+    - 1
+  - - gauhar-rustamova
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - pelachaud-catherine
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Yingqin
+  full: Yingqin Hu
+  last: Hu
+  papers:
+  - Z24-3009
+  slug: yingqin-hu
+  venues:
+  - - SEMDIAL
+    - 1
 yo-sato:
   coauthors:
   - - jonathan-ginzburg
@@ -684,6 +707,23 @@ yoan-gutierrez:
   papers: []
   slug: yoan-gutierrez
   venues: []
+yoan-lion:
+  coauthors:
+  - - jan-fliessbach
+    - 1
+  - - lucia-m-tovena
+    - 1
+  - - damien-fleury
+    - 1
+  first: Yoan
+  full: Yoan Lion
+  last: Lion
+  papers:
+  - Z24-4047
+  slug: yoan-lion
+  venues:
+  - - SEMDIAL
+    - 1
 yoichi-yamashita:
   coauthors: []
   first: Yoichi
@@ -716,6 +756,25 @@ yongcheng-wang:
   papers: []
   slug: yongcheng-wang
   venues: []
+yongjun-zheng:
+  coauthors:
+  - - julian-hough
+    - 1
+  - - carlos-baptista-de-lima
+    - 1
+  - - frank-foerster
+    - 1
+  - - patrick-holthaus
+    - 1
+  first: Yongjun
+  full: Yongjun Zheng
+  last: Zheng
+  papers:
+  - Z24-4044
+  slug: yongjun-zheng
+  venues:
+  - - SEMDIAL
+    - 1
 yonglin-teng:
   coauthors: []
   first: Yonglin
@@ -775,12 +834,6 @@ yoshihiro-matsuo:
   coauthors:
   - - ryuichiro-higashinaka
     - 2
-  - - toru-hirano
-    - 1
-  - - nozomi-kobayashi
-    - 1
-  - - toshiro-makino
-    - 1
   - - kazuki-sakai
     - 1
   - - hiroaki-sugiyama
@@ -800,6 +853,12 @@ yoshihiro-matsuo:
   - - yuichiro-yoshikawa
     - 1
   - - hiroshi-ishiguro
+    - 1
+  - - toru-hirano
+    - 1
+  - - nozomi-kobayashi
+    - 1
+  - - toshiro-makino
     - 1
   first: Yoshihiro
   full: Yoshihiro Matsuo
@@ -839,6 +898,19 @@ yoshihiro-yamazaki:
   papers:
   - Z21-3007
   slug: yoshihiro-yamazaki
+  venues:
+  - - SEMDIAL
+    - 1
+yoshiko-kawabata:
+  coauthors:
+  - - mikio-nakano
+    - 1
+  first: Yoshiko
+  full: Yoshiko Kawabata
+  last: Kawabata
+  papers:
+  - Z24-4043
+  slug: yoshiko-kawabata
   venues:
   - - SEMDIAL
     - 1
@@ -1092,6 +1164,19 @@ yulia-clausen:
   papers:
   - Z20-3014
   slug: yulia-clausen
+  venues:
+  - - SEMDIAL
+    - 1
+yulia-zinova:
+  coauthors:
+  - - david-arps
+    - 1
+  first: Yulia
+  full: Yulia Zinova
+  last: Zinova
+  papers:
+  - Z24-4024
+  slug: yulia-zinova
   venues:
   - - SEMDIAL
     - 1

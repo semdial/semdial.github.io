@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="kruijff-korbayova-etal-2005-presentation">
+    <titleInfo>
+        <title>Presentation Strategies for Flexible Multimodal Interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ivana</namePart>
+        <namePart type="family">Kruijff-Korbayová</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nate</namePart>
+        <namePart type="family">Blaylock</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ciprian</namePart>
+        <namePart type="family">Gerstenberger</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Verena</namePart>
+        <namePart type="family">Reiser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tilman</namePart>
+        <namePart type="family">Becker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Kaißer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Peter</namePart>
+        <namePart type="family">Poller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jan</namePart>
+        <namePart type="family">Schehl</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kruijff-korbayova-etal-2005-presentation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/025_KruijffKorbayova_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+</modsCollection>

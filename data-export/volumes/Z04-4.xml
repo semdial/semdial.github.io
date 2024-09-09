@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="al-raheb-2004-presupposition">
+    <titleInfo>
+        <title>Presupposition and belief in DRT: Towards a new implementation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yafa</namePart>
+        <namePart type="family">al-Raheb</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">al-raheb-2004-presupposition</identifier>
+    <location>
+        <url>http://semdial.org/anthology/023_Al-Raheb_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="benz-2004-shared">
+    <titleInfo>
+        <title>Shared scoreboards and common information</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Anton</namePart>
+        <namePart type="family">Benz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">benz-2004-shared</identifier>
+    <location>
+        <url>http://semdial.org/anthology/024_Benz_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="carota-2004-effects">
+    <titleInfo>
+        <title>On some effects of lexical contrast in information-seeking dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Fransesca</namePart>
+        <namePart type="family">Carota</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">carota-2004-effects</identifier>
+    <location>
+        <url>http://semdial.org/anthology/025_Carota_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="gerassimenko-etal-2004-developing">
+    <titleInfo>
+        <title>Developing a typology of dialogue acts: Question-answer adjacency pairs in Estonian information dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Olga</namePart>
+        <namePart type="family">Gerassimenko</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tiit</namePart>
+        <namePart type="family">Hennoste</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mare</namePart>
+        <namePart type="family">Koit</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andriela</namePart>
+        <namePart type="family">Rääbis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maret</namePart>
+        <namePart type="family">Valdisoo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gerassimenko-etal-2004-developing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/026_Gerassimenko_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="gruenstein-etal-2004-managing">
+    <titleInfo>
+        <title>Managing uncertainty in dialogue information state for real time understanding of multi-human meeting dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alexander</namePart>
+        <namePart type="family">Gruenstein</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lawrence</namePart>
+        <namePart type="family">Cavedon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">John</namePart>
+        <namePart type="family">Niekrasz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dominic</namePart>
+        <namePart type="family">Widdows</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stanley</namePart>
+        <namePart type="family">Peters</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gruenstein-etal-2004-managing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/027_Gruenstein_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="hying-torge-2004-using">
+    <titleInfo>
+        <title>Using discourse structure in a dialogue system to search in databases</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christian</namePart>
+        <namePart type="family">Hying</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sunna</namePart>
+        <namePart type="family">Torge</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hying-torge-2004-using</identifier>
+    <location>
+        <url>http://semdial.org/anthology/028_Hying_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="maier-spenadere-2004-unifying">
+    <titleInfo>
+        <title>Unifying contrast and denial</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Emar</namePart>
+        <namePart type="family">Maier</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jennifer</namePart>
+        <namePart type="family">Spenadere</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">maier-spenadere-2004-unifying</identifier>
+    <location>
+        <url>http://semdial.org/anthology/029_Maier_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="maudet-etal-2004-conversational">
+    <titleInfo>
+        <title>Conversational gameboard and discourse structure</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nicolas</namePart>
+        <namePart type="family">Maudet</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Philippe</namePart>
+        <namePart type="family">Muller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Laurent</namePart>
+        <namePart type="family">Prévot</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">maudet-etal-2004-conversational</identifier>
+    <location>
+        <url>http://semdial.org/anthology/030_Maudet_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="patel-etal-2004-small">
+    <titleInfo>
+        <title>Small group discussion simulation for middle level of detail crowds</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jigish</namePart>
+        <namePart type="family">Patel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="family">Parker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Traum</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">patel-etal-2004-small</identifier>
+    <location>
+        <url>http://semdial.org/anthology/031_Patel_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+<mods ID="pakucs-2004-employing">
+    <titleInfo>
+        <title>Employing context of use in dialogue processing</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Botund</namePart>
+        <namePart type="family">Pakucs</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">pakucs-2004-employing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/032_Pakucs_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+</modsCollection>

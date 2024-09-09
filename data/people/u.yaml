@@ -24,13 +24,37 @@ udo-klein:
   - - SEMDIAL
     - 1
 udo-kruschwitz:
-  coauthors: []
+  coauthors:
+  - - gregor-donabauer
+    - 2
+  - - dimitri-ognibene
+    - 2
+  - - sabrina-patania
+    - 1
+  - - emanuele-masiero
+    - 1
+  - - luca-brini
+    - 1
+  - - valentyn-piskovskyi
+    - 1
+  - - andrea-martinenghi
+    - 1
+  - - cansu-koyuturk
+    - 1
+  - - simona-amenta
+    - 1
+  - - martin-ruskov
+    - 1
   first: Udo
   full: Udo Kruschwitz
   last: Kruschwitz
-  papers: []
+  papers:
+  - Z24-3006
+  - Z24-4045
   slug: udo-kruschwitz
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 2
 ulrich-heid:
   coauthors:
   - - daniela-stier
@@ -102,6 +126,17 @@ un-gian-iunn:
   papers: []
   slug: un-gian-iunn
   venues: []
+uri-hasson:
+  coauthors: []
+  first: Uri
+  full: Uri Hasson
+  last: Hasson
+  papers:
+  - Z24-2101
+  slug: uri-hasson
+  venues:
+  - - SEMDIAL
+    - 1
 uri-zernik:
   coauthors: []
   first: Uri

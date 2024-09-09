@@ -490,7 +490,7 @@ Z14-3020:
   author:
   - first: Jon
     full: Jon Stevens
-    id: jon-stevens
+    id: jon-stevens1
     last: Stevens
   - first: Anton
     full: Anton Benz
@@ -525,7 +525,7 @@ Z14-3021:
   author:
   - first: Antoine
     full: Antoine Venant
-    id: antoine-venant
+    id: antoine-venant1
     last: Venant
   - first: Nicholas
     full: Nicholas Asher

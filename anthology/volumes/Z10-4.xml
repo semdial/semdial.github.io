@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="breitholtz-2010-clarification">
+    <titleInfo>
+        <title>Clarification Requests as Enthymeme Elicitors</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Breitholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">breitholtz-2010-clarification</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Breitholtz_semdial_0023.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="brusk-2010-computational">
+    <titleInfo>
+        <title>A Computational Model for Gossip Initiation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jenny</namePart>
+        <namePart type="family">Brusk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">brusk-2010-computational</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Brusk_semdial_0031.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="dethlefs-etal-2010-evaluating">
+    <titleInfo>
+        <title>Evaluating Task Success in a Dialogue System for Indoor Navigation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nina</namePart>
+        <namePart type="family">Dethlefs</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Heriberto</namePart>
+        <namePart type="family">Cuayáhuitl</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kai</namePart>
+        <namePart type="family">-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Florian</namePart>
+        <namePart type="family">Richter</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Elena</namePart>
+        <namePart type="family">Andonova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">John</namePart>
+        <namePart type="family">Bateman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dethlefs-etal-2010-evaluating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Dethlefs_semdial_0024.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="gatius-gonzalez-2010-guiding">
+    <titleInfo>
+        <title>Guiding the User when Searching Information on the Web</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marta</namePart>
+        <namePart type="family">Gatius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Meritxell</namePart>
+        <namePart type="family">González</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gatius-gonzalez-2010-guiding</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Gatius_semdial_0032.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="golka-2010-computational">
+    <titleInfo>
+        <title>A Computational Model for Gossip Initiation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Maria</namePart>
+        <namePart type="given">H</namePart>
+        <namePart type="family">Golka</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">golka-2010-computational</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Golka_semdial_0033.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="petukhova-bunt-2010-context">
+    <titleInfo>
+        <title>Context-driven dialogue act generation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Volha</namePart>
+        <namePart type="family">Petukhova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harry</namePart>
+        <namePart type="family">Bunt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">petukhova-bunt-2010-context</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Petukhova_semdial_0025.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="szwabe-2010-communicative">
+    <titleInfo>
+        <title>The Communicative Style of the Physically Disabled – a Corpus Study</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Joanna</namePart>
+        <namePart type="family">Szwabe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">szwabe-2010-communicative</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Szwabe_semdial_0026.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="tenbrink-andonova-2010-communicating">
+    <titleInfo>
+        <title>Communicating routes to older and younger addressees</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Thora</namePart>
+        <namePart type="family">Tenbrink</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Elena</namePart>
+        <namePart type="family">Andonova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">tenbrink-andonova-2010-communicating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Tenbrink_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="wlodarczak-etal-2010-entailed">
+    <titleInfo>
+        <title>Entailed feedback: evidence from a ranking experiment</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marcin</namePart>
+        <namePart type="family">Włodarczak</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harry</namePart>
+        <namePart type="family">Bunt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Volha</namePart>
+        <namePart type="family">Petukhova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">wlodarczak-etal-2010-entailed</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Wlodarczak_semdial_0028.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+<mods ID="wunder-stone-2010-statistical">
+    <titleInfo>
+        <title>Statistical Evaluation of Intention in Group Decision-making Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Wunder</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Stone</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">wunder-stone-2010-statistical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Wunder_semdial_0029.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+</modsCollection>

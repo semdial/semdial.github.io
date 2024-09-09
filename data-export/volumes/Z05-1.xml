@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="semdial-2005-semantics">
+    <titleInfo>
+        <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Claire</namePart>
+        <namePart type="family">Gardent</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bertrand</namePart>
+        <namePart type="family">Gaiffe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+        <publisher>SEMDIAL</publisher>
+        <place>
+            <placeTerm type="text">Nancy, France</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">semdial-2005-semantics</identifier>
+    <location>
+        <url>http://semdial.org/anthology/semdial2005_dialor_proceedings.pdf</url>
+    </location>
+</mods>
+</modsCollection>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="cassimatis-2008-resolving">
+    <titleInfo>
+        <title>Resolving Ambiguous, Implicit and Non-Literal References by Jointly Reasoning over Linguistic and Non-Linguistic Knowledge</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nick</namePart>
+        <namePart type="family">Cassimatis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-06</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cassimatis-2008-resolving</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Cassimatis_semdial_0029.pdf</url>
+    </location>
+    <part>
+        <date>2008-06</date>
+    </part>
+</mods>
+</modsCollection>

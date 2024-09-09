@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="foppolo-2007-default">
+    <titleInfo>
+        <title>Default preferences in donkey anaphora resolution</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Francesca</namePart>
+        <namePart type="family">Foppolo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">foppolo-2007-default</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Foppolo_semdial_0045.pdf</url>
+    </location>
+    <part>
+        <date>2007-may-jun</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="mohammadi-2022-stress">
+    <titleInfo>
+        <title>Which stress is on PRPs?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Maryam</namePart>
+        <namePart type="family">Mohammadi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Dublin, Ireland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">mohammadi-2022-stress</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z22-Mohammadi_semdial_0042.pdf</url>
+    </location>
+    <part>
+        <date>2022-08</date>
+    </part>
+</mods>
+</modsCollection>

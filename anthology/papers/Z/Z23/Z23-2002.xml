@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="degand-2023-discourse">
+    <titleInfo>
+        <title>Discourse markers in interaction: distribution and functions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Liesbeth</namePart>
+        <namePart type="family">Degand</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2023-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Maribor, Slovenia</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">degand-2023-discourse</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z23-Degand_semdial_0002.pdf</url>
+    </location>
+    <part>
+        <date>2023-08</date>
+    </part>
+</mods>
+</modsCollection>

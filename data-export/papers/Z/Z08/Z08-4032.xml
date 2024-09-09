@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="meza-ruiz-etal-2008-spoken">
+    <titleInfo>
+        <title>Spoken Language Understanding in Dialogue Systems, Using a 2-layer Markov Logic Network: improving semantic accuracy</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ivan</namePart>
+        <namePart type="given">V</namePart>
+        <namePart type="family">Meza-Ruiz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sebastian</namePart>
+        <namePart type="family">Riedel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-06</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">meza-ruiz-etal-2008-spoken</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Meza-Ruiz_semdial_0032.pdf</url>
+    </location>
+    <part>
+        <date>2008-06</date>
+    </part>
+</mods>
+</modsCollection>

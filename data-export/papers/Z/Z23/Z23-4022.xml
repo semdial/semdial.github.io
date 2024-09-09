@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="luu-2023-characterization">
+    <titleInfo>
+        <title>Characterization of Discourse Salience in English Social Dialogs and its Application to Assessing Interactional Competence of Social Dialog Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Lưu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2023-08</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Maribor, Slovenia</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">luu-2023-characterization</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z23-Luu_semdial_0022.pdf</url>
+    </location>
+    <part>
+        <date>2023-08</date>
+    </part>
+</mods>
+</modsCollection>

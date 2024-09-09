@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="brenner-kruijff-korbayova-2008-continual">
+    <titleInfo>
+        <title>A Continual Multiagent Planning Approach to Situated Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Brenner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ivana</namePart>
+        <namePart type="family">Kruijff-Korbayova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-06</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">brenner-kruijff-korbayova-2008-continual</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Brenner_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2008-06</date>
+    </part>
+</mods>
+</modsCollection>

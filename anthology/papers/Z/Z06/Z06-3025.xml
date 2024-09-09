@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="kempson-cann-2006-dialogue">
+    <titleInfo>
+        <title>Dialogue pressures and Syntactic Change</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ruth</namePart>
+        <namePart type="family">Kempson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ronnie</namePart>
+        <namePart type="family">Cann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2006-sep 11-13</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kempson-cann-2006-dialogue</identifier>
+    <location>
+        <url>http://semdial.org/anthology/025_Kempson_semdial2006_brandial_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2006-sep 11-13</date>
+    </part>
+</mods>
+</modsCollection>

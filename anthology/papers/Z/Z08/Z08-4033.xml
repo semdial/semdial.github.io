@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="strauss-etal-2008-discourse">
+    <titleInfo>
+        <title>Discourse Motivated Constraint Prioritisation For Task-Oriented Multi-Party Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Petra-Maria</namePart>
+        <namePart type="family">Strauss</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Friedmann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tobias</namePart>
+        <namePart type="family">Heinroth</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2008-06</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">strauss-etal-2008-discourse</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z08-Strauss_semdial_0033.pdf</url>
+    </location>
+    <part>
+        <date>2008-06</date>
+    </part>
+</mods>
+</modsCollection>

@@ -108,17 +108,17 @@ gabriel-skantze:
   coauthors:
   - - joakim-gustafson
     - 2
-  - - martin-johansson
+  - - carol-figueroa
     - 1
-  - - gustafson
+  - - magalie-ochs
     - 1
   - - jens-edlund
     - 1
   - - anna-hjalmarsson
     - 1
-  - - carol-figueroa
+  - - martin-johansson
     - 1
-  - - magalie-ochs
+  - - gustafson
     - 1
   first: Gabriel
   full: Gabriel Skantze
@@ -218,6 +218,29 @@ galia-angelova:
   papers: []
   slug: galia-angelova
   venues: []
+garcia-nancie:
+  coauthors:
+  - - weronika-sieinska
+    - 1
+  - - angus-addlessee
+    - 1
+  - - daniel-hernandez
+    - 1
+  - - gunson-marta
+    - 1
+  - - romeo-christian-dondrup
+    - 1
+  - - oliver-lemon
+    - 1
+  first: "Garc\xEDa"
+  full: "Garc\xEDa Nancie"
+  last: Nancie
+  papers:
+  - Z24-4016
+  slug: garcia-nancie
+  venues:
+  - - SEMDIAL
+    - 1
 gareth-clegg:
   coauthors:
   - - ernisa-marzuki
@@ -277,6 +300,29 @@ gaston-burek:
   papers: []
   slug: gaston-burek
   venues: []
+gauhar-rustamova:
+  coauthors:
+  - - yingqin-hu
+    - 1
+  - - brillet-capucine
+    - 1
+  - - bosko-rajkovic
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - pelachaud-catherine
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Gauhar
+  full: Gauhar Rustamova
+  last: Rustamova
+  papers:
+  - Z24-3009
+  slug: gauhar-rustamova
+  venues:
+  - - SEMDIAL
+    - 1
 gaurav-singh-tomar:
   coauthors: []
   first: Gaurav Singh
@@ -722,9 +768,9 @@ gesa-schole:
   coauthors:
   - - thora-tenbrink
     - 2
-  - - elena-andonova
-    - 2
   - - kenny-coventry
+    - 2
+  - - elena-andonova
     - 2
   first: Gesa
   full: Gesa Schole
@@ -834,8 +880,24 @@ gideon-mann:
 gijs-wijnholds:
   coauthors:
   - - eleni-gregoromichelaki
-    - 1
+    - 2
   - - christine-howes
+    - 2
+  - - adam-ek
+    - 1
+  - - bill-noble
+    - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - robin-cooper
+    - 1
+  - - simon-dobnik
+    - 1
+  - - staffan-larsson
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - gregory-mills
     - 1
   - - arash-eshghi
     - 1
@@ -851,11 +913,12 @@ gijs-wijnholds:
   full: Gijs Wijnholds
   last: Wijnholds
   papers:
+  - Z24-3010
   - Z19-4025
   slug: gijs-wijnholds
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 gil-chang-kim:
   coauthors: []
   first: Gil Chang
@@ -942,7 +1005,7 @@ giota-stratou:
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   - - jon-gratch
     - 1
@@ -991,6 +1054,19 @@ giovanni-malnati:
   papers: []
   slug: giovanni-malnati
   venues: []
+giovanni-moretti:
+  coauthors:
+  - - federica-iurescia
+    - 1
+  first: Giovanni
+  full: Giovanni Moretti
+  last: Moretti
+  papers:
+  - Z24-4039
+  slug: giovanni-moretti
+  venues:
+  - - SEMDIAL
+    - 1
 giovanni-semeraro:
   coauthors: []
   first: Giovanni
@@ -1055,15 +1131,20 @@ giuseppe-riccardi:
     - 1
   - - joanna-wisniewska
     - 1
+  - - raffaella-bernardi
+    - 1
+  - - ellen-breitholtz
+    - 1
   first: Giuseppe
   full: Giuseppe Riccardi
   last: Riccardi
   papers:
+  - Z24-1000
   - Z07-4037
   slug: giuseppe-riccardi
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 glenn-taylor:
   coauthors:
   - - richard-frederiksen
@@ -1264,10 +1345,6 @@ graham-russell:
   venues: []
 graham-white:
   coauthors:
-  - - gibson-ikoro
-    - 1
-  - - raul-mondragon
-    - 1
   - - eleni-gregoromichelaki
     - 1
   - - stergios-chatzikyriakidis
@@ -1285,6 +1362,10 @@ graham-white:
   - - matthew-purver
     - 1
   - - mehrnoosh-sadrzadeh
+    - 1
+  - - gibson-ikoro
+    - 1
+  - - raul-mondragon
     - 1
   first: Graham
   full: Graham White
@@ -1372,6 +1453,38 @@ gregoire-moreau-de-montcheuil:
   papers: []
   slug: gregoire-moreau-de-montcheuil
   venues: []
+gregor-donabauer:
+  coauthors:
+  - - udo-kruschwitz
+    - 2
+  - - dimitri-ognibene
+    - 2
+  - - sabrina-patania
+    - 1
+  - - emanuele-masiero
+    - 1
+  - - luca-brini
+    - 1
+  - - valentyn-piskovskyi
+    - 1
+  - - andrea-martinenghi
+    - 1
+  - - cansu-koyuturk
+    - 1
+  - - simona-amenta
+    - 1
+  - - martin-ruskov
+    - 1
+  first: Gregor
+  full: Gregor Donabauer
+  last: Donabauer
+  papers:
+  - Z24-3006
+  - Z24-4045
+  slug: gregor-donabauer
+  venues:
+  - - SEMDIAL
+    - 2
 gregorio-hernandez:
   coauthors: []
   first: Gregorio
@@ -1444,10 +1557,10 @@ gregory-j-mills:
 gregory-mills:
   coauthors:
   - - eleni-gregoromichelaki
+    - 3
+  - - christine-howes
     - 2
   - - arash-eshghi
-    - 1
-  - - christine-howes
     - 1
   - - ruth-kempson
     - 1
@@ -1457,10 +1570,27 @@ gregory-mills:
     - 1
   - - matthew-purver
     - 1
+  - - adam-ek
+    - 1
+  - - bill-noble
+    - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - robin-cooper
+    - 1
+  - - simon-dobnik
+    - 1
+  - - staffan-larsson
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - gijs-wijnholds
+    - 1
   first: Gregory
   full: Gregory Mills
   last: Mills
   papers:
+  - Z24-3010
   - Z22-3018
   - Z13-4040
   - Z12-4032
@@ -1469,7 +1599,7 @@ gregory-mills:
   slug: gregory-mills
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 gregory-roulet-guiot:
   coauthors: []
   first: "Gr\xE9gory"
@@ -1744,6 +1874,29 @@ gunnvald-svensden:
   papers:
   - Z04-3020
   slug: gunnvald-svensden
+  venues:
+  - - SEMDIAL
+    - 1
+gunson-marta:
+  coauthors:
+  - - weronika-sieinska
+    - 1
+  - - angus-addlessee
+    - 1
+  - - daniel-hernandez
+    - 1
+  - - garcia-nancie
+    - 1
+  - - romeo-christian-dondrup
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Gunson
+  full: Gunson Marta
+  last: Marta
+  papers:
+  - Z24-4016
+  slug: gunson-marta
   venues:
   - - SEMDIAL
     - 1

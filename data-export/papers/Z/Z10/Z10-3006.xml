@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="koller-etal-2010-scalable">
+    <titleInfo>
+        <title>A scalable model of planning perlocutionary acts</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alexander</namePart>
+        <namePart type="family">Koller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andrew</namePart>
+        <namePart type="family">Gargett</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Konstantina</namePart>
+        <namePart type="family">Garoufi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">koller-etal-2010-scalable</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Koller_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+</modsCollection>

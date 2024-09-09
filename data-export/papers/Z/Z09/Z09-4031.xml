@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="brusk-2009-using">
+    <titleInfo>
+        <title>Using Screenplays as Corpus for Modeling Gossip in Game Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jenny</namePart>
+        <namePart type="family">Brusk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2009-06</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Stockholm, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">brusk-2009-using</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z09-Brusk_semdial_0031.pdf</url>
+    </location>
+    <part>
+        <date>2009-06</date>
+    </part>
+</mods>
+</modsCollection>

@@ -653,9 +653,9 @@ nicholas-asher:
   coauthors:
   - - alex-lascarides
     - 4
-  - - soumya-paul
-    - 3
   - - stergos-afantenos
+    - 3
+  - - soumya-paul
     - 3
   - - jeremy-perret
     - 2
@@ -681,17 +681,17 @@ nicholas-asher:
     - 1
   - - laure-vieu
     - 1
+  - - julian-j-schloder
+    - 1
+  - - antoine-venant
+    - 1
   - - julie-hunter
     - 1
   - - eric-kow
     - 1
-  - - antoine-venant
+  - - antoine-venant1
     - 1
   - - cedric-degremont1
-    - 1
-  - - julian-j-schloder
-    - 1
-  - - antoine-venant1
     - 1
   first: Nicholas
   full: Nicholas Asher
@@ -756,10 +756,6 @@ nick-campbell:
   coauthors:
   - - emer-gilmartin
     - 2
-  - - francesca-bonin
-    - 1
-  - - carl-vogel
-    - 1
   - - joao-paulo-cabral1
     - 1
   - - sree-ganesh
@@ -777,6 +773,10 @@ nick-campbell:
   - - thomas-pellegrini
     - 1
   - - odei-rey-orozko
+    - 1
+  - - francesca-bonin
+    - 1
+  - - carl-vogel
     - 1
   first: Nick
   full: Nick Campbell
@@ -968,7 +968,7 @@ nigel-flowers:
     - 1
   - - jillian-aurisano
     - 1
-  - - barbara-di-eugenio
+  - - barbara-di-eugenio1
     - 1
   - - andrew-johnson
     - 1
@@ -1017,9 +1017,9 @@ nikolai-ilinykh:
     - 3
   - - sina-zarriess
     - 3
-  - - tim-diekmann
-    - 1
   - - simon-dobnik
+    - 2
+  - - tim-diekmann
     - 1
   - - aram-karimi
     - 1
@@ -1027,6 +1027,7 @@ nikolai-ilinykh:
   full: Nikolai Ilinykh
   last: Ilinykh
   papers:
+  - Z24-4046
   - Z22-3017
   - Z19-3006
   - Z18-4036
@@ -1034,7 +1035,7 @@ nikolai-ilinykh:
   slug: nikolai-ilinykh
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 nikolay-arefyev:
   coauthors: []
   first: Nikolay

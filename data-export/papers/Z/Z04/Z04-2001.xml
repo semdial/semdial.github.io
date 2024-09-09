@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="cooper-2004-type">
+    <titleInfo>
+        <title>Type theoretic approach to information state update in issue based dialogue management</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Robin</namePart>
+        <namePart type="family">Cooper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cooper-2004-type</identifier>
+    <location>
+        <url>http://semdial.org/anthology/001_Cooper_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+</modsCollection>

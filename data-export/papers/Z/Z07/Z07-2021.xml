@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="piwek-etal-2007-dialogue">
+    <titleInfo>
+        <title>Dialogue Games for Crosslingual Communication</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Paul</namePart>
+        <namePart type="family">Piwek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Hardcastle</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Richard</namePart>
+        <namePart type="family">Power</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2007-may-jun</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Roverto, Italy</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">piwek-etal-2007-dialogue</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z07-Piwek_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2007-may-jun</date>
+    </part>
+</mods>
+</modsCollection>

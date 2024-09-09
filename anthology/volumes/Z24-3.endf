@@ -1,0 +1,201 @@
+﻿%0 Conference Proceedings
+%T Turn-taking dynamics across different phases of explanatory dialogues
+%A Wagner, Petra
+%A Włodarczak, Marcin
+%A Buschmeier, Hendrik
+%A Türk, Olcay
+%A Gilmartin, Emer
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F wagner-etal-2024-turn
+%U http://semdial.org/anthology/Z24-Wagner_semdial_0001.pdf
+
+%0 Conference Proceedings
+%T PairwiseTurnGPT: a multi-stream turn prediction model for spoken dialogue
+%A Leishman, Sean
+%A Bell, Peter
+%A Wallbridge, Sarenne
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F leishman-etal-2024-pairwiseturngpt
+%U http://semdial.org/anthology/Z24-Leishman_semdial_0002.pdf
+
+%0 Conference Proceedings
+%T Learning Task-Oriented Dialogues through Various Degrees of Interactivity
+%A Gigliobianco, Sebastiano
+%A Kontogiorgos, Dimosthenis
+%A Schlangen, David
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F gigliobianco-etal-2024-learning
+%U http://semdial.org/anthology/Z24-Gigliobianco_semdial_0003.pdf
+
+%0 Conference Proceedings
+%T Behaving according to protocol: How communicative projects are carried out differently in different settings
+%A Breitholtz, Ellen
+%A Howes, Christine
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F breitholtz-howes-2024-behaving
+%U http://semdial.org/anthology/Z24- Breitholtz_semdial_0004.pdf
+
+%0 Conference Proceedings
+%T How do Encoder-only LMs Predict Closeness and Respect from Thai Conversations?
+%A Nakwijit, Pakawat
+%A Rutherford, Attapol T.
+%A Purver, Matthew
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F nakwijit-etal-2024-encoder
+%U http://semdial.org/anthology/Z24-Nakwijit_semdial_0005.pdf
+
+%0 Conference Proceedings
+%T Large Language Models as an active Bayesian filter: information acquisition and integration
+%A Patania, Sabrina
+%A Masiero, Emanuele
+%A Brini, Luca
+%A Donabauer, Gregor
+%A Kruschwitz, Udo
+%A Piskovskyi, Valentyn
+%A Ognibene, Dimitri
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F patania-etal-2024-large
+%U http://semdial.org/anthology/Z24-Patania_semdial_0006.pdf
+
+%0 Conference Proceedings
+%T Swann’s Name: Towards a Dialogical Brain Semantics
+%A Ginzburg, Jonathan
+%A Eliasmith, Chris
+%A Lücking, Andy
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F ginzburg-etal-2024-swanns
+%U http://semdial.org/anthology/Z24-Ginzburg_semdial_0007.pdf
+
+%0 Conference Proceedings
+%T Laughter in Dialogues with Normal-Hearing and Hearing-Impaired Children: Do they all laugh alike?
+%A Mazzocconi, Chiara
+%A Hidalgo, Céline
+%A Bertrand, Roxane
+%A Lancia, Leonardo
+%A Roman, Stéphane
+%A Schon, Daniele
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F mazzocconi-etal-2024-laughter
+%U http://semdial.org/anthology/Z24-Mazzocconi_semdial_0008.pdf
+
+%0 Conference Proceedings
+%T Laughter in the cradle: a taxonomy of infant laughables
+%A Hu, Yingqin
+%A Capucine, Brillet
+%A Rajkovic, Bosko
+%A Rustamova, Gauhar
+%A Mazzocconi, Chiara
+%A Catherine, Pelachaud
+%A Ginzburg, Jonathan
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F hu-etal-2024-laughter
+%U http://semdial.org/anthology/Z24-Hu_semdial_0009.pdf
+
+%0 Conference Proceedings
+%T I hea- umm think that’s what they say: A Dataset of Inferences from Natural Language Dialogues
+%A Ek, Adam
+%A Noble, Bill
+%A Chatzikyriakidis, Stergios
+%A Cooper, Robin
+%A Dobnik, Simon
+%A Gregoromichelaki, Eleni
+%A Howes, Christine
+%A Larsson, Staffan
+%A Maraev, Vladislav
+%A Mills, Gregory
+%A Wijnholds, Gijs
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F ek-etal-2024-hea
+%U http://semdial.org/anthology/Z24-Ek_semdial_0010.pdf
+
+%0 Conference Proceedings
+%T Towards A Formal Semantics of Silence: An Analysis Based on the KoS Framework
+%A Park, Haseon
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F park-2024-towards
+%U http://semdial.org/anthology/Z24-Park_semdial_0011.pdf
+
+%0 Conference Proceedings
+%T Perspectives on Language Model and Human Handling of Written Disfluency and Nonliteral Meaning
+%A Tarighat, Aida
+%A Corley, Martin
+%A Sturt, Patrick
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F tarighat-etal-2024-perspectives
+%U http://semdial.org/anthology/Z24-Tarighat_semdial_0012.pdf
+
+%0 Conference Proceedings
+%T Disfluencies in conversation: a comparison of utterances with and without metaphors
+%A Qiu, Amy Han
+%A Vanzan, Vanessa
+%A Soupiona, Chara
+%A Howes, Christine
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F qiu-etal-2024-disfluencies
+%U http://semdial.org/anthology/Z24-Qiu_semdial_0013.pdf
+
+%0 Conference Proceedings
+%T Speaker transition patterns in German: A comparison between task-based and casual conversation in face-to-faceand remote conversation
+%A Xia, Qiang
+%A Gilmartin, Emer
+%A Włodarczak, Marcin
+%S Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%D 2024
+%8 September
+%I SEMDIAL
+%C Trento, Italy
+%F xia-etal-2024-speaker
+%U http://semdial.org/anthology/Z24-Xia_semdial_0014.pdf
+

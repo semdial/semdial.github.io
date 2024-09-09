@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="ginzburg-fernandez-2005-action">
+    <titleInfo>
+        <title>Action at a Distance: The Difference Between Dialogue and Multilogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ginzburg-fernandez-2005-action</identifier>
+    <location>
+        <url>http://semdial.org/anthology/014_Ginzburg_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+</modsCollection>

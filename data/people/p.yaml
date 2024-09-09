@@ -108,6 +108,21 @@ pablo-gervas:
   papers: []
   slug: pablo-gervas
   venues: []
+pakawat-nakwijit:
+  coauthors:
+  - - attapol-t-rutherford
+    - 1
+  - - matthew-purver
+    - 1
+  first: Pakawat
+  full: Pakawat Nakwijit
+  last: Nakwijit
+  papers:
+  - Z24-3005
+  slug: pakawat-nakwijit
+  venues:
+  - - SEMDIAL
+    - 1
 palash-nandi:
   coauthors:
   - - pinaki-karkun
@@ -151,13 +166,13 @@ pamela-jordan:
   coauthors:
   - - sandra-katz
     - 2
+  - - cynthia-kersey
+    - 1
+  - - barbara-di-eugenio
+    - 1
   - - patricia-albacete
     - 1
   - - diane-litman
-    - 1
-  - - cynthia-kersey
-    - 1
-  - - barbara-di-eugenio1
     - 1
   first: Pamela
   full: Pamela Jordan
@@ -223,6 +238,21 @@ panos-alexopoulos:
   papers:
   - Z14-4031
   slug: panos-alexopoulos
+  venues:
+  - - SEMDIAL
+    - 1
+paola-herreno-castaneda:
+  coauthors:
+  - - jonathan-ginzburg
+    - 1
+  - - mathilde-dargnat
+    - 1
+  first: Paola
+  full: "Paola Herre\xF1o Casta\xF1eda"
+  last: "Herre\xF1o Casta\xF1eda"
+  papers:
+  - Z24-4030
+  slug: paola-herreno-castaneda
   venues:
   - - SEMDIAL
     - 1
@@ -525,14 +555,20 @@ patrick-healey:
     - 4
   - - julian-hough
     - 3
-  - - christine-howes
+  - - arash-eshghi
     - 2
   - - tom-gurion
     - 2
-  - - arash-eshghi
+  - - christine-howes
     - 2
   - - shauna-concannon
     - 2
+  - - jonathan-ginzburg
+    - 1
+  - - yo-sato
+    - 1
+  - - carl-vogel
+    - 1
   - - saul-albert
     - 1
   - - nicola-plant
@@ -542,10 +578,6 @@ patrick-healey:
   - - rose-mccabe
     - 1
   - - mary-lavelle
-    - 1
-  - - jonathan-ginzburg
-    - 1
-  - - yo-sato
     - 1
   - - eleni-gregoromichelaki
     - 1
@@ -558,8 +590,6 @@ patrick-healey:
   - - sophie-skach
     - 1
   - - leshao-zhang
-    - 1
-  - - carl-vogel
     - 1
   first: Patrick
   full: Patrick Healey
@@ -582,18 +612,37 @@ patrick-healey:
   - Z06-3020
   slug: patrick-healey
   variant_entries:
-  - first: Patrick G. T.
-    full: Patrick G. T. Healey
-    last: Healey
   - first: Pat
     full: Pat Healey
     last: Healey
   - first: Patrick G.T.
     full: Patrick G.T. Healey
     last: Healey
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    last: Healey
   venues:
   - - SEMDIAL
     - 15
+patrick-holthaus:
+  coauthors:
+  - - julian-hough
+    - 1
+  - - carlos-baptista-de-lima
+    - 1
+  - - frank-foerster
+    - 1
+  - - yongjun-zheng
+    - 1
+  first: Patrick
+  full: Patrick Holthaus
+  last: Holthaus
+  papers:
+  - Z24-4044
+  slug: patrick-holthaus
+  venues:
+  - - SEMDIAL
+    - 1
 patrick-l-lange:
   coauthors:
   - - david-suendermann-oeft
@@ -644,6 +693,21 @@ patrick-saint-dizier:
   papers: []
   slug: patrick-saint-dizier
   venues: []
+patrick-sturt:
+  coauthors:
+  - - aida-tarighat
+    - 1
+  - - martin-corley
+    - 1
+  first: Patrick
+  full: Patrick Sturt
+  last: Sturt
+  papers:
+  - Z24-3012
+  slug: patrick-sturt
+  venues:
+  - - SEMDIAL
+    - 1
 patrizia-michelassi:
   coauthors: []
   first: Patrizia
@@ -781,21 +845,29 @@ paul-piwek:
     - 1
   - - adrian-bangerter
     - 1
-  - - brian-pluss
-    - 1
   - - david-hardcastle
+    - 1
+  - - cecilia-domingo
+    - 1
+  - - michel-wermelinger
+    - 1
+  - - svetlana-stoyanchev
+    - 1
+  - - brian-pluss
     - 1
   first: Paul
   full: Paul Piwek
   last: Piwek
   papers:
+  - Z24-4022
+  - Z24-4033
   - Z11-4044
   - Z08-4027
   - Z07-2021
   slug: paul-piwek
   venues:
   - - SEMDIAL
-    - 3
+    - 5
 paul-placeway:
   coauthors: []
   first: Paul
@@ -935,6 +1007,29 @@ pedro-concejero-cerezo:
   papers: []
   slug: pedro-concejero-cerezo
   venues: []
+pelachaud-catherine:
+  coauthors:
+  - - yingqin-hu
+    - 1
+  - - brillet-capucine
+    - 1
+  - - bosko-rajkovic
+    - 1
+  - - gauhar-rustamova
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Pelachaud
+  full: Pelachaud Catherine
+  last: Catherine
+  papers:
+  - Z24-3009
+  slug: pelachaud-catherine
+  venues:
+  - - SEMDIAL
+    - 1
 penelope-sibun:
   coauthors: []
   first: Penelope
@@ -1042,6 +1137,21 @@ peter-arno-coppen:
   papers: []
   slug: peter-arno-coppen
   venues: []
+peter-bell:
+  coauthors:
+  - - sean-leishman
+    - 1
+  - - sarenne-wallbridge
+    - 1
+  first: Peter
+  full: Peter Bell
+  last: Bell
+  papers:
+  - Z24-3002
+  slug: peter-bell
+  venues:
+  - - SEMDIAL
+    - 1
 peter-corbett:
   coauthors: []
   first: Peter
@@ -1437,6 +1547,25 @@ petra-poukarova:
   papers: []
   slug: petra-poukarova
   venues: []
+petra-wagner:
+  coauthors:
+  - - marcin-wlodarczak
+    - 1
+  - - hendrik-buschmeier
+    - 1
+  - - olcay-turk
+    - 1
+  - - emer-gilmartin
+    - 1
+  first: Petra
+  full: Petra Wagner
+  last: Wagner
+  papers:
+  - Z24-3001
+  slug: petra-wagner
+  venues:
+  - - SEMDIAL
+    - 1
 phil-bartie:
   coauthors:
   - - srinivasan-janarthanam
@@ -1578,7 +1707,7 @@ philippe-blache:
     - 2
   - - helen-k-y-chen
     - 1
-  - - beatrice-priego-valverde
+  - - beatrice-priego-valverde1
     - 1
   - - klim-peshkov
     - 1
@@ -1622,8 +1751,6 @@ philippe-muller:
     - 2
   - - verena-rieser
     - 2
-  - - marie-safarova
-    - 1
   - - nicolas-maudet
     - 1
   - - stergos-afantenos
@@ -1651,6 +1778,8 @@ philippe-muller:
   - - vladimir-popescu
     - 1
   - - laure-vieu
+    - 1
+  - - marie-safarova
     - 1
   first: Philippe
   full: Philippe Muller
@@ -1690,11 +1819,11 @@ pi-chuan-chang:
   venues: []
 pia-knoeferle:
   coauthors:
+  - - monica-rodriguez
+    - 1
   - - dato-abashidze
     - 1
   - - maria-nella-carminati
-    - 1
-  - - monica-rodriguez
     - 1
   first: Pia
   full: Pia Knoeferle
@@ -1758,11 +1887,11 @@ pierre-lison:
   coauthors:
   - - casey-kennington
     - 2
-  - - paolo-dragone
-    - 1
   - - nicholas-walker
     - 1
   - - stefan-ultes
+    - 1
+  - - paolo-dragone
     - 1
   first: Pierre
   full: Pierre Lison

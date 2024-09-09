@@ -1,0 +1,1433 @@
+Z24-1000:
+  address: Trento, Italy
+  author:
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  bibkey: semdial-2024-semantics
+  bibtype: proceedings
+  month: September
+  paper_id: '1000'
+  parent_volume_id: Z24-1
+  publisher: SEMDIAL
+  title: Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2024_trentologue_front_matter.pdf
+  year: '2024'
+Z24-2101:
+  address: Trento, Italy
+  author:
+  - first: Uri
+    full: Uri Hasson
+    id: uri-hasson
+    last: Hasson
+  bibkey: hasson-2024-deep
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2101'
+  parent_volume_id: Z24-2
+  publisher: SEMDIAL
+  title: Deep language models as a cognitive model for natural language processing
+    in the human brain
+  title_html: Deep language models as a cognitive model for natural language processing
+    in the human brain
+  url: http://semdial.org/anthology/Z24-Hasson_semdial_0001a.pdf
+  year: '2024'
+Z24-2102:
+  address: Trento, Italy
+  author:
+  - first: Azzurra
+    full: Azzurra Ruggeri
+    id: azzurra-ruggeri
+    last: Ruggeri
+  bibkey: ruggeri-2024-emergence
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2102'
+  parent_volume_id: Z24-2
+  publisher: SEMDIAL
+  title: Emergence and Developmental trajectory of Ecological Active Learning
+  title_html: Emergence and Developmental trajectory of Ecological Active Learning
+  url: http://semdial.org/anthology/Z24-Ruggeri_semdial_0002a.pdf
+  year: '2024'
+Z24-2103:
+  address: Trento, Italy
+  author:
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  bibkey: magnini-2024-toward
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2103'
+  parent_volume_id: Z24-2
+  publisher: SEMDIAL
+  title: 'Toward collaborative LLMs: Investigating Proactivity in Task-Oriented Dialogues'
+  title_html: 'Toward collaborative LLMs: Investigating Proactivity in Task-Oriented
+    Dialogues'
+  url: http://semdial.org/anthology/Z24-Magninini_semdial_0003a.pdf
+  year: '2024'
+Z24-3001:
+  address: Trento, Italy
+  author:
+  - first: Petra
+    full: Petra Wagner
+    id: petra-wagner
+    last: Wagner
+  - first: Marcin
+    full: "Marcin W\u0142odarczak"
+    id: marcin-wlodarczak
+    last: "W\u0142odarczak"
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  - first: Olcay
+    full: "Olcay T\xFCrk"
+    id: olcay-turk
+    last: "T\xFCrk"
+  - first: Emer
+    full: Emer Gilmartin
+    id: emer-gilmartin
+    last: Gilmartin
+  bibkey: wagner-etal-2024-turn
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3001'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: Turn-taking dynamics across different phases of explanatory dialogues
+  title_html: Turn-taking dynamics across different phases of explanatory dialogues
+  url: http://semdial.org/anthology/Z24-Wagner_semdial_0001.pdf
+  year: '2024'
+Z24-3002:
+  address: Trento, Italy
+  author:
+  - first: Sean
+    full: Sean Leishman
+    id: sean-leishman
+    last: Leishman
+  - first: Peter
+    full: Peter Bell
+    id: peter-bell
+    last: Bell
+  - first: Sarenne
+    full: Sarenne Wallbridge
+    id: sarenne-wallbridge
+    last: Wallbridge
+  bibkey: leishman-etal-2024-pairwiseturngpt
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3002'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'PairwiseTurnGPT: a multi-stream turn prediction model for spoken dialogue'
+  title_html: 'PairwiseTurnGPT: a multi-stream turn prediction model for spoken dialogue'
+  url: http://semdial.org/anthology/Z24-Leishman_semdial_0002.pdf
+  year: '2024'
+Z24-3003:
+  address: Trento, Italy
+  author:
+  - first: Sebastiano
+    full: Sebastiano Gigliobianco
+    id: sebastiano-gigliobianco
+    last: Gigliobianco
+  - first: Dimosthenis
+    full: Dimosthenis Kontogiorgos
+    id: dimosthenis-kontogiorgos
+    last: Kontogiorgos
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: gigliobianco-etal-2024-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3003'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: Learning Task-Oriented Dialogues through Various Degrees of Interactivity
+  title_html: Learning Task-Oriented Dialogues through Various Degrees of Interactivity
+  url: http://semdial.org/anthology/Z24-Gigliobianco_semdial_0003.pdf
+  year: '2024'
+Z24-3004:
+  address: Trento, Italy
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: breitholtz-howes-2024-behaving
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3004'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'Behaving according to protocol: How communicative projects are carried out
+    differently in different settings'
+  title_html: 'Behaving according to protocol: How communicative projects are carried
+    out differently in different settings'
+  url: http://semdial.org/anthology/Z24- Breitholtz_semdial_0004.pdf
+  year: '2024'
+Z24-3005:
+  address: Trento, Italy
+  author:
+  - first: Pakawat
+    full: Pakawat Nakwijit
+    id: pakawat-nakwijit
+    last: Nakwijit
+  - first: Attapol T.
+    full: Attapol T. Rutherford
+    id: attapol-t-rutherford
+    last: Rutherford
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: nakwijit-etal-2024-encoder
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3005'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: How do Encoder-only LMs Predict Closeness and Respect from Thai Conversations?
+  title_html: How do Encoder-only LMs Predict Closeness and Respect from Thai Conversations?
+  url: http://semdial.org/anthology/Z24-Nakwijit_semdial_0005.pdf
+  year: '2024'
+Z24-3006:
+  address: Trento, Italy
+  author:
+  - first: Sabrina
+    full: Sabrina Patania
+    id: sabrina-patania
+    last: Patania
+  - first: Emanuele
+    full: Emanuele Masiero
+    id: emanuele-masiero
+    last: Masiero
+  - first: Luca
+    full: Luca Brini
+    id: luca-brini
+    last: Brini
+  - first: Gregor
+    full: Gregor Donabauer
+    id: gregor-donabauer
+    last: Donabauer
+  - first: Udo
+    full: Udo Kruschwitz
+    id: udo-kruschwitz
+    last: Kruschwitz
+  - first: Valentyn
+    full: Valentyn Piskovskyi
+    id: valentyn-piskovskyi
+    last: Piskovskyi
+  - first: Dimitri
+    full: Dimitri Ognibene
+    id: dimitri-ognibene
+    last: Ognibene
+  bibkey: patania-etal-2024-large
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3006'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'Large Language Models as an active Bayesian filter: information acquisition
+    and integration'
+  title_html: 'Large Language Models as an active Bayesian filter: information acquisition
+    and integration'
+  url: http://semdial.org/anthology/Z24-Patania_semdial_0006.pdf
+  year: '2024'
+Z24-3007:
+  address: Trento, Italy
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Chris
+    full: Chris Eliasmith
+    id: chris-eliasmith
+    last: Eliasmith
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  bibkey: ginzburg-etal-2024-swanns
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3007'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: "Swann\u2019s Name: Towards a Dialogical Brain Semantics"
+  title_html: "Swann\u2019s Name: Towards a Dialogical Brain Semantics"
+  url: http://semdial.org/anthology/Z24-Ginzburg_semdial_0007.pdf
+  year: '2024'
+Z24-3008:
+  address: Trento, Italy
+  author:
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: "C\xE9line"
+    full: "C\xE9line Hidalgo"
+    id: celine-hidalgo
+    last: Hidalgo
+  - first: Roxane
+    full: Roxane Bertrand
+    id: roxane-bertrand
+    last: Bertrand
+  - first: Leonardo
+    full: Leonardo Lancia
+    id: leonardo-lancia
+    last: Lancia
+  - first: "St\xE9phane"
+    full: "St\xE9phane Roman"
+    id: stephane-roman
+    last: Roman
+  - first: Daniele
+    full: Daniele Schon
+    id: daniele-schon
+    last: Schon
+  bibkey: mazzocconi-etal-2024-laughter
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3008'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'Laughter in Dialogues with Normal-Hearing and Hearing-Impaired Children:
+    Do they all laugh alike?'
+  title_html: 'Laughter in Dialogues with Normal-Hearing and Hearing-Impaired Children:
+    Do they all laugh alike?'
+  url: http://semdial.org/anthology/Z24-Mazzocconi_semdial_0008.pdf
+  year: '2024'
+Z24-3009:
+  address: Trento, Italy
+  author:
+  - first: Yingqin
+    full: Yingqin Hu
+    id: yingqin-hu
+    last: Hu
+  - first: Brillet
+    full: Brillet Capucine
+    id: brillet-capucine
+    last: Capucine
+  - first: Bosko
+    full: Bosko Rajkovic
+    id: bosko-rajkovic
+    last: Rajkovic
+  - first: Gauhar
+    full: Gauhar Rustamova
+    id: gauhar-rustamova
+    last: Rustamova
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Pelachaud
+    full: Pelachaud Catherine
+    id: pelachaud-catherine
+    last: Catherine
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: hu-etal-2024-laughter
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3009'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'Laughter in the cradle: a taxonomy of infant laughables'
+  title_html: 'Laughter in the cradle: a taxonomy of infant laughables'
+  url: http://semdial.org/anthology/Z24-Hu_semdial_0009.pdf
+  year: '2024'
+Z24-3010:
+  address: Trento, Italy
+  author:
+  - first: Adam
+    full: Adam Ek
+    id: adam-ek
+    last: Ek
+  - first: Bill
+    full: Bill Noble
+    id: bill-noble
+    last: Noble
+  - first: Stergios
+    full: Stergios Chatzikyriakidis
+    id: stergios-chatzikyriakidis
+    last: Chatzikyriakidis
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Gregory
+    full: Gregory Mills
+    id: gregory-mills
+    last: Mills
+  - first: Gijs
+    full: Gijs Wijnholds
+    id: gijs-wijnholds
+    last: Wijnholds
+  bibkey: ek-etal-2024-hea
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3010'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'I hea- umm think that''s what they say: A Dataset of Inferences from Natural
+    Language Dialogues'
+  title_html: 'I hea- umm think that''s what they say: A Dataset of Inferences from
+    Natural Language Dialogues'
+  url: http://semdial.org/anthology/Z24-Ek_semdial_0010.pdf
+  year: '2024'
+Z24-3011:
+  address: Trento, Italy
+  author:
+  - first: Haseon
+    full: Haseon Park
+    id: haseon-park
+    last: Park
+  bibkey: park-2024-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3011'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'Towards A Formal Semantics of Silence: An Analysis Based on the KoS Framework'
+  title_html: 'Towards A Formal Semantics of Silence: An Analysis Based on the KoS
+    Framework'
+  url: http://semdial.org/anthology/Z24-Park_semdial_0011.pdf
+  year: '2024'
+Z24-3012:
+  address: Trento, Italy
+  author:
+  - first: Aida
+    full: Aida Tarighat
+    id: aida-tarighat
+    last: Tarighat
+  - first: Martin
+    full: Martin Corley
+    id: martin-corley
+    last: Corley
+  - first: Patrick
+    full: Patrick Sturt
+    id: patrick-sturt
+    last: Sturt
+  bibkey: tarighat-etal-2024-perspectives
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3012'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: Perspectives on Language Model and Human Handling of Written Disfluency and
+    Nonliteral Meaning
+  title_html: Perspectives on Language Model and Human Handling of Written Disfluency
+    and Nonliteral Meaning
+  url: http://semdial.org/anthology/Z24-Tarighat_semdial_0012.pdf
+  year: '2024'
+Z24-3013:
+  address: Trento, Italy
+  author:
+  - first: Amy Han
+    full: Amy Han Qiu
+    id: amy-han-qiu
+    last: Qiu
+  - first: Vanessa
+    full: Vanessa Vanzan
+    id: vanessa-vanzan
+    last: Vanzan
+  - first: Chara
+    full: Chara Soupiona
+    id: chara-soupiona
+    last: Soupiona
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: qiu-etal-2024-disfluencies
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3013'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'Disfluencies in conversation: a comparison of utterances with and without
+    metaphors'
+  title_html: 'Disfluencies in conversation: a comparison of utterances with and without
+    metaphors'
+  url: http://semdial.org/anthology/Z24-Qiu_semdial_0013.pdf
+  year: '2024'
+Z24-3014:
+  address: Trento, Italy
+  author:
+  - first: Qiang
+    full: Qiang Xia
+    id: qiang-xia
+    last: Xia
+  - first: Emer
+    full: Emer Gilmartin
+    id: emer-gilmartin
+    last: Gilmartin
+  - first: Marcin
+    full: "Marcin W\u0142odarczak"
+    id: marcin-wlodarczak
+    last: "W\u0142odarczak"
+  bibkey: xia-etal-2024-speaker
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3014'
+  parent_volume_id: Z24-3
+  publisher: SEMDIAL
+  title: 'Speaker transition patterns in German: A comparison between task-based and
+    casual conversation in face-to-faceand remote conversation'
+  title_html: 'Speaker transition patterns in German: A comparison between task-based
+    and casual conversation in face-to-faceand remote conversation'
+  url: http://semdial.org/anthology/Z24-Xia_semdial_0014.pdf
+  year: '2024'
+Z24-4016:
+  address: Trento, Italy
+  author:
+  - first: Weronika
+    full: "Weronika Siei\u0144ska"
+    id: weronika-sieinska
+    last: "Siei\u0144ska"
+  - first: Angus
+    full: Angus Addlessee
+    id: angus-addlessee
+    last: Addlessee
+  - first: Daniel
+    full: "Daniel Hern\xE1ndez"
+    id: daniel-hernandez
+    last: "Hern\xE1ndez"
+  - first: "Garc\xEDa"
+    full: "Garc\xEDa Nancie"
+    id: garcia-nancie
+    last: Nancie
+  - first: Gunson
+    full: Gunson Marta
+    id: gunson-marta
+    last: Marta
+  - first: Romeo Christian
+    full: Romeo Christian Dondrup
+    id: romeo-christian-dondrup
+    last: Dondrup
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: sieinska-etal-2024-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4016'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: A Multi-party Dialogue Dataset for Dialogue Goal Tracking in a Hospital Setting
+    and How It Can Be Used in LLM Prompt Engineering Experiments
+  title_html: A Multi-party Dialogue Dataset for Dialogue Goal Tracking in a Hospital
+    Setting and How It Can Be Used in LLM Prompt Engineering Experiments
+  url: http://semdial.org/anthology/Z24-Sieinska_semdial_0016.pdf
+  year: '2024'
+Z24-4017:
+  address: Trento, Italy
+  author:
+  - first: Bogdan
+    full: Bogdan Laszlo
+    id: bogdan-laszlo
+    last: Laszlo
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Asad
+    full: Asad Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  bibkey: laszlo-etal-2024-using
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4017'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Using LLMs to generate training data for dialogue system NLUs
+  title_html: Using LLMs to generate training data for dialogue system NLUs
+  url: http://semdial.org/anthology/Z24-Laszlo_semdial_0017.pdf
+  year: '2024'
+Z24-4018:
+  address: Trento, Italy
+  author:
+  - first: Davide
+    full: Davide Mazzaccara
+    id: davide-mazzaccara
+    last: Mazzaccara
+  - first: Alberto
+    full: Alberto Testoni
+    id: alberto-testoni
+    last: Testoni
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  bibkey: mazzaccara-etal-2024-boosting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4018'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Boosting Questions' Effectiveness in Medical Interviews
+  title_html: Boosting Questions' Effectiveness in Medical Interviews
+  url: http://semdial.org/anthology/Z24-Mazzaccara_semdial_0018.pdf
+  year: '2024'
+Z24-4019:
+  address: Trento, Italy
+  author:
+  - first: Amelie
+    full: Amelie Robrecht
+    id: amelie-robrecht
+    last: Robrecht
+  - first: Heike
+    full: Heike Buhl
+    id: heike-buhl
+    last: Buhl
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: robrecht-etal-2024-inferring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4019'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Inferring Partner Models for Adaptive Explanation Generation
+  title_html: Inferring Partner Models for Adaptive Explanation Generation
+  url: http://semdial.org/anthology/Z24-Robrecht_semdial_0019.pdf
+  year: '2024'
+Z24-4020:
+  address: Trento, Italy
+  author:
+  - first: Milena
+    full: Milena Belosevic
+    id: milena-belosevic
+    last: Belosevic
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  bibkey: belosevic-buschmeier-2024-modeling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4020'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Modeling the Use-Mention Distinction in LLM-Generated Grounding Acts
+  title_html: Modeling the Use-Mention Distinction in LLM-Generated Grounding Acts
+  url: http://semdial.org/anthology/Z24-Belosevic_semdial_0020.pdf
+  year: '2024'
+Z24-4021:
+  address: Trento, Italy
+  author:
+  - first: Andrea
+    full: Andrea Zaninello
+    id: andrea-zaninello
+    last: Zaninello
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  bibkey: zaninello-magnini-2024-machine
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4021'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'Machine-to-Machine Generation of Explanatory Dialogues for Medical QA: an
+    Exploratory Study'
+  title_html: 'Machine-to-Machine Generation of Explanatory Dialogues for Medical
+    QA: an Exploratory Study'
+  url: http://semdial.org/anthology/Z24-Zaninello_semdial_0021.pdf
+  year: '2024'
+Z24-4022:
+  address: Trento, Italy
+  author:
+  - first: Paul
+    full: Paul Piwek
+    id: paul-piwek
+    last: Piwek
+  bibkey: piwek-2024-conversational
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4022'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Are conversational large language models speakers?
+  title_html: Are conversational large language models speakers?
+  url: http://semdial.org/anthology/Z24-Piwek_semdial_0022.pdf
+  year: '2024'
+Z24-4023:
+  address: Trento, Italy
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: larsson-2024-pre
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4023'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Pre-Generative Conversational AI
+  title_html: Pre-Generative Conversational AI
+  url: http://semdial.org/anthology/Z24-Larsson_semdial_0023.pdf
+  year: '2024'
+Z24-4024:
+  address: Trento, Italy
+  author:
+  - first: David
+    full: David Arps
+    id: david-arps
+    last: Arps
+  - first: Yulia
+    full: Yulia Zinova
+    id: yulia-zinova
+    last: Zinova
+  bibkey: arps-zinova-2024-difficult
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4024'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'It is difficult, but not impossible: Measuring Scalar Activation in Language
+    Models'
+  title_html: 'It is difficult, but not impossible: Measuring Scalar Activation in
+    Language Models'
+  url: http://semdial.org/anthology/Z24-Arps_semdial_0024.pdf
+  year: '2024'
+Z24-4025:
+  address: Trento, Italy
+  author:
+  - first: Michael
+    full: Michael O'Mahony
+    id: michael-o-mahony
+    last: O'Mahony
+  - first: Cathy
+    full: Cathy Ennis
+    id: cathy-ennis
+    last: Ennis
+  - first: Robert
+    full: Robert Ross
+    id: robert-ross
+    last: Ross
+  bibkey: o-mahony-etal-2024-getting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4025'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'Getting to the point: Contrasting Directness and Warmth in Motivational
+    Embodied Conversational Agents'
+  title_html: 'Getting to the point: Contrasting Directness and Warmth in Motivational
+    Embodied Conversational Agents'
+  url: http://semdial.org/anthology/Z24-OMahony_semdial_0025.pdf
+  year: '2024'
+Z24-4026:
+  address: Trento, Italy
+  author:
+  - first: Sara
+    full: Sara Amido
+    id: sara-amido
+    last: Amido
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Robert
+    full: Robert Ross
+    id: robert-ross
+    last: Ross
+  bibkey: amido-etal-2024-listen
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4026'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: '"No, you listen!" A pilot experiment into escalation devices in confrontational
+    conversation'
+  title_html: '"No, you listen!" A pilot experiment into escalation devices in confrontational
+    conversation'
+  url: http://semdial.org/anthology/Z24-Amido_semdial_0026.pdf
+  year: '2024'
+Z24-4028:
+  address: Trento, Italy
+  author:
+  - first: Mattias
+    full: Mattias Appelgren
+    id: mattias-appelgren
+    last: Appelgren
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  bibkey: appelgren-dobnik-2024-left
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4028'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'To Your Left: A Dataset and a Task of Spatial Perspective Coordination'
+  title_html: 'To Your Left: A Dataset and a Task of Spatial Perspective Coordination'
+  url: http://semdial.org/anthology/Z24-Appelgren_semdial_0028.pdf
+  year: '2024'
+Z24-4030:
+  address: Trento, Italy
+  author:
+  - first: Paola
+    full: "Paola Herre\xF1o Casta\xF1eda"
+    id: paola-herreno-castaneda
+    last: "Herre\xF1o Casta\xF1eda"
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Mathilde
+    full: Mathilde Dargnat
+    id: mathilde-dargnat
+    last: Dargnat
+  bibkey: herreno-castaneda-etal-2024-discourse
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4030'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Discourse Markers for Topic Change
+  title_html: Discourse Markers for Topic Change
+  url: http://semdial.org/anthology/Z24-Castaneda_semdial_0030.pdf
+  year: '2024'
+Z24-4031:
+  address: Trento, Italy
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Alexander
+    full: Alexander Mehler
+    id: alexander-mehler
+    last: Mehler
+  - first: Alexander
+    full: Alexander Henlein
+    id: alexander-henlein
+    last: Henlein
+  bibkey: lucking-etal-2024-linguistic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4031'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'The Linguistic Interpretation of Non-emblematic Gestures Must be agreed
+    in Dialogue: Combining Perceptual Classifiers and Grounding/Clarification Mechanisms'
+  title_html: 'The Linguistic Interpretation of Non-emblematic Gestures Must be agreed
+    in Dialogue: Combining Perceptual Classifiers and Grounding/Clarification Mechanisms'
+  url: http://semdial.org/anthology/Z24-Lucking_semdial_0031.pdf
+  year: '2024'
+Z24-4032:
+  address: Trento, Italy
+  author:
+  - first: David
+    full: David Pagmar
+    id: david-pagmar
+    last: Pagmar
+  - first: Asad
+    full: Asad Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  bibkey: pagmar-sayeed-2024-every
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4032'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Every quantifier scope ambiguity is enabled by a context
+  title_html: Every quantifier scope ambiguity is enabled by a context
+  url: http://semdial.org/anthology/Z24-Pagmar_semdial_0032.pdf
+  year: '2024'
+Z24-4033:
+  address: Trento, Italy
+  author:
+  - first: Cecilia
+    full: Cecilia Domingo
+    id: cecilia-domingo
+    last: Domingo
+  - first: Paul
+    full: Paul Piwek
+    id: paul-piwek
+    last: Piwek
+  - first: Michel
+    full: Michel Wermelinger
+    id: michel-wermelinger
+    last: Wermelinger
+  - first: Svetlana
+    full: Svetlana Stoyanchev
+    id: svetlana-stoyanchev
+    last: Stoyanchev
+  bibkey: domingo-etal-2024-annotation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4033'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Annotation Needs for Referring Expressions in Pair-Programming Dialogue
+  title_html: Annotation Needs for Referring Expressions in Pair-Programming Dialogue
+  url: http://semdial.org/anthology/Z24-Domingo_semdial_0033.pdf
+  year: '2024'
+Z24-4034:
+  address: Trento, Italy
+  author:
+  - first: Edoardo
+    full: Edoardo Sebastiano
+    id: edoardo-sebastiano
+    last: Sebastiano
+  - first: De
+    full: De Duro
+    id: de-duro
+    last: Duro
+  - first: Riccardo
+    full: Riccardo Improta
+    id: riccardo-improta
+    last: Improta
+  - first: Massimo
+    full: Massimo Stella
+    id: massimo-stella
+    last: Stella
+  bibkey: sebastiano-etal-2024-network
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4034'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Network science highlights the emotional structure of counselling conversations
+    simulated by Large Language Models and humans
+  title_html: Network science highlights the emotional structure of counselling conversations
+    simulated by Large Language Models and humans
+  url: http://semdial.org/anthology/Z24-DeDuro_semdial_0034.pdf
+  year: '2024'
+Z24-4035:
+  address: Trento, Italy
+  author:
+  - first: Mark
+    full: Mark Monaghan
+    id: mark-monaghan
+    last: Monaghan
+  - first: Harry
+    full: Harry Addlessee
+    id: harry-addlessee
+    last: Addlessee
+  - first: Jose
+    full: Jose Rodriguez Assalone
+    id: jose-rodriguez-assalone
+    last: Rodriguez Assalone
+  - first: Sandra
+    full: Sandra Gregoire
+    id: sandra-gregoire
+    last: Gregoire
+  - first: Buhari
+    full: Buhari Bashir
+    id: buhari-bashir
+    last: Bashir
+  - first: Ross
+    full: Ross Nelson
+    id: ross-nelson
+    last: Nelson
+  - first: Mahad
+    full: Mahad Mahad
+    id: mahad-mahad
+    last: Mahad
+  - first: Javier Sanchez
+    full: Javier Sanchez Castro
+    id: javier-sanchez-castro
+    last: Castro
+  - first: Elissa
+    full: Elissa Westerheim
+    id: elissa-westerheim
+    last: Westerheim
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: monaghan-etal-2024-red
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4035'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'Red-teaming LLMs for patient safety in healthcare settings: the HPQ dataset
+    and evaluation'
+  title_html: 'Red-teaming LLMs for patient safety in healthcare settings: the HPQ
+    dataset and evaluation'
+  url: http://semdial.org/anthology/Z24-Monaghan_semdial_0035.pdf
+  year: '2024'
+Z24-4036:
+  address: Trento, Italy
+  author:
+  - first: Chris
+    full: Chris Madge
+    id: chris-madge
+    last: Madge
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  bibkey: madge-poesio-2024-llm
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4036'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: A LLM Benchmark based on the Minecraft Builder Dialog Agent Task
+  title_html: A LLM Benchmark based on the Minecraft Builder Dialog Agent Task
+  url: http://semdial.org/anthology/Z24-Madge_semdial_0036.pdf
+  year: '2024'
+Z24-4037:
+  address: Trento, Italy
+  author:
+  - first: Vidya
+    full: Vidya Somashekarappa
+    id: vidya-somashekarappa
+    last: Somashekarappa
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: somashekarappa-howes-2024-influence
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4037'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Influence of Robot-Gaze Aversion on Human-Behavioral Dynamics and Perceptual
+    Cognition
+  title_html: Influence of Robot-Gaze Aversion on Human-Behavioral Dynamics and Perceptual
+    Cognition
+  url: http://semdial.org/anthology/Z24-Somashekarappa_semdial_0037.pdf
+  year: '2024'
+Z24-4038:
+  address: Trento, Italy
+  author:
+  - first: Vanessa
+    full: Vanessa Vanzan
+    id: vanessa-vanzan
+    last: Vanzan
+  - first: Amy
+    full: Amy Han
+    id: amy-han
+    last: Han
+  - first: Qiu
+    full: Qiu Fahima
+    id: qiu-fahima
+    last: Fahima
+  - first: Ayub
+    full: Ayub Khan
+    id: ayub-khan
+    last: Khan
+  - first: Chara
+    full: Chara Soupiona
+    id: chara-soupiona
+    last: Soupiona
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: vanzan-etal-2024-emoji
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4038'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'Emoji-Text Mismatches: Stirring the Pot of Online Conversations'
+  title_html: 'Emoji-Text Mismatches: Stirring the Pot of Online Conversations'
+  url: http://semdial.org/anthology/Z24-Vanzan_semdial_0038.pdf
+  year: '2024'
+Z24-4039:
+  address: Trento, Italy
+  author:
+  - first: Federica
+    full: Federica Iurescia
+    id: federica-iurescia
+    last: Iurescia
+  - first: Giovanni
+    full: Giovanni Moretti
+    id: giovanni-moretti
+    last: Moretti
+  bibkey: iurescia-moretti-2024-treebank
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4039'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'Treebank for Dialogue: a case study from Roman Tragedy'
+  title_html: 'Treebank for Dialogue: a case study from Roman Tragedy'
+  url: http://semdial.org/anthology/Z24-Iurescia_semdial_0039.pdf
+  year: '2024'
+Z24-4040:
+  address: Trento, Italy
+  author:
+  - first: Marie
+    full: Marie Boscaro
+    id: marie-boscaro
+    last: Boscaro
+  - first: Anastasia
+    full: Anastasia Giannakidou
+    id: anastasia-giannakidou
+    last: Giannakidou
+  - first: Alda
+    full: Alda Mari
+    id: alda-mari
+    last: Mari
+  - first: Valentin
+    full: Valentin Tinarrage
+    id: valentin-tinarrage
+    last: Tinarrage
+  bibkey: boscaro-etal-2024-assertion
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4040'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Assertion, cooperativity and evidence on X
+  title_html: Assertion, cooperativity and evidence on X
+  url: http://semdial.org/anthology/Z24-Boscaro_semdial_0040.pdf
+  year: '2024'
+Z24-4041:
+  address: Trento, Italy
+  author:
+  - first: Amandine
+    full: Amandine Decker
+    id: amandine-decker
+    last: Decker
+  - first: Vincent
+    full: Vincent Tourneur
+    id: vincent-tourneur
+    last: Tourneur
+  - first: Maxime
+    full: Maxime Amblard
+    id: maxime-amblard
+    last: Amblard
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  bibkey: decker-etal-2024-wait
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4041'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: '"Wait, did you mean the doctor?": Collecting a Dialogue Corpus for Topical
+    Analysis'
+  title_html: '"Wait, did you mean the doctor?": Collecting a Dialogue Corpus for
+    Topical Analysis'
+  url: http://semdial.org/anthology/Z24-Decker_semdial_0041.pdf
+  year: '2024'
+Z24-4042:
+  address: Trento, Italy
+  author:
+  - first: Daphne
+    full: "Daphne Petr\xE9n"
+    id: daphne-petren
+    last: "Petr\xE9n"
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  bibkey: petren-breitholtz-2024-foid
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4042'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: "\"If a foid wanted me I\u2019d probably go mgtow\": How ideology and identity
+    are displayed in dialogues on an incelforum"
+  title_html: "\"If a foid wanted me I\u2019d probably go mgtow\": How ideology and
+    identity are displayed in dialogues on an incelforum"
+  url: http://semdial.org/anthology/Z24-Petren_semdial_0042.pdf
+  year: '2024'
+Z24-4043:
+  address: Trento, Italy
+  author:
+  - first: Yoshiko
+    full: Yoshiko Kawabata
+    id: yoshiko-kawabata
+    last: Kawabata
+  - first: Mikio
+    full: Mikio Nakano
+    id: mikio-nakano
+    last: Nakano
+  bibkey: kawabata-nakano-2024-analysis
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4043'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Analysis of the Transitions of Spatial-Temporal Scenes in Everyday Conversation
+  title_html: Analysis of the Transitions of Spatial-Temporal Scenes in Everyday Conversation
+  url: http://semdial.org/anthology/Z24-Kawabata_semdial_0043.pdf
+  year: '2024'
+Z24-4044:
+  address: Trento, Italy
+  author:
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Carlos Baptista
+    full: Carlos Baptista De Lima
+    id: carlos-baptista-de-lima
+    last: De Lima
+  - first: Frank
+    full: Frank Foerster
+    id: frank-foerster
+    last: Foerster
+  - first: Patrick
+    full: Patrick Holthaus
+    id: patrick-holthaus
+    last: Holthaus
+  - first: Yongjun
+    full: Yongjun Zheng
+    id: yongjun-zheng
+    last: Zheng
+  bibkey: hough-etal-2024-fluidity
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4044'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'FLUIDITY: Defining, measuring and improving fluidity in human-robot dialogue
+    in virtual and real-worldsettings'
+  title_html: 'FLUIDITY: Defining, measuring and improving fluidity in human-robot
+    dialogue in virtual and real-worldsettings'
+  url: http://semdial.org/anthology/Z24-Hough_semdial_0044.pdf
+  year: '2024'
+Z24-4045:
+  address: Trento, Italy
+  author:
+  - first: Andrea
+    full: Andrea Martinenghi
+    id: andrea-martinenghi
+    last: Martinenghi
+  - first: Cansu
+    full: Cansu Koyuturk
+    id: cansu-koyuturk
+    last: Koyuturk
+  - first: Simona
+    full: Simona Amenta
+    id: simona-amenta
+    last: Amenta
+  - first: Martin
+    full: Martin Ruskov
+    id: martin-ruskov
+    last: Ruskov
+  - first: Gregor
+    full: Gregor Donabauer
+    id: gregor-donabauer
+    last: Donabauer
+  - first: Udo
+    full: Udo Kruschwitz
+    id: udo-kruschwitz
+    last: Kruschwitz
+  - first: Dimitri
+    full: Dimitri Ognibene
+    id: dimitri-ognibene
+    last: Ognibene
+  bibkey: martinenghi-etal-2024-von
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4045'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'VON NEUMIDAS: Enhanced Annotation Schema for Human-LLM Interactions Combining
+    MIDAS with Von Neumann InspiredSemantics'
+  title_html: 'VON NEUMIDAS: Enhanced Annotation Schema for Human-LLM Interactions
+    Combining MIDAS with Von Neumann InspiredSemantics'
+  url: http://semdial.org/anthology/Z24-Martinenghi_semdial_0045.pdf
+  year: '2024'
+Z24-4046:
+  address: Trento, Italy
+  author:
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  bibkey: ilinykh-dobnik-2024-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4046'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: 'Dialogue with LLaVA: does it "understand" the pragmatics of the MeetUp task?'
+  title_html: 'Dialogue with LLaVA: does it "understand" the pragmatics of the MeetUp
+    task?'
+  url: http://semdial.org/anthology/Z24-Ilinykh_semdial_0046.pdf
+  year: '2024'
+Z24-4047:
+  address: Trento, Italy
+  author:
+  - first: Jan
+    full: Jan Fliessbach
+    id: jan-fliessbach
+    last: Fliessbach
+  - first: Lucia M
+    full: Lucia M Tovena
+    id: lucia-m-tovena
+    last: Tovena
+  - first: Damien
+    full: Damien Fleury
+    id: damien-fleury
+    last: Fleury
+  - first: Yoan
+    full: Yoan Lion
+    id: yoan-lion
+    last: Lion
+  bibkey: fliessbach-etal-2024-accounting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4047'
+  parent_volume_id: Z24-4
+  publisher: SEMDIAL
+  title: Accounting for comment-questions
+  title_html: Accounting for comment-questions
+  url: http://semdial.org/anthology/Z24-Fliessbach_semdial_0047.pdf
+  year: '2024'

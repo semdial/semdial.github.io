@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="skantze-2011-effects">
+    <titleInfo>
+        <title>Effects of 2D and 3D Displays on Turn-taking Behavior in Multiparty Human-Computer Dialog</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gabriel</namePart>
+        <namePart type="family">Skantze</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2011-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Los Angeles, California</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">skantze-2011-effects</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z11-Skantze_semdial_0034.pdf</url>
+    </location>
+    <part>
+        <date>2011-09</date>
+    </part>
+</mods>
+</modsCollection>

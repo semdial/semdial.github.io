@@ -309,9 +309,9 @@ inmaculada-hernaez:
   venues: []
 insa-lawler:
   coauthors:
-  - - hannes-rieser
-    - 2
   - - florian-hahn
+    - 2
+  - - hannes-rieser
     - 2
   - - udo-klein
     - 1
@@ -692,9 +692,15 @@ ivana-kruijff-korbayova:
   coauthors:
   - - bernd-kiefer
     - 2
-  - - ilaria-baroni
+  - - michael-brenner
     - 1
-  - - mattia-coti-zelati
+  - - magdalena-wolska
+    - 1
+  - - stefania-racioppa
+    - 1
+  - - elettra-oleari
+    - 1
+  - - clara-pozzi
     - 1
   - - nate-blaylock
     - 1
@@ -712,15 +718,9 @@ ivana-kruijff-korbayova:
     - 1
   - - tatiana-anikina
     - 1
-  - - michael-brenner
+  - - ilaria-baroni
     - 1
-  - - stefania-racioppa
-    - 1
-  - - elettra-oleari
-    - 1
-  - - clara-pozzi
-    - 1
-  - - magdalena-wolska
+  - - mattia-coti-zelati
     - 1
   first: Ivana
   full: "Ivana Kruijff-Korbayov\xE1"

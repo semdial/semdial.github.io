@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="fernandez-2010-early">
+    <titleInfo>
+        <title>Early Interpretation by Implicature in Definite Referential Descriptions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">POZNAŃ, Poland</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fernandez-2010-early</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z10-Fernandez_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2010-09</date>
+    </part>
+</mods>
+</modsCollection>

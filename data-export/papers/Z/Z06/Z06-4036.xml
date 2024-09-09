@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="umata-etal-2006-non">
+    <titleInfo>
+        <title>Non-verbal Information in Communication: A Study of Interaction in a Tourist-information Setting</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ichiro</namePart>
+        <namePart type="family">Umata</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sadanori</namePart>
+        <namePart type="family">Ito</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shoichiro</namePart>
+        <namePart type="family">Iwasawa</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Noriko</namePart>
+        <namePart type="family">Suzuki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tomoji</namePart>
+        <namePart type="family">Toriyama</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Naomi</namePart>
+        <namePart type="family">Inoue</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kiyoshi</namePart>
+        <namePart type="family">Kogure</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kenji</namePart>
+        <namePart type="family">Mase</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2006-sep 11-13</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Potsdam, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">umata-etal-2006-non</identifier>
+    <location>
+        <url>http://semdial.org/anthology/036_Umata_semdial2006_brandial_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2006-sep 11-13</date>
+    </part>
+</mods>
+</modsCollection>

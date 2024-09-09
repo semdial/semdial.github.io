@@ -1,5 +1,5 @@
 ---
-lastname: C.~Bobb
+lastname: Bobb
 name: susan-c-bobb
-title: Susan C.~Bobb
+title: Susan C. Bobb
 ---

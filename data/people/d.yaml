@@ -94,15 +94,22 @@ damien-fleury:
   coauthors:
   - - lucia-tovena
     - 1
+  - - jan-fliessbach
+    - 1
+  - - lucia-m-tovena
+    - 1
+  - - yoan-lion
+    - 1
   first: Damien
   full: Damien Fleury
   last: Fleury
   papers:
+  - Z24-4047
   - Z18-3015
   slug: damien-fleury
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 damien-genthial:
   coauthors: []
   first: Damien
@@ -358,6 +365,29 @@ daniel-goodhue:
   papers:
   - Z13-3011
   slug: daniel-goodhue
+  venues:
+  - - SEMDIAL
+    - 1
+daniel-hernandez:
+  coauthors:
+  - - weronika-sieinska
+    - 1
+  - - angus-addlessee
+    - 1
+  - - garcia-nancie
+    - 1
+  - - gunson-marta
+    - 1
+  - - romeo-christian-dondrup
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Daniel
+  full: "Daniel Hern\xE1ndez"
+  last: "Hern\xE1ndez"
+  papers:
+  - Z24-4016
+  slug: daniel-hernandez
   venues:
   - - SEMDIAL
     - 1
@@ -692,6 +722,27 @@ daniele-moro:
   venues:
   - - SEMDIAL
     - 2
+daniele-schon:
+  coauthors:
+  - - chiara-mazzocconi
+    - 1
+  - - celine-hidalgo
+    - 1
+  - - roxane-bertrand
+    - 1
+  - - leonardo-lancia
+    - 1
+  - - stephane-roman
+    - 1
+  first: Daniele
+  full: Daniele Schon
+  last: Schon
+  papers:
+  - Z24-3008
+  slug: daniele-schon
+  venues:
+  - - SEMDIAL
+    - 1
 danielle-l-mowery:
   coauthors: []
   first: Danielle L.
@@ -756,6 +807,19 @@ danniel-liwanag-alcantara:
   papers: []
   slug: danniel-liwanag-alcantara
   venues: []
+daphne-petren:
+  coauthors:
+  - - ellen-breitholtz
+    - 1
+  first: Daphne
+  full: "Daphne Petr\xE9n"
+  last: "Petr\xE9n"
+  papers:
+  - Z24-4042
+  slug: daphne-petren
+  venues:
+  - - SEMDIAL
+    - 1
 daria-bahtina:
   coauthors: []
   first: Daria
@@ -866,6 +930,19 @@ david-a-smith:
   papers: []
   slug: david-a-smith
   venues: []
+david-arps:
+  coauthors:
+  - - yulia-zinova
+    - 1
+  first: David
+  full: David Arps
+  last: Arps
+  papers:
+  - Z24-4024
+  slug: david-arps
+  venues:
+  - - SEMDIAL
+    - 1
 david-avila:
   coauthors:
   - - pilar-manchon
@@ -962,34 +1039,6 @@ david-day:
   venues: []
 david-devault:
   coauthors:
-  - - zhou-yu
-    - 1
-  - - stefan-scherer
-    - 1
-  - - jon-gratch
-    - 1
-  - - giota-stratou
-    - 1
-  - - louis-philippe-morency
-    - 1
-  - - justine-cassell
-    - 1
-  - - ramesh-manuvinakurike
-    - 1
-  - - maike-paetzel
-    - 1
-  first: David
-  full: David Devault
-  last: Devault
-  papers:
-  - Z15-3016
-  - Z13-3020
-  slug: david-devault
-  venues:
-  - - SEMDIAL
-    - 2
-david-devault1:
-  coauthors:
   - - matthew-stone
     - 2
   - - ron-artstein
@@ -1014,10 +1063,38 @@ david-devault1:
   - Z11-3012
   - Z07-3011
   - Z06-3023
-  slug: david-devault1
+  slug: david-devault
   venues:
   - - SEMDIAL
     - 4
+david-devault1:
+  coauthors:
+  - - ramesh-manuvinakurike
+    - 1
+  - - maike-paetzel
+    - 1
+  - - zhou-yu
+    - 1
+  - - stefan-scherer
+    - 1
+  - - jon-gratch
+    - 1
+  - - giota-stratou
+    - 1
+  - - louis-philippe-morency
+    - 1
+  - - justine-cassell
+    - 1
+  first: David
+  full: David Devault
+  last: Devault
+  papers:
+  - Z15-3016
+  - Z13-3020
+  slug: david-devault1
+  venues:
+  - - SEMDIAL
+    - 2
 david-e-johnson:
   coauthors: []
   first: David E.
@@ -1318,6 +1395,19 @@ david-nicolas-racca:
   papers: []
   slug: david-nicolas-racca
   venues: []
+david-pagmar:
+  coauthors:
+  - - asad-sayeed
+    - 1
+  first: David
+  full: David Pagmar
+  last: Pagmar
+  papers:
+  - Z24-4032
+  slug: david-pagmar
+  venues:
+  - - SEMDIAL
+    - 1
 david-pico:
   coauthors: []
   first: David
@@ -1396,9 +1486,9 @@ david-schlangen:
     - 2
   - - spyros-kousidis
     - 2
-  - - ellen-breitholtz
+  - - jana-gotze
     - 1
-  - - kallirroi-georgila
+  - - brielen-madureira
     - 1
   - - kepa-joseba-rodriguez
     - 1
@@ -1412,6 +1502,12 @@ david-schlangen:
     - 1
   - - karla-friedrichs
     - 1
+  - - raquel-fernandez
+    - 1
+  - - sebastiano-gigliobianco
+    - 1
+  - - dimosthenis-kontogiorgos
+    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
@@ -1424,16 +1520,15 @@ david-schlangen:
     - 1
   - - ye-tian
     - 1
-  - - raquel-fernandez
+  - - ellen-breitholtz
     - 1
-  - - jana-gotze
-    - 1
-  - - brielen-madureira
+  - - kallirroi-georgila
     - 1
   first: David
   full: David Schlangen
   last: Schlangen
   papers:
+  - Z24-3003
   - Z23-3009
   - Z23-4025
   - Z22-3015
@@ -1465,7 +1560,7 @@ david-schlangen:
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 28
+    - 29
 david-stallard:
   coauthors: []
   first: David
@@ -1528,6 +1623,28 @@ david-traum:
     - 2
   - - michael-rushforth
     - 2
+  - - claire-to
+    - 1
+  - - setareh-nasihati-gilani
+    - 1
+  - - jigish-patel
+    - 1
+  - - robert-parker
+    - 1
+  - - hyungtak-choi
+    - 1
+  - - jill-boberg
+    - 1
+  - - angela-nazarian
+    - 1
+  - - elnaz-nouri
+    - 1
+  - - rieks-op-den-akker
+    - 1
+  - - brian-pluss
+    - 1
+  - - david-devault
+    - 1
   - - claire-bonial
     - 1
   - - mitchell-abrams
@@ -1542,24 +1659,6 @@ david-traum:
     - 1
   - - patricia-chaffey
     - 1
-  - - jigish-patel
-    - 1
-  - - robert-parker
-    - 1
-  - - brian-pluss
-    - 1
-  - - david-devault1
-    - 1
-  - - hyungtak-choi
-    - 1
-  - - jill-boberg
-    - 1
-  - - angela-nazarian
-    - 1
-  - - elnaz-nouri
-    - 1
-  - - rieks-op-den-akker
-    - 1
   - - usman-sohail
     - 1
   - - volodymyr-yanov
@@ -1567,10 +1666,6 @@ david-traum:
   - - seyed-hossein-alavi
     - 1
   - - anton-leuski
-    - 1
-  - - claire-to
-    - 1
-  - - setareh-nasihati-gilani
     - 1
   first: David
   full: David Traum
@@ -1646,6 +1741,21 @@ davide-catta:
   venues:
   - - SEMDIAL
     - 1
+davide-mazzaccara:
+  coauthors:
+  - - alberto-testoni
+    - 1
+  - - raffaella-bernardi
+    - 1
+  first: Davide
+  full: Davide Mazzaccara
+  last: Mazzaccara
+  papers:
+  - Z24-4018
+  slug: davide-mazzaccara
+  venues:
+  - - SEMDIAL
+    - 1
 davis-muhajereen-d-dimalen:
   coauthors: []
   first: Davis Muhajereen D.
@@ -1670,6 +1780,23 @@ dayne-freitag:
   papers: []
   slug: dayne-freitag
   venues: []
+de-duro:
+  coauthors:
+  - - edoardo-sebastiano
+    - 1
+  - - riccardo-improta
+    - 1
+  - - massimo-stella
+    - 1
+  first: De
+  full: De Duro
+  last: Duro
+  papers:
+  - Z24-4034
+  slug: de-duro
+  venues:
+  - - SEMDIAL
+    - 1
 dean-foster:
   coauthors: []
   first: Dean
@@ -2129,6 +2256,38 @@ diman-karagyozov:
   papers: []
   slug: diman-karagyozov
   venues: []
+dimitri-ognibene:
+  coauthors:
+  - - gregor-donabauer
+    - 2
+  - - udo-kruschwitz
+    - 2
+  - - sabrina-patania
+    - 1
+  - - emanuele-masiero
+    - 1
+  - - luca-brini
+    - 1
+  - - valentyn-piskovskyi
+    - 1
+  - - andrea-martinenghi
+    - 1
+  - - cansu-koyuturk
+    - 1
+  - - simona-amenta
+    - 1
+  - - martin-ruskov
+    - 1
+  first: Dimitri
+  full: Dimitri Ognibene
+  last: Ognibene
+  papers:
+  - Z24-3006
+  - Z24-4045
+  slug: dimitri-ognibene
+  venues:
+  - - SEMDIAL
+    - 2
 dimitrios-bilidas:
   coauthors: []
   first: Dimitrios
@@ -2153,6 +2312,21 @@ dimitris-christodoulakis:
   papers: []
   slug: dimitris-christodoulakis
   venues: []
+dimosthenis-kontogiorgos:
+  coauthors:
+  - - sebastiano-gigliobianco
+    - 1
+  - - david-schlangen
+    - 1
+  first: Dimosthenis
+  full: Dimosthenis Kontogiorgos
+  last: Kontogiorgos
+  papers:
+  - Z24-3003
+  slug: dimosthenis-kontogiorgos
+  venues:
+  - - SEMDIAL
+    - 1
 dinh-dien:
   coauthors: []
   first: Dinh

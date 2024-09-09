@@ -145,6 +145,25 @@ olawunmi-oni-buraimoh:
   venues:
   - - SEMDIAL
     - 1
+olcay-turk:
+  coauthors:
+  - - petra-wagner
+    - 1
+  - - marcin-wlodarczak
+    - 1
+  - - hendrik-buschmeier
+    - 1
+  - - emer-gilmartin
+    - 1
+  first: Olcay
+  full: "Olcay T\xFCrk"
+  last: "T\xFCrk"
+  papers:
+  - Z24-3001
+  slug: olcay-turk
+  venues:
+  - - SEMDIAL
+    - 1
 olga-gerassimenko:
   coauthors:
   - - tiit-hennoste
@@ -194,11 +213,9 @@ oliver-lemon:
     - 3
   - - simon-keizer
     - 3
-  - - kallirroi-georgila
-    - 2
-  - - james-henderson
-    - 2
   - - igor-shalyminov
+    - 2
+  - - kallirroi-georgila
     - 2
   - - ioannis-efstathiou
     - 2
@@ -208,6 +225,12 @@ oliver-lemon:
     - 2
   - - helen-hastie
     - 2
+  - - james-henderson
+    - 2
+  - - ivan-v-meza-ruiz
+    - 1
+  - - sebastian-riedel
+    - 1
   - - phil-bartie
     - 1
   - - william-mackaness
@@ -240,9 +263,41 @@ oliver-lemon:
     - 1
   - - laure-vieu
     - 1
-  - - ivan-v-meza-ruiz
+  - - daniel-shapiro
     - 1
-  - - sebastian-riedel
+  - - carl-tollander
+    - 1
+  - - arash-eshghi1
+    - 1
+  - - weronika-sieinska
+    - 1
+  - - angus-addlessee
+    - 1
+  - - daniel-hernandez
+    - 1
+  - - garcia-nancie
+    - 1
+  - - gunson-marta
+    - 1
+  - - romeo-christian-dondrup
+    - 1
+  - - mark-monaghan
+    - 1
+  - - harry-addlessee
+    - 1
+  - - jose-rodriguez-assalone
+    - 1
+  - - sandra-gregoire
+    - 1
+  - - buhari-bashir
+    - 1
+  - - ross-nelson
+    - 1
+  - - mahad-mahad
+    - 1
+  - - javier-sanchez-castro
+    - 1
+  - - elissa-westerheim
     - 1
   - - heriberto-cuayahuitl
     - 1
@@ -276,16 +331,12 @@ oliver-lemon:
     - 1
   - - zhuoran-wang
     - 1
-  - - daniel-shapiro
-    - 1
-  - - carl-tollander
-    - 1
-  - - arash-eshghi1
-    - 1
   first: Oliver
   full: Oliver Lemon
   last: Lemon
   papers:
+  - Z24-4016
+  - Z24-4035
   - Z18-3008
   - Z17-2001
   - Z17-3016
@@ -314,7 +365,7 @@ oliver-lemon:
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 25
+    - 27
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.

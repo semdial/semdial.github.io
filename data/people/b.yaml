@@ -107,6 +107,26 @@ barbara-bullock:
   venues: []
 barbara-di-eugenio:
   coauthors:
+  - - cynthia-kersey
+    - 1
+  - - pamela-jordan
+    - 1
+  - - sandra-katz
+    - 1
+  - - rajen-subba
+    - 1
+  first: Barbara
+  full: Barbara Di Eugenio
+  last: Di Eugenio
+  papers:
+  - Z07-4032
+  - Z07-4039
+  slug: barbara-di-eugenio
+  venues:
+  - - SEMDIAL
+    - 2
+barbara-di-eugenio1:
+  coauthors:
   - - abhinav-kumar
     - 1
   - - jillian-aurisano
@@ -126,30 +146,10 @@ barbara-di-eugenio:
   last: Eugenio
   papers:
   - Z17-3008
-  slug: barbara-di-eugenio
-  venues:
-  - - SEMDIAL
-    - 1
-barbara-di-eugenio1:
-  coauthors:
-  - - cynthia-kersey
-    - 1
-  - - pamela-jordan
-    - 1
-  - - sandra-katz
-    - 1
-  - - rajen-subba
-    - 1
-  first: Barbara
-  full: Barbara Di Eugenio
-  last: Di Eugenio
-  papers:
-  - Z07-4032
-  - Z07-4039
   slug: barbara-di-eugenio1
   venues:
   - - SEMDIAL
-    - 2
+    - 1
 barbara-gawronska:
   coauthors: []
   first: Barbara
@@ -351,6 +351,19 @@ beatrice-oshika:
   venues: []
 beatrice-priego-valverde:
   coauthors:
+  - - chiara-mazzocconi
+    - 1
+  first: "B\xE9atrice"
+  full: "B\xE9atrice Priego-Valverde"
+  last: Priego-Valverde
+  papers:
+  - Z23-4021
+  slug: beatrice-priego-valverde
+  venues:
+  - - SEMDIAL
+    - 1
+beatrice-priego-valverde1:
+  coauthors:
   - - helen-k-y-chen
     - 1
   - - laurent-prevot
@@ -364,19 +377,6 @@ beatrice-priego-valverde:
   last: Priego-Valverde
   papers:
   - Z12-4020
-  slug: beatrice-priego-valverde
-  venues:
-  - - SEMDIAL
-    - 1
-beatrice-priego-valverde1:
-  coauthors:
-  - - chiara-mazzocconi
-    - 1
-  first: "B\xE9atrice"
-  full: "B\xE9atrice Priego-Valverde"
-  last: Priego-Valverde
-  papers:
-  - Z23-4021
   slug: beatrice-priego-valverde1
   venues:
   - - SEMDIAL
@@ -520,13 +520,13 @@ benoit-favre:
   coauthors:
   - - simone-fuscone
     - 2
+  - - laurent-prvot
+    - 1
   - - laurent-prevot
     - 1
   - - magalie-ochs
     - 1
   - - laurent-pr-evot
-    - 1
-  - - laurent-prvot
     - 1
   first: Benoit
   full: Benoit Favre
@@ -708,28 +708,32 @@ bernardo-magnini:
   coauthors:
   - - vevake-balaraman
     - 1
+  - - andrea-zaninello
+    - 1
   first: Bernardo
   full: Bernardo Magnini
   last: Magnini
   papers:
+  - Z24-2103
+  - Z24-4021
   - Z20-3007
   slug: bernardo-magnini
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 bernd-kiefer:
   coauthors:
   - - ivana-kruijff-korbayova
     - 2
-  - - ilaria-baroni
-    - 1
-  - - mattia-coti-zelati
-    - 1
   - - stefania-racioppa
     - 1
   - - elettra-oleari
     - 1
   - - clara-pozzi
+    - 1
+  - - ilaria-baroni
+    - 1
+  - - mattia-coti-zelati
     - 1
   first: Bernd
   full: Bernd Kiefer
@@ -886,25 +890,38 @@ biljana-drndarevic:
 bill-noble:
   coauthors:
   - - staffan-larsson
-    - 3
-  - - asad-sayeed
+    - 4
+  - - robin-cooper
+    - 2
+  - - christine-howes
     - 2
   - - vladislav-maraev
+    - 2
+  - - asad-sayeed
+    - 2
+  - - fahima-ayub-khan
+    - 1
+  - - adam-ek
+    - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - simon-dobnik
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - gregory-mills
+    - 1
+  - - gijs-wijnholds
     - 1
   - - chiara-mazzocconi
     - 1
-  - - christine-howes
-    - 1
   - - kate-viloria
-    - 1
-  - - robin-cooper
-    - 1
-  - - fahima-ayub-khan
     - 1
   first: Bill
   full: Bill Noble
   last: Noble
   papers:
+  - Z24-3010
   - Z22-3020
   - Z22-4033
   - Z21-3015
@@ -914,7 +931,7 @@ bill-noble:
   slug: bill-noble
   venues:
   - - SEMDIAL
-    - 6
+    - 7
 bill-yuchen-lin:
   coauthors: []
   first: Bill Yuchen
@@ -1071,6 +1088,21 @@ bodil-nistrup-madsen:
   papers: []
   slug: bodil-nistrup-madsen
   venues: []
+bogdan-laszlo:
+  coauthors:
+  - - staffan-larsson
+    - 1
+  - - asad-sayeed
+    - 1
+  first: Bogdan
+  full: Bogdan Laszlo
+  last: Laszlo
+  papers:
+  - Z24-4017
+  slug: bogdan-laszlo
+  venues:
+  - - SEMDIAL
+    - 1
 bojana-dalbelo-basic:
   coauthors: []
   first: Bojana
@@ -1195,6 +1227,29 @@ borja-navarro:
   papers: []
   slug: borja-navarro
   venues: []
+bosko-rajkovic:
+  coauthors:
+  - - yingqin-hu
+    - 1
+  - - brillet-capucine
+    - 1
+  - - gauhar-rustamova
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - pelachaud-catherine
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Bosko
+  full: Bosko Rajkovic
+  last: Rajkovic
+  papers:
+  - Z24-3009
+  slug: bosko-rajkovic
+  venues:
+  - - SEMDIAL
+    - 1
 botund-pakucs:
   coauthors: []
   first: Botund
@@ -1349,13 +1404,13 @@ brian-mcmahan:
   coauthors:
   - - matthew-stone
     - 2
-  - - timothy-meo
-    - 1
   - - baber-khalid
     - 1
   - - malihe-alikhani
     - 1
   - - michael-fellner
+    - 1
+  - - timothy-meo
     - 1
   first: Brian
   full: Brian McMahan
@@ -1377,7 +1432,7 @@ brian-mitchell:
   venues: []
 brian-pluss:
   coauthors:
-  - - david-devault1
+  - - david-devault
     - 1
   - - david-traum
     - 1
@@ -1448,8 +1503,37 @@ brigitte-roudaud:
   papers: []
   slug: brigitte-roudaud
   venues: []
+brillet-capucine:
+  coauthors:
+  - - yingqin-hu
+    - 1
+  - - bosko-rajkovic
+    - 1
+  - - gauhar-rustamova
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - pelachaud-catherine
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Brillet
+  full: Brillet Capucine
+  last: Capucine
+  papers:
+  - Z24-3009
+  slug: brillet-capucine
+  venues:
+  - - SEMDIAL
+    - 1
 britta-wrede:
   coauthors:
+  - - julia-peltason
+    - 1
+  - - hannes-rieser
+    - 1
+  - - sven-wachsmuth
+    - 1
   - - anna-lisa-vollmer
     - 1
   - - manuel-muhlig
@@ -1457,12 +1541,6 @@ britta-wrede:
   - - katharina-j-rohlfing
     - 1
   - - angelo-cangelosi
-    - 1
-  - - julia-peltason
-    - 1
-  - - hannes-rieser
-    - 1
-  - - sven-wachsmuth
     - 1
   first: Britta
   full: Britta Wrede
@@ -1549,6 +1627,35 @@ bryan-r-routledge:
   papers: []
   slug: bryan-r-routledge
   venues: []
+buhari-bashir:
+  coauthors:
+  - - mark-monaghan
+    - 1
+  - - harry-addlessee
+    - 1
+  - - jose-rodriguez-assalone
+    - 1
+  - - sandra-gregoire
+    - 1
+  - - ross-nelson
+    - 1
+  - - mahad-mahad
+    - 1
+  - - javier-sanchez-castro
+    - 1
+  - - elissa-westerheim
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Buhari
+  full: Buhari Bashir
+  last: Bashir
+  papers:
+  - Z24-4035
+  slug: buhari-bashir
+  venues:
+  - - SEMDIAL
+    - 1
 byoung-tak-zhang:
   coauthors: []
   first: Byoung-Tak

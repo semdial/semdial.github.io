@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="semdial-2022-semantics">
+    <titleInfo>
+        <title>Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Eleni</namePart>
+        <namePart type="family">Gregoromichelaki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">John</namePart>
+        <namePart type="given">D</namePart>
+        <namePart type="family">Kelleher</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-08</dateIssued>
+        <publisher>SEMDIAL</publisher>
+        <place>
+            <placeTerm type="text">Dublin, Ireland</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">semdial-2022-semantics</identifier>
+    <location>
+        <url>http://semdial.org/anthology/semdial2022_dubdial_front_matter.pdf</url>
+    </location>
+</mods>
+</modsCollection>

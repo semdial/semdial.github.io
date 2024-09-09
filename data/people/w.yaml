@@ -335,6 +335,29 @@ wenshuo-tang:
   venues:
   - - SEMDIAL
     - 1
+weronika-sieinska:
+  coauthors:
+  - - angus-addlessee
+    - 1
+  - - daniel-hernandez
+    - 1
+  - - garcia-nancie
+    - 1
+  - - gunson-marta
+    - 1
+  - - romeo-christian-dondrup
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Weronika
+  full: "Weronika Siei\u0144ska"
+  last: "Siei\u0144ska"
+  papers:
+  - Z24-4016
+  slug: weronika-sieinska
+  venues:
+  - - SEMDIAL
+    - 1
 whitney-gegg-harrison:
   coauthors:
   - - carlos-gomez-gallo
@@ -691,9 +714,9 @@ wolfgang-klein:
   venues: []
 wolfgang-maier:
   coauthors:
-  - - stefan-ultes
-    - 3
   - - wolfgang-minker
+    - 3
+  - - stefan-ultes
     - 3
   - - ye-liu
     - 2
@@ -725,6 +748,10 @@ wolfgang-minker:
     - 2
   - - annalena-aicher
     - 2
+  - - daniela-stier
+    - 1
+  - - ulrich-heid
+    - 1
   - - patricia-kittel
     - 1
   - - maria-schmidt
@@ -737,10 +764,6 @@ wolfgang-minker:
     - 1
   - - yung-ching-yang
     - 1
-  - - louisa-pragst
-    - 1
-  - - matthias-kraus
-    - 1
   - - juliana-miehle
     - 1
   - - nadine-gerstenlauer
@@ -749,9 +772,9 @@ wolfgang-minker:
     - 1
   - - hubertus-feussner
     - 1
-  - - daniela-stier
+  - - louisa-pragst
     - 1
-  - - ulrich-heid
+  - - matthias-kraus
     - 1
   first: Wolfgang
   full: Wolfgang Minker

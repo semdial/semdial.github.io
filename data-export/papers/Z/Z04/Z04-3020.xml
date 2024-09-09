@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="svensden-etal-2004-listener">
+    <titleInfo>
+        <title>Listener reaction to referential form</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gunnvald</namePart>
+        <namePart type="family">Svensden</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bente</namePart>
+        <namePart type="family">Evjemo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jan</namePart>
+        <namePart type="given">A</namePart>
+        <namePart type="given">K</namePart>
+        <namePart type="family">Johnsen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Svein</namePart>
+        <namePart type="family">Bergvik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2004-jul 19-21</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Barcelona, Spain</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">svensden-etal-2004-listener</identifier>
+    <location>
+        <url>http://semdial.org/anthology/020_Svendsen_semdial2004_catalog_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2004-jul 19-21</date>
+    </part>
+</mods>
+</modsCollection>

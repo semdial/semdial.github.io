@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="aloni-2005-utility">
+    <titleInfo>
+        <title>Utility and Implicatures of Imperatives</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Maria</namePart>
+        <namePart type="family">Aloni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">aloni-2005-utility</identifier>
+    <location>
+        <url>http://semdial.org/anthology/004_Aloni_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+<mods ID="slabbers-knott-2005-system">
+    <titleInfo>
+        <title>A System for Generating Teaching Initiatives in a Computer Aided Language Learning Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nanda</namePart>
+        <namePart type="family">Slabbers</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alistair</namePart>
+        <namePart type="family">Knott</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">slabbers-knott-2005-system</identifier>
+    <location>
+        <url>http://semdial.org/anthology/005_Slabbers_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+<mods ID="gieselmann-waibel-2005-makes">
+    <titleInfo>
+        <title>What Makes Human-Robot Dialogues Struggle?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Petra</namePart>
+        <namePart type="family">Gieselmann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Waibel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gieselmann-waibel-2005-makes</identifier>
+    <location>
+        <url>http://semdial.org/anthology/006_Gieselmann_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+<mods ID="eliasson-2005-integrating">
+    <titleInfo>
+        <title>Integrating a Discourse Model with a Learning Case-Based Reasoning System</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Karolina</namePart>
+        <namePart type="family">Eliasson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">eliasson-2005-integrating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/007_Eliasson_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+<mods ID="bunt-girard-2005-designing">
+    <titleInfo>
+        <title>Designing an Open Multidimensional Dialogue Act Taxonomy</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Harry</namePart>
+        <namePart type="family">Bunt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yann</namePart>
+        <namePart type="family">Girard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bunt-girard-2005-designing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/008_Bunt_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+<mods ID="larsson-2005-dialogue">
+    <titleInfo>
+        <title>Dialogue Systems: Simulations or Interfaces?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">larsson-2005-dialogue</identifier>
+    <location>
+        <url>http://semdial.org/anthology/009_Larsson_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+</modsCollection>

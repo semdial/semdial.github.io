@@ -326,6 +326,8 @@ laura-pecchia:
   venues: []
 laure-vieu:
   coauthors:
+  - - ron-artstein
+    - 1
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -353,8 +355,6 @@ laure-vieu:
   - - vladimir-popescu
     - 1
   - - verena-rieser
-    - 1
-  - - ron-artstein
     - 1
   first: Laure
   full: Laure Vieu
@@ -471,13 +471,11 @@ laurent-prevot:
     - 2
   - - philippe-blache
     - 2
-  - - marie-safarova
-    - 1
   - - nicolas-maudet
     - 1
   - - helen-k-y-chen
     - 1
-  - - beatrice-priego-valverde
+  - - beatrice-priego-valverde1
     - 1
   - - klim-peshkov
     - 1
@@ -494,6 +492,8 @@ laurent-prevot:
   - - bernard-bel
     - 1
   - - kam-yiu-joe-chan
+    - 1
+  - - marie-safarova
     - 1
   first: Laurent
   full: "Laurent Pr\xE9vot"
@@ -691,6 +691,27 @@ leonardo-campillos-llanos:
   papers: []
   slug: leonardo-campillos-llanos
   venues: []
+leonardo-lancia:
+  coauthors:
+  - - chiara-mazzocconi
+    - 1
+  - - celine-hidalgo
+    - 1
+  - - roxane-bertrand
+    - 1
+  - - stephane-roman
+    - 1
+  - - daniele-schon
+    - 1
+  first: Leonardo
+  full: Leonardo Lancia
+  last: Lancia
+  papers:
+  - Z24-3008
+  slug: leonardo-lancia
+  venues:
+  - - SEMDIAL
+    - 1
 leonardo-lesmo:
   coauthors: []
   first: Leonardo
@@ -1311,19 +1332,19 @@ louis-des-tombe:
   venues: []
 louis-philippe-morency:
   coauthors:
+  - - congkai-sun
+    - 1
   - - zhou-yu
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault
+  - - david-devault1
     - 1
   - - jon-gratch
     - 1
   - - giota-stratou
     - 1
   - - justine-cassell
-    - 1
-  - - congkai-sun
     - 1
   first: Louis-Philippe
   full: Louis-Philippe Morency
@@ -1425,6 +1446,29 @@ lubos-popelinsky:
   papers: []
   slug: lubos-popelinsky
   venues: []
+luca-brini:
+  coauthors:
+  - - sabrina-patania
+    - 1
+  - - emanuele-masiero
+    - 1
+  - - gregor-donabauer
+    - 1
+  - - udo-kruschwitz
+    - 1
+  - - valentyn-piskovskyi
+    - 1
+  - - dimitri-ognibene
+    - 1
+  first: Luca
+  full: Luca Brini
+  last: Brini
+  papers:
+  - Z24-3006
+  slug: luca-brini
+  venues:
+  - - SEMDIAL
+    - 1
 luca-cristoforetti:
   coauthors: []
   first: Luca
@@ -1486,6 +1530,23 @@ lucia-donatelli:
   papers:
   - Z21-4028
   slug: lucia-donatelli
+  venues:
+  - - SEMDIAL
+    - 1
+lucia-m-tovena:
+  coauthors:
+  - - jan-fliessbach
+    - 1
+  - - damien-fleury
+    - 1
+  - - yoan-lion
+    - 1
+  first: Lucia M
+  full: Lucia M Tovena
+  last: Tovena
+  papers:
+  - Z24-4047
+  slug: lucia-m-tovena
   venues:
   - - SEMDIAL
     - 1
