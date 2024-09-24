@@ -368,26 +368,26 @@ daniel-goodhue:
   venues:
   - - SEMDIAL
     - 1
-daniel-hernandez:
+daniel-hernandez-garcia:
   coauthors:
   - - weronika-sieinska
     - 1
   - - angus-addlessee
     - 1
-  - - garcia-nancie
+  - - nancie-gunson
     - 1
-  - - gunson-marta
+  - - marta-romeo
     - 1
-  - - romeo-christian-dondrup
+  - - christian-dondrup
     - 1
   - - oliver-lemon
     - 1
   first: Daniel
-  full: "Daniel Hern\xE1ndez"
-  last: "Hern\xE1ndez"
+  full: "Daniel Hern\xE1ndez Garc\xEDa"
+  last: "Hern\xE1ndez Garc\xEDa"
   papers:
   - Z24-4016
-  slug: daniel-hernandez
+  slug: daniel-hernandez-garcia
   venues:
   - - SEMDIAL
     - 1

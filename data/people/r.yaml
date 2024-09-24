@@ -1974,29 +1974,6 @@ romain-laroche:
   venues:
   - - SEMDIAL
     - 1
-romeo-christian-dondrup:
-  coauthors:
-  - - weronika-sieinska
-    - 1
-  - - angus-addlessee
-    - 1
-  - - daniel-hernandez
-    - 1
-  - - garcia-nancie
-    - 1
-  - - gunson-marta
-    - 1
-  - - oliver-lemon
-    - 1
-  first: Romeo Christian
-  full: Romeo Christian Dondrup
-  last: Dondrup
-  papers:
-  - Z24-4016
-  slug: romeo-christian-dondrup
-  venues:
-  - - SEMDIAL
-    - 1
 romina-altamirano:
   coauthors: []
   first: Romina

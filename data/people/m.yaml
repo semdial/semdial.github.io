@@ -2305,6 +2305,29 @@ marta-r-costa-jussa:
   papers: []
   slug: marta-r-costa-jussa
   venues: []
+marta-romeo:
+  coauthors:
+  - - weronika-sieinska
+    - 1
+  - - angus-addlessee
+    - 1
+  - - daniel-hernandez-garcia
+    - 1
+  - - nancie-gunson
+    - 1
+  - - christian-dondrup
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Marta
+  full: Marta Romeo
+  last: Romeo
+  papers:
+  - Z24-4016
+  slug: marta-romeo
+  venues:
+  - - SEMDIAL
+    - 1
 marten-van-schijndel:
   coauthors: []
   first: Marten

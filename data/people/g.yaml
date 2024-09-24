@@ -218,29 +218,6 @@ galia-angelova:
   papers: []
   slug: galia-angelova
   venues: []
-garcia-nancie:
-  coauthors:
-  - - weronika-sieinska
-    - 1
-  - - angus-addlessee
-    - 1
-  - - daniel-hernandez
-    - 1
-  - - gunson-marta
-    - 1
-  - - romeo-christian-dondrup
-    - 1
-  - - oliver-lemon
-    - 1
-  first: "Garc\xEDa"
-  full: "Garc\xEDa Nancie"
-  last: Nancie
-  papers:
-  - Z24-4016
-  slug: garcia-nancie
-  venues:
-  - - SEMDIAL
-    - 1
 gareth-clegg:
   coauthors:
   - - ernisa-marzuki
@@ -1874,29 +1851,6 @@ gunnvald-svensden:
   papers:
   - Z04-3020
   slug: gunnvald-svensden
-  venues:
-  - - SEMDIAL
-    - 1
-gunson-marta:
-  coauthors:
-  - - weronika-sieinska
-    - 1
-  - - angus-addlessee
-    - 1
-  - - daniel-hernandez
-    - 1
-  - - garcia-nancie
-    - 1
-  - - romeo-christian-dondrup
-    - 1
-  - - oliver-lemon
-    - 1
-  first: Gunson
-  full: Gunson Marta
-  last: Marta
-  papers:
-  - Z24-4016
-  slug: gunson-marta
   venues:
   - - SEMDIAL
     - 1

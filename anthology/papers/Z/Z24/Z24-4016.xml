@@ -20,27 +20,26 @@
     </name>
     <name type="personal">
         <namePart type="given">Daniel</namePart>
-        <namePart type="family">Hernández</namePart>
+        <namePart type="family">Hernández García</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">García</namePart>
-        <namePart type="family">Nancie</namePart>
+        <namePart type="given">Nancie</namePart>
+        <namePart type="family">Gunson</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Gunson</namePart>
-        <namePart type="family">Marta</namePart>
+        <namePart type="given">Marta</namePart>
+        <namePart type="family">Romeo</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Romeo</namePart>
         <namePart type="given">Christian</namePart>
         <namePart type="family">Dondrup</namePart>
         <role>

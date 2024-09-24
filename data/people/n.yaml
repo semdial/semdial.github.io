@@ -151,6 +151,29 @@ naman-k-gupta:
   papers: []
   slug: naman-k-gupta
   venues: []
+nancie-gunson:
+  coauthors:
+  - - weronika-sieinska
+    - 1
+  - - angus-addlessee
+    - 1
+  - - daniel-hernandez-garcia
+    - 1
+  - - marta-romeo
+    - 1
+  - - christian-dondrup
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Nancie
+  full: Nancie Gunson
+  last: Gunson
+  papers:
+  - Z24-4016
+  slug: nancie-gunson
+  venues:
+  - - SEMDIAL
+    - 1
 nancy-chen:
   coauthors: []
   first: Nancy

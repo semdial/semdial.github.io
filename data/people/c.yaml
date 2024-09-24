@@ -1753,6 +1753,29 @@ christian-boitet:
   papers: []
   slug: christian-boitet
   venues: []
+christian-dondrup:
+  coauthors:
+  - - weronika-sieinska
+    - 1
+  - - angus-addlessee
+    - 1
+  - - daniel-hernandez-garcia
+    - 1
+  - - nancie-gunson
+    - 1
+  - - marta-romeo
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Christian
+  full: Christian Dondrup
+  last: Dondrup
+  papers:
+  - Z24-4016
+  slug: christian-dondrup
+  venues:
+  - - SEMDIAL
+    - 1
 christian-f-hempelmann:
   coauthors: []
   first: Christian F.

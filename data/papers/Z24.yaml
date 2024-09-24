@@ -566,20 +566,20 @@ Z24-4016:
     id: angus-addlessee
     last: Addlessee
   - first: Daniel
-    full: "Daniel Hern\xE1ndez"
-    id: daniel-hernandez
-    last: "Hern\xE1ndez"
-  - first: "Garc\xEDa"
-    full: "Garc\xEDa Nancie"
-    id: garcia-nancie
-    last: Nancie
-  - first: Gunson
-    full: Gunson Marta
-    id: gunson-marta
-    last: Marta
-  - first: Romeo Christian
-    full: Romeo Christian Dondrup
-    id: romeo-christian-dondrup
+    full: "Daniel Hern\xE1ndez Garc\xEDa"
+    id: daniel-hernandez-garcia
+    last: "Hern\xE1ndez Garc\xEDa"
+  - first: Nancie
+    full: Nancie Gunson
+    id: nancie-gunson
+    last: Gunson
+  - first: Marta
+    full: Marta Romeo
+    id: marta-romeo
+    last: Romeo
+  - first: Christian
+    full: Christian Dondrup
+    id: christian-dondrup
     last: Dondrup
   - first: Oliver
     full: Oliver Lemon
