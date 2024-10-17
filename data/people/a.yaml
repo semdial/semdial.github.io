@@ -2011,27 +2011,6 @@ amparo-elizabeth-cano-basave:
   papers: []
   slug: amparo-elizabeth-cano-basave
   venues: []
-amy-han:
-  coauthors:
-  - - vanessa-vanzan
-    - 1
-  - - qiu-fahima
-    - 1
-  - - ayub-khan
-    - 1
-  - - chara-soupiona
-    - 1
-  - - christine-howes
-    - 1
-  first: Amy
-  full: Amy Han
-  last: Han
-  papers:
-  - Z24-4038
-  slug: amy-han
-  venues:
-  - - SEMDIAL
-    - 1
 amy-han-qiu:
   coauthors:
   - - vanessa-vanzan
@@ -2046,6 +2025,25 @@ amy-han-qiu:
   papers:
   - Z24-3013
   slug: amy-han-qiu
+  venues:
+  - - SEMDIAL
+    - 1
+amy-han-qiu1:
+  coauthors:
+  - - vanessa-vanzan
+    - 1
+  - - fahima-ayub-khan1
+    - 1
+  - - chara-soupiona
+    - 1
+  - - christine-howes
+    - 1
+  first: Amy
+  full: Amy Han Qiu
+  last: Han Qiu
+  papers:
+  - Z24-4038
+  slug: amy-han-qiu1
   venues:
   - - SEMDIAL
     - 1
@@ -4568,27 +4566,6 @@ ayisigi-b-sevdik-calli:
   papers: []
   slug: ayisigi-b-sevdik-calli
   venues: []
-ayub-khan:
-  coauthors:
-  - - vanessa-vanzan
-    - 1
-  - - amy-han
-    - 1
-  - - qiu-fahima
-    - 1
-  - - chara-soupiona
-    - 1
-  - - christine-howes
-    - 1
-  first: Ayub
-  full: Ayub Khan
-  last: Khan
-  papers:
-  - Z24-4038
-  slug: ayub-khan
-  venues:
-  - - SEMDIAL
-    - 1
 ayush-kumar:
   coauthors: []
   first: Ayush

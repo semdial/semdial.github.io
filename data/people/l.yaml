@@ -956,11 +956,11 @@ lina-m-rojas-barahona:
   - Z07-4038
   slug: lina-m-rojas-barahona
   variant_entries:
-  - first: Lina Maria
-    full: Lina Maria Rojas-Barahona
-    last: Rojas-Barahona
   - first: Lina M.
     full: Lina M. Rojas-Barahona
+    last: Rojas-Barahona
+  - first: Lina Maria
+    full: Lina Maria Rojas-Barahona
     last: Rojas-Barahona
   venues:
   - - SEMDIAL

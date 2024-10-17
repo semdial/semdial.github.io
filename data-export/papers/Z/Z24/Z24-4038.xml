@@ -13,21 +13,14 @@
     </name>
     <name type="personal">
         <namePart type="given">Amy</namePart>
-        <namePart type="family">Han</namePart>
+        <namePart type="family">Han Qiu</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Qiu</namePart>
-        <namePart type="family">Fahima</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Ayub</namePart>
-        <namePart type="family">Khan</namePart>
+        <namePart type="given">Fahima</namePart>
+        <namePart type="family">Ayub Khan</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>

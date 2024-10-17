@@ -969,11 +969,9 @@ chara-soupiona:
     - 2
   - - amy-han-qiu
     - 1
-  - - amy-han
+  - - amy-han-qiu1
     - 1
-  - - qiu-fahima
-    - 1
-  - - ayub-khan
+  - - fahima-ayub-khan1
     - 1
   first: Chara
   full: Chara Soupiona
@@ -1976,12 +1974,12 @@ christine-howes:
   coauthors:
   - - ellen-breitholtz
     - 9
+  - - vladislav-maraev
+    - 6
   - - eleni-gregoromichelaki
     - 6
   - - julian-hough
     - 6
-  - - vladislav-maraev
-    - 5
   - - staffan-larsson
     - 4
   - - arash-eshghi
@@ -2042,11 +2040,11 @@ christine-howes:
     - 1
   - - amy-han-qiu
     - 1
-  - - amy-han
+  - - sara-amido
     - 1
-  - - qiu-fahima
+  - - amy-han-qiu1
     - 1
-  - - ayub-khan
+  - - fahima-ayub-khan1
     - 1
   - - john-kelleher
     - 1
@@ -2067,6 +2065,7 @@ christine-howes:
   - Z24-3004
   - Z24-3010
   - Z24-3013
+  - Z24-4026
   - Z24-4037
   - Z24-4038
   - Z23-4016
@@ -2097,7 +2096,7 @@ christine-howes:
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 30
+    - 31
 christine-piatko:
   coauthors: []
   first: Christine

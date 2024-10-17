@@ -831,10 +831,10 @@ Z24-4026:
     full: Vladislav Maraev
     id: vladislav-maraev
     last: Maraev
-  - first: Robert
-    full: Robert Ross
-    id: robert-ross
-    last: Ross
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
   bibkey: amido-etal-2024-listen
   bibtype: inproceedings
   booktitle_html: Proceedings of the 28th Workshop on the Semantics and Pragmatics
@@ -1128,17 +1128,13 @@ Z24-4038:
     id: vanessa-vanzan
     last: Vanzan
   - first: Amy
-    full: Amy Han
-    id: amy-han
-    last: Han
-  - first: Qiu
-    full: Qiu Fahima
-    id: qiu-fahima
-    last: Fahima
-  - first: Ayub
-    full: Ayub Khan
-    id: ayub-khan
-    last: Khan
+    full: Amy Han Qiu
+    id: amy-han-qiu1
+    last: Han Qiu
+  - first: Fahima
+    full: Fahima Ayub Khan
+    id: fahima-ayub-khan1
+    last: Ayub Khan
   - first: Chara
     full: Chara Soupiona
     id: chara-soupiona

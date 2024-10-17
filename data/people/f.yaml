@@ -148,6 +148,25 @@ fahima-ayub-khan:
   venues:
   - - SEMDIAL
     - 1
+fahima-ayub-khan1:
+  coauthors:
+  - - vanessa-vanzan
+    - 1
+  - - amy-han-qiu1
+    - 1
+  - - chara-soupiona
+    - 1
+  - - christine-howes
+    - 1
+  first: Fahima
+  full: Fahima Ayub Khan
+  last: Ayub Khan
+  papers:
+  - Z24-4038
+  slug: fahima-ayub-khan1
+  venues:
+  - - SEMDIAL
+    - 1
 faisal-ahmad:
   coauthors: []
   first: Faisal
