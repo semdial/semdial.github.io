@@ -170,6 +170,7 @@ Z05-2:
   papers:
   - Z05-2001
   - Z05-2002
+  - Z05-2003
   publisher: SEMDIAL
   sigs: []
   title: Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue
@@ -3045,3 +3046,171 @@ Z24-4:
   venues:
   - SEMDIAL
   year: '2024'
+Z25-1:
+  address: Bielefeld, Germany
+  editor:
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Amelie
+    full: Amelie Robrecht
+    id: amelie-robrecht
+    last: Robrecht
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  has_abstracts: false
+  meta_date: 2025/9
+  month: September
+  papers:
+  - Z25-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue
+    \u2013 Front Matter"
+  title_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of
+    Dialogue \u2013 Front Matter"
+  venues:
+  - SEMDIAL
+  year: '2025'
+Z25-2:
+  address: Bielefeld, Germany
+  editor:
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Amelie
+    full: Amelie Robrecht
+    id: amelie-robrecht
+    last: Robrecht
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  has_abstracts: false
+  meta_date: 2025/9
+  month: September
+  papers:
+  - Z25-2201
+  - Z25-2202
+  - Z25-2203
+  publisher: SEMDIAL
+  sigs: []
+  title: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue
+    \u2013 Invited Talks"
+  title_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of
+    Dialogue \u2013 Invited Talks"
+  venues:
+  - SEMDIAL
+  year: '2025'
+Z25-3:
+  address: Bielefeld, Germany
+  editor:
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Amelie
+    full: Amelie Robrecht
+    id: amelie-robrecht
+    last: Robrecht
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  has_abstracts: false
+  meta_date: 2025/9
+  month: September
+  papers:
+  - Z25-3304
+  - Z25-3305
+  - Z25-3306
+  - Z25-3307
+  - Z25-3308
+  - Z25-3309
+  - Z25-3310
+  - Z25-3311
+  - Z25-3312
+  - Z25-3313
+  - Z25-3314
+  - Z25-3315
+  - Z25-3316
+  - Z25-3317
+  - Z25-3318
+  - Z25-3319
+  - Z25-3320
+  publisher: SEMDIAL
+  sigs: []
+  title: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue
+    \u2013 Full Papers"
+  title_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of
+    Dialogue \u2013 Full Papers"
+  venues:
+  - SEMDIAL
+  year: '2025'
+Z25-4:
+  address: Bielefeld, Germany
+  editor:
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Amelie
+    full: Amelie Robrecht
+    id: amelie-robrecht
+    last: Robrecht
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  has_abstracts: false
+  meta_date: 2025/9
+  month: September
+  papers:
+  - Z25-4421
+  - Z25-4422
+  - Z25-4423
+  - Z25-4424
+  - Z25-4425
+  - Z25-4426
+  - Z25-4427
+  - Z25-4428
+  - Z25-4429
+  - Z25-4430
+  - Z25-4431
+  - Z25-4432
+  - Z25-4433
+  - Z25-4434
+  - Z25-4435
+  - Z25-4436
+  - Z25-4437
+  - Z25-4438
+  - Z25-4439
+  publisher: SEMDIAL
+  sigs: []
+  title: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue
+    \u2013 Poster Abstracts"
+  title_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of
+    Dialogue \u2013 Poster Abstracts"
+  venues:
+  - SEMDIAL
+  year: '2025'

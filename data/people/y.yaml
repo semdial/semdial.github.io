@@ -97,11 +97,9 @@ yanchao-yu:
   - - oliver-lemon
     - 5
   - - arash-eshghi
-    - 2
+    - 3
   - - verena-rieser
     - 2
-  - - arash-eshghi1
-    - 1
   - - helen-hastie
     - 1
   - - marie-aude-aufaure
@@ -345,9 +343,9 @@ yasuharu-den:
   coauthors:
   - - yasuhiro-katagiri
     - 6
-  - - masato-ishizaki
-    - 6
   - - katsuya-takanashi
+    - 6
+  - - masato-ishizaki
     - 6
   - - mika-enomoto
     - 6
@@ -375,9 +373,9 @@ yasuhiro-katagiri:
     - 7
   - - masato-ishizaki
     - 6
-  - - yasuharu-den
-    - 6
   - - mika-enomoto
+    - 6
+  - - yasuharu-den
     - 6
   - - yosuke-matsusaka
     - 2
@@ -400,13 +398,13 @@ yasuhiro-katagiri:
     - 7
 yasunari-harada:
   coauthors:
-  - - miwa-morishita
-    - 1
   - - mayumi-kawamura
     - 1
   - - daisuke-yokomori
     - 1
   - - tomoko-endo
+    - 1
+  - - miwa-morishita
     - 1
   first: Yasunari
   full: Yasunari Harada
@@ -426,6 +424,23 @@ yasutsugu-morimoto:
   papers: []
   slug: yasutsugu-morimoto
   venues: []
+yasuyuki-usuda:
+  coauthors:
+  - - kei-shimonishi
+    - 1
+  - - koji-inoue
+    - 1
+  - - rui-sakaida
+    - 1
+  first: Yasuyuki
+  full: Yasuyuki Usuda
+  last: Usuda
+  papers:
+  - Z25-4424
+  slug: yasuyuki-usuda
+  venues:
+  - - SEMDIAL
+    - 1
 yau-tarng-juang:
   coauthors: []
   first: Yau-Tarng
@@ -457,7 +472,9 @@ ye-liu:
 ye-tian:
   coauthors:
   - - jonathan-ginzburg
-    - 3
+    - 4
+  - - chiara-mazzocconi
+    - 2
   - - vladislav-maraev
     - 1
   - - staffan-larsson
@@ -474,8 +491,6 @@ ye-tian:
     - 1
   - - julian-hough
     - 1
-  - - chiara-mazzocconi
-    - 1
   - - sam-green
     - 1
   - - caspar-addyman
@@ -486,28 +501,14 @@ ye-tian:
   papers:
   - Z18-3011
   - Z17-1000
+  - Z16-3014
   - Z15-3020
   - Z14-4026
   - Z14-4043
   slug: ye-tian
   venues:
   - - SEMDIAL
-    - 5
-ye-tian1:
-  coauthors:
-  - - chiara-mazzocconi
-    - 1
-  - - jonathan-ginzburg
-    - 1
-  first: Ye
-  full: Ye Tian,
-  last: Tian,
-  papers:
-  - Z16-3014
-  slug: ye-tian1
-  venues:
-  - - SEMDIAL
-    - 1
+    - 6
 yen-lu-chow:
   coauthors: []
   first: Yen-Lu
@@ -842,7 +843,9 @@ yoshihiro-matsuo:
     - 1
   - - tsunehiro-arimoto
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -926,13 +929,13 @@ yosuke-matsusaka:
   coauthors:
   - - yasuhiro-katagiri
     - 2
-  - - masato-ishizaki
-    - 2
-  - - yasuharu-den
-    - 2
   - - katsuya-takanashi
     - 2
+  - - masato-ishizaki
+    - 2
   - - mika-enomoto
+    - 2
+  - - yasuharu-den
     - 2
   first: Yosuke
   full: Yosuke Matsusaka
@@ -960,6 +963,25 @@ you-shan-chung:
   papers: []
   slug: you-shan-chung
   venues: []
+youmna-farag:
+  coauthors:
+  - - svetlana-stoyanchev
+    - 1
+  - - simon-keizer
+    - 1
+  - - mohan-li
+    - 1
+  - - rama-doddipatla
+    - 1
+  first: Youmna
+  full: Youmna Farag
+  last: Farag
+  papers:
+  - Z25-4434
+  slug: youmna-farag
+  venues:
+  - - SEMDIAL
+    - 1
 young-chol-song:
   coauthors: []
   first: Young Chol
@@ -1076,7 +1098,9 @@ yuichiro-yoshikawa:
     - 1
   - - tsunehiro-arimoto
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -1138,6 +1162,29 @@ yuka-tateisi:
   papers: []
   slug: yuka-tateisi
   venues: []
+yuki-zenimoto:
+  coauthors:
+  - - mariko-yoshida
+    - 1
+  - - ryo-hori
+    - 1
+  - - mayu-urata
+    - 1
+  - - aiko-inoue
+    - 1
+  - - takahiro-hayashi
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  first: Yuki
+  full: Yuki Zenimoto
+  last: Zenimoto
+  papers:
+  - Z25-3313
+  slug: yuki-zenimoto
+  venues:
+  - - SEMDIAL
+    - 1
 yukihiro-itoh:
   coauthors: []
   first: Yukihiro
@@ -1270,7 +1317,9 @@ yusuke-ijima:
     - 1
   - - tsunehiro-arimoto
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - hiroaki-ito
     - 1

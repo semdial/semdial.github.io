@@ -350,7 +350,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Rick</namePart>
-        <namePart type="family">Dale,</namePart>
+        <namePart type="family">Dale</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>

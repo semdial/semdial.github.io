@@ -1,5 +1,5 @@
 ---
-lastname: "Herre\xF1o Casta\xF1eda"
+lastname: Herreno-Castaneda
 name: paola-herreno-castaneda
-title: "Paola Herre\xF1o Casta\xF1eda"
+title: Paola Herreno-Castaneda
 ---

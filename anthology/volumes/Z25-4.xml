@@ -1,0 +1,1073 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="berg-etal-2025-pragmatic">
+    <titleInfo>
+        <title>Pragmatic Reasoning for Irony Detection With Large Language Models in English and Norwegian</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Margareta</namePart>
+        <namePart type="family">Berg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ildikó</namePart>
+        <namePart type="family">Pilán</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ingrid</namePart>
+        <namePart type="given">Lossius</namePart>
+        <namePart type="family">Falkum</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pierre</namePart>
+        <namePart type="family">Lison</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">berg-etal-2025-pragmatic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Berg_semdial_4421.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>204</start>
+            <end>209</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="palmann-etal-2025-simply">
+    <titleInfo>
+        <title>“It’s Simply a Different Way of Communicating” – Attitudes on Nonverbal Communication of Autistic Adults in the Netherlands</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Anna</namePart>
+        <namePart type="family">Palmann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">James</namePart>
+        <namePart type="given">P</namePart>
+        <namePart type="family">Trujillo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Linda</namePart>
+        <namePart type="family">Drijvers</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Floris</namePart>
+        <namePart type="family">Roelofsen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">palmann-etal-2025-simply</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Palmann_semdial_4422.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>210</start>
+            <end>212</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="bedir-etal-2025-laughing">
+    <titleInfo>
+        <title>Are You Laughing at Me? Patterns of Laughter While Playing a Voice Activated Game in Pairs Compared to Single-Player</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Talha</namePart>
+        <namePart type="family">Bedir</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bora</namePart>
+        <namePart type="family">Kara</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bedir-etal-2025-laughing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Bedir_semdial_4423.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>213</start>
+            <end>215</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="shimonishi-etal-2025-toward">
+    <titleInfo>
+        <title>Toward Emotional Description via Meta-Dialogue: A Preliminary Framework for Data Collection</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kei</namePart>
+        <namePart type="family">Shimonishi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Koji</namePart>
+        <namePart type="family">Inoue</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yasuyuki</namePart>
+        <namePart type="family">Usuda</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rui</namePart>
+        <namePart type="family">Sakaida</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">shimonishi-etal-2025-toward</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Shimonishi_semdial_4424.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>216</start>
+            <end>218</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="vanzan-etal-2025-surprised">
+    <titleInfo>
+        <title>Surprised to Kill: Quantifying LLM Uncertainty in Morally-Charged Triadic Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Vanessa</namePart>
+        <namePart type="family">Vanzan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nikolai</namePart>
+        <namePart type="family">Ilinykh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Erik</namePart>
+        <namePart type="family">Lagerstedt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Amy</namePart>
+        <namePart type="given">Han</namePart>
+        <namePart type="family">Qiu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vladislav</namePart>
+        <namePart type="family">Maraev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">vanzan-etal-2025-surprised</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Vanzan_semdial_4425.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>219</start>
+            <end>221</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="appelgren-etal-2025-communication">
+    <titleInfo>
+        <title>Communication at an Angle</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mattias</namePart>
+        <namePart type="family">Appelgren</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Breitholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robin</namePart>
+        <namePart type="family">Cooper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">appelgren-etal-2025-communication</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Appelgren_semdial_4426.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>222</start>
+            <end>224</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="sieker-etal-2025-flex">
+    <titleInfo>
+        <title>The FLEX Benchmark: Evaluating Pragmatic Competence in LLMs via False Presuppositions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Judith</namePart>
+        <namePart type="family">Sieker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Clara</namePart>
+        <namePart type="family">Lachenmaier</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sina</namePart>
+        <namePart type="family">Zarrieß</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sieker-etal-2025-flex</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Sieker_semdial_4427.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>225</start>
+            <end>227</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="patil-jabeen-2025-one">
+    <titleInfo>
+        <title>One -hii to Rule Them All: Functions and Intonation of Particle -hii in Hindi Movie Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Shravani</namePart>
+        <namePart type="family">Patil</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Farhat</namePart>
+        <namePart type="family">Jabeen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">patil-jabeen-2025-one</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Patil_semdial_4428.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>228</start>
+            <end>230</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="jabeen-patil-2025-intonation">
+    <titleInfo>
+        <title>Intonation, Prosodic Phrasing of Particle ‘-hii’ in Hindi/UrduDialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Farhat</namePart>
+        <namePart type="family">Jabeen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shravani</namePart>
+        <namePart type="family">Patil</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">jabeen-patil-2025-intonation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Jabeen_semdial_4429.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>231</start>
+            <end>233</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="farriciello-forster-2025-integrating">
+    <titleInfo>
+        <title>Integrating LLMs Into the DIARC Cognitive Architecture to Resolve Past Temporal References</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Valerio</namePart>
+        <namePart type="family">Farriciello</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Frank</namePart>
+        <namePart type="family">Förster</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">farriciello-forster-2025-integrating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Farriciello_semdial_4430.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>234</start>
+            <end>242</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="appelgren-etal-2025-across">
+    <titleInfo>
+        <title>Across the Board: Human–Human Game Learning Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mattias</namePart>
+        <namePart type="family">Appelgren</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Erik</namePart>
+        <namePart type="family">Lagerstedt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Asad</namePart>
+        <namePart type="given">B</namePart>
+        <namePart type="family">Sayeed</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">appelgren-etal-2025-across</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Appelgren_semdial_4431.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>243</start>
+            <end>245</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="fisher-terfloth-2025-dual">
+    <titleInfo>
+        <title>The Dual Nature as a Local Context to Explore Verbal Behaviour in Game Explanations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Josephine</namePart>
+        <namePart type="given">B</namePart>
+        <namePart type="family">Fisher</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lutz</namePart>
+        <namePart type="family">Terfloth</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fisher-terfloth-2025-dual</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Fisher_semdial_4432.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>246</start>
+            <end>248</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="nicolas-riester-2025-towards">
+    <titleInfo>
+        <title>Towards a Discourse-Structure Based Response Classification for Interviews</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">René</namePart>
+        <namePart type="family">Nicolas</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Arndt</namePart>
+        <namePart type="family">Riester</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">nicolas-riester-2025-towards</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Nicolas_semdial_4433.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>249</start>
+            <end>251</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="stoyanchev-etal-2025-contextual">
+    <titleInfo>
+        <title>Contextual Interpretation in Human-Robot Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Svetlana</namePart>
+        <namePart type="family">Stoyanchev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Youmna</namePart>
+        <namePart type="family">Farag</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Keizer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mohan</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rama</namePart>
+        <namePart type="family">Doddipatla</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">stoyanchev-etal-2025-contextual</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Stoyanchev_semdial_4434.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>252</start>
+            <end>254</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="decker-etal-2025-mapping">
+    <titleInfo>
+        <title>Mapping the Landscape of Dialogue Research: A Meta-Analysis of ACL Anthology 2024</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Amandine</namePart>
+        <namePart type="family">Decker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maxime</namePart>
+        <namePart type="family">Amblard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Breitholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">decker-etal-2025-mapping</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Decker_semdial_4435.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>255</start>
+            <end>257</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="richter-etal-2025-evaluating">
+    <titleInfo>
+        <title>Evaluating Prosodic Variation in English and Icelandic Synthesized Speech</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Caitlin</namePart>
+        <namePart type="given">Laura</namePart>
+        <namePart type="family">Richter</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Naizeth</namePart>
+        <namePart type="family">Núñez Macías</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefán</namePart>
+        <namePart type="family">Ólafsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jon</namePart>
+        <namePart type="family">Gudnason</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hannes</namePart>
+        <namePart type="given">Högni</namePart>
+        <namePart type="family">Vilhjálmsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">richter-etal-2025-evaluating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Richter_semdial_4436.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>258</start>
+            <end>260</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="hough-etal-2025-conceptual">
+    <titleInfo>
+        <title>Conceptual Pact Models of Reference in Building Games With Dialogue: Scaling Up From Pentomino Puzzles to the Challenge of Minecraft</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chris</namePart>
+        <namePart type="family">Madge</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Massimo</namePart>
+        <namePart type="family">Poesio</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hough-etal-2025-conceptual</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Hough_semdial_4437.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>261</start>
+            <end>263</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="kunkele-dobnik-2025-learning">
+    <titleInfo>
+        <title>Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Dominik</namePart>
+        <namePart type="family">Künkele</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kunkele-dobnik-2025-learning</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Kuenkele_semdial_4438.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>264</start>
+            <end>266</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="granier-etal-2025-task">
+    <titleInfo>
+        <title>How Task Complexity and Voice Type Shape Prosodic and Physiologic Cues of Engagement in Human-Machine Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Océane</namePart>
+        <namePart type="family">Granier</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Roxane</namePart>
+        <namePart type="family">Bertrand</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kévin</namePart>
+        <namePart type="family">Gravouil</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Laurent</namePart>
+        <namePart type="family">Prévot</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">granier-etal-2025-task</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Granier_semdial_4439.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>267</start>
+            <end>269</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

@@ -519,7 +519,7 @@
     </titleInfo>
     <name type="personal">
         <namePart type="given">Lilia</namePart>
-        <namePart type="family">Mironovschi,</namePart>
+        <namePart type="family">Mironovschi</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -766,7 +766,7 @@
     </titleInfo>
     <name type="personal">
         <namePart type="given">Antonio</namePart>
-        <namePart type="family">Roque,</namePart>
+        <namePart type="family">Roque</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -920,7 +920,7 @@
     </titleInfo>
     <name type="personal">
         <namePart type="given">Antonio</namePart>
-        <namePart type="family">Roque,</namePart>
+        <namePart type="family">Roque</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>

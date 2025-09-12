@@ -1,5 +1,5 @@
 ---
-lastname: Acarturk
+lastname: "Acart\xFCrk"
 name: cengiz-acarturk
-title: Cengiz Acarturk
+title: "Cengiz Acart\xFCrk"
 ---

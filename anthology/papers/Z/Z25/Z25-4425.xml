@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="vanzan-etal-2025-surprised">
+    <titleInfo>
+        <title>Surprised to Kill: Quantifying LLM Uncertainty in Morally-Charged Triadic Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Vanessa</namePart>
+        <namePart type="family">Vanzan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nikolai</namePart>
+        <namePart type="family">Ilinykh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Erik</namePart>
+        <namePart type="family">Lagerstedt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Amy</namePart>
+        <namePart type="given">Han</namePart>
+        <namePart type="family">Qiu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vladislav</namePart>
+        <namePart type="family">Maraev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">vanzan-etal-2025-surprised</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Vanzan_semdial_4425.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>219</start>
+            <end>221</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

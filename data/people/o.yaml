@@ -1,38 +1,3 @@
-o-lemon:
-  coauthors:
-  - - n-asher
-    - 1
-  - - a-lascarides
-    - 1
-  - - m-guhe
-    - 1
-  - - v-rieser
-    - 1
-  - - p-muller
-    - 1
-  - - s-afantenos
-    - 1
-  - - f-benamara
-    - 1
-  - - l-vieu
-    - 1
-  - - p-denis
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  - - c-degremont
-    - 1
-  first: O.
-  full: O. Lemon
-  last: Lemon
-  papers:
-  - Z12-4019
-  slug: o-lemon
-  venues:
-  - - SEMDIAL
-    - 1
 oana-postolache:
   coauthors: []
   first: Oana
@@ -41,6 +6,23 @@ oana-postolache:
   papers: []
   slug: oana-postolache
   venues: []
+oceane-granier:
+  coauthors:
+  - - roxane-bertrand
+    - 1
+  - - kevin-gravouil
+    - 1
+  - - laurent-prevot
+    - 1
+  first: "Oc\xE9ane"
+  full: "Oc\xE9ane Granier"
+  last: Granier
+  papers:
+  - Z25-4439
+  slug: oceane-granier
+  venues:
+  - - SEMDIAL
+    - 1
 octavia-maria-sulea:
   coauthors: []
   first: Octavia-Maria
@@ -202,20 +184,38 @@ olga-van-herwijnen:
 oliver-lemon:
   coauthors:
   - - verena-rieser
-    - 6
+    - 7
   - - arash-eshghi
-    - 5
+    - 6
   - - yanchao-yu
     - 5
   - - srinivasan-janarthanam
     - 4
-  - - xingkun-liu
-    - 3
   - - simon-keizer
+    - 4
+  - - xingkun-liu
     - 3
   - - igor-shalyminov
     - 2
   - - kallirroi-georgila
+    - 2
+  - - james-henderson
+    - 2
+  - - nicholas-asher
+    - 2
+  - - alex-lascarides
+    - 2
+  - - markus-guhe
+    - 2
+  - - philippe-muller
+    - 2
+  - - stergos-afantenos
+    - 2
+  - - laure-vieu
+    - 2
+  - - pascal-denis
+    - 2
+  - - soumya-paul
     - 2
   - - ioannis-efstathiou
     - 2
@@ -225,50 +225,6 @@ oliver-lemon:
     - 2
   - - helen-hastie
     - 2
-  - - james-henderson
-    - 2
-  - - ivan-v-meza-ruiz
-    - 1
-  - - sebastian-riedel
-    - 1
-  - - phil-bartie
-    - 1
-  - - william-mackaness
-    - 1
-  - - tiphaine-dalmas
-    - 1
-  - - jana-gotze
-    - 1
-  - - stergos-afantenos
-    - 1
-  - - nicholas-asher
-    - 1
-  - - farah-benamara
-    - 1
-  - - anais-cadilhac
-    - 1
-  - - cedric-degremont
-    - 1
-  - - pascal-denis
-    - 1
-  - - markus-guhe
-    - 1
-  - - alex-lascarides
-    - 1
-  - - philippe-muller
-    - 1
-  - - soumya-paul
-    - 1
-  - - vladimir-popescu
-    - 1
-  - - laure-vieu
-    - 1
-  - - daniel-shapiro
-    - 1
-  - - carl-tollander
-    - 1
-  - - arash-eshghi1
-    - 1
   - - weronika-sieinska
     - 1
   - - angus-addlessee
@@ -298,6 +254,34 @@ oliver-lemon:
   - - javier-sanchez-castro
     - 1
   - - elissa-westerheim
+    - 1
+  - - ivan-v-meza-ruiz
+    - 1
+  - - sebastian-riedel
+    - 1
+  - - benamara-farah
+    - 1
+  - - cedric-degremont
+    - 1
+  - - phil-bartie
+    - 1
+  - - william-mackaness
+    - 1
+  - - tiphaine-dalmas
+    - 1
+  - - jana-gotze
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - daniel-shapiro
+    - 1
+  - - carl-tollander
     - 1
   - - heriberto-cuayahuitl
     - 1
@@ -351,6 +335,7 @@ oliver-lemon:
   - Z14-4031
   - Z14-4046
   - Z14-4050
+  - Z12-4019
   - Z12-4025
   - Z12-4029
   - Z12-4033
@@ -365,7 +350,7 @@ oliver-lemon:
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 27
+    - 28
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.
@@ -603,21 +588,35 @@ ozan-irsoy:
 ozge-alacam:
   coauthors:
   - - cengiz-acarturk
-    - 2
+    - 1
   - - christopher-habel
-    - 2
+    - 1
+  first: "\xD6zge"
+  full: "\xD6zge Ala\xE7am"
+  last: "Ala\xE7am"
+  papers:
+  - Z14-3005
+  slug: ozge-alacam
+  venues:
+  - - SEMDIAL
+    - 1
+ozge-alacam1:
+  coauthors:
   - - matthias-kerzel
+    - 1
+  - - christopher-habel
+    - 1
+  - - cengiz-acarturk1
     - 1
   first: Ozge
   full: Ozge Alacam
   last: Alacam
   papers:
-  - Z14-3005
   - Z14-4036
-  slug: ozge-alacam
+  slug: ozge-alacam1
   venues:
   - - SEMDIAL
-    - 2
+    - 1
 ozlem-cetinoglu:
   coauthors: []
   first: "\xD6zlem"

@@ -60,6 +60,8 @@ ichiro-umata:
     - 2
   - - seiichi-yamamoto
     - 2
+  - - tsuneo-kato
+    - 1
   - - sadanori-ito
     - 1
   - - shoichiro-iwasawa
@@ -73,8 +75,6 @@ ichiro-umata:
   - - kiyoshi-kogure
     - 1
   - - kenji-mase
-    - 1
-  - - tsuneo-kato
     - 1
   first: Ichiro
   full: Ichiro Umata
@@ -193,6 +193,23 @@ ilaria-baroni:
   venues:
   - - SEMDIAL
     - 1
+ildiko-pilan:
+  coauthors:
+  - - margareta-berg
+    - 1
+  - - ingrid-lossius-falkum
+    - 1
+  - - pierre-lison
+    - 1
+  first: "Ildik\xF3"
+  full: "Ildik\xF3 Pil\xE1n"
+  last: "Pil\xE1n"
+  papers:
+  - Z25-4421
+  slug: ildiko-pilan
+  venues:
+  - - SEMDIAL
+    - 1
 ilknur-durgar-el-kahlout:
   coauthors: []
   first: Ilknur
@@ -275,6 +292,23 @@ ingmar-steiner:
   venues:
   - - SEMDIAL
     - 1
+ingrid-lossius-falkum:
+  coauthors:
+  - - margareta-berg
+    - 1
+  - - ildiko-pilan
+    - 1
+  - - pierre-lison
+    - 1
+  first: Ingrid Lossius
+  full: Ingrid Lossius Falkum
+  last: Falkum
+  papers:
+  - Z25-4421
+  slug: ingrid-lossius-falkum
+  venues:
+  - - SEMDIAL
+    - 1
 ingrid-meyer:
   coauthors: []
   first: Ingrid
@@ -309,9 +343,9 @@ inmaculada-hernaez:
   venues: []
 insa-lawler:
   coauthors:
-  - - florian-hahn
-    - 2
   - - hannes-rieser
+    - 2
+  - - florian-hahn
     - 2
   - - udo-klein
     - 1
@@ -694,13 +728,7 @@ ivana-kruijff-korbayova:
     - 2
   - - michael-brenner
     - 1
-  - - magdalena-wolska
-    - 1
-  - - stefania-racioppa
-    - 1
-  - - elettra-oleari
-    - 1
-  - - clara-pozzi
+  - - tatiana-anikina
     - 1
   - - nate-blaylock
     - 1
@@ -716,11 +744,17 @@ ivana-kruijff-korbayova:
     - 1
   - - jan-schehl
     - 1
-  - - tatiana-anikina
-    - 1
   - - ilaria-baroni
     - 1
   - - mattia-coti-zelati
+    - 1
+  - - magdalena-wolska
+    - 1
+  - - stefania-racioppa
+    - 1
+  - - elettra-oleari
+    - 1
+  - - clara-pozzi
     - 1
   first: Ivana
   full: "Ivana Kruijff-Korbayov\xE1"

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="hawkins-2025-foraging">
+    <titleInfo>
+        <title>Foraging for Common Ground</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="given">D</namePart>
+        <namePart type="family">Hawkins</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hawkins-2025-foraging</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Hawkins_semdial_2202.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>3</start>
+            <end>3</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

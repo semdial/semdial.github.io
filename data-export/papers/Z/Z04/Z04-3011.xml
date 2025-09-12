@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="luecking-etal-2004-statistical">
+<mods ID="lucking-etal-2004-statistical">
     <titleInfo>
         <title>Statistical support for the study of structures in multimodal dialogue: inter-rater agreement and synchronisation</title>
     </titleInfo>
     <name type="personal">
         <namePart type="given">Andy</namePart>
-        <namePart type="family">Luecking</namePart>
+        <namePart type="family">Lücking</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
         <namePart type="given">Hannes</namePart>
-        <namePart type="family">Reiser</namePart>
+        <namePart type="family">Rieser</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -41,7 +41,7 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">luecking-etal-2004-statistical</identifier>
+    <identifier type="citekey">lucking-etal-2004-statistical</identifier>
     <location>
         <url>http://semdial.org/anthology/011_Luecking_semdial2004_catalog_proceedings.pdf</url>
     </location>

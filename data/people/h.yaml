@@ -203,6 +203,8 @@ hannah-rohde:
   coauthors:
   - - chris-cummins
     - 2
+  - - alexandra-lorson
+    - 1
   - - scott-seyfarth
     - 1
   - - brady-clark
@@ -218,8 +220,6 @@ hannah-rohde:
   - - holly-branigan
     - 1
   - - hodgdon-stevens
-    - 1
-  - - alexandra-lorson
     - 1
   first: Hannah
   full: Hannah Rohde
@@ -249,6 +249,25 @@ hanne-fersoe:
   papers: []
   slug: hanne-fersoe
   venues: []
+hannes-hogni-vilhjalmsson:
+  coauthors:
+  - - caitlin-laura-richter
+    - 1
+  - - naizeth-nunez-macias
+    - 1
+  - - stefan-olafsson
+    - 1
+  - - jon-gudnason
+    - 1
+  first: "Hannes H\xF6gni"
+  full: "Hannes H\xF6gni Vilhj\xE1lmsson"
+  last: "Vilhj\xE1lmsson"
+  papers:
+  - Z25-4436
+  slug: hannes-hogni-vilhjalmsson
+  venues:
+  - - SEMDIAL
+    - 1
 hannes-lindblom:
   coauthors:
   - - erik-sandewall
@@ -264,32 +283,22 @@ hannes-lindblom:
   venues:
   - - SEMDIAL
     - 1
-hannes-reiser:
-  coauthors:
-  - - andy-luecking
-    - 1
-  - - jens-stegmann
-    - 1
-  first: Hannes
-  full: Hannes Reiser
-  last: Reiser
-  papers:
-  - Z04-3011
-  - Z04-3016
-  slug: hannes-reiser
-  venues:
-  - - SEMDIAL
-    - 2
 hannes-rieser:
   coauthors:
   - - florian-hahn
     - 4
   - - andy-lucking
-    - 3
+    - 4
   - - marc-staudacher
     - 3
   - - insa-lawler
     - 2
+  - - massimo-poesio
+    - 1
+  - - jens-stegmann
+    - 1
+  - - udo-klein
+    - 1
   - - julia-peltason
     - 1
   - - sven-wachsmuth
@@ -299,10 +308,6 @@ hannes-rieser:
   - - alfred-kranstedt
     - 1
   - - thies-thies
-    - 1
-  - - massimo-poesio
-    - 1
-  - - udo-klein
     - 1
   first: Hannes
   full: Hannes Rieser
@@ -320,10 +325,12 @@ hannes-rieser:
   - Z06-3012
   - Z06-3015
   - Z06-3018
+  - Z04-3011
+  - Z04-3016
   slug: hannes-rieser
   venues:
   - - SEMDIAL
-    - 12
+    - 14
 hans-dybkjaer:
   coauthors: []
   first: Hans
@@ -382,7 +389,7 @@ hany-hassan:
   venues: []
 hanz-uszkoreit:
   coauthors:
-  - - tina-kluwer1
+  - - tina-kluwer
     - 1
   first: Hanz
   full: Hanz Uszkoreit
@@ -428,7 +435,7 @@ haoran-yan:
     - 1
   - - lu-liu
     - 1
-  - - john-w-dubois
+  - - john-w-dubois1
     - 1
   first: Haoran
   full: Haoran Yan
@@ -582,6 +589,8 @@ harry-bunt:
     - 2
   - - marcin-wlodarczak
     - 1
+  - - yann-girard
+    - 1
   - - simon-keizer
     - 1
   - - myroslava-o-dzikovska
@@ -591,8 +600,6 @@ harry-bunt:
   - - matthew-stone
     - 1
   - - ramkumar-aruchamy
-    - 1
-  - - yann-girard
     - 1
   first: Harry
   full: Harry Bunt
@@ -835,6 +842,8 @@ helen-hastie:
     - 2
   - - oliver-lemon
     - 2
+  - - jose-david-lopes
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -866,8 +875,6 @@ helen-hastie:
   - - yanchao-yu
     - 1
   - - mei-yii-lim
-    - 1
-  - - jose-david-lopes
     - 1
   first: Helen
   full: Helen Hastie
@@ -1013,6 +1020,23 @@ helmut-schnelle:
   papers: []
   slug: helmut-schnelle
   venues: []
+heloise-retournard:
+  coauthors:
+  - - clara-gregoire
+    - 1
+  - - stephane-rauzy
+    - 1
+  - - maud-champagne-lavau
+    - 1
+  first: "H\xE9lo\xEFse"
+  full: "H\xE9lo\xEFse Retournard"
+  last: Retournard
+  papers:
+  - Z25-3308
+  slug: heloise-retournard
+  venues:
+  - - SEMDIAL
+    - 1
 hema-a-murthy:
   coauthors: []
   first: Hema A.
@@ -1024,7 +1048,11 @@ hema-a-murthy:
 hendrik-buschmeier:
   coauthors:
   - - stefan-kopp
-    - 3
+    - 4
+  - - nikolai-ilinykh
+    - 1
+  - - amelie-robrecht
+    - 1
   - - petra-wagner
     - 1
   - - marcin-wlodarczak
@@ -1039,6 +1067,7 @@ hendrik-buschmeier:
   full: Hendrik Buschmeier
   last: Buschmeier
   papers:
+  - Z25-1000
   - Z24-3001
   - Z24-4020
   - Z14-3006
@@ -1047,7 +1076,7 @@ hendrik-buschmeier:
   slug: hendrik-buschmeier
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 hendrik-harkema:
   coauthors:
   - - jiaying-shen
@@ -1056,7 +1085,7 @@ hendrik-harkema:
     - 1
   - - peng-yu
     - 1
-  - - ciaran-oreilly
+  - - ciaran-o-reilly
     - 1
   first: Hendrik
   full: Hendrik Harkema
@@ -1190,9 +1219,7 @@ heriberto-cuayahuitl:
   coauthors:
   - - nina-dethlefs
     - 1
-  - - kai
-    - 1
-  - - florian-richter
+  - - kai-florian-richter
     - 1
   - - elena-andonova
     - 1
@@ -1441,7 +1468,9 @@ hiroaki-ito:
     - 1
   - - tsunehiro-arimoto
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -1472,15 +1501,19 @@ hiroaki-saito:
   venues: []
 hiroaki-sugiyama:
   coauthors:
-  - - ryuichiro-higashinaka
+  - - tsunehiro-arimoto
     - 2
   - - hiromi-narimatsu
     - 2
-  - - tsunehiro-arimoto
+  - - ryuichiro-higashinaka
     - 2
+  - - masahiro-mizukami
+    - 1
   - - kazuki-sakai
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -1493,8 +1526,6 @@ hiroaki-sugiyama:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
-    - 1
-  - - masahiro-mizukami
     - 1
   first: Hiroaki
   full: Hiroaki Sugiyama
@@ -1532,15 +1563,19 @@ hiromi-nakaiwa:
   venues: []
 hiromi-narimatsu:
   coauthors:
-  - - ryuichiro-higashinaka
+  - - tsunehiro-arimoto
     - 2
   - - hiroaki-sugiyama
     - 2
-  - - tsunehiro-arimoto
+  - - ryuichiro-higashinaka
     - 2
+  - - masahiro-mizukami
+    - 1
   - - kazuki-sakai
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -1553,8 +1588,6 @@ hiromi-narimatsu:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
-    - 1
-  - - masahiro-mizukami
     - 1
   first: Hiromi
   full: Hiromi Narimatsu
@@ -1623,7 +1656,9 @@ hiroshi-ishiguro:
     - 1
   - - tsunehiro-arimoto
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -1984,7 +2019,7 @@ hsun-wen-chiu:
   venues: []
 hua-ai:
   coauthors:
-  - - antonio-roque1
+  - - antonio-roque
     - 2
   - - david-traum
     - 2

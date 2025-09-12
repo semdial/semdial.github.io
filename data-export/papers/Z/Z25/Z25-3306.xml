@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="yusupujiang-etal-2025-multiple">
+    <titleInfo>
+        <title>‘No No No No No No No’: Multiple Repetition in Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Zulipiye</namePart>
+        <namePart type="family">Yusupujiang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Paola</namePart>
+        <namePart type="family">Herreno-Castaneda</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mathilde</namePart>
+        <namePart type="family">Dargnat</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">yusupujiang-etal-2025-multiple</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Yusupujiang_semdial_3306.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>37</start>
+            <end>47</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

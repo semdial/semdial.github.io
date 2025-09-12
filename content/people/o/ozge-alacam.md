@@ -1,5 +1,5 @@
 ---
-lastname: Alacam
+lastname: "Ala\xE7am"
 name: ozge-alacam
-title: Ozge Alacam
+title: "\xD6zge Ala\xE7am"
 ---

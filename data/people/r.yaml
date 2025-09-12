@@ -148,15 +148,15 @@ raffaella-bernardi:
   coauthors:
   - - alberto-testoni
     - 2
+  - - ravi-shekhar
+    - 1
+  - - raquel-fernandez
+    - 1
   - - ellen-breitholtz
     - 1
   - - giuseppe-riccardi
     - 1
   - - davide-mazzaccara
-    - 1
-  - - ravi-shekhar
-    - 1
-  - - raquel-fernandez
     - 1
   first: Raffaella
   full: Raffaella Bernardi
@@ -310,6 +310,8 @@ ralf-klabunde:
     - 3
   - - sebastian-reusse
     - 2
+  - - jon-stevens
+    - 2
   - - christoph-hesse
     - 1
   - - maryam-mohammadi
@@ -317,10 +319,6 @@ ralf-klabunde:
   - - maurice-langner
     - 1
   - - judith-fischer
-    - 1
-  - - jon-stevens
-    - 1
-  - - jon-stevens1
     - 1
   - - ronja-laarmann-quante
     - 1
@@ -359,6 +357,25 @@ ralph-weischedel:
   papers: []
   slug: ralph-weischedel
   venues: []
+rama-doddipatla:
+  coauthors:
+  - - svetlana-stoyanchev
+    - 1
+  - - youmna-farag
+    - 1
+  - - simon-keizer
+    - 1
+  - - mohan-li
+    - 1
+  first: Rama
+  full: Rama Doddipatla
+  last: Doddipatla
+  papers:
+  - Z25-4434
+  slug: rama-doddipatla
+  venues:
+  - - SEMDIAL
+    - 1
 raman-chandrasekar:
   coauthors: []
   first: Raman
@@ -491,6 +508,16 @@ raquel-fernandez:
   coauthors:
   - - julian-j-schloder
     - 3
+  - - alberto-testoni
+    - 1
+  - - ravi-shekhar
+    - 1
+  - - raffaella-bernardi
+    - 1
+  - - janosch-haber
+    - 1
+  - - elia-bruni
+    - 1
   - - matthew-frampton
     - 1
   - - patrick-ehlen
@@ -499,11 +526,19 @@ raquel-fernandez:
     - 1
   - - stanley-peters
     - 1
+  - - arabella-sinclair
+    - 1
   - - matthew-purver
     - 1
-  - - janosch-haber
+  - - jonathan-ginzburg
     - 1
-  - - elia-bruni
+  - - ines-crespo
+    - 1
+  - - richard-kunert
+    - 1
+  - - willem-zuidema
+    - 1
+  - - amy-isard
     - 1
   - - david-schlangen
     - 1
@@ -518,24 +553,6 @@ raquel-fernandez:
   - - sarah-hiller
     - 1
   - - robert-grimm
-    - 1
-  - - jonathan-ginzburg
-    - 1
-  - - ines-crespo
-    - 1
-  - - richard-kunert
-    - 1
-  - - willem-zuidema
-    - 1
-  - - arabella-sinclair
-    - 1
-  - - amy-isard
-    - 1
-  - - alberto-testoni
-    - 1
-  - - ravi-shekhar
-    - 1
-  - - raffaella-bernardi
     - 1
   first: Raquel
   full: "Raquel Fern\xE1ndez"
@@ -816,6 +833,19 @@ renato-de-mori:
   venues:
   - - SEMDIAL
     - 1
+rene-nicolas:
+  coauthors:
+  - - arndt-riester
+    - 1
+  first: "Ren\xE9"
+  full: "Ren\xE9 Nicolas"
+  last: Nicolas
+  papers:
+  - Z25-4433
+  slug: rene-nicolas
+  venues:
+  - - SEMDIAL
+    - 1
 rene-schneider:
   coauthors: []
   first: "Ren\xE9"
@@ -1001,7 +1031,7 @@ richard-crouch:
     - 1
   - - peng-yu
     - 1
-  - - ciaran-oreilly
+  - - ciaran-o-reilly
     - 1
   first: Richard
   full: Richard Crouch
@@ -1130,9 +1160,9 @@ richard-power:
   coauthors:
   - - paul-piwek
     - 2
-  - - david-hardcastle
-    - 1
   - - brian-pluss
+    - 1
+  - - david-hardcastle
     - 1
   first: Richard
   full: Richard Power
@@ -1222,8 +1252,8 @@ rick-dale:
   - - herbert-clark
     - 1
   first: Rick
-  full: Rick Dale,
-  last: Dale,
+  full: Rick Dale
+  last: Dale
   papers:
   - Z08-3015
   slug: rick-dale
@@ -1368,6 +1398,17 @@ robert-c-moore:
   papers: []
   slug: robert-c-moore
   venues: []
+robert-d-hawkins:
+  coauthors: []
+  first: Robert D.
+  full: Robert D. Hawkins
+  last: Hawkins
+  papers:
+  - Z25-2202
+  slug: robert-d-hawkins
+  venues:
+  - - SEMDIAL
+    - 1
 robert-e-mercer:
   coauthors: []
   comment: Univ. of Western Ontario
@@ -1457,7 +1498,7 @@ robert-j-ross:
   coauthors:
   - - anh-duong-trinh
     - 1
-  - - john-d-kelleher
+  - - john-kelleher
     - 1
   first: Robert J
   full: Robert J Ross
@@ -1598,17 +1639,17 @@ robert-ross:
   coauthors:
   - - na-li
     - 3
-  - - cathy-ennis
-    - 2
   - - john-kelleher
     - 2
-  - - michael-o-mahony
+  - - cathy-ennis
+    - 2
+  - - anh-duong-trinh
     - 1
-  - - john-bateman
+  - - michael-o-mahony
     - 1
   - - johanna-dobbriner
     - 1
-  - - anh-duong-trinh
+  - - john-bateman
     - 1
   first: Robert
   full: Robert Ross
@@ -1748,18 +1789,20 @@ roberto-pieraccini:
 robin-cooper:
   coauthors:
   - - ellen-breitholtz
-    - 3
+    - 4
   - - staffan-larsson
     - 3
+  - - simon-dobnik
+    - 2
   - - bill-noble
     - 2
   - - christine-howes
     - 2
+  - - mattias-appelgren
+    - 1
   - - adam-ek
     - 1
   - - stergios-chatzikyriakidis
-    - 1
-  - - simon-dobnik
     - 1
   - - eleni-gregoromichelaki
     - 1
@@ -1769,19 +1812,21 @@ robin-cooper:
     - 1
   - - gijs-wijnholds
     - 1
-  - - jonathan-ginzburg
-    - 1
   - - mary-lavelle
+    - 1
+  - - jonathan-ginzburg
     - 1
   first: Robin
   full: Robin Cooper
   last: Cooper
   papers:
+  - Z25-4426
   - Z24-3010
   - Z22-3020
   - Z21-3009
   - Z18-4022
   - Z14-3007
+  - Z13-3005
   - Z11-3022
   - Z11-3024
   - Z10-3016
@@ -1790,18 +1835,7 @@ robin-cooper:
   slug: robin-cooper
   venues:
   - - SEMDIAL
-    - 10
-robin-copper:
-  coauthors: []
-  first: Robin
-  full: Robin Copper
-  last: Copper
-  papers:
-  - Z13-3005
-  slug: robin-copper
-  venues:
-  - - SEMDIAL
-    - 1
+    - 12
 robin-hill:
   coauthors:
   - - ellen-gurman-bard
@@ -1993,9 +2027,11 @@ ron-artstein:
     - 2
   - - michael-rushforth
     - 2
-  - - laure-vieu
+  - - usman-sohail
     - 1
-  - - massimo-poesio
+  - - carla-gordon
+    - 1
+  - - stephanie-hernandez
     - 1
   - - mark-g-core
     - 1
@@ -2007,13 +2043,11 @@ ron-artstein:
     - 1
   - - amanda-stent
     - 1
-  - - stephanie-hernandez
+  - - laure-vieu
     - 1
   - - fauren-faust
     - 1
-  - - usman-sohail
-    - 1
-  - - carla-gordon
+  - - massimo-poesio
     - 1
   first: Ron
   full: Ron Artstein
@@ -2105,7 +2139,7 @@ roni-ben-aharon:
   venues: []
 ronja-laarmann-quante:
   coauthors:
-  - - jon-stevens1
+  - - jon-stevens
     - 1
   - - anton-benz
     - 1
@@ -2212,9 +2246,9 @@ rosemary-stevenson:
   venues: []
 roser-morante:
   coauthors:
-  - - simon-keizer
-    - 2
   - - harry-bunt
+    - 2
+  - - simon-keizer
     - 2
   first: Roser
   full: Roser Morante
@@ -2275,16 +2309,12 @@ roxana-girju:
 roxane-bertrand:
   coauthors:
   - - laurent-prevot
-    - 2
+    - 3
   - - philippe-blache
     - 2
-  - - helen-k-y-chen
+  - - oceane-granier
     - 1
-  - - beatrice-priego-valverde1
-    - 1
-  - - klim-peshkov
-    - 1
-  - - stephane-rauzy
+  - - kevin-gravouil
     - 1
   - - chiara-mazzocconi
     - 1
@@ -2296,17 +2326,26 @@ roxane-bertrand:
     - 1
   - - daniele-schon
     - 1
+  - - helen-k-y-chen
+    - 1
+  - - beatrice-priego-valverde1
+    - 1
+  - - klim-peshkov
+    - 1
+  - - stephane-rauzy1
+    - 1
   first: Roxane
   full: Roxane Bertrand
   last: Bertrand
   papers:
+  - Z25-4439
   - Z24-3008
   - Z12-4020
   - Z12-4036
   slug: roxane-bertrand
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 roxane-segers:
   coauthors: []
   first: Roxane
@@ -2371,6 +2410,23 @@ rui-marques:
   papers:
   - Z22-3022
   slug: rui-marques
+  venues:
+  - - SEMDIAL
+    - 1
+rui-sakaida:
+  coauthors:
+  - - kei-shimonishi
+    - 1
+  - - koji-inoue
+    - 1
+  - - yasuyuki-usuda
+    - 1
+  first: Rui
+  full: Rui Sakaida
+  last: Sakaida
+  papers:
+  - Z25-4424
+  slug: rui-sakaida
   venues:
   - - SEMDIAL
     - 1
@@ -2446,37 +2502,37 @@ ruth-aylett:
     - 2
 ruth-kempson:
   coauthors:
-  - - matthew-purver
-    - 5
   - - eleni-gregoromichelaki
     - 5
-  - - julian-hough
-    - 4
+  - - matthew-purver
+    - 5
   - - christine-howes
+    - 4
+  - - julian-hough
     - 4
   - - arash-eshghi
     - 3
   - - mehrnoosh-sadrzadeh
     - 3
-  - - andrew-gargett
-    - 2
   - - stergios-chatzikyriakidis
+    - 2
+  - - andrew-gargett
     - 2
   - - ronnie-cann
     - 2
-  - - jieun-kiaer
-    - 1
-  - - graham-white
+  - - gijs-wijnholds
     - 1
   - - gregory-mills
     - 1
   - - patrick-healey
     - 1
+  - - jieun-kiaer
+    - 1
+  - - graham-white
+    - 1
   - - matt-purver
     - 1
   - - greg-mills
-    - 1
-  - - gijs-wijnholds
     - 1
   first: Ruth
   full: Ruth Kempson
@@ -2549,7 +2605,7 @@ ryan-ka-yau-lai:
     - 1
   - - haoran-yan
     - 1
-  - - john-w-dubois
+  - - john-w-dubois1
     - 1
   first: Ryan Ka Yau
   full: Ryan Ka Yau Lai
@@ -2594,6 +2650,29 @@ ryen-white:
   papers: []
   slug: ryen-white
   venues: []
+ryo-hori:
+  coauthors:
+  - - yuki-zenimoto
+    - 1
+  - - mariko-yoshida
+    - 1
+  - - mayu-urata
+    - 1
+  - - aiko-inoue
+    - 1
+  - - takahiro-hayashi
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  first: Ryo
+  full: Ryo Hori
+  last: Hori
+  papers:
+  - Z25-3313
+  slug: ryo-hori
+  venues:
+  - - SEMDIAL
+    - 1
 ryochi-sugimura:
   coauthors: []
   first: Ryochi
@@ -2621,14 +2700,36 @@ ryu-iida:
     - 1
 ryuichiro-higashinaka:
   coauthors:
+  - - tsunehiro-arimoto
+    - 2
   - - hiroaki-sugiyama
     - 2
   - - hiromi-narimatsu
     - 2
-  - - tsunehiro-arimoto
-    - 2
   - - yoshihiro-matsuo
     - 2
+  - - yuki-zenimoto
+    - 1
+  - - mariko-yoshida
+    - 1
+  - - ryo-hori
+    - 1
+  - - mayu-urata
+    - 1
+  - - aiko-inoue
+    - 1
+  - - takahiro-hayashi
+    - 1
+  - - taro-tsuda
+    - 1
+  - - sanae-yamashita
+    - 1
+  - - koji-inoue
+    - 1
+  - - tatsuya-kawahara
+    - 1
+  - - masahiro-mizukami
+    - 1
   - - yuiko-tsunomori
     - 1
   - - tetsuro-takahashi
@@ -2637,7 +2738,9 @@ ryuichiro-higashinaka:
     - 1
   - - kazuki-sakai
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -2655,12 +2758,12 @@ ryuichiro-higashinaka:
     - 1
   - - toshiro-makino
     - 1
-  - - masahiro-mizukami
-    - 1
   first: Ryuichiro
   full: Ryuichiro Higashinaka
   last: Higashinaka
   papers:
+  - Z25-3313
+  - Z25-3320
   - Z21-2003
   - Z19-4020
   - Z18-3007
@@ -2669,4 +2772,4 @@ ryuichiro-higashinaka:
   slug: ryuichiro-higashinaka
   venues:
   - - SEMDIAL
-    - 5
+    - 7

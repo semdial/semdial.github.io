@@ -1,5 +1,5 @@
 ---
-lastname: Dale,
+lastname: Dale
 name: rick-dale
-title: Rick Dale,
+title: Rick Dale
 ---

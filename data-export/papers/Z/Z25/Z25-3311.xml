@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="liu-fourtassi-2025-benchmarking">
+    <titleInfo>
+        <title>Benchmarking LLMs for Mimicking Child-Caregiver Language in Interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jing</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Abdellah</namePart>
+        <namePart type="family">Fourtassi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">liu-fourtassi-2025-benchmarking</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Liu_semdial_3311.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>92</start>
+            <end>103</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="fisher-terfloth-2025-dual">
+    <titleInfo>
+        <title>The Dual Nature as a Local Context to Explore Verbal Behaviour in Game Explanations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Josephine</namePart>
+        <namePart type="given">B</namePart>
+        <namePart type="family">Fisher</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lutz</namePart>
+        <namePart type="family">Terfloth</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fisher-terfloth-2025-dual</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Fisher_semdial_4432.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>246</start>
+            <end>248</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

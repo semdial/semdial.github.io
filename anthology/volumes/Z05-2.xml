@@ -35,13 +35,13 @@
         <date>2005-jun 9-11</date>
     </part>
 </mods>
-<mods ID="cassell-2005-making-virtual">
+<mods ID="jaeger-2005-pretend">
     <titleInfo>
-        <title>Making (Virtual) Friends and Influencing (Virtual) People</title>
+        <title>Let’s Pretend to Agree. A game theoretic reconstruction of M-implicatures</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">Justine</namePart>
-        <namePart type="family">Cassell</namePart>
+        <namePart type="given">Gerhard</namePart>
+        <namePart type="family">Jaeger</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -62,9 +62,44 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">cassell-2005-making-virtual</identifier>
+    <identifier type="citekey">jaeger-2005-pretend</identifier>
     <location>
         <url>http://semdial.org/anthology/002_Jaeger_semdial2005_dialor_proceedings.pdf</url>
+    </location>
+    <part>
+        <date>2005-jun 9-11</date>
+    </part>
+</mods>
+<mods ID="graesser-2005-autotutor">
+    <titleInfo>
+        <title>AutoTutor: Learning while Holding a Conversation with a Computer</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Arthur</namePart>
+        <namePart type="family">Graesser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2005-jun 9-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Nancy, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">graesser-2005-autotutor</identifier>
+    <location>
+        <url>http://semdial.org/anthology/003_Graesser_semdial2005_dialor_proceedings.pdf</url>
     </location>
     <part>
         <date>2005-jun 9-11</date>

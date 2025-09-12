@@ -447,13 +447,9 @@ Z10-4024:
     full: "Heriberto Cuay\xE1huitl"
     id: heriberto-cuayahuitl
     last: "Cuay\xE1huitl"
-  - first: Kai
-    full: Kai -
-    id: kai
-    last: '-'
-  - first: Florian
-    full: Florian Richter
-    id: florian-richter
+  - first: Kai-Florian
+    full: Kai-Florian Richter
+    id: kai-florian-richter
     last: Richter
   - first: Elena
     full: Elena Andonova

@@ -20,7 +20,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Jon</namePart>
-        <namePart type="family">Stevens,</namePart>
+        <namePart type="family">Stevens</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>

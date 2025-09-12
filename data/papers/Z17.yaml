@@ -92,9 +92,9 @@ Z17-3004:
     id: natalia-philippova
     last: Philippova
   - first: Valentin
-    full: Valentin Vogelmann,
+    full: Valentin Vogelmann
     id: valentin-vogelmann
-    last: Vogelmann,
+    last: Vogelmann
   - first: Raquel
     full: "Raquel Fern\xE1ndez"
     id: raquel-fernandez
@@ -546,9 +546,13 @@ Z17-4019:
     full: Tsunehiro Arimoto
     id: tsunehiro-arimoto
     last: Arimoto
-  - first: Takaaki Fukutomi,Kiyoaki
-    full: Takaaki Fukutomi,Kiyoaki Matsui
-    id: takaaki-fukutomi-kiyoaki-matsui
+  - first: Takaaki
+    full: Takaaki Fukutomi
+    id: takaaki-fukutomi
+    last: Fukutomi
+  - first: Kiyoaki
+    full: Kiyoaki Matsui
+    id: kiyoaki-matsui
     last: Matsui
   - first: Yusuke
     full: Yusuke Ijima
@@ -947,7 +951,7 @@ Z17-4032:
     last: Valentino
   - first: Maria Di
     full: Maria Di Maro
-    id: maria-di-maro
+    id: maria-di-maro1
     last: Maro
   - first: Franco
     full: Franco Cutugno

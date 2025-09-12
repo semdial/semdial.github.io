@@ -6,41 +6,6 @@ v-k-mittal:
   papers: []
   slug: v-k-mittal
   venues: []
-v-rieser:
-  coauthors:
-  - - n-asher
-    - 1
-  - - a-lascarides
-    - 1
-  - - o-lemon
-    - 1
-  - - m-guhe
-    - 1
-  - - p-muller
-    - 1
-  - - s-afantenos
-    - 1
-  - - f-benamara
-    - 1
-  - - l-vieu
-    - 1
-  - - p-denis
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  - - c-degremont
-    - 1
-  first: V.
-  full: V. Rieser
-  last: Rieser
-  papers:
-  - Z12-4019
-  slug: v-rieser
-  venues:
-  - - SEMDIAL
-    - 1
 vaijayanthi-m-sarma:
   coauthors: []
   first: Vaijayanthi M.
@@ -83,8 +48,8 @@ valentin-vogelmann:
   - - raquel-fernandez
     - 1
   first: Valentin
-  full: Valentin Vogelmann,
-  last: Vogelmann,
+  full: Valentin Vogelmann
+  last: Vogelmann
   papers:
   - Z17-3004
   slug: valentin-vogelmann
@@ -162,6 +127,19 @@ valerie-mapelli:
   papers: []
   slug: valerie-mapelli
   venues: []
+valerio-farriciello:
+  coauthors:
+  - - frank-forster
+    - 1
+  first: Valerio
+  full: Valerio Farriciello
+  last: Farriciello
+  papers:
+  - Z25-4430
+  slug: valerio-farriciello
+  venues:
+  - - SEMDIAL
+    - 1
 valtcho-valtchev:
   coauthors: []
   first: Valtcho
@@ -180,26 +158,33 @@ van-minh-nguyen:
   venues: []
 vanessa-vanzan:
   coauthors:
+  - - christine-howes
+    - 3
+  - - amy-han-qiu
+    - 2
   - - chara-soupiona
     - 2
-  - - christine-howes
-    - 2
-  - - amy-han-qiu
+  - - nikolai-ilinykh
+    - 1
+  - - erik-lagerstedt
+    - 1
+  - - vladislav-maraev
     - 1
   - - amy-han-qiu1
     - 1
-  - - fahima-ayub-khan1
+  - - fahima-ayub-khan
     - 1
   first: Vanessa
   full: Vanessa Vanzan
   last: Vanzan
   papers:
+  - Z25-4425
   - Z24-3013
   - Z24-4038
   slug: vanessa-vanzan
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 vania-dimitrova:
   coauthors: []
   first: Vania
@@ -286,14 +271,24 @@ verena-reiser:
 verena-rieser:
   coauthors:
   - - oliver-lemon
-    - 6
+    - 7
   - - simon-keizer
-    - 3
+    - 4
   - - markus-guhe
-    - 2
+    - 3
   - - alex-lascarides
-    - 2
+    - 3
   - - philippe-muller
+    - 3
+  - - nicholas-asher
+    - 2
+  - - stergos-afantenos
+    - 2
+  - - laure-vieu
+    - 2
+  - - pascal-denis
+    - 2
+  - - soumya-paul
     - 2
   - - nina-dethlefs
     - 2
@@ -305,23 +300,19 @@ verena-rieser:
     - 2
   - - zhuoran-wang
     - 2
-  - - stergos-afantenos
+  - - kevin-o-connor
     - 1
-  - - nicholas-asher
+  - - benamara-farah
+    - 1
+  - - cedric-degremont
     - 1
   - - farah-benamara
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont
-    - 1
-  - - pascal-denis
-    - 1
-  - - soumya-paul
+  - - cedric-degremont1
     - 1
   - - vladimir-popescu
-    - 1
-  - - laure-vieu
     - 1
   - - marie-aude-aufaure
     - 1
@@ -365,8 +356,6 @@ verena-rieser:
     - 1
   - - ioannis-efstathiou
     - 1
-  - - kevin-o-connor
-    - 1
   first: Verena
   full: Verena Rieser
   last: Rieser
@@ -381,12 +370,13 @@ verena-rieser:
   - Z14-4050
   - Z14-4052
   - Z13-3012
+  - Z12-4019
   - Z12-4029
   - Z12-4033
   slug: verena-rieser
   venues:
   - - SEMDIAL
-    - 12
+    - 13
 verginica-barbu-mititelu:
   coauthors: []
   first: Verginica
@@ -801,17 +791,17 @@ vivian-k-lee:
   venues: []
 vivien-mast:
   coauthors:
-  - - daniel-couto-vale1
-    - 1
-  - - zoe-falomir
-    - 1
-  - - mohammad-fazleh-elahi
-    - 1
   - - christina-freihorst
     - 1
   - - simon-algorta
     - 1
   - - robert-porzel
+    - 1
+  - - daniel-couto-vale1
+    - 1
+  - - zoe-falomir
+    - 1
+  - - mohammad-fazleh-elahi
     - 1
   first: Vivien
   full: Vivien Mast
@@ -849,6 +839,8 @@ vladimir-petkevic:
   venues: []
 vladimir-popescu:
   coauthors:
+  - - jean-caelen
+    - 1
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -857,7 +849,7 @@ vladimir-popescu:
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont
+  - - cedric-degremont1
     - 1
   - - pascal-denis
     - 1
@@ -876,8 +868,6 @@ vladimir-popescu:
   - - verena-rieser
     - 1
   - - laure-vieu
-    - 1
-  - - jean-caelen
     - 1
   first: Vladimir
   full: Vladimir Popescu
@@ -900,12 +890,12 @@ vladislav-kubon:
 vladislav-maraev:
   coauthors:
   - - christine-howes
-    - 6
+    - 7
   - - ellen-breitholtz
     - 3
-  - - jonathan-ginzburg
-    - 3
   - - chiara-mazzocconi
+    - 3
+  - - jonathan-ginzburg
     - 3
   - - staffan-larsson
     - 3
@@ -913,9 +903,21 @@ vladislav-maraev:
     - 2
   - - bill-noble
     - 2
-  - - ye-tian
+  - - alafate-abulimiti
     - 1
-  - - andrea-carrion-del-fresno
+  - - vanessa-vanzan
+    - 1
+  - - nikolai-ilinykh
+    - 1
+  - - erik-lagerstedt
+    - 1
+  - - amy-han-qiu
+    - 1
+  - - arash-eshghi
+    - 1
+  - - julian-hough
+    - 1
+  - - ye-tian
     - 1
   - - adam-ek
     - 1
@@ -933,16 +935,16 @@ vladislav-maraev:
     - 1
   - - sara-amido
     - 1
+  - - andrea-carrion-del-fresno
+    - 1
   - - ebba-axelsson-nord
-    - 1
-  - - arash-eshghi
-    - 1
-  - - julian-hough
     - 1
   first: Vladislav
   full: Vladislav Maraev
   last: Maraev
   papers:
+  - Z25-3309
+  - Z25-4425
   - Z24-3010
   - Z24-4026
   - Z23-4026
@@ -957,7 +959,7 @@ vladislav-maraev:
   slug: vladislav-maraev
   venues:
   - - SEMDIAL
-    - 11
+    - 13
 vlado-keselj:
   coauthors: []
   first: Vlado

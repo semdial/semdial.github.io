@@ -1,18 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="t-healey-2011-structural">
+<mods ID="healey-2011-structural-divergence">
     <titleInfo>
         <title>Structural Divergence in Dialogue</title>
     </titleInfo>
     <name type="personal">
         <namePart type="given">Patrick</namePart>
         <namePart type="given">G</namePart>
-        <namePart type="family">T.</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
         <namePart type="given">T</namePart>
         <namePart type="family">Healey</namePart>
         <role>
@@ -35,7 +29,7 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">t-healey-2011-structural</identifier>
+    <identifier type="citekey">healey-2011-structural-divergence</identifier>
     <location>
         <url>http://semdial.org/anthology/Z11-G._semdial_0017.pdf</url>
     </location>

@@ -395,9 +395,9 @@ Z20-3015:
     id: benoit-favre
     last: Favre
   - first: Laurent
-    full: Laurent Prvot
-    id: laurent-prvot
-    last: Prvot
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
   bibkey: fuscone-etal-2020-contribution
   bibtype: inproceedings
   booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics

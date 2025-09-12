@@ -1,0 +1,1281 @@
+Z25-1000:
+  address: Bielefeld, Germany
+  author:
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Amelie
+    full: Amelie Robrecht
+    id: amelie-robrecht
+    last: Robrecht
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  bibkey: semdial-2025-semantics
+  bibtype: proceedings
+  month: September
+  paper_id: '1000'
+  parent_volume_id: Z25-1
+  publisher: SEMDIAL
+  title: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue
+    \u2013 Front Matter"
+  title_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics of
+    Dialogue \u2013 Front Matter"
+  url: http://semdial.org/anthology/semdial2025_bialogue_front_matter.pdf
+  year: '2025'
+Z25-2201:
+  address: Bielefeld, Germany
+  author:
+  - first: Arabella
+    full: Arabella Sinclair
+    id: arabella-sinclair
+    last: Sinclair
+  bibkey: sinclair-2025-many
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Invited Talks"
+  month: September
+  page_first: '2'
+  page_last: '2'
+  pages: "2\u20132"
+  paper_id: '2201'
+  parent_volume_id: Z25-2
+  publisher: SEMDIAL
+  title: The Many Reasons for Repetition in Dialogue
+  title_html: The Many Reasons for Repetition in Dialogue
+  url: http://semdial.org/anthology/Z25-Sinclair_semdial_2201.pdf
+  year: '2025'
+Z25-2202:
+  address: Bielefeld, Germany
+  author:
+  - first: Robert D.
+    full: Robert D. Hawkins
+    id: robert-d-hawkins
+    last: Hawkins
+  bibkey: hawkins-2025-foraging
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Invited Talks"
+  month: September
+  page_first: '3'
+  page_last: '3'
+  pages: "3\u20133"
+  paper_id: '2202'
+  parent_volume_id: Z25-2
+  publisher: SEMDIAL
+  title: Foraging for Common Ground
+  title_html: Foraging for Common Ground
+  url: http://semdial.org/anthology/Z25-Hawkins_semdial_2202.pdf
+  year: '2025'
+Z25-2203:
+  address: Bielefeld, Germany
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: schlangen-2025-meaningful
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Invited Talks"
+  month: September
+  page_first: '4'
+  page_last: '4'
+  pages: "4\u20134"
+  paper_id: '2203'
+  parent_volume_id: Z25-2
+  publisher: SEMDIAL
+  title: Meaningful Interaction with Unreal Speakers?
+  title_html: Meaningful Interaction with Unreal Speakers?
+  url: http://semdial.org/anthology/Z25-Schlangen_semdial_2203.pdf
+  year: '2025'
+Z25-3304:
+  address: Bielefeld, Germany
+  author:
+  - first: Jan
+    full: Jan Fliessbach
+    id: jan-fliessbach
+    last: Fliessbach
+  - first: Lucia M.
+    full: Lucia M. Tovena
+    id: lucia-m-tovena
+    last: Tovena
+  - first: Damien
+    full: Damien Fleury
+    id: damien-fleury
+    last: Fleury
+  bibkey: fliessbach-etal-2025-grammatical
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '6'
+  page_last: '16'
+  pages: "6\u201316"
+  paper_id: '3304'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Grammatical Person as a Clue to Interpreting French How-Questions
+  title_html: Grammatical Person as a Clue to Interpreting French How-Questions
+  url: http://semdial.org/anthology/Z25-Fliessbach_semdial_3304.pdf
+  year: '2025'
+Z25-3305:
+  address: Bielefeld, Germany
+  author:
+  - first: Leonie
+    full: Leonie Schade
+    id: leonie-schade
+    last: Schade
+  - first: Daniel
+    full: Daniel Duran
+    id: daniel-duran
+    last: Duran
+  - first: Sina
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
+  - first: Joana
+    full: Joana Cholin
+    id: joana-cholin
+    last: Cholin
+  - first: Petra
+    full: Petra Wagner
+    id: petra-wagner
+    last: Wagner
+  bibkey: schade-etal-2025-take
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '17'
+  page_last: '36'
+  pages: "17\u201336"
+  paper_id: '3305'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Does It Take Two to Do an Articulatory Tango? Investigating the Production
+    of Novel Phonetic Forms in Varying Communicative Settings
+  title_html: Does It Take Two to Do an Articulatory Tango? Investigating the Production
+    of Novel Phonetic Forms in Varying Communicative Settings
+  url: http://semdial.org/anthology/Z25-Schade_semdial_3305.pdf
+  year: '2025'
+Z25-3306:
+  address: Bielefeld, Germany
+  author:
+  - first: Zulipiye
+    full: Zulipiye Yusupujiang
+    id: zulipiye-yusupujiang
+    last: Yusupujiang
+  - first: Paola
+    full: Paola Herreno-Castaneda
+    id: paola-herreno-castaneda
+    last: Herreno-Castaneda
+  - first: Mathilde
+    full: Mathilde Dargnat
+    id: mathilde-dargnat
+    last: Dargnat
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: yusupujiang-etal-2025-multiple
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '37'
+  page_last: '47'
+  pages: "37\u201347"
+  paper_id: '3306'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: "\u2018No No No No No No No\u2019: Multiple Repetition in Dialogue"
+  title_html: "\u2018No No No No No No No\u2019: Multiple Repetition in Dialogue"
+  url: http://semdial.org/anthology/Z25-Yusupujiang_semdial_3306.pdf
+  year: '2025'
+Z25-3307:
+  address: Bielefeld, Germany
+  author:
+  - first: Abhishek
+    full: Abhishek Agrawal
+    id: abhishek-agrawal
+    last: Agrawal
+  - first: Benoit
+    full: Benoit Favre
+    id: benoit-favre
+    last: Favre
+  - first: Abdellah
+    full: Abdellah Fourtassi
+    id: abdellah-fourtassi
+    last: Fourtassi
+  bibkey: agrawal-etal-2025-identifying
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '48'
+  page_last: '59'
+  pages: "48\u201359"
+  paper_id: '3307'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Identifying Repair Opportunities in Child-Caregiver Interactions
+  title_html: Identifying Repair Opportunities in Child-Caregiver Interactions
+  url: http://semdial.org/anthology/Z25-Agrawal_semdial_3307.pdf
+  year: '2025'
+Z25-3308:
+  address: Bielefeld, Germany
+  author:
+  - first: Clara
+    full: "Clara Gr\xE9goire"
+    id: clara-gregoire
+    last: "Gr\xE9goire"
+  - first: "H\xE9lo\xEFse"
+    full: "H\xE9lo\xEFse Retournard"
+    id: heloise-retournard
+    last: Retournard
+  - first: "St\xE9phane"
+    full: "St\xE9phane Rauzy"
+    id: stephane-rauzy
+    last: Rauzy
+  - first: Maud
+    full: Maud Champagne-Lavau
+    id: maud-champagne-lavau
+    last: Champagne-Lavau
+  bibkey: gregoire-etal-2025-young
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '60'
+  page_last: '70'
+  pages: "60\u201370"
+  paper_id: '3308'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Do Young Adolescents Draw on Common Ground Like Adults?
+  title_html: Do Young Adolescents Draw on Common Ground Like Adults?
+  url: http://semdial.org/anthology/Z25-Gregoire_semdial_3308.pdf
+  year: '2025'
+Z25-3309:
+  address: Bielefeld, Germany
+  author:
+  - first: Alafate
+    full: Alafate Abulimiti
+    id: alafate-abulimiti
+    last: Abulimiti
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  bibkey: abulimiti-maraev-2025-social
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '71'
+  page_last: '80'
+  pages: "71\u201380"
+  paper_id: '3309'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Social Repair
+  title_html: Social Repair
+  url: http://semdial.org/anthology/Z25-Abulimiti_semdial_3309.pdf
+  year: '2025'
+Z25-3310:
+  address: Bielefeld, Germany
+  author:
+  - first: Bill
+    full: Bill Noble
+    id: bill-noble
+    last: Noble
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Jenny
+    full: Jenny Myrendal
+    id: jenny-myrendal
+    last: Myrendal
+  bibkey: noble-etal-2025-misunderstanding
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '81'
+  page_last: '91'
+  pages: "81\u201391"
+  paper_id: '3310'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: 'Misunderstanding the Concrete, Disagreeing About the Abstract: A Closer
+    Look at Word Meaning Negotiation Triggers'
+  title_html: 'Misunderstanding the Concrete, Disagreeing About the Abstract: A Closer
+    Look at Word Meaning Negotiation Triggers'
+  url: http://semdial.org/anthology/Z25-Noble_semdial_3310.pdf
+  year: '2025'
+Z25-3311:
+  address: Bielefeld, Germany
+  author:
+  - first: Jing
+    full: Jing Liu
+    id: jing-liu
+    last: Liu
+  - first: Abdellah
+    full: Abdellah Fourtassi
+    id: abdellah-fourtassi
+    last: Fourtassi
+  bibkey: liu-fourtassi-2025-benchmarking
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '92'
+  page_last: '103'
+  pages: "92\u2013103"
+  paper_id: '3311'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Benchmarking LLMs for Mimicking Child-Caregiver Language in Interaction
+  title_html: Benchmarking LLMs for Mimicking Child-Caregiver Language in Interaction
+  url: http://semdial.org/anthology/Z25-Liu_semdial_3311.pdf
+  year: '2025'
+Z25-3312:
+  address: Bielefeld, Germany
+  author:
+  - first: Nicholas Thomas
+    full: Nicholas Thomas Walker
+    id: nicholas-thomas-walker
+    last: Walker
+  - first: Nicolas
+    full: Nicolas Wagner
+    id: nicolas-wagner
+    last: Wagner
+  - first: Laetitia
+    full: Laetitia Hilgendorf
+    id: laetitia-hilgendorf
+    last: Hilgendorf
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  bibkey: walker-etal-2025-conv
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '104'
+  page_last: '114'
+  pages: "104\u2013114"
+  paper_id: '3312'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: 'Conv-BDI: An Extension of the BDI Framework for Conversational Agents'
+  title_html: 'Conv-BDI: An Extension of the BDI Framework for Conversational Agents'
+  url: http://semdial.org/anthology/Z25-Walker_semdial_3312.pdf
+  year: '2025'
+Z25-3313:
+  address: Bielefeld, Germany
+  author:
+  - first: Yuki
+    full: Yuki Zenimoto
+    id: yuki-zenimoto
+    last: Zenimoto
+  - first: Mariko
+    full: Mariko Yoshida
+    id: mariko-yoshida
+    last: Yoshida
+  - first: Ryo
+    full: Ryo Hori
+    id: ryo-hori
+    last: Hori
+  - first: Mayu
+    full: Mayu Urata
+    id: mayu-urata
+    last: Urata
+  - first: Aiko
+    full: Aiko Inoue
+    id: aiko-inoue
+    last: Inoue
+  - first: Takahiro
+    full: Takahiro Hayashi
+    id: takahiro-hayashi
+    last: Hayashi
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  bibkey: zenimoto-etal-2025-automated
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '115'
+  page_last: '124'
+  pages: "115\u2013124"
+  paper_id: '3313'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Automated Administration of Questionnaires During Casual Conversation Using
+    Question-Guiding Dialogue System
+  title_html: Automated Administration of Questionnaires During Casual Conversation
+    Using Question-Guiding Dialogue System
+  url: http://semdial.org/anthology/Z25-Zenimoto_semdial_3313.pdf
+  year: '2025'
+Z25-3314:
+  address: Bielefeld, Germany
+  author:
+  - first: Stefan
+    full: Stefan Blohm
+    id: stefan-blohm
+    last: Blohm
+  - first: Mathias
+    full: Mathias Barthel
+    id: mathias-barthel
+    last: Barthel
+  bibkey: blohm-barthel-2025-cold
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '125'
+  page_last: '134'
+  pages: "125\u2013134"
+  paper_id: '3314'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Why So Cold and Distant? Effects of Inter-turn Gap Durations on Observers'
+    Attributions of Interpersonal Stance
+  title_html: Why So Cold and Distant? Effects of Inter-turn Gap Durations on Observers'
+    Attributions of Interpersonal Stance
+  url: http://semdial.org/anthology/Z25-Blohm_semdial_3314.pdf
+  year: '2025'
+Z25-3315:
+  address: Bielefeld, Germany
+  author:
+  - first: Mathias
+    full: Mathias Barthel
+    id: mathias-barthel
+    last: Barthel
+  bibkey: barthel-2025-alexa
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '135'
+  page_last: '145'
+  pages: "135\u2013145"
+  paper_id: '3315'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: "Alexa, You Are Too Slow! Invariant Turn-Transition Times and Conversational
+    Flow in Natural Human\u2013Voice Agent Interaction"
+  title_html: "Alexa, You Are Too Slow! Invariant Turn-Transition Times and Conversational
+    Flow in Natural Human\u2013Voice Agent Interaction"
+  url: http://semdial.org/anthology/Z25-Barthel_semdial_3315.pdf
+  year: '2025'
+Z25-3316:
+  address: Bielefeld, Germany
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Felix
+    full: Felix Voll
+    id: felix-voll
+    last: Voll
+  - first: Daniel
+    full: Daniel Rott
+    id: daniel-rott
+    last: Rott
+  - first: Alexander
+    full: Alexander Henlein
+    id: alexander-henlein
+    last: Henlein
+  - first: Alexander
+    full: Alexander Mehler
+    id: alexander-mehler
+    last: Mehler
+  bibkey: lucking-etal-2025-head
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '146'
+  page_last: '156'
+  pages: "146\u2013156"
+  paper_id: '3316'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: "Head and Hand Movements During Turn Transitions: Data-Based Multimodal Analysis
+    Using the Frankfurt VR Gesture\u2013Speech Alignment Corpus (FraGA)"
+  title_html: "Head and Hand Movements During Turn Transitions: Data-Based Multimodal
+    Analysis Using the Frankfurt VR Gesture\u2013Speech Alignment Corpus (FraGA)"
+  url: http://semdial.org/anthology/Z25-Luecking_semdial_3316.pdf
+  year: '2025'
+Z25-3317:
+  address: Bielefeld, Germany
+  author:
+  - first: Gonzalo
+    full: Gonzalo Freijedo Aduna
+    id: gonzalo-freijedo-aduna
+    last: Freijedo Aduna
+  - first: Alda
+    full: Alda Mari
+    id: alda-mari
+    last: Mari
+  bibkey: freijedo-aduna-mari-2025-information
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '157'
+  page_last: '169'
+  pages: "157\u2013169"
+  paper_id: '3317'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: 'Information Exchange vs. Opinion Discussion As Distinct Communicative Contexts
+    in Online Conversations: A Corpus-Based Study of Speech Acts and Rhetorical Relations
+    Dynamics in Dialogue'
+  title_html: 'Information Exchange vs. Opinion Discussion As Distinct Communicative
+    Contexts in Online Conversations: A Corpus-Based Study of Speech Acts and Rhetorical
+    Relations Dynamics in Dialogue'
+  url: http://semdial.org/anthology/Z25-Freijedo-Aduna_semdial_3317.pdf
+  year: '2025'
+Z25-3318:
+  address: Bielefeld, Germany
+  author:
+  - first: Karl
+    full: Karl Clarke
+    id: karl-clarke
+    last: Clarke
+  - first: Patrick
+    full: Patrick Healey
+    id: patrick-healey
+    last: Healey
+  bibkey: clarke-healey-2025-shaping
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '170'
+  page_last: '180'
+  pages: "170\u2013180"
+  paper_id: '3318'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: 'Shaping Virtual Interactions: F-Formations in Social VR'
+  title_html: 'Shaping Virtual Interactions: F-Formations in Social VR'
+  url: http://semdial.org/anthology/Z25-Clarke_semdial_3318.pdf
+  year: '2025'
+Z25-3319:
+  address: Bielefeld, Germany
+  author:
+  - first: Naphat
+    full: Naphat Jittavisutthikul
+    id: naphat-jittavisutthikul
+    last: Jittavisutthikul
+  - first: Patrick
+    full: Patrick Healey
+    id: patrick-healey
+    last: Healey
+  - first: Sarah
+    full: Sarah Bourdin
+    id: sarah-bourdin
+    last: Bourdin
+  - first: Philip
+    full: Philip McNamee
+    id: philip-mcnamee
+    last: McNamee
+  bibkey: jittavisutthikul-etal-2025-seeking
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '181'
+  page_last: '192'
+  pages: "181\u2013192"
+  paper_id: '3319'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: 'Seeking Agreement in Remote Psychiatric Consultations: A Conversation Analytic
+    Perspective'
+  title_html: 'Seeking Agreement in Remote Psychiatric Consultations: A Conversation
+    Analytic Perspective'
+  url: http://semdial.org/anthology/Z25-Jittavisutthikul_semdial_3319.pdf
+  year: '2025'
+Z25-3320:
+  address: Bielefeld, Germany
+  author:
+  - first: Taro
+    full: Taro Tsuda
+    id: taro-tsuda
+    last: Tsuda
+  - first: Sanae
+    full: Sanae Yamashita
+    id: sanae-yamashita
+    last: Yamashita
+  - first: Koji
+    full: Koji Inoue
+    id: koji-inoue
+    last: Inoue
+  - first: Tatsuya
+    full: Tatsuya Kawahara
+    id: tatsuya-kawahara
+    last: Kawahara
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  bibkey: tsuda-etal-2025-constructing
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Full Papers"
+  month: September
+  page_first: '193'
+  page_last: '202'
+  pages: "193\u2013202"
+  paper_id: '3320'
+  parent_volume_id: Z25-3
+  publisher: SEMDIAL
+  title: Constructing a Multi-Party Conversational Corpus Focusing on Interlocutor
+    Relationships
+  title_html: Constructing a Multi-Party Conversational Corpus Focusing on Interlocutor
+    Relationships
+  url: http://semdial.org/anthology/Z25-Tsuda_semdial_3320.pdf
+  year: '2025'
+Z25-4421:
+  address: Bielefeld, Germany
+  author:
+  - first: Margareta
+    full: Margareta Berg
+    id: margareta-berg
+    last: Berg
+  - first: "Ildik\xF3"
+    full: "Ildik\xF3 Pil\xE1n"
+    id: ildiko-pilan
+    last: "Pil\xE1n"
+  - first: Ingrid Lossius
+    full: Ingrid Lossius Falkum
+    id: ingrid-lossius-falkum
+    last: Falkum
+  - first: Pierre
+    full: Pierre Lison
+    id: pierre-lison
+    last: Lison
+  bibkey: berg-etal-2025-pragmatic
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '204'
+  page_last: '209'
+  pages: "204\u2013209"
+  paper_id: '4421'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: Pragmatic Reasoning for Irony Detection With Large Language Models in English
+    and Norwegian
+  title_html: Pragmatic Reasoning for Irony Detection With Large Language Models in
+    English and Norwegian
+  url: http://semdial.org/anthology/Z25-Berg_semdial_4421.pdf
+  year: '2025'
+Z25-4422:
+  address: Bielefeld, Germany
+  author:
+  - first: Anna
+    full: Anna Palmann
+    id: anna-palmann
+    last: Palmann
+  - first: James P.
+    full: James P. Trujillo
+    id: james-p-trujillo
+    last: Trujillo
+  - first: Linda
+    full: Linda Drijvers
+    id: linda-drijvers
+    last: Drijvers
+  - first: Floris
+    full: Floris Roelofsen
+    id: floris-roelofsen
+    last: Roelofsen
+  bibkey: palmann-etal-2025-simply
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '210'
+  page_last: '212'
+  pages: "210\u2013212"
+  paper_id: '4422'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: "\u201CIt\u2019s Simply a Different Way of Communicating\u201D \u2013 Attitudes
+    on Nonverbal Communication of Autistic Adults in the Netherlands"
+  title_html: "\u201CIt\u2019s Simply a Different Way of Communicating\u201D \u2013
+    Attitudes on Nonverbal Communication of Autistic Adults in the Netherlands"
+  url: http://semdial.org/anthology/Z25-Palmann_semdial_4422.pdf
+  year: '2025'
+Z25-4423:
+  address: Bielefeld, Germany
+  author:
+  - first: Talha
+    full: Talha Bedir
+    id: talha-bedir
+    last: Bedir
+  - first: Bora
+    full: Bora Kara
+    id: bora-kara
+    last: Kara
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: bedir-etal-2025-laughing
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '213'
+  page_last: '215'
+  pages: "213\u2013215"
+  paper_id: '4423'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: Are You Laughing at Me? Patterns of Laughter While Playing a Voice Activated
+    Game in Pairs Compared to Single-Player
+  title_html: Are You Laughing at Me? Patterns of Laughter While Playing a Voice Activated
+    Game in Pairs Compared to Single-Player
+  url: http://semdial.org/anthology/Z25-Bedir_semdial_4423.pdf
+  year: '2025'
+Z25-4424:
+  address: Bielefeld, Germany
+  author:
+  - first: Kei
+    full: Kei Shimonishi
+    id: kei-shimonishi
+    last: Shimonishi
+  - first: Koji
+    full: Koji Inoue
+    id: koji-inoue
+    last: Inoue
+  - first: Yasuyuki
+    full: Yasuyuki Usuda
+    id: yasuyuki-usuda
+    last: Usuda
+  - first: Rui
+    full: Rui Sakaida
+    id: rui-sakaida
+    last: Sakaida
+  bibkey: shimonishi-etal-2025-toward
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '216'
+  page_last: '218'
+  pages: "216\u2013218"
+  paper_id: '4424'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: 'Toward Emotional Description via Meta-Dialogue: A Preliminary Framework
+    for Data Collection'
+  title_html: 'Toward Emotional Description via Meta-Dialogue: A Preliminary Framework
+    for Data Collection'
+  url: http://semdial.org/anthology/Z25-Shimonishi_semdial_4424.pdf
+  year: '2025'
+Z25-4425:
+  address: Bielefeld, Germany
+  author:
+  - first: Vanessa
+    full: Vanessa Vanzan
+    id: vanessa-vanzan
+    last: Vanzan
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Erik
+    full: Erik Lagerstedt
+    id: erik-lagerstedt
+    last: Lagerstedt
+  - first: Amy Han
+    full: Amy Han Qiu
+    id: amy-han-qiu
+    last: Qiu
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: vanzan-etal-2025-surprised
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '219'
+  page_last: '221'
+  pages: "219\u2013221"
+  paper_id: '4425'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: 'Surprised to Kill: Quantifying LLM Uncertainty in Morally-Charged Triadic
+    Dialogues'
+  title_html: 'Surprised to Kill: Quantifying LLM Uncertainty in Morally-Charged Triadic
+    Dialogues'
+  url: http://semdial.org/anthology/Z25-Vanzan_semdial_4425.pdf
+  year: '2025'
+Z25-4426:
+  address: Bielefeld, Germany
+  author:
+  - first: Mattias
+    full: Mattias Appelgren
+    id: mattias-appelgren
+    last: Appelgren
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  bibkey: appelgren-etal-2025-communication
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '222'
+  page_last: '224'
+  pages: "222\u2013224"
+  paper_id: '4426'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: Communication at an Angle
+  title_html: Communication at an Angle
+  url: http://semdial.org/anthology/Z25-Appelgren_semdial_4426.pdf
+  year: '2025'
+Z25-4427:
+  address: Bielefeld, Germany
+  author:
+  - first: Judith
+    full: Judith Sieker
+    id: judith-sieker
+    last: Sieker
+  - first: Clara
+    full: Clara Lachenmaier
+    id: clara-lachenmaier
+    last: Lachenmaier
+  - first: Sina
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
+  bibkey: sieker-etal-2025-flex
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '225'
+  page_last: '227'
+  pages: "225\u2013227"
+  paper_id: '4427'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: 'The FLEX Benchmark: Evaluating Pragmatic Competence in LLMs via False Presuppositions'
+  title_html: 'The FLEX Benchmark: Evaluating Pragmatic Competence in LLMs via False
+    Presuppositions'
+  url: http://semdial.org/anthology/Z25-Sieker_semdial_4427.pdf
+  year: '2025'
+Z25-4428:
+  address: Bielefeld, Germany
+  author:
+  - first: Shravani
+    full: Shravani Patil
+    id: shravani-patil
+    last: Patil
+  - first: Farhat
+    full: Farhat Jabeen
+    id: farhat-jabeen
+    last: Jabeen
+  bibkey: patil-jabeen-2025-one
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '228'
+  page_last: '230'
+  pages: "228\u2013230"
+  paper_id: '4428'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: 'One -hii to Rule Them All: Functions and Intonation of Particle -hii in
+    Hindi Movie Dialogues'
+  title_html: 'One -hii to Rule Them All: Functions and Intonation of Particle -hii
+    in Hindi Movie Dialogues'
+  url: http://semdial.org/anthology/Z25-Patil_semdial_4428.pdf
+  year: '2025'
+Z25-4429:
+  address: Bielefeld, Germany
+  author:
+  - first: Farhat
+    full: Farhat Jabeen
+    id: farhat-jabeen
+    last: Jabeen
+  - first: Shravani
+    full: Shravani Patil
+    id: shravani-patil
+    last: Patil
+  bibkey: jabeen-patil-2025-intonation
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '231'
+  page_last: '233'
+  pages: "231\u2013233"
+  paper_id: '4429'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: "Intonation, Prosodic Phrasing of Particle \u2018-hii\u2019 in Hindi/UrduDialogues"
+  title_html: "Intonation, Prosodic Phrasing of Particle \u2018-hii\u2019 in Hindi/UrduDialogues"
+  url: http://semdial.org/anthology/Z25-Jabeen_semdial_4429.pdf
+  year: '2025'
+Z25-4430:
+  address: Bielefeld, Germany
+  author:
+  - first: Valerio
+    full: Valerio Farriciello
+    id: valerio-farriciello
+    last: Farriciello
+  - first: Frank
+    full: "Frank F\xF6rster"
+    id: frank-forster
+    last: "F\xF6rster"
+  bibkey: farriciello-forster-2025-integrating
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '234'
+  page_last: '242'
+  pages: "234\u2013242"
+  paper_id: '4430'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: Integrating LLMs Into the DIARC Cognitive Architecture to Resolve Past Temporal
+    References
+  title_html: Integrating LLMs Into the DIARC Cognitive Architecture to Resolve Past
+    Temporal References
+  url: http://semdial.org/anthology/Z25-Farriciello_semdial_4430.pdf
+  year: '2025'
+Z25-4431:
+  address: Bielefeld, Germany
+  author:
+  - first: Mattias
+    full: Mattias Appelgren
+    id: mattias-appelgren
+    last: Appelgren
+  - first: Erik
+    full: Erik Lagerstedt
+    id: erik-lagerstedt
+    last: Lagerstedt
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Asad B.
+    full: Asad B. Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  bibkey: appelgren-etal-2025-across
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '243'
+  page_last: '245'
+  pages: "243\u2013245"
+  paper_id: '4431'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: "Across the Board: Human\u2013Human Game Learning Dialogues"
+  title_html: "Across the Board: Human\u2013Human Game Learning Dialogues"
+  url: http://semdial.org/anthology/Z25-Appelgren_semdial_4431.pdf
+  year: '2025'
+Z25-4432:
+  address: Bielefeld, Germany
+  author:
+  - first: Josephine B.
+    full: Josephine B. Fisher
+    id: josephine-b-fisher
+    last: Fisher
+  - first: Lutz
+    full: Lutz Terfloth
+    id: lutz-terfloth
+    last: Terfloth
+  bibkey: fisher-terfloth-2025-dual
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '246'
+  page_last: '248'
+  pages: "246\u2013248"
+  paper_id: '4432'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: The Dual Nature as a Local Context to Explore Verbal Behaviour in Game Explanations
+  title_html: The Dual Nature as a Local Context to Explore Verbal Behaviour in Game
+    Explanations
+  url: http://semdial.org/anthology/Z25-Fisher_semdial_4432.pdf
+  year: '2025'
+Z25-4433:
+  address: Bielefeld, Germany
+  author:
+  - first: "Ren\xE9"
+    full: "Ren\xE9 Nicolas"
+    id: rene-nicolas
+    last: Nicolas
+  - first: Arndt
+    full: Arndt Riester
+    id: arndt-riester
+    last: Riester
+  bibkey: nicolas-riester-2025-towards
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '249'
+  page_last: '251'
+  pages: "249\u2013251"
+  paper_id: '4433'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: Towards a Discourse-Structure Based Response Classification for Interviews
+  title_html: Towards a Discourse-Structure Based Response Classification for Interviews
+  url: http://semdial.org/anthology/Z25-Nicolas_semdial_4433.pdf
+  year: '2025'
+Z25-4434:
+  address: Bielefeld, Germany
+  author:
+  - first: Svetlana
+    full: Svetlana Stoyanchev
+    id: svetlana-stoyanchev
+    last: Stoyanchev
+  - first: Youmna
+    full: Youmna Farag
+    id: youmna-farag
+    last: Farag
+  - first: Simon
+    full: Simon Keizer
+    id: simon-keizer
+    last: Keizer
+  - first: Mohan
+    full: Mohan Li
+    id: mohan-li
+    last: Li
+  - first: Rama
+    full: Rama Doddipatla
+    id: rama-doddipatla
+    last: Doddipatla
+  bibkey: stoyanchev-etal-2025-contextual
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '252'
+  page_last: '254'
+  pages: "252\u2013254"
+  paper_id: '4434'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: Contextual Interpretation in Human-Robot Dialogue
+  title_html: Contextual Interpretation in Human-Robot Dialogue
+  url: http://semdial.org/anthology/Z25-Stoyanchev_semdial_4434.pdf
+  year: '2025'
+Z25-4435:
+  address: Bielefeld, Germany
+  author:
+  - first: Amandine
+    full: Amandine Decker
+    id: amandine-decker
+    last: Decker
+  - first: Maxime
+    full: Maxime Amblard
+    id: maxime-amblard
+    last: Amblard
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  bibkey: decker-etal-2025-mapping
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '255'
+  page_last: '257'
+  pages: "255\u2013257"
+  paper_id: '4435'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: 'Mapping the Landscape of Dialogue Research: A Meta-Analysis of ACL Anthology
+    2024'
+  title_html: 'Mapping the Landscape of Dialogue Research: A Meta-Analysis of ACL
+    Anthology 2024'
+  url: http://semdial.org/anthology/Z25-Decker_semdial_4435.pdf
+  year: '2025'
+Z25-4436:
+  address: Bielefeld, Germany
+  author:
+  - first: Caitlin Laura
+    full: Caitlin Laura Richter
+    id: caitlin-laura-richter
+    last: Richter
+  - first: Naizeth
+    full: "Naizeth N\xFA\xF1ez Mac\xEDas"
+    id: naizeth-nunez-macias
+    last: "N\xFA\xF1ez Mac\xEDas"
+  - first: "Stef\xE1n"
+    full: "Stef\xE1n \xD3lafsson"
+    id: stefan-olafsson
+    last: "\xD3lafsson"
+  - first: Jon
+    full: Jon Gudnason
+    id: jon-gudnason
+    last: Gudnason
+  - first: "Hannes H\xF6gni"
+    full: "Hannes H\xF6gni Vilhj\xE1lmsson"
+    id: hannes-hogni-vilhjalmsson
+    last: "Vilhj\xE1lmsson"
+  bibkey: richter-etal-2025-evaluating
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '258'
+  page_last: '260'
+  pages: "258\u2013260"
+  paper_id: '4436'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: Evaluating Prosodic Variation in English and Icelandic Synthesized Speech
+  title_html: Evaluating Prosodic Variation in English and Icelandic Synthesized Speech
+  url: http://semdial.org/anthology/Z25-Richter_semdial_4436.pdf
+  year: '2025'
+Z25-4437:
+  address: Bielefeld, Germany
+  author:
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Chris
+    full: Chris Madge
+    id: chris-madge
+    last: Madge
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  bibkey: hough-etal-2025-conceptual
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '261'
+  page_last: '263'
+  pages: "261\u2013263"
+  paper_id: '4437'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: 'Conceptual Pact Models of Reference in Building Games With Dialogue: Scaling
+    Up From Pentomino Puzzles to the Challenge of Minecraft'
+  title_html: 'Conceptual Pact Models of Reference in Building Games With Dialogue:
+    Scaling Up From Pentomino Puzzles to the Challenge of Minecraft'
+  url: http://semdial.org/anthology/Z25-Hough_semdial_4437.pdf
+  year: '2025'
+Z25-4438:
+  address: Bielefeld, Germany
+  author:
+  - first: Dominik
+    full: "Dominik K\xFCnkele"
+    id: dominik-kunkele
+    last: "K\xFCnkele"
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  bibkey: kunkele-dobnik-2025-learning
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '264'
+  page_last: '266'
+  pages: "264\u2013266"
+  paper_id: '4438'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: 'Learning to Refer: How Scene Complexity Affects Emergent Communication in
+    Neural Agents'
+  title_html: 'Learning to Refer: How Scene Complexity Affects Emergent Communication
+    in Neural Agents'
+  url: http://semdial.org/anthology/Z25-Kuenkele_semdial_4438.pdf
+  year: '2025'
+Z25-4439:
+  address: Bielefeld, Germany
+  author:
+  - first: "Oc\xE9ane"
+    full: "Oc\xE9ane Granier"
+    id: oceane-granier
+    last: Granier
+  - first: Roxane
+    full: Roxane Bertrand
+    id: roxane-bertrand
+    last: Bertrand
+  - first: "K\xE9vin"
+    full: "K\xE9vin Gravouil"
+    id: kevin-gravouil
+    last: Gravouil
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  bibkey: granier-etal-2025-task
+  bibtype: inproceedings
+  booktitle_html: "Proceedings of the 29th Workshop on the Semantics and Pragmatics
+    of Dialogue \u2013 Poster Abstracts"
+  month: September
+  page_first: '267'
+  page_last: '269'
+  pages: "267\u2013269"
+  paper_id: '4439'
+  parent_volume_id: Z25-4
+  publisher: SEMDIAL
+  title: How Task Complexity and Voice Type Shape Prosodic and Physiologic Cues of
+    Engagement in Human-Machine Dialogue
+  title_html: How Task Complexity and Voice Type Shape Prosodic and Physiologic Cues
+    of Engagement in Human-Machine Dialogue
+  url: http://semdial.org/anthology/Z25-Granier_semdial_4439.pdf
+  year: '2025'

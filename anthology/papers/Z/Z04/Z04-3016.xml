@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="reiser-2004-pointing">
+<mods ID="rieser-2004-pointing">
     <titleInfo>
         <title>Pointing in Dialogue</title>
     </titleInfo>
     <name type="personal">
         <namePart type="given">Hannes</namePart>
-        <namePart type="family">Reiser</namePart>
+        <namePart type="family">Rieser</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -27,7 +27,7 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">reiser-2004-pointing</identifier>
+    <identifier type="citekey">rieser-2004-pointing</identifier>
     <location>
         <url>http://semdial.org/anthology/016_Rieser_semdial2004_catalog_proceedings.pdf</url>
     </location>

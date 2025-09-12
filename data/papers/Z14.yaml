@@ -102,14 +102,14 @@ Z14-2004:
 Z14-3005:
   address: Edinburgh, United Kingdom
   author:
-  - first: Ozge
-    full: Ozge Alacam
+  - first: "\xD6zge"
+    full: "\xD6zge Ala\xE7am"
     id: ozge-alacam
-    last: Alacam
+    last: "Ala\xE7am"
   - first: Cengiz
-    full: Cengiz Acarturk
+    full: "Cengiz Acart\xFCrk"
     id: cengiz-acarturk
-    last: Acarturk
+    last: "Acart\xFCrk"
   - first: Christopher
     full: Christopher Habel
     id: christopher-habel
@@ -490,7 +490,7 @@ Z14-3020:
   author:
   - first: Jon
     full: Jon Stevens
-    id: jon-stevens1
+    id: jon-stevens
     last: Stevens
   - first: Anton
     full: Anton Benz
@@ -525,7 +525,7 @@ Z14-3021:
   author:
   - first: Antoine
     full: Antoine Venant
-    id: antoine-venant1
+    id: antoine-venant
     last: Venant
   - first: Nicholas
     full: Nicholas Asher
@@ -533,7 +533,7 @@ Z14-3021:
     last: Asher
   - first: "C\xE9dric"
     full: "C\xE9dric D\xE9gremont"
-    id: cedric-degremont1
+    id: cedric-degremont2
     last: "D\xE9gremont"
   bibkey: venant-etal-2014-credibility
   bibtype: inproceedings
@@ -1078,7 +1078,7 @@ Z14-4036:
     last: Kerzel
   - first: Ozge
     full: Ozge Alacam
-    id: ozge-alacam
+    id: ozge-alacam1
     last: Alacam
   - first: Christopher
     full: Christopher Habel
@@ -1086,7 +1086,7 @@ Z14-4036:
     last: Habel
   - first: Cengiz
     full: Cengiz Acarturk
-    id: cengiz-acarturk
+    id: cengiz-acarturk1
     last: Acarturk
   bibkey: kerzel-etal-2014-producing
   bibtype: inproceedings

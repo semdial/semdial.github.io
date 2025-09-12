@@ -362,15 +362,11 @@ Z11-3016:
 Z11-3017:
   address: Los Angeles, California
   author:
-  - first: Patrick G.
-    full: Patrick G. T.
-    id: patrick-g-t
-    last: T.
-  - first: T.
-    full: T. Healey
-    id: t-healey
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    id: patrick-healey
     last: Healey
-  bibkey: t-healey-2011-structural
+  bibkey: healey-2011-structural-divergence
   bibtype: inproceedings
   booktitle_html: Proceedings of the 15th Workshop on the Semantics and Pragmatics
     of Dialogue - Full Papers

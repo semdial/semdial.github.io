@@ -689,10 +689,11 @@ gerhard-jaeger:
   last: Jaeger
   papers:
   - Z12-3015
+  - Z05-2002
   slug: gerhard-jaeger
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 gerhard-paass:
   coauthors: []
   first: Gerhard
@@ -745,9 +746,9 @@ gesa-schole:
   coauthors:
   - - thora-tenbrink
     - 2
-  - - kenny-coventry
-    - 2
   - - elena-andonova
+    - 2
+  - - kenny-coventry
     - 2
   first: Gesa
   full: Gesa Schole
@@ -860,6 +861,16 @@ gijs-wijnholds:
     - 2
   - - christine-howes
     - 2
+  - - arash-eshghi
+    - 1
+  - - ruth-kempson
+    - 1
+  - - julian-hough
+    - 1
+  - - mehrnoosh-sadrzadeh
+    - 1
+  - - matthew-purver
+    - 1
   - - adam-ek
     - 1
   - - bill-noble
@@ -875,16 +886,6 @@ gijs-wijnholds:
   - - vladislav-maraev
     - 1
   - - gregory-mills
-    - 1
-  - - arash-eshghi
-    - 1
-  - - ruth-kempson
-    - 1
-  - - julian-hough
-    - 1
-  - - mehrnoosh-sadrzadeh
-    - 1
-  - - matthew-purver
     - 1
   first: Gijs
   full: Gijs Wijnholds
@@ -982,7 +983,7 @@ giota-stratou:
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - jon-gratch
     - 1
@@ -1102,15 +1103,15 @@ giuseppe-di-fabbrizio:
   venues: []
 giuseppe-riccardi:
   coauthors:
+  - - raffaella-bernardi
+    - 1
+  - - ellen-breitholtz
+    - 1
   - - christian-raymond
     - 1
   - - kepa-joseba-rodriguez1
     - 1
   - - joanna-wisniewska
-    - 1
-  - - raffaella-bernardi
-    - 1
-  - - ellen-breitholtz
     - 1
   first: Giuseppe
   full: Giuseppe Riccardi
@@ -1181,6 +1182,19 @@ gongbo-tang:
   papers: []
   slug: gongbo-tang
   venues: []
+gonzalo-freijedo-aduna:
+  coauthors:
+  - - alda-mari
+    - 1
+  first: Gonzalo
+  full: Gonzalo Freijedo Aduna
+  last: Freijedo Aduna
+  papers:
+  - Z25-3317
+  slug: gonzalo-freijedo-aduna
+  venues:
+  - - SEMDIAL
+    - 1
 goran-nenadic:
   coauthors: []
   first: Goran
@@ -1537,16 +1551,6 @@ gregory-mills:
     - 3
   - - christine-howes
     - 2
-  - - arash-eshghi
-    - 1
-  - - ruth-kempson
-    - 1
-  - - julian-hough
-    - 1
-  - - patrick-healey
-    - 1
-  - - matthew-purver
-    - 1
   - - adam-ek
     - 1
   - - bill-noble
@@ -1562,6 +1566,16 @@ gregory-mills:
   - - vladislav-maraev
     - 1
   - - gijs-wijnholds
+    - 1
+  - - arash-eshghi
+    - 1
+  - - ruth-kempson
+    - 1
+  - - julian-hough
+    - 1
+  - - patrick-healey
+    - 1
+  - - matthew-purver
     - 1
   first: Gregory
   full: Gregory Mills

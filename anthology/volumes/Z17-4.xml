@@ -41,7 +41,13 @@
     </name>
     <name type="personal">
         <namePart type="given">Takaaki</namePart>
-        <namePart type="given">Fukutomi,Kiyoaki</namePart>
+        <namePart type="family">Fukutomi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kiyoaki</namePart>
         <namePart type="family">Matsui</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>

@@ -101,8 +101,8 @@ Z22-3004:
   paper_id: '3004'
   parent_volume_id: Z22-3
   publisher: SEMDIAL
-  title: 'The Integrated Model of Memory: a dialogical perspective'
-  title_html: 'The Integrated Model of Memory: a dialogical perspective'
+  title: 'The Integrated Model of Memory: A Dialogical Perspective'
+  title_html: 'The Integrated Model of Memory: A Dialogical Perspective'
   url: http://semdial.org/anthology/Z22-Ginzburg_semdial_0004.pdf
   year: '2022'
 Z22-3005:
@@ -842,7 +842,7 @@ Z22-4033:
   author:
   - first: Fahima Ayub
     full: Fahima Ayub Khan
-    id: fahima-ayub-khan
+    id: fahima-ayub-khan1
     last: Khan
   - first: Bill
     full: Bill Noble

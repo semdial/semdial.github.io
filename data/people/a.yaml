@@ -49,41 +49,6 @@ a-kumaran:
   papers: []
   slug: a-kumaran
   venues: []
-a-lascarides:
-  coauthors:
-  - - n-asher
-    - 1
-  - - o-lemon
-    - 1
-  - - m-guhe
-    - 1
-  - - v-rieser
-    - 1
-  - - p-muller
-    - 1
-  - - s-afantenos
-    - 1
-  - - f-benamara
-    - 1
-  - - l-vieu
-    - 1
-  - - p-denis
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  - - c-degremont
-    - 1
-  first: A.
-  full: A. Lascarides
-  last: Lascarides
-  papers:
-  - Z12-4019
-  slug: a-lascarides
-  venues:
-  - - SEMDIAL
-    - 1
 aarne-ranta:
   coauthors:
   - - bjorn-bringert
@@ -125,6 +90,12 @@ abdelhak-mouradi:
   venues: []
 abdellah-fourtassi:
   coauthors:
+  - - abhishek-agrawal
+    - 1
+  - - benoit-favre
+    - 1
+  - - jing-liu
+    - 1
   - - thomas-misiek
     - 1
   - - charlie-hallart
@@ -137,12 +108,14 @@ abdellah-fourtassi:
   full: Abdellah Fourtassi
   last: Fourtassi
   papers:
+  - Z25-3307
+  - Z25-3311
   - Z22-3005
   - Z22-4039
   slug: abdellah-fourtassi
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 abdelmajid-ben-hamadou:
   coauthors: []
   first: Abdelmajid
@@ -238,6 +211,21 @@ abhinav-kumar:
   papers:
   - Z17-3008
   slug: abhinav-kumar
+  venues:
+  - - SEMDIAL
+    - 1
+abhishek-agrawal:
+  coauthors:
+  - - benoit-favre
+    - 1
+  - - abdellah-fourtassi
+    - 1
+  first: Abhishek
+  full: Abhishek Agrawal
+  last: Agrawal
+  papers:
+  - Z25-3307
+  slug: abhishek-agrawal
   venues:
   - - SEMDIAL
     - 1
@@ -615,6 +603,29 @@ aida-tarighat:
   venues:
   - - SEMDIAL
     - 1
+aiko-inoue:
+  coauthors:
+  - - yuki-zenimoto
+    - 1
+  - - mariko-yoshida
+    - 1
+  - - ryo-hori
+    - 1
+  - - mayu-urata
+    - 1
+  - - takahiro-hayashi
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  first: Aiko
+  full: Aiko Inoue
+  last: Inoue
+  papers:
+  - Z25-3313
+  slug: aiko-inoue
+  venues:
+  - - SEMDIAL
+    - 1
 aimilios-chalamandaris:
   coauthors: []
   first: Aimilios
@@ -737,6 +748,8 @@ alafate-abulimiti:
   coauthors:
   - - jonathan-ginzburg
     - 2
+  - - vladislav-maraev
+    - 1
   - - zulipiye-yusupujiang
     - 1
   - - justine-cassell
@@ -745,13 +758,14 @@ alafate-abulimiti:
   full: Alafate Abulimiti
   last: Abulimiti
   papers:
+  - Z25-3309
   - Z22-3009
   - Z21-3004
   - Z20-3009
   slug: alafate-abulimiti
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 alain-lecomte:
   coauthors: []
   first: Alain
@@ -910,11 +924,11 @@ alberto-testoni:
   coauthors:
   - - raffaella-bernardi
     - 2
-  - - davide-mazzaccara
-    - 1
   - - ravi-shekhar
     - 1
   - - raquel-fernandez
+    - 1
+  - - davide-mazzaccara
     - 1
   first: Alberto
   full: Alberto Testoni
@@ -936,6 +950,8 @@ albino-nogueiras:
   venues: []
 alda-mari:
   coauthors:
+  - - gonzalo-freijedo-aduna
+    - 1
   - - davide-catta
     - 1
   - - christian-retore
@@ -950,12 +966,13 @@ alda-mari:
   full: Alda Mari
   last: Mari
   papers:
+  - Z25-3317
   - Z24-4040
   - Z18-4023
   slug: alda-mari
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 alejandro-h-toselli:
   coauthors: []
   first: Alejandro H.
@@ -1049,42 +1066,46 @@ alex-klassmann:
 alex-lascarides:
   coauthors:
   - - nicholas-asher
-    - 4
+    - 5
   - - markus-guhe
+    - 4
+  - - verena-rieser
+    - 3
+  - - stergos-afantenos
     - 3
   - - matthew-stone
     - 2
-  - - stergos-afantenos
+  - - oliver-lemon
     - 2
-  - - verena-rieser
+  - - philippe-muller
     - 2
+  - - laure-vieu
+    - 2
+  - - pascal-denis
+    - 2
+  - - soumya-paul
+    - 2
+  - - simon-keizer
+    - 2
+  - - mattias-appelgren
+    - 1
+  - - kevin-o-connor
+    - 1
+  - - benamara-farah
+    - 1
+  - - cedric-degremont
+    - 1
   - - farah-benamara
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont
-    - 1
-  - - pascal-denis
-    - 1
-  - - simon-keizer
-    - 1
-  - - oliver-lemon
-    - 1
-  - - philippe-muller
-    - 1
-  - - soumya-paul
+  - - cedric-degremont1
     - 1
   - - vladimir-popescu
-    - 1
-  - - laure-vieu
     - 1
   - - julian-j-schloder
     - 1
   - - jeremy-perret
-    - 1
-  - - kevin-o-connor
-    - 1
-  - - mattias-appelgren
     - 1
   first: Alex
   full: Alex Lascarides
@@ -1096,6 +1117,7 @@ alex-lascarides:
   - Z14-3019
   - Z13-3012
   - Z12-3007
+  - Z12-4019
   - Z12-4029
   - Z10-3011
   - Z08-3009
@@ -1103,7 +1125,7 @@ alex-lascarides:
   slug: alex-lascarides
   venues:
   - - SEMDIAL
-    - 10
+    - 11
 alex-liu:
   coauthors: []
   first: Alex
@@ -1257,18 +1279,23 @@ alexander-gruenstein:
 alexander-henlein:
   coauthors:
   - - andy-lucking
-    - 1
+    - 2
   - - alexander-mehler
+    - 2
+  - - felix-voll
+    - 1
+  - - daniel-rott
     - 1
   first: Alexander
   full: Alexander Henlein
   last: Henlein
   papers:
+  - Z25-3316
   - Z24-4031
   slug: alexander-henlein
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 alexander-koller:
   coauthors:
   - - andrew-gargett
@@ -1295,21 +1322,26 @@ alexander-m-rush:
 alexander-mehler:
   coauthors:
   - - andy-lucking
-    - 2
-  - - peter-menke
-    - 1
+    - 3
   - - alexander-henlein
+    - 2
+  - - felix-voll
+    - 1
+  - - daniel-rott
+    - 1
+  - - peter-menke
     - 1
   first: Alexander
   full: Alexander Mehler
   last: Mehler
   papers:
+  - Z25-3316
   - Z24-4031
   - Z08-4026
   slug: alexander-mehler
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 alexander-richard-fabbri:
   coauthors: []
   first: Alexander
@@ -1660,9 +1692,9 @@ alison-k-huettner:
   venues: []
 alistair-knott:
   coauthors:
-  - - peter-vlugter
-    - 1
   - - nanda-slabbers
+    - 1
+  - - peter-vlugter
     - 1
   first: Alistair
   full: Alistair Knott
@@ -1864,25 +1896,26 @@ amanda-stent:
 amandine-decker:
   coauthors:
   - - ellen-breitholtz
+    - 3
+  - - maxime-amblard
     - 2
+  - - vincent-tourneur
+    - 1
   - - christine-howes
     - 1
   - - staffan-larsson
-    - 1
-  - - vincent-tourneur
-    - 1
-  - - maxime-amblard
     - 1
   first: Amandine
   full: Amandine Decker
   last: Decker
   papers:
+  - Z25-4435
   - Z24-4041
   - Z23-4016
   slug: amandine-decker
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 amarnag-subramanya:
   coauthors: []
   first: Amarnag
@@ -1922,19 +1955,24 @@ amelie-astbom:
     - 1
 amelie-robrecht:
   coauthors:
-  - - heike-buhl
-    - 1
   - - stefan-kopp
+    - 2
+  - - nikolai-ilinykh
+    - 1
+  - - hendrik-buschmeier
+    - 1
+  - - heike-buhl
     - 1
   first: Amelie
   full: Amelie Robrecht
   last: Robrecht
   papers:
+  - Z25-1000
   - Z24-4019
   slug: amelie-robrecht
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 amelie-s-robrecht:
   coauthors:
   - - josephine-b-fisher
@@ -2014,25 +2052,32 @@ amparo-elizabeth-cano-basave:
 amy-han-qiu:
   coauthors:
   - - vanessa-vanzan
+    - 2
+  - - christine-howes
+    - 2
+  - - nikolai-ilinykh
+    - 1
+  - - erik-lagerstedt
+    - 1
+  - - vladislav-maraev
     - 1
   - - chara-soupiona
-    - 1
-  - - christine-howes
     - 1
   first: Amy Han
   full: Amy Han Qiu
   last: Qiu
   papers:
+  - Z25-4425
   - Z24-3013
   slug: amy-han-qiu
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 amy-han-qiu1:
   coauthors:
   - - vanessa-vanzan
     - 1
-  - - fahima-ayub-khan1
+  - - fahima-ayub-khan
     - 1
   - - chara-soupiona
     - 1
@@ -2049,9 +2094,9 @@ amy-han-qiu1:
     - 1
 amy-isard:
   coauthors:
-  - - colin-matheson
-    - 1
   - - raquel-fernandez
+    - 1
+  - - colin-matheson
     - 1
   first: Amy
   full: Amy Isard
@@ -2127,7 +2172,7 @@ anais-cadilhac:
     - 1
   - - farah-benamara
     - 1
-  - - cedric-degremont
+  - - cedric-degremont1
     - 1
   - - pascal-denis
     - 1
@@ -2635,13 +2680,13 @@ andrew-gargett:
     - 2
   - - yo-sato
     - 1
-  - - alexander-koller
-    - 1
-  - - konstantina-garoufi
-    - 1
   - - matt-purver
     - 1
   - - greg-mills
+    - 1
+  - - alexander-koller
+    - 1
+  - - konstantina-garoufi
     - 1
   first: Andrew
   full: Andrew Gargett
@@ -2877,29 +2922,36 @@ andy-lucking:
   - - jonathan-ginzburg
     - 5
   - - hannes-rieser
+    - 4
+  - - alexander-mehler
     - 3
   - - marc-staudacher
     - 3
-  - - alexander-mehler
+  - - alexander-henlein
     - 2
+  - - felix-voll
+    - 1
+  - - daniel-rott
+    - 1
+  - - chris-eliasmith
+    - 1
   - - chiara-mazzocconi
     - 1
   - - darinka-verdonik
     - 1
   - - peter-menke
     - 1
+  - - jens-stegmann
+    - 1
   - - alfred-kranstedt
     - 1
   - - thies-thies
-    - 1
-  - - chris-eliasmith
-    - 1
-  - - alexander-henlein
     - 1
   first: Andy
   full: "Andy L\xFCcking"
   last: "L\xFCcking"
   papers:
+  - Z25-3316
   - Z24-3007
   - Z24-4031
   - Z23-1000
@@ -2912,25 +2964,11 @@ andy-lucking:
   - Z06-3012
   - Z06-3015
   - Z06-3018
+  - Z04-3011
   slug: andy-lucking
   venues:
   - - SEMDIAL
-    - 12
-andy-luecking:
-  coauthors:
-  - - hannes-reiser
-    - 1
-  - - jens-stegmann
-    - 1
-  first: Andy
-  full: Andy Luecking
-  last: Luecking
-  papers:
-  - Z04-3011
-  slug: andy-luecking
-  venues:
-  - - SEMDIAL
-    - 1
+    - 14
 andy-taylor:
   coauthors:
   - - verena-rieser
@@ -3069,14 +3107,12 @@ angus-addlessee:
 anh-duong-trinh:
   coauthors:
   - - john-kelleher
-    - 2
+    - 3
+  - - robert-ross
+    - 1
   - - robert-j-ross
     - 1
-  - - john-d-kelleher
-    - 1
   - - robert-j-ross1
-    - 1
-  - - robert-ross
     - 1
   first: Anh Duong
   full: Anh Duong Trinh
@@ -3229,13 +3265,13 @@ anna-bruns:
     - 1
 anna-hjalmarsson:
   coauthors:
-  - - margaret-zellers
-    - 1
   - - jens-edlund
     - 1
   - - joakim-gustafson
     - 1
   - - gabriel-skantze
+    - 1
+  - - margaret-zellers
     - 1
   first: Anna
   full: Anna Hjalmarsson
@@ -3291,6 +3327,23 @@ anna-n-rafferty:
   papers: []
   slug: anna-n-rafferty
   venues: []
+anna-palmann:
+  coauthors:
+  - - james-p-trujillo
+    - 1
+  - - linda-drijvers
+    - 1
+  - - floris-roelofsen
+    - 1
+  first: Anna
+  full: Anna Palmann
+  last: Palmann
+  papers:
+  - Z25-4422
+  slug: anna-palmann
+  venues:
+  - - SEMDIAL
+    - 1
 anna-sagvall-hein:
   coauthors: []
   first: Anna
@@ -3333,7 +3386,9 @@ anne-abeille:
   coauthors:
   - - benoit-crabbe1
     - 1
-  - - daniele-godard-jean-marie-marandin
+  - - daniele-godard
+    - 1
+  - - jean-marie-marandin
     - 1
   first: Anne
   full: "Anne Abeill\xE9"
@@ -3573,34 +3628,22 @@ antje-rossdeutscher:
   venues: []
 antoine-venant:
   coauthors:
+  - - nicholas-asher
+    - 2
   - - julian-j-schloder
     - 1
-  - - nicholas-asher
-    - 1
-  first: Antoine
-  full: Antoine Venant,
-  last: Venant,
-  papers:
-  - Z16-4020
-  slug: antoine-venant
-  venues:
-  - - SEMDIAL
-    - 1
-antoine-venant1:
-  coauthors:
-  - - nicholas-asher
-    - 1
-  - - cedric-degremont1
+  - - cedric-degremont2
     - 1
   first: Antoine
   full: Antoine Venant
   last: Venant
   papers:
+  - Z16-4020
   - Z14-3021
-  slug: antoine-venant1
+  slug: antoine-venant
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 anton-batliner:
   coauthors: []
   first: Anton
@@ -3615,6 +3658,8 @@ anton-benz:
     - 3
   - - sebastian-reusse
     - 2
+  - - jon-stevens
+    - 2
   - - christoph-hesse
     - 1
   - - maryam-mohammadi
@@ -3623,15 +3668,11 @@ anton-benz:
     - 1
   - - judith-fischer
     - 1
-  - - jon-stevens
-    - 1
-  - - jon-stevens1
-    - 1
-  - - ronja-laarmann-quante
-    - 1
   - - nuria-bertomeu
     - 1
   - - alexandra-strekalova
+    - 1
+  - - ronja-laarmann-quante
     - 1
   first: Anton
   full: Anton Benz
@@ -3814,7 +3855,7 @@ antonio-moreno-sandoval:
   venues: []
 antonio-origlia:
   coauthors:
-  - - maria-di-maro1
+  - - maria-di-maro
     - 1
   - - francesco-cutugno
     - 1
@@ -3845,6 +3886,10 @@ antonio-rincon:
   venues: []
 antonio-roque:
   coauthors:
+  - - hua-ai
+    - 2
+  - - david-traum
+    - 2
   - - matthew-marge
     - 1
   - - felix-gervits
@@ -3859,26 +3904,12 @@ antonio-roque:
   papers:
   - Z20-3006
   - Z11-4031
+  - Z06-4042
+  - Z06-4046
   slug: antonio-roque
   venues:
   - - SEMDIAL
-    - 2
-antonio-roque1:
-  coauthors:
-  - - hua-ai
-    - 2
-  - - david-traum
-    - 2
-  first: Antonio
-  full: Antonio Roque,
-  last: Roque,
-  papers:
-  - Z06-4042
-  - Z06-4046
-  slug: antonio-roque1
-  venues:
-  - - SEMDIAL
-    - 2
+    - 4
 antonio-s-valderrabanos:
   coauthors: []
   first: Antonio S.
@@ -3945,22 +3976,23 @@ aparna-nurani-venkitasubramanian:
   venues: []
 arabella-sinclair:
   coauthors:
+  - - raquel-fernandez
+    - 1
   - - jon-oberlander
     - 1
   - - dragan-gasevic
-    - 1
-  - - raquel-fernandez
     - 1
   first: Arabella
   full: Arabella Sinclair
   last: Sinclair
   papers:
+  - Z25-2201
   - Z21-3018
   - Z17-3017
   slug: arabella-sinclair
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 aram-karimi:
   coauthors:
   - - simon-dobnik
@@ -4009,10 +4041,10 @@ arash-ashrafzadeh:
 arash-eshghi:
   coauthors:
   - - oliver-lemon
-    - 5
-  - - julian-hough
-    - 4
+    - 6
   - - christine-howes
+    - 4
+  - - julian-hough
     - 4
   - - eleni-gregoromichelaki
     - 3
@@ -4020,19 +4052,25 @@ arash-eshghi:
     - 3
   - - matthew-purver
     - 3
-  - - patrick-healey
-    - 2
+  - - yanchao-yu
+    - 3
   - - mehrnoosh-sadrzadeh
     - 2
   - - igor-shalyminov
     - 2
-  - - yanchao-yu
+  - - patrick-healey
     - 2
+  - - gijs-wijnholds
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - chiara-mazzocconi
+    - 1
   - - arash-ashrafzadeh
     - 1
   - - dan-green
     - 1
-  - - carl-vogel
+  - - gregory-mills
     - 1
   - - stergios-chatzikyriakidis
     - 1
@@ -4040,13 +4078,7 @@ arash-eshghi:
     - 1
   - - graham-white
     - 1
-  - - gregory-mills
-    - 1
-  - - gijs-wijnholds
-    - 1
-  - - vladislav-maraev
-    - 1
-  - - chiara-mazzocconi
+  - - carl-vogel
     - 1
   first: Arash
   full: Arash Eshghi
@@ -4061,6 +4093,7 @@ arash-eshghi:
   - Z18-3008
   - Z17-3016
   - Z16-3009
+  - Z16-4021
   - Z15-4028
   - Z15-4049
   - Z14-3010
@@ -4068,22 +4101,7 @@ arash-eshghi:
   slug: arash-eshghi
   venues:
   - - SEMDIAL
-    - 13
-arash-eshghi1:
-  coauthors:
-  - - yanchao-yu
-    - 1
-  - - oliver-lemon
-    - 1
-  first: Arash
-  full: Arash Eshghi,
-  last: Eshghi,
-  papers:
-  - Z16-4021
-  slug: arash-eshghi1
-  venues:
-  - - SEMDIAL
-    - 1
+    - 14
 aravind-joshi:
   coauthors: []
   first: Aravind
@@ -4212,17 +4230,20 @@ arnaud-gingold:
     - 1
 arndt-riester:
   coauthors:
-  - - suwe-reyle
+  - - rene-nicolas
+    - 1
+  - - uwe-reyle
     - 1
   first: Arndt
   full: Arndt Riester
   last: Riester
   papers:
+  - Z25-4433
   - Z16-3006
   slug: arndt-riester
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 arne-jonsson:
   coauthors: []
   first: Arne
@@ -4269,9 +4290,16 @@ arthur-c-graesser:
   first: Arthur C.
   full: Arthur C. Graesser
   last: Graesser
-  papers: []
+  papers:
+  - Z05-2003
   slug: arthur-c-graesser
-  venues: []
+  variant_entries:
+  - first: Arthur
+    full: Arthur Graesser
+    last: Graesser
+  venues:
+  - - SEMDIAL
+    - 1
 arturo-calvo-devesa:
   coauthors: []
   first: Arturo Calvo
@@ -4353,14 +4381,18 @@ arzucan-ozgur:
   venues: []
 asad-sayeed:
   coauthors:
+  - - christine-howes
+    - 3
   - - staffan-larsson
     - 3
-  - - vidya-somashekarappa
-    - 2
-  - - christine-howes
-    - 2
   - - bill-noble
     - 2
+  - - vidya-somashekarappa
+    - 2
+  - - mattias-appelgren
+    - 1
+  - - erik-lagerstedt
+    - 1
   - - bogdan-laszlo
     - 1
   - - david-pagmar
@@ -4371,6 +4403,7 @@ asad-sayeed:
   full: Asad Sayeed
   last: Sayeed
   papers:
+  - Z25-4431
   - Z24-4017
   - Z24-4032
   - Z22-4041
@@ -4378,9 +4411,13 @@ asad-sayeed:
   - Z19-4038
   - Z19-4041
   slug: asad-sayeed
+  variant_entries:
+  - first: Asad B.
+    full: Asad B. Sayeed
+    last: Sayeed
   venues:
   - - SEMDIAL
-    - 6
+    - 7
 ascension-gallardo-antolin:
   coauthors: []
   first: Ascension

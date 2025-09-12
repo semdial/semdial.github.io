@@ -877,7 +877,7 @@ Z24-4030:
   author:
   - first: Paola
     full: "Paola Herre\xF1o Casta\xF1eda"
-    id: paola-herreno-castaneda
+    id: paola-herreno-castaneda1
     last: "Herre\xF1o Casta\xF1eda"
   - first: Jonathan
     full: Jonathan Ginzburg
@@ -1133,7 +1133,7 @@ Z24-4038:
     last: Han Qiu
   - first: Fahima
     full: Fahima Ayub Khan
-    id: fahima-ayub-khan1
+    id: fahima-ayub-khan
     last: Ayub Khan
   - first: Chara
     full: Chara Soupiona
@@ -1403,8 +1403,8 @@ Z24-4047:
     full: Jan Fliessbach
     id: jan-fliessbach
     last: Fliessbach
-  - first: Lucia M
-    full: Lucia M Tovena
+  - first: Lucia M.
+    full: Lucia M. Tovena
     id: lucia-m-tovena
     last: Tovena
   - first: Damien

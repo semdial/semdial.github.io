@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="shimonishi-etal-2025-toward">
+    <titleInfo>
+        <title>Toward Emotional Description via Meta-Dialogue: A Preliminary Framework for Data Collection</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kei</namePart>
+        <namePart type="family">Shimonishi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Koji</namePart>
+        <namePart type="family">Inoue</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yasuyuki</namePart>
+        <namePart type="family">Usuda</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rui</namePart>
+        <namePart type="family">Sakaida</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">shimonishi-etal-2025-toward</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Shimonishi_semdial_4424.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>216</start>
+            <end>218</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

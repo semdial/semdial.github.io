@@ -105,10 +105,10 @@ Z13-3005:
   address: Amsterdam, The Netherlands
   author:
   - first: Robin
-    full: Robin Copper
-    id: robin-copper
-    last: Copper
-  bibkey: copper-2013-update
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  bibkey: cooper-2013-update
   bibtype: inproceedings
   booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
     of Dialogue - Full Papers
@@ -497,9 +497,9 @@ Z13-3020:
     id: stefan-scherer
     last: Scherer
   - first: David
-    full: David Devault
-    id: david-devault1
-    last: Devault
+    full: David DeVault
+    id: david-devault
+    last: DeVault
   - first: Jon
     full: Jon Gratch
     id: jon-gratch
@@ -591,22 +591,22 @@ Z13-4023:
     full: Elma Hilbrink
     id: elma-hilbrink
     last: Hilbrink
-  - first: Susan
-    full: Susan C.~Bobb
-    id: susan-c-bobb1
-    last: C.~Bobb
-  - first: Eve
-    full: Eve V.~Clark
-    id: eve-v-clark1
-    last: V.~Clark
+  - first: Susan C.
+    full: Susan C. Bobb
+    id: susan-c-bobb
+    last: Bobb
+  - first: Eve V.
+    full: Eve V. Clark
+    id: eve-v-clark
+    last: Clark
   - first: Merideth
     full: Merideth Gattis
     id: merideth-gattis
     last: Gattis
-  - first: Stephen
-    full: Stephen C.~Levinson
-    id: stephen-c-levinson1
-    last: C.~Levinson
+  - first: Stephen C.
+    full: Stephen C. Levinson
+    id: stephen-c-levinson
+    last: Levinson
   bibkey: casillas-etal-2013-turn
   bibtype: inproceedings
   booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
@@ -631,8 +631,8 @@ Z13-4024:
     full: Laia Mayol
     id: laia-mayol
     last: Mayol
-  - first: E.~Allyn
-    full: E.~Allyn Smith
+  - first: E. Allyn
+    full: E. Allyn Smith
     id: e-allyn-smith
     last: Smith
   bibkey: castroviejo-etal-2013-putting

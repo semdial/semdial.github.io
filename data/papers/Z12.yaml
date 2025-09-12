@@ -250,9 +250,13 @@ Z12-3011:
     full: Benoit Crabbe
     id: benoit-crabbe1
     last: Crabbe
-  - first: Daniele Godard Jean-Marie
-    full: Daniele Godard Jean-Marie Marandin
-    id: daniele-godard-jean-marie-marandin
+  - first: Daniele
+    full: Daniele Godard
+    id: daniele-godard
+    last: Godard
+  - first: Jean-Marie
+    full: Jean-Marie Marandin
+    id: jean-marie-marandin
     last: Marandin
   bibkey: abeille-etal-2012-french
   bibtype: inproceedings
@@ -449,58 +453,58 @@ Z12-3018:
 Z12-4019:
   address: Paris, France
   author:
-  - first: N.
-    full: N. Asher
-    id: n-asher
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
     last: Asher
-  - first: A.
-    full: A. Lascarides
-    id: a-lascarides
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
     last: Lascarides
-  - first: O.
-    full: O. Lemon
-    id: o-lemon
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
     last: Lemon
-  - first: M.
-    full: M. Guhe
-    id: m-guhe
+  - first: Markus
+    full: Markus Guhe
+    id: markus-guhe
     last: Guhe
-  - first: V.
-    full: V. Rieser
-    id: v-rieser
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
     last: Rieser
-  - first: P.
-    full: P. Muller
-    id: p-muller
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
     last: Muller
-  - first: S.
-    full: S. Afantenos
-    id: s-afantenos
+  - first: Stergos
+    full: Stergos Afantenos
+    id: stergos-afantenos
     last: Afantenos
-  - first: F.
-    full: F. Benamara
-    id: f-benamara
-    last: Benamara
-  - first: L.
-    full: L. Vieu
-    id: l-vieu
+  - first: Benamara
+    full: Benamara Farah
+    id: benamara-farah
+    last: Farah
+  - first: Laure
+    full: Laure Vieu
+    id: laure-vieu
     last: Vieu
-  - first: P.
-    full: P. Denis
-    id: p-denis
+  - first: Pascal
+    full: Pascal Denis
+    id: pascal-denis
     last: Denis
-  - first: S.
-    full: S. Paul
-    id: s-paul
+  - first: Soumya
+    full: Soumya Paul
+    id: soumya-paul
     last: Paul
-  - first: S.
-    full: S. Keizer
-    id: s-keizer
+  - first: Simon
+    full: Simon Keizer
+    id: simon-keizer
     last: Keizer
-  - first: C.
-    full: C. Degremont
-    id: c-degremont
-    last: Degremont
+  - first: "C\xE9dric"
+    full: "C\xE9dric D\xE9gr\xE9mont"
+    id: cedric-degremont
+    last: "D\xE9gr\xE9mont"
   bibkey: asher-etal-2012-modelling
   bibtype: inproceedings
   booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
@@ -791,7 +795,7 @@ Z12-4029:
     last: Cadilhac
   - first: Cedric
     full: Cedric Degremont
-    id: cedric-degremont
+    id: cedric-degremont1
     last: Degremont
   - first: Pascal
     full: Pascal Denis
@@ -849,9 +853,9 @@ Z12-4030:
   address: Paris, France
   author:
   - first: Tina
-    full: Tina Kluwer
-    id: tina-kluwer1
-    last: Kluwer
+    full: "Tina Kl\xFCwer"
+    id: tina-kluwer
+    last: "Kl\xFCwer"
   - first: Hanz
     full: Hanz Uszkoreit
     id: hanz-uszkoreit
@@ -1024,7 +1028,7 @@ Z12-4036:
     last: Bertrand
   - first: Stephane
     full: Stephane Rauzy
-    id: stephane-rauzy
+    id: stephane-rauzy1
     last: Rauzy
   - first: Philippe
     full: Philippe Blache

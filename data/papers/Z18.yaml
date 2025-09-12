@@ -251,9 +251,9 @@ Z18-3009:
     id: peng-yu
     last: Yu
   - first: Ciaran
-    full: Ciaran OReilly
-    id: ciaran-oreilly
-    last: OReilly
+    full: Ciaran O'Reilly
+    id: ciaran-o-reilly
+    last: O'Reilly
   bibkey: shen-etal-2018-layered
   bibtype: inproceedings
   booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
@@ -487,9 +487,9 @@ Z18-3017:
     full: Robert J Ross
     id: robert-j-ross
     last: Ross
-  - first: John D
-    full: John D Kelleher
-    id: john-d-kelleher
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
     last: Kelleher
   bibkey: trinh-etal-2018-multi
   bibtype: inproceedings
@@ -730,9 +730,9 @@ Z18-4026:
     id: simone-fuscone
     last: Fuscone
   - first: Laurent
-    full: Laurent Pr\'evot
-    id: laurent-pr-evot
-    last: Pr\'evot
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
   - first: Benoit
     full: Benoit Favre
     id: benoit-favre

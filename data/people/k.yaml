@@ -70,24 +70,22 @@ kadri-hacioglu:
   papers: []
   slug: kadri-hacioglu
   venues: []
-kai:
+kai-florian-richter:
   coauthors:
   - - nina-dethlefs
     - 1
   - - heriberto-cuayahuitl
     - 1
-  - - florian-richter
-    - 1
   - - elena-andonova
     - 1
   - - john-bateman
     - 1
-  first: Kai
-  full: Kai -
-  last: '-'
+  first: Kai-Florian
+  full: Kai-Florian Richter
+  last: Richter
   papers:
   - Z10-4024
-  slug: kai
+  slug: kai-florian-richter
   venues:
   - - SEMDIAL
     - 1
@@ -158,9 +156,15 @@ kallirroi-georgila:
     - 2
   - - oliver-lemon
     - 2
+  - - volodymyr-yanov
+    - 1
   - - hyungtak-choi
     - 1
   - - jill-boberg
+    - 1
+  - - ellen-breitholtz
+    - 1
+  - - david-schlangen
     - 1
   - - james-henderson
     - 1
@@ -173,12 +177,6 @@ kallirroi-georgila:
   - - elsi-kaiser
     - 1
   - - amanda-stent
-    - 1
-  - - ellen-breitholtz
-    - 1
-  - - david-schlangen
-    - 1
-  - - volodymyr-yanov
     - 1
   first: Kallirroi
   full: Kallirroi Georgila
@@ -352,6 +350,19 @@ karine-baschung:
   papers: []
   slug: karine-baschung
   venues: []
+karl-clarke:
+  coauthors:
+  - - patrick-healey
+    - 1
+  first: Karl
+  full: Karl Clarke
+  last: Clarke
+  papers:
+  - Z25-3318
+  slug: karl-clarke
+  venues:
+  - - SEMDIAL
+    - 1
 karla-friedrichs:
   coauthors:
   - - jana-gotze1
@@ -677,9 +688,9 @@ katsuya-takanashi:
     - 7
   - - masato-ishizaki
     - 6
-  - - yasuharu-den
-    - 6
   - - mika-enomoto
+    - 6
+  - - yasuharu-den
     - 6
   - - yosuke-matsusaka
     - 2
@@ -761,7 +772,9 @@ kazuki-sakai:
     - 1
   - - tsunehiro-arimoto
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -899,6 +912,23 @@ kei-mitamura:
   papers: []
   slug: kei-mitamura
   venues: []
+kei-shimonishi:
+  coauthors:
+  - - koji-inoue
+    - 1
+  - - yasuyuki-usuda
+    - 1
+  - - rui-sakaida
+    - 1
+  first: Kei
+  full: Kei Shimonishi
+  last: Shimonishi
+  papers:
+  - Z25-4424
+  slug: kei-shimonishi
+  venues:
+  - - SEMDIAL
+    - 1
 kei-yoshimoto:
   coauthors: []
   first: Kei
@@ -1235,6 +1265,23 @@ kevin-d-ashley:
   papers: []
   slug: kevin-d-ashley
   venues: []
+kevin-gravouil:
+  coauthors:
+  - - oceane-granier
+    - 1
+  - - roxane-bertrand
+    - 1
+  - - laurent-prevot
+    - 1
+  first: "K\xE9vin"
+  full: "K\xE9vin Gravouil"
+  last: Gravouil
+  papers:
+  - Z25-4439
+  slug: kevin-gravouil
+  venues:
+  - - SEMDIAL
+    - 1
 kevin-humphreys:
   coauthors: []
   first: Kevin
@@ -1442,6 +1489,41 @@ kirsten-hadelich:
   venues:
   - - SEMDIAL
     - 1
+kiyoaki-matsui:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Kiyoaki
+  full: Kiyoaki Matsui
+  last: Matsui
+  papers:
+  - Z17-4019
+  slug: kiyoaki-matsui
+  venues:
+  - - SEMDIAL
+    - 1
 kiyohiro-shikano:
   coauthors: []
   first: Kiyohiro
@@ -1513,7 +1595,7 @@ klim-peshkov:
     - 1
   - - roxane-bertrand
     - 1
-  - - stephane-rauzy
+  - - stephane-rauzy1
     - 1
   - - philippe-blache
     - 1
@@ -1581,6 +1663,32 @@ koiti-hasida:
   papers: []
   slug: koiti-hasida
   venues: []
+koji-inoue:
+  coauthors:
+  - - taro-tsuda
+    - 1
+  - - sanae-yamashita
+    - 1
+  - - tatsuya-kawahara
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  - - kei-shimonishi
+    - 1
+  - - yasuyuki-usuda
+    - 1
+  - - rui-sakaida
+    - 1
+  first: Koji
+  full: Koji Inoue
+  last: Inoue
+  papers:
+  - Z25-3320
+  - Z25-4424
+  slug: koji-inoue
+  venues:
+  - - SEMDIAL
+    - 2
 kok-wee-gan:
   coauthors: []
   first: Kok Wee
@@ -1759,9 +1867,9 @@ kristina-lundholm:
     - 1
 kristina-lundholm-fors:
   coauthors:
-  - - ellen-breitholtz
-    - 1
   - - jessica-villing
+    - 1
+  - - ellen-breitholtz
     - 1
   first: Kristina Lundholm
   full: Kristina Lundholm Fors

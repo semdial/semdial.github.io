@@ -6,19 +6,6 @@ t-florian-jaeger:
   papers: []
   slug: t-florian-jaeger
   venues: []
-t-healey:
-  coauthors:
-  - - patrick-g-t
-    - 1
-  first: T.
-  full: T. Healey
-  last: Healey
-  papers:
-  - Z11-3017
-  slug: t-healey
-  venues:
-  - - SEMDIAL
-    - 1
 t-mark-ellison:
   coauthors: []
   first: T. Mark
@@ -75,7 +62,7 @@ taijiro-tsutsumi:
   papers: []
   slug: taijiro-tsutsumi
   venues: []
-takaaki-fukutomi-kiyoaki-matsui:
+takaaki-fukutomi:
   coauthors:
   - - ryuichiro-higashinaka
     - 1
@@ -86,6 +73,8 @@ takaaki-fukutomi-kiyoaki-matsui:
   - - hiromi-narimatsu
     - 1
   - - tsunehiro-arimoto
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -99,12 +88,35 @@ takaaki-fukutomi-kiyoaki-matsui:
     - 1
   - - yoshihiro-matsuo
     - 1
-  first: Takaaki Fukutomi,Kiyoaki
-  full: Takaaki Fukutomi,Kiyoaki Matsui
-  last: Matsui
+  first: Takaaki
+  full: Takaaki Fukutomi
+  last: Fukutomi
   papers:
   - Z17-4019
-  slug: takaaki-fukutomi-kiyoaki-matsui
+  slug: takaaki-fukutomi
+  venues:
+  - - SEMDIAL
+    - 1
+takahiro-hayashi:
+  coauthors:
+  - - yuki-zenimoto
+    - 1
+  - - mariko-yoshida
+    - 1
+  - - ryo-hori
+    - 1
+  - - mayu-urata
+    - 1
+  - - aiko-inoue
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  first: Takahiro
+  full: Takahiro Hayashi
+  last: Hayashi
+  papers:
+  - Z25-3313
+  slug: takahiro-hayashi
   venues:
   - - SEMDIAL
     - 1
@@ -244,6 +256,21 @@ taku-kudo:
   papers: []
   slug: taku-kudo
   venues: []
+talha-bedir:
+  coauthors:
+  - - bora-kara
+    - 1
+  - - christine-howes
+    - 1
+  first: Talha
+  full: Talha Bedir
+  last: Bedir
+  papers:
+  - Z25-4423
+  slug: talha-bedir
+  venues:
+  - - SEMDIAL
+    - 1
 tamara-berg:
   coauthors: []
   first: Tamara
@@ -373,6 +400,25 @@ tapas-nayak:
   papers: []
   slug: tapas-nayak
   venues: []
+taro-tsuda:
+  coauthors:
+  - - sanae-yamashita
+    - 1
+  - - koji-inoue
+    - 1
+  - - tatsuya-kawahara
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  first: Taro
+  full: Taro Tsuda
+  last: Tsuda
+  papers:
+  - Z25-3320
+  slug: taro-tsuda
+  venues:
+  - - SEMDIAL
+    - 1
 tat-seng-chua:
   coauthors: []
   first: Tat-Seng
@@ -426,6 +472,25 @@ tatsunori-mori:
   papers: []
   slug: tatsunori-mori
   venues: []
+tatsuya-kawahara:
+  coauthors:
+  - - taro-tsuda
+    - 1
+  - - sanae-yamashita
+    - 1
+  - - koji-inoue
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  first: Tatsuya
+  full: Tatsuya Kawahara
+  last: Kawahara
+  papers:
+  - Z25-3320
+  slug: tatsuya-kawahara
+  venues:
+  - - SEMDIAL
+    - 1
 tatyana-ruzsics:
   coauthors: []
   first: Tatyana
@@ -1193,23 +1258,15 @@ timothy-w-bickmore:
   slug: timothy-w-bickmore
   venues: []
 tina-kluwer:
-  coauthors: []
-  first: Tina
-  full: "Tina Kl\xFCwer"
-  last: "Kl\xFCwer"
-  papers: []
-  slug: tina-kluwer
-  venues: []
-tina-kluwer1:
   coauthors:
   - - hanz-uszkoreit
     - 1
   first: Tina
-  full: Tina Kluwer
-  last: Kluwer
+  full: "Tina Kl\xFCwer"
+  last: "Kl\xFCwer"
   papers:
   - Z12-4030
-  slug: tina-kluwer1
+  slug: tina-kluwer
   venues:
   - - SEMDIAL
     - 1
@@ -1670,15 +1727,19 @@ tsong-yi-chen:
   venues: []
 tsunehiro-arimoto:
   coauthors:
-  - - ryuichiro-higashinaka
-    - 2
   - - hiroaki-sugiyama
     - 2
   - - hiromi-narimatsu
     - 2
+  - - ryuichiro-higashinaka
+    - 2
+  - - masahiro-mizukami
+    - 1
   - - kazuki-sakai
     - 1
-  - - takaaki-fukutomi-kiyoaki-matsui
+  - - takaaki-fukutomi
+    - 1
+  - - kiyoaki-matsui
     - 1
   - - yusuke-ijima
     - 1
@@ -1691,8 +1752,6 @@ tsunehiro-arimoto:
   - - hiroshi-ishiguro
     - 1
   - - yoshihiro-matsuo
-    - 1
-  - - masahiro-mizukami
     - 1
   first: Tsunehiro
   full: Tsunehiro Arimoto

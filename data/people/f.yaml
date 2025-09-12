@@ -1,38 +1,3 @@
-f-benamara:
-  coauthors:
-  - - n-asher
-    - 1
-  - - a-lascarides
-    - 1
-  - - o-lemon
-    - 1
-  - - m-guhe
-    - 1
-  - - v-rieser
-    - 1
-  - - p-muller
-    - 1
-  - - s-afantenos
-    - 1
-  - - l-vieu
-    - 1
-  - - p-denis
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  - - c-degremont
-    - 1
-  first: F.
-  full: F. Benamara
-  last: Benamara
-  papers:
-  - Z12-4019
-  slug: f-benamara
-  venues:
-  - - SEMDIAL
-    - 1
 f-y-august-chao:
   coauthors: []
   first: F. Y. August
@@ -137,19 +102,6 @@ fahad-khan:
   venues: []
 fahima-ayub-khan:
   coauthors:
-  - - bill-noble
-    - 1
-  first: Fahima Ayub
-  full: Fahima Ayub Khan
-  last: Khan
-  papers:
-  - Z22-4033
-  slug: fahima-ayub-khan
-  venues:
-  - - SEMDIAL
-    - 1
-fahima-ayub-khan1:
-  coauthors:
   - - vanessa-vanzan
     - 1
   - - amy-han-qiu1
@@ -163,6 +115,19 @@ fahima-ayub-khan1:
   last: Ayub Khan
   papers:
   - Z24-4038
+  slug: fahima-ayub-khan
+  venues:
+  - - SEMDIAL
+    - 1
+fahima-ayub-khan1:
+  coauthors:
+  - - bill-noble
+    - 1
+  first: Fahima Ayub
+  full: Fahima Ayub Khan
+  last: Khan
+  papers:
+  - Z22-4033
   slug: fahima-ayub-khan1
   venues:
   - - SEMDIAL
@@ -215,7 +180,7 @@ farah-benamara:
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont
+  - - cedric-degremont1
     - 1
   - - pascal-denis
     - 1
@@ -246,6 +211,20 @@ farah-benamara:
   venues:
   - - SEMDIAL
     - 1
+farhat-jabeen:
+  coauthors:
+  - - shravani-patil
+    - 2
+  first: Farhat
+  full: Farhat Jabeen
+  last: Jabeen
+  papers:
+  - Z25-4428
+  - Z25-4429
+  slug: farhat-jabeen
+  venues:
+  - - SEMDIAL
+    - 2
 farid-cerbah:
   coauthors: []
   first: Farid
@@ -421,6 +400,25 @@ felix-hulsmann:
   papers:
   - Z15-4026
   slug: felix-hulsmann
+  venues:
+  - - SEMDIAL
+    - 1
+felix-voll:
+  coauthors:
+  - - andy-lucking
+    - 1
+  - - daniel-rott
+    - 1
+  - - alexander-henlein
+    - 1
+  - - alexander-mehler
+    - 1
+  first: Felix
+  full: Felix Voll
+  last: Voll
+  papers:
+  - Z25-3316
+  slug: felix-voll
   venues:
   - - SEMDIAL
     - 1
@@ -641,27 +639,6 @@ florian-hahn:
   venues:
   - - SEMDIAL
     - 4
-florian-richter:
-  coauthors:
-  - - nina-dethlefs
-    - 1
-  - - heriberto-cuayahuitl
-    - 1
-  - - kai
-    - 1
-  - - elena-andonova
-    - 1
-  - - john-bateman
-    - 1
-  first: Florian
-  full: Florian Richter
-  last: Richter
-  papers:
-  - Z10-4024
-  slug: florian-richter
-  venues:
-  - - SEMDIAL
-    - 1
 florin-bulgarov:
   coauthors: []
   first: Florin
@@ -670,6 +647,23 @@ florin-bulgarov:
   papers: []
   slug: florin-bulgarov
   venues: []
+floris-roelofsen:
+  coauthors:
+  - - anna-palmann
+    - 1
+  - - james-p-trujillo
+    - 1
+  - - linda-drijvers
+    - 1
+  first: Floris
+  full: Floris Roelofsen
+  last: Roelofsen
+  papers:
+  - Z25-4422
+  slug: floris-roelofsen
+  venues:
+  - - SEMDIAL
+    - 1
 florrie-verity:
   coauthors: []
   first: Florrie
@@ -762,7 +756,7 @@ francesca-foppolo:
     - 1
 francesco-cutugno:
   coauthors:
-  - - maria-di-maro1
+  - - maria-di-maro
     - 1
   - - antonio-origlia
     - 1
@@ -901,7 +895,7 @@ franco-cutugno:
   coauthors:
   - - marco-valentino
     - 1
-  - - maria-di-maro
+  - - maria-di-maro1
     - 1
   first: Franco
   full: Franco Cutugno
@@ -995,6 +989,19 @@ frank-foerster:
   papers:
   - Z24-4044
   slug: frank-foerster
+  venues:
+  - - SEMDIAL
+    - 1
+frank-forster:
+  coauthors:
+  - - valerio-farriciello
+    - 1
+  first: Frank
+  full: "Frank F\xF6rster"
+  last: "F\xF6rster"
+  papers:
+  - Z25-4430
+  slug: frank-forster
   venues:
   - - SEMDIAL
     - 1

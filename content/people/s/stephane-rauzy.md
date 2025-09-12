@@ -1,5 +1,5 @@
 ---
 lastname: Rauzy
 name: stephane-rauzy
-title: Stephane Rauzy
+title: "St\xE9phane Rauzy"
 ---

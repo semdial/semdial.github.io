@@ -6,41 +6,6 @@ p-c-ching:
   papers: []
   slug: p-c-ching
   venues: []
-p-denis:
-  coauthors:
-  - - n-asher
-    - 1
-  - - a-lascarides
-    - 1
-  - - o-lemon
-    - 1
-  - - m-guhe
-    - 1
-  - - v-rieser
-    - 1
-  - - p-muller
-    - 1
-  - - s-afantenos
-    - 1
-  - - f-benamara
-    - 1
-  - - l-vieu
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  - - c-degremont
-    - 1
-  first: P.
-  full: P. Denis
-  last: Denis
-  papers:
-  - Z12-4019
-  slug: p-denis
-  venues:
-  - - SEMDIAL
-    - 1
 p-h-j-van-der-kamp:
   coauthors: []
   first: P. H. J.
@@ -49,41 +14,6 @@ p-h-j-van-der-kamp:
   papers: []
   slug: p-h-j-van-der-kamp
   venues: []
-p-muller:
-  coauthors:
-  - - n-asher
-    - 1
-  - - a-lascarides
-    - 1
-  - - o-lemon
-    - 1
-  - - m-guhe
-    - 1
-  - - v-rieser
-    - 1
-  - - s-afantenos
-    - 1
-  - - f-benamara
-    - 1
-  - - l-vieu
-    - 1
-  - - p-denis
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  - - c-degremont
-    - 1
-  first: P.
-  full: P. Muller
-  last: Muller
-  papers:
-  - Z12-4019
-  slug: p-muller
-  venues:
-  - - SEMDIAL
-    - 1
 p-senthil-nathan:
   coauthors: []
   first: P. Senthil
@@ -166,13 +96,13 @@ pamela-jordan:
   coauthors:
   - - sandra-katz
     - 2
-  - - cynthia-kersey
-    - 1
-  - - barbara-di-eugenio
-    - 1
   - - patricia-albacete
     - 1
   - - diane-litman
+    - 1
+  - - cynthia-kersey
+    - 1
+  - - barbara-di-eugenio
     - 1
   first: Pamela
   full: Pamela Jordan
@@ -243,6 +173,23 @@ panos-alexopoulos:
     - 1
 paola-herreno-castaneda:
   coauthors:
+  - - zulipiye-yusupujiang
+    - 1
+  - - mathilde-dargnat
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Paola
+  full: Paola Herreno-Castaneda
+  last: Herreno-Castaneda
+  papers:
+  - Z25-3306
+  slug: paola-herreno-castaneda
+  venues:
+  - - SEMDIAL
+    - 1
+paola-herreno-castaneda1:
+  coauthors:
   - - jonathan-ginzburg
     - 1
   - - mathilde-dargnat
@@ -252,7 +199,7 @@ paola-herreno-castaneda:
   last: "Herre\xF1o Casta\xF1eda"
   papers:
   - Z24-4030
-  slug: paola-herreno-castaneda
+  slug: paola-herreno-castaneda1
   venues:
   - - SEMDIAL
     - 1
@@ -319,43 +266,48 @@ partha-talukdar:
   venues: []
 pascal-denis:
   coauthors:
-  - - stergos-afantenos
-    - 1
   - - nicholas-asher
+    - 2
+  - - alex-lascarides
+    - 2
+  - - oliver-lemon
+    - 2
+  - - markus-guhe
+    - 2
+  - - verena-rieser
+    - 2
+  - - philippe-muller
+    - 2
+  - - stergos-afantenos
+    - 2
+  - - laure-vieu
+    - 2
+  - - soumya-paul
+    - 2
+  - - simon-keizer
+    - 2
+  - - benamara-farah
+    - 1
+  - - cedric-degremont
     - 1
   - - farah-benamara
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont
-    - 1
-  - - markus-guhe
-    - 1
-  - - simon-keizer
-    - 1
-  - - alex-lascarides
-    - 1
-  - - oliver-lemon
-    - 1
-  - - philippe-muller
-    - 1
-  - - soumya-paul
+  - - cedric-degremont1
     - 1
   - - vladimir-popescu
-    - 1
-  - - verena-rieser
-    - 1
-  - - laure-vieu
     - 1
   first: Pascal
   full: Pascal Denis
   last: Denis
   papers:
+  - Z12-4019
   - Z12-4029
   slug: pascal-denis
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 pascal-nocera:
   coauthors: []
   first: Pascal
@@ -536,33 +488,38 @@ patrick-ehlen:
   venues:
   - - SEMDIAL
     - 2
-patrick-g-t:
-  coauthors:
-  - - t-healey
-    - 1
-  first: Patrick G.
-  full: Patrick G. T.
-  last: T.
-  papers:
-  - Z11-3017
-  slug: patrick-g-t
-  venues:
-  - - SEMDIAL
-    - 1
 patrick-healey:
   coauthors:
   - - matthew-purver
     - 4
   - - julian-hough
     - 3
-  - - arash-eshghi
-    - 2
   - - tom-gurion
+    - 2
+  - - arash-eshghi
     - 2
   - - christine-howes
     - 2
   - - shauna-concannon
     - 2
+  - - karl-clarke
+    - 1
+  - - naphat-jittavisutthikul
+    - 1
+  - - sarah-bourdin
+    - 1
+  - - philip-mcnamee
+    - 1
+  - - sophie-skach
+    - 1
+  - - leshao-zhang
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - gregory-mills
+    - 1
+  - - ruth-kempson
+    - 1
   - - jonathan-ginzburg
     - 1
   - - yo-sato
@@ -579,22 +536,14 @@ patrick-healey:
     - 1
   - - mary-lavelle
     - 1
-  - - eleni-gregoromichelaki
-    - 1
-  - - gregory-mills
-    - 1
-  - - ruth-kempson
-    - 1
   - - gregory-j-mills
-    - 1
-  - - sophie-skach
-    - 1
-  - - leshao-zhang
     - 1
   first: Patrick
   full: Patrick Healey
   last: Healey
   papers:
+  - Z25-3318
+  - Z25-3319
   - Z22-3018
   - Z20-3013
   - Z19-3008
@@ -607,6 +556,7 @@ patrick-healey:
   - Z12-3012
   - Z12-4024
   - Z11-2004
+  - Z11-3017
   - Z08-1000
   - Z07-3024
   - Z06-3020
@@ -615,15 +565,15 @@ patrick-healey:
   - first: Patrick G. T.
     full: Patrick G. T. Healey
     last: Healey
-  - first: Patrick G.T.
-    full: Patrick G.T. Healey
-    last: Healey
   - first: Pat
     full: Pat Healey
     last: Healey
+  - first: Patrick G.T.
+    full: Patrick G.T. Healey
+    last: Healey
   venues:
   - - SEMDIAL
-    - 15
+    - 18
 patrick-holthaus:
   coauthors:
   - - julian-hough
@@ -839,21 +789,21 @@ paul-piwek:
   coauthors:
   - - richard-power
     - 2
-  - - ielka-van-der-sluis
-    - 1
-  - - albert-gatt
-    - 1
-  - - adrian-bangerter
-    - 1
-  - - david-hardcastle
-    - 1
   - - cecilia-domingo
     - 1
   - - michel-wermelinger
     - 1
   - - svetlana-stoyanchev
     - 1
+  - - ielka-van-der-sluis
+    - 1
+  - - albert-gatt
+    - 1
+  - - adrian-bangerter
+    - 1
   - - brian-pluss
+    - 1
+  - - david-hardcastle
     - 1
   first: Paul
   full: Paul Piwek
@@ -1046,7 +996,7 @@ peng-yu:
     - 1
   - - richard-crouch
     - 1
-  - - ciaran-oreilly
+  - - ciaran-o-reilly
     - 1
   first: Peng
   full: Peng Yu
@@ -1549,6 +1499,14 @@ petra-poukarova:
   venues: []
 petra-wagner:
   coauthors:
+  - - leonie-schade
+    - 1
+  - - daniel-duran
+    - 1
+  - - sina-zarriess
+    - 1
+  - - joana-cholin
+    - 1
   - - marcin-wlodarczak
     - 1
   - - hendrik-buschmeier
@@ -1561,11 +1519,12 @@ petra-wagner:
   full: Petra Wagner
   last: Wagner
   papers:
+  - Z25-3305
   - Z24-3001
   slug: petra-wagner
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 phil-bartie:
   coauthors:
   - - srinivasan-janarthanam
@@ -1667,6 +1626,23 @@ philip-hoole:
   papers: []
   slug: philip-hoole
   venues: []
+philip-mcnamee:
+  coauthors:
+  - - naphat-jittavisutthikul
+    - 1
+  - - patrick-healey
+    - 1
+  - - sarah-bourdin
+    - 1
+  first: Philip
+  full: Philip McNamee
+  last: McNamee
+  papers:
+  - Z25-3319
+  slug: philip-mcnamee
+  venues:
+  - - SEMDIAL
+    - 1
 philip-ogren:
   coauthors: []
   first: Philip
@@ -1705,17 +1681,17 @@ philippe-blache:
     - 2
   - - roxane-bertrand
     - 2
+  - - magalie-ochs
+    - 1
+  - - gregoire-montcheuil
+    - 1
   - - helen-k-y-chen
     - 1
   - - beatrice-priego-valverde1
     - 1
   - - klim-peshkov
     - 1
-  - - stephane-rauzy
-    - 1
-  - - magalie-ochs
-    - 1
-  - - gregoire-montcheuil
+  - - stephane-rauzy1
     - 1
   first: Philippe
   full: Philippe Blache
@@ -1747,52 +1723,57 @@ philippe-langlais:
   venues: []
 philippe-muller:
   coauthors:
+  - - verena-rieser
+    - 3
   - - laurent-prevot
     - 2
-  - - verena-rieser
+  - - nicholas-asher
+    - 2
+  - - alex-lascarides
+    - 2
+  - - oliver-lemon
+    - 2
+  - - markus-guhe
+    - 2
+  - - stergos-afantenos
+    - 2
+  - - laure-vieu
+    - 2
+  - - pascal-denis
+    - 2
+  - - soumya-paul
+    - 2
+  - - simon-keizer
     - 2
   - - nicolas-maudet
     - 1
-  - - stergos-afantenos
+  - - marie-safarova
     - 1
-  - - nicholas-asher
+  - - benamara-farah
+    - 1
+  - - cedric-degremont
     - 1
   - - farah-benamara
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont
-    - 1
-  - - pascal-denis
-    - 1
-  - - markus-guhe
-    - 1
-  - - simon-keizer
-    - 1
-  - - alex-lascarides
-    - 1
-  - - oliver-lemon
-    - 1
-  - - soumya-paul
+  - - cedric-degremont1
     - 1
   - - vladimir-popescu
-    - 1
-  - - laure-vieu
-    - 1
-  - - marie-safarova
     - 1
   first: Philippe
   full: Philippe Muller
   last: Muller
   papers:
   - Z14-1000
+  - Z12-4019
   - Z12-4029
   - Z05-4013
   - Z04-4030
   slug: philippe-muller
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 phuong-le-hong:
   coauthors: []
   first: Phuong
@@ -1819,11 +1800,11 @@ pi-chuan-chang:
   venues: []
 pia-knoeferle:
   coauthors:
-  - - monica-rodriguez
-    - 1
   - - dato-abashidze
     - 1
   - - maria-nella-carminati
+    - 1
+  - - monica-rodriguez
     - 1
   first: Pia
   full: Pia Knoeferle
@@ -1887,6 +1868,12 @@ pierre-lison:
   coauthors:
   - - casey-kennington
     - 2
+  - - margareta-berg
+    - 1
+  - - ildiko-pilan
+    - 1
+  - - ingrid-lossius-falkum
+    - 1
   - - nicholas-walker
     - 1
   - - stefan-ultes
@@ -1897,6 +1884,7 @@ pierre-lison:
   full: Pierre Lison
   last: Lison
   papers:
+  - Z25-4421
   - Z23-3014
   - Z17-4023
   - Z15-4027
@@ -1905,7 +1893,7 @@ pierre-lison:
   slug: pierre-lison
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 pierre-zweigenbaum:
   coauthors: []
   first: Pierre

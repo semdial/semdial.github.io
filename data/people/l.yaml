@@ -14,38 +14,20 @@ l-venkata-subramaniam:
   papers: []
   slug: l-venkata-subramaniam
   venues: []
-l-vieu:
+laetitia-hilgendorf:
   coauthors:
-  - - n-asher
+  - - nicholas-thomas-walker
     - 1
-  - - a-lascarides
+  - - nicolas-wagner
     - 1
-  - - o-lemon
+  - - stefan-ultes
     - 1
-  - - m-guhe
-    - 1
-  - - v-rieser
-    - 1
-  - - p-muller
-    - 1
-  - - s-afantenos
-    - 1
-  - - f-benamara
-    - 1
-  - - p-denis
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  - - c-degremont
-    - 1
-  first: L.
-  full: L. Vieu
-  last: Vieu
+  first: Laetitia
+  full: Laetitia Hilgendorf
+  last: Hilgendorf
   papers:
-  - Z12-4019
-  slug: l-vieu
+  - Z25-3312
+  slug: laetitia-hilgendorf
   venues:
   - - SEMDIAL
     - 1
@@ -326,46 +308,51 @@ laura-pecchia:
   venues: []
 laure-vieu:
   coauthors:
+  - - nicholas-asher
+    - 2
+  - - alex-lascarides
+    - 2
+  - - oliver-lemon
+    - 2
+  - - markus-guhe
+    - 2
+  - - verena-rieser
+    - 2
+  - - philippe-muller
+    - 2
+  - - stergos-afantenos
+    - 2
+  - - pascal-denis
+    - 2
+  - - soumya-paul
+    - 2
+  - - simon-keizer
+    - 2
   - - ron-artstein
     - 1
-  - - stergos-afantenos
+  - - benamara-farah
     - 1
-  - - nicholas-asher
+  - - cedric-degremont
     - 1
   - - farah-benamara
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont
-    - 1
-  - - pascal-denis
-    - 1
-  - - markus-guhe
-    - 1
-  - - simon-keizer
-    - 1
-  - - alex-lascarides
-    - 1
-  - - oliver-lemon
-    - 1
-  - - philippe-muller
-    - 1
-  - - soumya-paul
+  - - cedric-degremont1
     - 1
   - - vladimir-popescu
-    - 1
-  - - verena-rieser
     - 1
   first: Laure
   full: Laure Vieu
   last: Vieu
   papers:
+  - Z12-4019
   - Z12-4029
   - Z07-1000
   slug: laure-vieu
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 lauren-mak:
   coauthors:
   - - michael-wagner
@@ -448,30 +435,27 @@ laurent-gillard:
   papers: []
   slug: laurent-gillard
   venues: []
-laurent-pr-evot:
-  coauthors:
-  - - simone-fuscone
-    - 1
-  - - benoit-favre
-    - 1
-  first: Laurent
-  full: Laurent Pr\'evot
-  last: Pr\'evot
-  papers:
-  - Z18-4026
-  slug: laurent-pr-evot
-  venues:
-  - - SEMDIAL
-    - 1
 laurent-prevot:
   coauthors:
-  - - philippe-muller
-    - 2
   - - roxane-bertrand
+    - 3
+  - - benoit-favre
+    - 3
+  - - simone-fuscone
+    - 2
+  - - philippe-muller
     - 2
   - - philippe-blache
     - 2
+  - - oceane-granier
+    - 1
+  - - kevin-gravouil
+    - 1
+  - - magalie-ochs
+    - 1
   - - nicolas-maudet
+    - 1
+  - - marie-safarova
     - 1
   - - helen-k-y-chen
     - 1
@@ -479,11 +463,7 @@ laurent-prevot:
     - 1
   - - klim-peshkov
     - 1
-  - - stephane-rauzy
-    - 1
-  - - magalie-ochs
-    - 1
-  - - benoit-favre
+  - - stephane-rauzy1
     - 1
   - - yao-yao
     - 1
@@ -493,13 +473,14 @@ laurent-prevot:
     - 1
   - - kam-yiu-joe-chan
     - 1
-  - - marie-safarova
-    - 1
   first: Laurent
   full: "Laurent Pr\xE9vot"
   last: "Pr\xE9vot"
   papers:
+  - Z25-4439
+  - Z20-3015
   - Z18-1000
+  - Z18-4026
   - Z15-4044
   - Z13-4042
   - Z12-4020
@@ -513,22 +494,7 @@ laurent-prevot:
     last: Prevot
   venues:
   - - SEMDIAL
-    - 7
-laurent-prvot:
-  coauthors:
-  - - simone-fuscone
-    - 1
-  - - benoit-favre
-    - 1
-  first: Laurent
-  full: Laurent Prvot
-  last: Prvot
-  papers:
-  - Z20-3015
-  slug: laurent-prvot
-  venues:
-  - - SEMDIAL
-    - 1
+    - 10
 laurent-romary:
   coauthors:
   - - frederic-landragin
@@ -736,6 +702,25 @@ leonida-della-rocca:
   papers: []
   slug: leonida-della-rocca
   venues: []
+leonie-schade:
+  coauthors:
+  - - daniel-duran
+    - 1
+  - - sina-zarriess
+    - 1
+  - - joana-cholin
+    - 1
+  - - petra-wagner
+    - 1
+  first: Leonie
+  full: Leonie Schade
+  last: Schade
+  papers:
+  - Z25-3305
+  slug: leonie-schade
+  venues:
+  - - SEMDIAL
+    - 1
 leshao-zhang:
   coauthors:
   - - patrick-healey
@@ -899,8 +884,8 @@ liesbeth-degand:
 lilia-mironovschi:
   coauthors: []
   first: Lilia
-  full: Lilia Mironovschi,
-  last: Mironovschi,
+  full: Lilia Mironovschi
+  last: Mironovschi
   papers:
   - Z06-4037
   slug: lilia-mironovschi
@@ -975,6 +960,23 @@ lina-mavrina:
   papers:
   - Z23-3008
   slug: lina-mavrina
+  venues:
+  - - SEMDIAL
+    - 1
+linda-drijvers:
+  coauthors:
+  - - anna-palmann
+    - 1
+  - - james-p-trujillo
+    - 1
+  - - floris-roelofsen
+    - 1
+  first: Linda
+  full: Linda Drijvers
+  last: Drijvers
+  papers:
+  - Z25-4422
+  slug: linda-drijvers
   venues:
   - - SEMDIAL
     - 1
@@ -1338,7 +1340,7 @@ louis-philippe-morency:
     - 1
   - - stefan-scherer
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - jon-gratch
     - 1
@@ -1419,7 +1421,7 @@ lu-liu:
     - 1
   - - haoran-yan
     - 1
-  - - john-w-dubois
+  - - john-w-dubois1
     - 1
   first: Lu
   full: Lu Liu
@@ -1536,20 +1538,21 @@ lucia-donatelli:
 lucia-m-tovena:
   coauthors:
   - - jan-fliessbach
-    - 1
+    - 2
   - - damien-fleury
-    - 1
+    - 2
   - - yoan-lion
     - 1
-  first: Lucia M
-  full: Lucia M Tovena
+  first: Lucia M.
+  full: Lucia M. Tovena
   last: Tovena
   papers:
+  - Z25-3304
   - Z24-4047
   slug: lucia-m-tovena
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 lucia-tovena:
   coauthors:
   - - damien-fleury
@@ -1844,6 +1847,19 @@ luminita-chiran:
   papers: []
   slug: luminita-chiran
   venues: []
+lutz-terfloth:
+  coauthors:
+  - - josephine-b-fisher
+    - 1
+  first: Lutz
+  full: Lutz Terfloth
+  last: Terfloth
+  papers:
+  - Z25-4432
+  slug: lutz-terfloth
+  venues:
+  - - SEMDIAL
+    - 1
 luuk-van-waes:
   coauthors: []
   first: Luuk Van

@@ -896,9 +896,9 @@ Z06-4037:
   address: Potsdam, Germany
   author:
   - first: Lilia
-    full: Lilia Mironovschi,
+    full: Lilia Mironovschi
     id: lilia-mironovschi
-    last: Mironovschi,
+    last: Mironovschi
   bibkey: mironovschi-2006-compliments
   bibtype: inproceedings
   booktitle_html: Proceedings of the 11th Workshop on the Semantics and Pragmatics
@@ -1036,9 +1036,9 @@ Z06-4042:
   address: Potsdam, Germany
   author:
   - first: Antonio
-    full: Antonio Roque,
-    id: antonio-roque1
-    last: Roque,
+    full: Antonio Roque
+    id: antonio-roque
+    last: Roque
   - first: Hua
     full: Hua Ai
     id: hua-ai
@@ -1123,9 +1123,9 @@ Z06-4046:
   address: Potsdam, Germany
   author:
   - first: Antonio
-    full: Antonio Roque,
-    id: antonio-roque1
-    last: Roque,
+    full: Antonio Roque
+    id: antonio-roque
+    last: Roque
   - first: Hua
     full: Hua Ai
     id: hua-ai

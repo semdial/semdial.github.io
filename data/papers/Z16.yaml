@@ -131,9 +131,9 @@ Z16-3005:
 Z16-3006:
   address: New Brunswick, NJ
   author:
-  - first: Suwe
-    full: Suwe Reyle
-    id: suwe-reyle
+  - first: Uwe
+    full: Uwe Reyle
+    id: uwe-reyle
     last: Reyle
   - first: Arndt
     full: Arndt Riester
@@ -325,9 +325,9 @@ Z16-3014:
     id: chiara-mazzocconi
     last: Mazzocconi
   - first: Ye
-    full: Ye Tian,
-    id: ye-tian1
-    last: Tian,
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
   - first: Jonathan
     full: Jonathan Ginzburg
     id: jonathan-ginzburg
@@ -442,9 +442,9 @@ Z16-4019:
     id: ralf-klabunde
     last: Klabunde
   - first: Jon
-    full: Jon Stevens,
+    full: Jon Stevens
     id: jon-stevens
-    last: Stevens,
+    last: Stevens
   - first: Anton
     full: Anton Benz
     id: anton-benz
@@ -469,9 +469,9 @@ Z16-4020:
     id: julian-j-schloder
     last: "Schl\xF6der"
   - first: Antoine
-    full: Antoine Venant,
+    full: Antoine Venant
     id: antoine-venant
-    last: Venant,
+    last: Venant
   - first: Nicholas
     full: Nicholas Asher
     id: nicholas-asher
@@ -496,9 +496,9 @@ Z16-4021:
     id: yanchao-yu
     last: Yu
   - first: Arash
-    full: Arash Eshghi,
-    id: arash-eshghi1
-    last: Eshghi,
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
   - first: Oliver
     full: Oliver Lemon
     id: oliver-lemon

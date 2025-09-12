@@ -1,38 +1,3 @@
-n-asher:
-  coauthors:
-  - - a-lascarides
-    - 1
-  - - o-lemon
-    - 1
-  - - m-guhe
-    - 1
-  - - v-rieser
-    - 1
-  - - p-muller
-    - 1
-  - - s-afantenos
-    - 1
-  - - f-benamara
-    - 1
-  - - l-vieu
-    - 1
-  - - p-denis
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  - - c-degremont
-    - 1
-  first: N.
-  full: N. Asher
-  last: Asher
-  papers:
-  - Z12-4019
-  slug: n-asher
-  venues:
-  - - SEMDIAL
-    - 1
 na-li:
   coauthors:
   - - robert-ross
@@ -135,6 +100,25 @@ naida-graham:
   papers: []
   slug: naida-graham
   venues: []
+naizeth-nunez-macias:
+  coauthors:
+  - - caitlin-laura-richter
+    - 1
+  - - stefan-olafsson
+    - 1
+  - - jon-gudnason
+    - 1
+  - - hannes-hogni-vilhjalmsson
+    - 1
+  first: Naizeth
+  full: "Naizeth N\xFA\xF1ez Mac\xEDas"
+  last: "N\xFA\xF1ez Mac\xEDas"
+  papers:
+  - Z25-4436
+  slug: naizeth-nunez-macias
+  venues:
+  - - SEMDIAL
+    - 1
 nam-khanh-tran:
   coauthors: []
   first: Nam-Khanh
@@ -347,6 +331,23 @@ naoyuki-okada:
   papers: []
   slug: naoyuki-okada
   venues: []
+naphat-jittavisutthikul:
+  coauthors:
+  - - patrick-healey
+    - 1
+  - - sarah-bourdin
+    - 1
+  - - philip-mcnamee
+    - 1
+  first: Naphat
+  full: Naphat Jittavisutthikul
+  last: Jittavisutthikul
+  papers:
+  - Z25-3319
+  slug: naphat-jittavisutthikul
+  venues:
+  - - SEMDIAL
+    - 1
 narjes-bellamine-ben-saoud:
   coauthors: []
   first: "Narj\xE8s"
@@ -675,46 +676,48 @@ nguyen-vo:
 nicholas-asher:
   coauthors:
   - - alex-lascarides
+    - 5
+  - - soumya-paul
     - 4
   - - stergos-afantenos
-    - 3
-  - - soumya-paul
-    - 3
+    - 4
+  - - oliver-lemon
+    - 2
+  - - markus-guhe
+    - 2
+  - - verena-rieser
+    - 2
+  - - philippe-muller
+    - 2
+  - - laure-vieu
+    - 2
+  - - pascal-denis
+    - 2
+  - - simon-keizer
+    - 2
+  - - antoine-venant
+    - 2
   - - jeremy-perret
     - 2
+  - - benamara-farah
+    - 1
+  - - cedric-degremont
+    - 1
   - - farah-benamara
     - 1
   - - anais-cadilhac
     - 1
-  - - cedric-degremont
-    - 1
-  - - pascal-denis
-    - 1
-  - - markus-guhe
-    - 1
-  - - simon-keizer
-    - 1
-  - - oliver-lemon
-    - 1
-  - - philippe-muller
+  - - cedric-degremont1
     - 1
   - - vladimir-popescu
     - 1
-  - - verena-rieser
-    - 1
-  - - laure-vieu
-    - 1
   - - julian-j-schloder
-    - 1
-  - - antoine-venant
     - 1
   - - julie-hunter
     - 1
   - - eric-kow
     - 1
-  - - antoine-venant1
-    - 1
-  - - cedric-degremont1
+  - - cedric-degremont2
     - 1
   first: Nicholas
   full: Nicholas Asher
@@ -727,12 +730,13 @@ nicholas-asher:
   - Z14-3021
   - Z13-4022
   - Z12-3007
+  - Z12-4019
   - Z12-4029
   - Z08-3009
   slug: nicholas-asher
   venues:
   - - SEMDIAL
-    - 9
+    - 10
 nicholas-hubert-kirk:
   coauthors: []
   first: Nicholas Hubert
@@ -760,6 +764,23 @@ nicholas-kushmerick:
   papers: []
   slug: nicholas-kushmerick
   venues: []
+nicholas-thomas-walker:
+  coauthors:
+  - - nicolas-wagner
+    - 1
+  - - laetitia-hilgendorf
+    - 1
+  - - stefan-ultes
+    - 1
+  first: Nicholas Thomas
+  full: Nicholas Thomas Walker
+  last: Walker
+  papers:
+  - Z25-3312
+  slug: nicholas-thomas-walker
+  venues:
+  - - SEMDIAL
+    - 1
 nicholas-walker:
   coauthors:
   - - stefan-ultes
@@ -779,6 +800,10 @@ nick-campbell:
   coauthors:
   - - emer-gilmartin
     - 2
+  - - francesca-bonin
+    - 1
+  - - carl-vogel
+    - 1
   - - joao-paulo-cabral1
     - 1
   - - sree-ganesh
@@ -796,10 +821,6 @@ nick-campbell:
   - - thomas-pellegrini
     - 1
   - - odei-rey-orozko
-    - 1
-  - - francesca-bonin
-    - 1
-  - - carl-vogel
     - 1
   first: Nick
   full: Nick Campbell
@@ -946,6 +967,23 @@ nicolas-serrano:
   papers: []
   slug: nicolas-serrano
   venues: []
+nicolas-wagner:
+  coauthors:
+  - - nicholas-thomas-walker
+    - 1
+  - - laetitia-hilgendorf
+    - 1
+  - - stefan-ultes
+    - 1
+  first: Nicolas
+  full: Nicolas Wagner
+  last: Wagner
+  papers:
+  - Z25-3312
+  slug: nicolas-wagner
+  venues:
+  - - SEMDIAL
+    - 1
 nicole-gregoire:
   coauthors: []
   first: Nicole
@@ -1036,12 +1074,28 @@ niklas-paulsson:
   venues: []
 nikolai-ilinykh:
   coauthors:
-  - - david-schlangen
-    - 3
   - - sina-zarriess
+    - 3
+  - - david-schlangen
     - 3
   - - simon-dobnik
     - 2
+  - - amelie-robrecht
+    - 1
+  - - stefan-kopp
+    - 1
+  - - hendrik-buschmeier
+    - 1
+  - - vanessa-vanzan
+    - 1
+  - - erik-lagerstedt
+    - 1
+  - - amy-han-qiu
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - christine-howes
+    - 1
   - - tim-diekmann
     - 1
   - - aram-karimi
@@ -1050,6 +1104,8 @@ nikolai-ilinykh:
   full: Nikolai Ilinykh
   last: Ilinykh
   papers:
+  - Z25-1000
+  - Z25-4425
   - Z24-4046
   - Z22-3017
   - Z19-3006
@@ -1058,7 +1114,7 @@ nikolai-ilinykh:
   slug: nikolai-ilinykh
   venues:
   - - SEMDIAL
-    - 5
+    - 7
 nikolay-arefyev:
   coauthors: []
   first: Nikolay
@@ -1103,9 +1159,7 @@ nina-dethlefs:
     - 2
   - - heriberto-cuayahuitl
     - 1
-  - - kai
-    - 1
-  - - florian-richter
+  - - kai-florian-richter
     - 1
   - - elena-andonova
     - 1

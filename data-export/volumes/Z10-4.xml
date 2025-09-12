@@ -89,14 +89,7 @@
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Kai</namePart>
-        <namePart type="family">-</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Florian</namePart>
+        <namePart type="given">Kai-Florian</namePart>
         <namePart type="family">Richter</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>

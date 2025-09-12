@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="jabeen-patil-2025-intonation">
+    <titleInfo>
+        <title>Intonation, Prosodic Phrasing of Particle ‘-hii’ in Hindi/UrduDialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Farhat</namePart>
+        <namePart type="family">Jabeen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shravani</namePart>
+        <namePart type="family">Patil</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">jabeen-patil-2025-intonation</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Jabeen_semdial_4429.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>231</start>
+            <end>233</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

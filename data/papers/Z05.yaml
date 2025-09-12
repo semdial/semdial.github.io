@@ -43,11 +43,11 @@ Z05-2001:
 Z05-2002:
   address: Nancy, France
   author:
-  - first: Justine
-    full: Justine Cassell
-    id: justine-cassell
-    last: Cassell
-  bibkey: cassell-2005-making-virtual
+  - first: Gerhard
+    full: Gerhard Jaeger
+    id: gerhard-jaeger
+    last: Jaeger
+  bibkey: jaeger-2005-pretend
   bibtype: inproceedings
   booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
     of Dialogue - Invited Talks
@@ -55,9 +55,28 @@ Z05-2002:
   paper_id: '2002'
   parent_volume_id: Z05-2
   publisher: SEMDIAL
-  title: Making (Virtual) Friends and Influencing (Virtual) People
-  title_html: Making (Virtual) Friends and Influencing (Virtual) People
+  title: Let's Pretend to Agree. A game theoretic reconstruction of M-implicatures
+  title_html: Let's Pretend to Agree. A game theoretic reconstruction of M-implicatures
   url: http://semdial.org/anthology/002_Jaeger_semdial2005_dialor_proceedings.pdf
+  year: '2005'
+Z05-2003:
+  address: Nancy, France
+  author:
+  - first: Arthur
+    full: Arthur Graesser
+    id: arthur-c-graesser
+    last: Graesser
+  bibkey: graesser-2005-autotutor
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 9th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: June 9-11
+  paper_id: '2003'
+  parent_volume_id: Z05-2
+  publisher: SEMDIAL
+  title: 'AutoTutor: Learning while Holding a Conversation with a Computer'
+  title_html: 'AutoTutor: Learning while Holding a Conversation with a Computer'
+  url: http://semdial.org/anthology/003_Graesser_semdial2005_dialor_proceedings.pdf
   year: '2005'
 Z05-3004:
   address: Nancy, France

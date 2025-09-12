@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="cassell-2005-making-virtual">
+<mods ID="jaeger-2005-pretend">
     <titleInfo>
-        <title>Making (Virtual) Friends and Influencing (Virtual) People</title>
+        <title>Let’s Pretend to Agree. A game theoretic reconstruction of M-implicatures</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">Justine</namePart>
-        <namePart type="family">Cassell</namePart>
+        <namePart type="given">Gerhard</namePart>
+        <namePart type="family">Jaeger</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -27,7 +27,7 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">cassell-2005-making-virtual</identifier>
+    <identifier type="citekey">jaeger-2005-pretend</identifier>
     <location>
         <url>http://semdial.org/anthology/002_Jaeger_semdial2005_dialor_proceedings.pdf</url>
     </location>

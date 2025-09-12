@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="blohm-barthel-2025-cold">
+    <titleInfo>
+        <title>Why So Cold and Distant? Effects of Inter-turn Gap Durations on Observers’ Attributions of Interpersonal Stance</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Stefan</namePart>
+        <namePart type="family">Blohm</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mathias</namePart>
+        <namePart type="family">Barthel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">blohm-barthel-2025-cold</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Blohm_semdial_3314.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>125</start>
+            <end>134</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

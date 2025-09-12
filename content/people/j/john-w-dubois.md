@@ -1,5 +1,5 @@
 ---
-lastname: Dubois
+lastname: DuBois
 name: john-w-dubois
-title: John W. Dubois
+title: John W. DuBois
 ---

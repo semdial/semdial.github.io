@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="patil-jabeen-2025-one">
+    <titleInfo>
+        <title>One -hii to Rule Them All: Functions and Intonation of Particle -hii in Hindi Movie Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Shravani</namePart>
+        <namePart type="family">Patil</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Farhat</namePart>
+        <namePart type="family">Jabeen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2025-09</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Bielefeld, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">patil-jabeen-2025-one</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z25-Patil_semdial_4428.pdf</url>
+    </location>
+    <part>
+        <date>2025-09</date>
+        <extent unit="page">
+            <start>228</start>
+            <end>230</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

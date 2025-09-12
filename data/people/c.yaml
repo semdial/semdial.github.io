@@ -1,38 +1,3 @@
-c-degremont:
-  coauthors:
-  - - n-asher
-    - 1
-  - - a-lascarides
-    - 1
-  - - o-lemon
-    - 1
-  - - m-guhe
-    - 1
-  - - v-rieser
-    - 1
-  - - p-muller
-    - 1
-  - - s-afantenos
-    - 1
-  - - f-benamara
-    - 1
-  - - l-vieu
-    - 1
-  - - p-denis
-    - 1
-  - - s-paul
-    - 1
-  - - s-keizer
-    - 1
-  first: C.
-  full: C. Degremont
-  last: Degremont
-  papers:
-  - Z12-4019
-  slug: c-degremont
-  venues:
-  - - SEMDIAL
-    - 1
 c-h-lee:
   coauthors: []
   first: C. H.
@@ -100,6 +65,25 @@ cagil-sonmez:
   papers: []
   slug: cagil-sonmez
   venues: []
+caitlin-laura-richter:
+  coauthors:
+  - - naizeth-nunez-macias
+    - 1
+  - - stefan-olafsson
+    - 1
+  - - jon-gudnason
+    - 1
+  - - hannes-hogni-vilhjalmsson
+    - 1
+  first: Caitlin Laura
+  full: Caitlin Laura Richter
+  last: Richter
+  papers:
+  - Z25-4436
+  slug: caitlin-laura-richter
+  venues:
+  - - SEMDIAL
+    - 1
 calkin-s-montero:
   coauthors: []
   first: Calkin S.
@@ -223,13 +207,13 @@ carl-vogel:
   coauthors:
   - - emer-gilmartin
     - 2
-  - - patrick-healey
-    - 1
-  - - arash-eshghi
-    - 1
   - - zohreh-khosrobeigi
     - 1
   - - maria-koutsombogera
+    - 1
+  - - patrick-healey
+    - 1
+  - - arash-eshghi
     - 1
   - - francesca-bonin
     - 1
@@ -253,15 +237,15 @@ carla-gordon:
     - 3
   - - kallirroi-georgila
     - 2
-  - - hyungtak-choi
-    - 1
-  - - jill-boberg
-    - 1
   - - usman-sohail
     - 1
   - - ron-artstein
     - 1
   - - volodymyr-yanov
+    - 1
+  - - hyungtak-choi
+    - 1
+  - - jill-boberg
     - 1
   first: Carla
   full: Carla Gordon
@@ -533,29 +517,29 @@ casey-kennington:
     - 2
   - - pierre-lison
     - 2
+  - - christine-howes
+    - 1
+  - - julian-hough
+    - 1
+  - - sina-zarriess
+    - 1
   - - ryan-whetten
     - 1
   - - enoch-levandovsky
     - 1
   - - mir-tahsin-imtiaz
     - 1
+  - - osama-natouf
+    - 1
   - - gerardo-caracas
     - 1
   - - david-mcneill
-    - 1
-  - - sina-zarriess
-    - 1
-  - - osama-natouf
     - 1
   - - daniel-kondratyuk
     - 1
   - - ting-han
     - 1
   - - spyros-kousidis
-    - 1
-  - - christine-howes
-    - 1
-  - - julian-hough
     - 1
   first: Casey
   full: Casey Kennington
@@ -758,6 +742,41 @@ cecilia-ovesdotter-alm:
   venues: []
 cedric-degremont:
   coauthors:
+  - - nicholas-asher
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - markus-guhe
+    - 1
+  - - verena-rieser
+    - 1
+  - - philippe-muller
+    - 1
+  - - stergos-afantenos
+    - 1
+  - - benamara-farah
+    - 1
+  - - laure-vieu
+    - 1
+  - - pascal-denis
+    - 1
+  - - soumya-paul
+    - 1
+  - - simon-keizer
+    - 1
+  first: "C\xE9dric"
+  full: "C\xE9dric D\xE9gr\xE9mont"
+  last: "D\xE9gr\xE9mont"
+  papers:
+  - Z12-4019
+  slug: cedric-degremont
+  venues:
+  - - SEMDIAL
+    - 1
+cedric-degremont1:
+  coauthors:
   - - stergos-afantenos
     - 1
   - - nicholas-asher
@@ -791,13 +810,13 @@ cedric-degremont:
   last: Degremont
   papers:
   - Z12-4029
-  slug: cedric-degremont
+  slug: cedric-degremont1
   venues:
   - - SEMDIAL
     - 1
-cedric-degremont1:
+cedric-degremont2:
   coauthors:
-  - - antoine-venant1
+  - - antoine-venant
     - 1
   - - nicholas-asher
     - 1
@@ -806,7 +825,7 @@ cedric-degremont1:
   last: "D\xE9gremont"
   papers:
   - Z14-3021
-  slug: cedric-degremont1
+  slug: cedric-degremont2
   venues:
   - - SEMDIAL
     - 1
@@ -882,21 +901,35 @@ cenel-augusto-perez:
 cengiz-acarturk:
   coauthors:
   - - ozge-alacam
-    - 2
+    - 1
   - - christopher-habel
-    - 2
+    - 1
+  first: Cengiz
+  full: "Cengiz Acart\xFCrk"
+  last: "Acart\xFCrk"
+  papers:
+  - Z14-3005
+  slug: cengiz-acarturk
+  venues:
+  - - SEMDIAL
+    - 1
+cengiz-acarturk1:
+  coauthors:
   - - matthias-kerzel
+    - 1
+  - - ozge-alacam1
+    - 1
+  - - christopher-habel
     - 1
   first: Cengiz
   full: Cengiz Acarturk
   last: Acarturk
   papers:
-  - Z14-3005
   - Z14-4036
-  slug: cengiz-acarturk
+  slug: cengiz-acarturk1
   venues:
   - - SEMDIAL
-    - 2
+    - 1
 chafic-mukbel:
   coauthors: []
   first: Chafic
@@ -971,7 +1004,7 @@ chara-soupiona:
     - 1
   - - amy-han-qiu1
     - 1
-  - - fahima-ayub-khan1
+  - - fahima-ayub-khan
     - 1
   first: Chara
   full: Chara Soupiona
@@ -1323,13 +1356,11 @@ chiara-mazzocconi:
     - 3
   - - christine-howes
     - 2
-  - - andy-lucking
+  - - ye-tian
+    - 2
+  - - arash-eshghi
     - 1
-  - - darinka-verdonik
-    - 1
-  - - beatrice-priego-valverde
-    - 1
-  - - ye-tian1
+  - - julian-hough
     - 1
   - - celine-hidalgo
     - 1
@@ -1351,17 +1382,17 @@ chiara-mazzocconi:
     - 1
   - - pelachaud-catherine
     - 1
-  - - sam-green
+  - - andy-lucking
     - 1
-  - - ye-tian
+  - - darinka-verdonik
     - 1
-  - - caspar-addyman
+  - - beatrice-priego-valverde
     - 1
   - - bill-noble
     - 1
-  - - arash-eshghi
+  - - sam-green
     - 1
-  - - julian-hough
+  - - caspar-addyman
     - 1
   first: Chiara
   full: Chiara Mazzocconi
@@ -1592,6 +1623,8 @@ chris-cummins:
   coauthors:
   - - hannah-rohde
     - 2
+  - - alexandra-lorson
+    - 1
   - - j-p-de-ruiter
     - 1
   - - ernisa-marzuki
@@ -1599,8 +1632,6 @@ chris-cummins:
   - - gareth-clegg
     - 1
   - - holly-branigan
-    - 1
-  - - alexandra-lorson
     - 1
   first: Chris
   full: Chris Cummins
@@ -1656,12 +1687,14 @@ chris-irwin-davis:
 chris-madge:
   coauthors:
   - - massimo-poesio
+    - 3
+  - - julian-hough
     - 2
+  - - matthew-purver
+    - 1
   - - richard-bartle
     - 1
   - - jon-chamberlain
-    - 1
-  - - julian-hough
     - 1
   - - diego-perez-llebana
     - 1
@@ -1673,12 +1706,13 @@ chris-madge:
   full: Chris Madge
   last: Madge
   papers:
+  - Z25-4437
   - Z24-4036
   - Z22-4036
   slug: chris-madge
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 chris-mellish:
   coauthors: []
   first: Chris
@@ -1975,10 +2009,10 @@ christine-howes:
   - - ellen-breitholtz
     - 9
   - - vladislav-maraev
+    - 7
+  - - julian-hough
     - 6
   - - eleni-gregoromichelaki
-    - 6
-  - - julian-hough
     - 6
   - - staffan-larsson
     - 4
@@ -1988,47 +2022,65 @@ christine-howes:
     - 4
   - - matthew-purver
     - 4
+  - - vanessa-vanzan
+    - 3
+  - - asad-sayeed
+    - 3
   - - vidya-somashekarappa
     - 3
-  - - andrew-gargett
+  - - erik-lagerstedt
     - 2
-  - - stergios-chatzikyriakidis
+  - - amy-han-qiu
     - 2
   - - mehrnoosh-sadrzadeh
     - 2
-  - - matt-purver
+  - - gijs-wijnholds
     - 2
-  - - rose-mccabe
-    - 2
-  - - patrick-healey
-    - 2
-  - - mary-lavelle
-    - 2
-  - - gregory-mills
-    - 2
-  - - asad-sayeed
+  - - chiara-mazzocconi
     - 2
   - - bill-noble
+    - 2
+  - - stergios-chatzikyriakidis
     - 2
   - - robin-cooper
     - 2
   - - simon-dobnik
     - 2
-  - - gijs-wijnholds
-    - 2
-  - - vanessa-vanzan
+  - - gregory-mills
     - 2
   - - chara-soupiona
     - 2
-  - - chiara-mazzocconi
+  - - patrick-healey
     - 2
+  - - andrew-gargett
+    - 2
+  - - mary-lavelle
+    - 2
+  - - matt-purver
+    - 2
+  - - rose-mccabe
+    - 2
+  - - talha-bedir
+    - 1
+  - - bora-kara
+    - 1
+  - - nikolai-ilinykh
+    - 1
+  - - mattias-appelgren
+    - 1
+  - - casey-kennington
+    - 1
+  - - anastasia-bondarenko
+    - 1
+  - - adam-ek
+    - 1
+  - - sara-amido
+    - 1
+  - - amy-han-qiu1
+    - 1
+  - - fahima-ayub-khan
+    - 1
   - - amandine-decker
-    - 1
-  - - yo-sato
-    - 1
-  - - jieun-kiaer
-    - 1
-  - - graham-white
     - 1
   - - jean-philippe-bernardy
     - 1
@@ -2036,32 +2088,27 @@ christine-howes:
     - 1
   - - alexander-berman
     - 1
-  - - adam-ek
+  - - yo-sato
     - 1
-  - - amy-han-qiu
+  - - jieun-kiaer
     - 1
-  - - sara-amido
-    - 1
-  - - amy-han-qiu1
-    - 1
-  - - fahima-ayub-khan1
-    - 1
-  - - john-kelleher
-    - 1
-  - - greg-mills
+  - - graham-white
     - 1
   - - denis-ioussef
     - 1
   - - ebba-axelsson-nord
     - 1
-  - - casey-kennington
+  - - greg-mills
     - 1
-  - - anastasia-bondarenko
+  - - john-kelleher
     - 1
   first: Christine
   full: Christine Howes
   last: Howes
   papers:
+  - Z25-4423
+  - Z25-4425
+  - Z25-4431
   - Z24-3004
   - Z24-3010
   - Z24-3013
@@ -2096,7 +2143,7 @@ christine-howes:
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 31
+    - 34
 christine-piatko:
   coauthors: []
   first: Christine
@@ -2283,10 +2330,14 @@ christopher-fox:
 christopher-habel:
   coauthors:
   - - ozge-alacam
-    - 2
+    - 1
   - - cengiz-acarturk
-    - 2
+    - 1
   - - matthias-kerzel
+    - 1
+  - - ozge-alacam1
+    - 1
+  - - cengiz-acarturk1
     - 1
   first: Christopher
   full: Christopher Habel
@@ -2474,7 +2525,7 @@ chunyu-kit:
   papers: []
   slug: chunyu-kit
   venues: []
-ciaran-oreilly:
+ciaran-o-reilly:
   coauthors:
   - - jiaying-shen
     - 1
@@ -2485,11 +2536,11 @@ ciaran-oreilly:
   - - peng-yu
     - 1
   first: Ciaran
-  full: Ciaran OReilly
-  last: OReilly
+  full: Ciaran O'Reilly
+  last: O'Reilly
   papers:
   - Z18-3009
-  slug: ciaran-oreilly
+  slug: ciaran-o-reilly
   venues:
   - - SEMDIAL
     - 1
@@ -2596,9 +2647,9 @@ claire-francois:
   venues: []
 claire-gardent:
   coauthors:
-  - - lina-m-rojas-barahona
-    - 1
   - - bertrand-gaiffe
+    - 1
+  - - lina-m-rojas-barahona
     - 1
   first: Claire
   full: Claire Gardent
@@ -2638,6 +2689,38 @@ claire-to:
   papers:
   - Z23-4019
   slug: claire-to
+  venues:
+  - - SEMDIAL
+    - 1
+clara-gregoire:
+  coauthors:
+  - - heloise-retournard
+    - 1
+  - - stephane-rauzy
+    - 1
+  - - maud-champagne-lavau
+    - 1
+  first: Clara
+  full: "Clara Gr\xE9goire"
+  last: "Gr\xE9goire"
+  papers:
+  - Z25-3308
+  slug: clara-gregoire
+  venues:
+  - - SEMDIAL
+    - 1
+clara-lachenmaier:
+  coauthors:
+  - - judith-sieker
+    - 1
+  - - sina-zarriess
+    - 1
+  first: Clara
+  full: Clara Lachenmaier
+  last: Lachenmaier
+  papers:
+  - Z25-4427
+  slug: clara-lachenmaier
   venues:
   - - SEMDIAL
     - 1

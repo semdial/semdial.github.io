@@ -196,7 +196,7 @@ zhou-yu:
   coauthors:
   - - stefan-scherer
     - 1
-  - - david-devault1
+  - - david-devault
     - 1
   - - jon-gratch
     - 1
@@ -334,19 +334,24 @@ zoya-m-shalyapina:
   venues: []
 zulipiye-yusupujiang:
   coauthors:
-  - - alafate-abulimiti
-    - 1
   - - jonathan-ginzburg
+    - 2
+  - - paola-herreno-castaneda
+    - 1
+  - - mathilde-dargnat
+    - 1
+  - - alafate-abulimiti
     - 1
   first: Zulipiye
   full: Zulipiye Yusupujiang
   last: Yusupujiang
   papers:
+  - Z25-3306
   - Z22-3009
   slug: zulipiye-yusupujiang
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 zuzana-fraterova:
   coauthors: []
   first: Zuzana

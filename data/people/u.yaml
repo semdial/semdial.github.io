@@ -205,12 +205,15 @@ uwe-reyle:
   coauthors:
   - - cristel-portes
     - 1
+  - - arndt-riester
+    - 1
   first: Uwe
   full: Uwe Reyle
   last: Reyle
   papers:
+  - Z16-3006
   - Z13-4043
   slug: uwe-reyle
   venues:
   - - SEMDIAL
-    - 1
+    - 2

@@ -558,10 +558,10 @@ Z19-4021:
 Z19-4022:
   address: London, United Kingdom
   author:
-  - first: John
-    full: John Dubois
-    id: john-dubois
-    last: Dubois
+  - first: John W.
+    full: John W. DuBois
+    id: john-w-dubois
+    last: DuBois
   bibkey: dubois-2019-rezonator
   bibtype: inproceedings
   booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics

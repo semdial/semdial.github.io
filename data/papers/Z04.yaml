@@ -249,18 +249,18 @@ Z04-3011:
   address: Barcelona, Spain
   author:
   - first: Andy
-    full: Andy Luecking
-    id: andy-luecking
-    last: Luecking
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
   - first: Hannes
-    full: Hannes Reiser
-    id: hannes-reiser
-    last: Reiser
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
   - first: Jens
     full: Jens Stegmann
     id: jens-stegmann
     last: Stegmann
-  bibkey: luecking-etal-2004-statistical
+  bibkey: lucking-etal-2004-statistical
   bibtype: inproceedings
   booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
     of Dialogue - Full Papers
@@ -366,10 +366,10 @@ Z04-3016:
   address: Barcelona, Spain
   author:
   - first: Hannes
-    full: Hannes Reiser
-    id: hannes-reiser
-    last: Reiser
-  bibkey: reiser-2004-pointing
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  bibkey: rieser-2004-pointing
   bibtype: inproceedings
   booktitle_html: Proceedings of the 8th Workshop on the Semantics and Pragmatics
     of Dialogue - Full Papers

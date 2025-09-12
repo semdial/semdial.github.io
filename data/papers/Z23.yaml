@@ -99,10 +99,10 @@ Z23-3004:
     full: "Daniela Ostatn\xEDkov\xE1"
     id: daniela-ostatnikova
     last: "Ostatn\xEDkov\xE1"
-  - first: Stefan
-    full: Stefan Benus
+  - first: "\u0160tefan"
+    full: "\u0160tefan Be\u0148u\u0161"
     id: stefan-benus
-    last: Benus
+    last: "Be\u0148u\u0161"
   bibkey: kruyt-etal-2023-lexical
   bibtype: inproceedings
   booktitle_html: Proceedings of the 27th Workshop on the Semantics and Pragmatics
@@ -508,7 +508,7 @@ Z23-4018:
     last: Yan
   - first: John W.
     full: John W. Dubois
-    id: john-w-dubois
+    id: john-w-dubois1
     last: Dubois
   bibkey: lai-etal-2023-position
   bibtype: inproceedings

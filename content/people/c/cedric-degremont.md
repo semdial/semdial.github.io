@@ -1,5 +1,5 @@
 ---
-lastname: Degremont
+lastname: "D\xE9gr\xE9mont"
 name: cedric-degremont
-title: Cedric Degremont
+title: "C\xE9dric D\xE9gr\xE9mont"
 ---

@@ -175,7 +175,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Jon</namePart>
-        <namePart type="family">Stevens,</namePart>
+        <namePart type="family">Stevens</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -225,7 +225,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Antoine</namePart>
-        <namePart type="family">Venant,</namePart>
+        <namePart type="family">Venant</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -274,7 +274,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Arash</namePart>
-        <namePart type="family">Eshghi,</namePart>
+        <namePart type="family">Eshghi</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>

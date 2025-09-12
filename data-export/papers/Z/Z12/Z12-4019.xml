@@ -5,92 +5,92 @@
         <title>Modelling Strategic Conversation: the STAC project</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">N</namePart>
+        <namePart type="given">Nicholas</namePart>
         <namePart type="family">Asher</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">A</namePart>
+        <namePart type="given">Alex</namePart>
         <namePart type="family">Lascarides</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">O</namePart>
+        <namePart type="given">Oliver</namePart>
         <namePart type="family">Lemon</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">M</namePart>
+        <namePart type="given">Markus</namePart>
         <namePart type="family">Guhe</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">V</namePart>
+        <namePart type="given">Verena</namePart>
         <namePart type="family">Rieser</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">P</namePart>
+        <namePart type="given">Philippe</namePart>
         <namePart type="family">Muller</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">S</namePart>
+        <namePart type="given">Stergos</namePart>
         <namePart type="family">Afantenos</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">F</namePart>
-        <namePart type="family">Benamara</namePart>
+        <namePart type="given">Benamara</namePart>
+        <namePart type="family">Farah</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">L</namePart>
+        <namePart type="given">Laure</namePart>
         <namePart type="family">Vieu</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">P</namePart>
+        <namePart type="given">Pascal</namePart>
         <namePart type="family">Denis</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">S</namePart>
+        <namePart type="given">Soumya</namePart>
         <namePart type="family">Paul</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">S</namePart>
+        <namePart type="given">Simon</namePart>
         <namePart type="family">Keizer</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">C</namePart>
-        <namePart type="family">Degremont</namePart>
+        <namePart type="given">Cédric</namePart>
+        <namePart type="family">Dégrémont</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
